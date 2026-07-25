@@ -1,0 +1,3509 @@
+{
+  "alex_kidd_in_miracle_world": {
+    "label": "Alex Kidd in Miracle World",
+    "item_id": "5536",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "2500"
+  },
+  "alien_syndrome": {
+    "label": "Alien Syndrome",
+    "item_id": "5545",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "0"
+  },
+  "alpha_cool_striker": {
+    "label": "Alpha Cool Striker",
+    "item_id": "6005",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "4980"
+  },
+  "aviator_sunglasses": {
+    "label": "Aviator Sunglasses",
+    "item_id": "6073",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "azuki_bar_box": {
+    "label": "Azuki Bar BOX",
+    "item_id": "5914",
+    "classification": "filler",
+    "purchase_price": "380",
+    "purchase_points": "0"
+  },
+  "baby_tooth": {
+    "label": "Baby Tooth",
+    "item_id": "6050",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "balanced_frame": {
+    "label": "Balanced Frame",
+    "item_id": "4765",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "0"
+  },
+  "balanced_frame_plus": {
+    "label": "Balanced Frame Plus",
+    "item_id": "4766",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "balanced_gears": {
+    "label": "Balanced Gears",
+    "item_id": "4840",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "150"
+  },
+  "balanced_gears_plus": {
+    "label": "Balanced Gears Plus",
+    "item_id": "4841",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "balanced_motor": {
+    "label": "Balanced Motor",
+    "item_id": "4801",
+    "classification": "important",
+    "purchase_price": "680",
+    "purchase_points": "150"
+  },
+  "balanced_motor_plus": {
+    "label": "Balanced Motor Plus",
+    "item_id": "4802",
+    "classification": "important",
+    "purchase_price": "1180",
+    "purchase_points": "680"
+  },
+  "ball_stud_earrings": {
+    "label": "Ball Stud Earrings",
+    "item_id": "6110",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "bangin_killer_bee": {
+    "label": "Bangin' Killer Bee",
+    "item_id": "6007",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "2980"
+  },
+  "bare_feet": {
+    "label": "Bare Feet",
+    "item_id": "6107",
+    "classification": "important",
+    "purchase_price": "300000",
+    "purchase_points": "100"
+  },
+  "baseball_cap": {
+    "label": "Baseball Cap",
+    "item_id": "6086",
+    "classification": "important",
+    "purchase_price": "10000",
+    "purchase_points": "100"
+  },
+  "beanie": {
+    "label": "Beanie",
+    "item_id": "6089",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "bento_lunch_set": {
+    "label": "Bento Lunch Set",
+    "item_id": "5503",
+    "classification": "filler",
+    "purchase_price": "550",
+    "purchase_points": "0"
+  },
+  "big_frame_sunglasses": {
+    "label": "Big Frame Sunglasses",
+    "item_id": "6074",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "black_medical_mask": {
+    "label": "Black Medical Mask",
+    "item_id": "6078",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "blackjack_amulet": {
+    "label": "Blackjack Amulet",
+    "item_id": "5448",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "blesswood_armor": {
+    "label": "Blesswood Armor",
+    "item_id": "5948",
+    "classification": "useful",
+    "purchase_price": "1379000",
+    "purchase_points": "13000"
+  },
+  "blesswood_armor_replica": {
+    "label": "Blesswood Armor Replica",
+    "item_id": "5947",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "0"
+  },
+  "bloody_binding": {
+    "label": "Bloody Binding",
+    "item_id": "5954",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "8000"
+  },
+  "bloody_ring": {
+    "label": "Bloody Ring",
+    "item_id": "5964",
+    "classification": "useful",
+    "purchase_price": "33000",
+    "purchase_points": "420"
+  },
+  "bloody_talisman": {
+    "label": "Bloody Talisman",
+    "item_id": "5971",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "800"
+  },
+  "blue_bolt": {
+    "label": "Blue Bolt",
+    "item_id": "4757",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "blue_gem_bracelet": {
+    "label": "Blue Gem Bracelet",
+    "item_id": "5956",
+    "classification": "useful",
+    "purchase_price": "11000",
+    "purchase_points": "0"
+  },
+  "body_armor": {
+    "label": "Body Armor",
+    "item_id": "5939",
+    "classification": "useful",
+    "purchase_price": "40000",
+    "purchase_points": "0"
+  },
+  "bodysuit": {
+    "label": "Bodysuit",
+    "item_id": "6066",
+    "classification": "important",
+    "purchase_price": "1000000",
+    "purchase_points": "100"
+  },
+  "boost_gears": {
+    "label": "Boost Gears",
+    "item_id": "4850",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "boost_gears_plus": {
+    "label": "Boost Gears Plus",
+    "item_id": "4851",
+    "classification": "important",
+    "purchase_price": "6980",
+    "purchase_points": "6980"
+  },
+  "boss_light_sugar": {
+    "label": "BOSS Light Sugar",
+    "item_id": "5726",
+    "classification": "filler",
+    "purchase_price": "140",
+    "purchase_points": "0"
+  },
+  "box_wing": {
+    "label": "Box Wing",
+    "item_id": "6047",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "6980"
+  },
+  "bronze_plate": {
+    "label": "Bronze Plate",
+    "item_id": "5372",
+    "classification": "filler",
+    "purchase_price": "1500",
+    "purchase_points": "10"
+  },
+  "business_shoes": {
+    "label": "Business Shoes",
+    "item_id": "6099",
+    "classification": "important",
+    "purchase_price": "80000",
+    "purchase_points": "100"
+  },
+  "bust_amulet": {
+    "label": "Bust Amulet",
+    "item_id": "5940",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "byakko_bracelet": {
+    "label": "Byakko Bracelet",
+    "item_id": "5962",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "0"
+  },
+  "c_c_lemon": {
+    "label": "C.C. Lemon",
+    "item_id": "5731",
+    "classification": "filler",
+    "purchase_price": "160",
+    "purchase_points": "0"
+  },
+  "calming_kerchief": {
+    "label": "Calming Kerchief",
+    "item_id": "5966",
+    "classification": "useful",
+    "purchase_price": "1000",
+    "purchase_points": "80"
+  },
+  "carnation": {
+    "label": "Carnation",
+    "item_id": "6116",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "casual_leather_shoes": {
+    "label": "Casual Leather Shoes",
+    "item_id": "6102",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "center_stripe": {
+    "label": "Center Stripe",
+    "item_id": "4750",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "ceremonial_oath_sake_cup_bamboo": {
+    "label": "Ceremonial Oath Sake Cup (Bamboo)",
+    "item_id": "6020",
+    "classification": "filler",
+    "purchase_price": "60000",
+    "purchase_points": "0"
+  },
+  "ceremonial_oath_sake_cup_pine": {
+    "label": "Ceremonial Oath Sake Cup (Pine)",
+    "item_id": "6019",
+    "classification": "filler",
+    "purchase_price": "180000",
+    "purchase_points": "300"
+  },
+  "ceremonial_oath_sake_cup_plum": {
+    "label": "Ceremonial Oath Sake Cup (Plum)",
+    "item_id": "6021",
+    "classification": "filler",
+    "purchase_price": "30000",
+    "purchase_points": "50"
+  },
+  "ceremonial_oath_sake_cup_sakura": {
+    "label": "Ceremonial Oath Sake Cup (Sakura)",
+    "item_id": "6022",
+    "classification": "filler",
+    "purchase_price": "600000",
+    "purchase_points": "0"
+  },
+  "chainmail": {
+    "label": "Chainmail",
+    "item_id": "5945",
+    "classification": "useful",
+    "purchase_price": "8922000",
+    "purchase_points": "0"
+  },
+  "charismatic_photo": {
+    "label": "Charismatic Photo",
+    "item_id": "5970",
+    "classification": "useful",
+    "purchase_price": "1000",
+    "purchase_points": "150"
+  },
+  "chu_chu_tako_doll_takoyaki": {
+    "label": "Chu-Chu Tako Doll (Takoyaki)",
+    "item_id": "5976",
+    "classification": "filler",
+    "purchase_price": "500",
+    "purchase_points": "0"
+  },
+  "clown_makeup": {
+    "label": "Clown Makeup",
+    "item_id": "6121",
+    "classification": "important",
+    "purchase_price": "500000",
+    "purchase_points": "100"
+  },
+  "color_contacts_gold": {
+    "label": "Color Contacts (Gold)",
+    "item_id": "6127",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "color_contacts_silver": {
+    "label": "Color Contacts (Silver)",
+    "item_id": "6128",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "construction_company_helmet": {
+    "label": "Construction Company Helmet",
+    "item_id": "6091",
+    "classification": "important",
+    "purchase_price": "500000",
+    "purchase_points": "100"
+  },
+  "contact_lenses": {
+    "label": "Contact Lenses",
+    "item_id": "5965",
+    "classification": "useful",
+    "purchase_price": "14000",
+    "purchase_points": "0"
+  },
+  "cool_striker": {
+    "label": "Cool Striker",
+    "item_id": "4762",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "40000"
+  },
+  "crawfish": {
+    "label": "Crawfish",
+    "item_id": "6055",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "cuff_earrings": {
+    "label": "Cuff Earrings",
+    "item_id": "6108",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "cyber_sunglasses": {
+    "label": "Cyber Sunglasses",
+    "item_id": "6072",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "3000"
+  },
+  "daidoji_double_guard": {
+    "label": "Daidoji Double Guard",
+    "item_id": "6189",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_evasive_strike": {
+    "label": "Daidoji Evasive Strike",
+    "item_id": "6192",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_grapple_strike": {
+    "label": "Daidoji Grapple Strike",
+    "item_id": "6233",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_high_wire_strike": {
+    "label": "Daidoji High Wire Strike",
+    "item_id": "6254",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_knockdown_strike": {
+    "label": "Daidoji Knockdown Strike",
+    "item_id": "6191",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_trip_wire": {
+    "label": "Daidoji Trip Wire",
+    "item_id": "6235",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "daidoji_wire_spin": {
+    "label": "Daidoji Wire Spin",
+    "item_id": "6236",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "damage_up_1": {
+    "label": "Damage Up 1",
+    "item_id": "6147",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "damage_up_2": {
+    "label": "Damage Up 2",
+    "item_id": "6148",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "damage_up_3": {
+    "label": "Damage Up 3",
+    "item_id": "6149",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "damage_up_4": {
+    "label": "Damage Up 4",
+    "item_id": "6150",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "dark_purple": {
+    "label": "Dark Purple",
+    "item_id": "4759",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "350"
+  },
+  "devastating_taunt": {
+    "label": "Devastating Taunt",
+    "item_id": "6167",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "devil_killer": {
+    "label": "Devil Killer",
+    "item_id": "4763",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "5600"
+  },
+  "devilish_makeup": {
+    "label": "Devilish Makeup",
+    "item_id": "6118",
+    "classification": "important",
+    "purchase_price": "300000",
+    "purchase_points": "100"
+  },
+  "divine_water": {
+    "label": "Divine Water",
+    "item_id": "5579",
+    "classification": "filler",
+    "purchase_price": "100",
+    "purchase_points": "0"
+  },
+  "drag_on": {
+    "label": "DRAG-ON",
+    "item_id": "4760",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "120000"
+  },
+  "drag_on_ultra": {
+    "label": "DRAG-ON Ultra",
+    "item_id": "6003",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "4980"
+  },
+  "dragon_god_amulet": {
+    "label": "Dragon God Amulet",
+    "item_id": "5974",
+    "classification": "useful",
+    "purchase_price": "14626000",
+    "purchase_points": "60000"
+  },
+  "dragon_mask": {
+    "label": "Dragon Mask",
+    "item_id": "6077",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "5000"
+  },
+  "dragon_s_binding": {
+    "label": "Dragon's Binding",
+    "item_id": "5953",
+    "classification": "useful",
+    "purchase_price": "1984000",
+    "purchase_points": "16000"
+  },
+  "drink_to_the_last_drop_dandan_noodles": {
+    "label": "Drink to the Last Drop Dandan Noodles",
+    "item_id": "5518",
+    "classification": "filler",
+    "purchase_price": "255",
+    "purchase_points": "0"
+  },
+  "drunk_heat_gauge_1": {
+    "label": "Drunk Heat Gauge 1",
+    "item_id": "6170",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "drunk_heat_gauge_2": {
+    "label": "Drunk Heat Gauge 2",
+    "item_id": "6171",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "drunken_dragon_1": {
+    "label": "Drunken Dragon 1",
+    "item_id": "6172",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "drunken_dragon_2": {
+    "label": "Drunken Dragon 2",
+    "item_id": "6173",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "egg": {
+    "label": "Egg",
+    "item_id": "6012",
+    "classification": "filler",
+    "purchase_price": "100",
+    "purchase_points": "0"
+  },
+  "enduro_racer": {
+    "label": "Enduro Racer",
+    "item_id": "5539",
+    "classification": "important",
+    "purchase_price": "5500",
+    "purchase_points": "2500"
+  },
+  "essence_of_decals": {
+    "label": "Essence Of Decals",
+    "item_id": "6041",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "ex_damage_up_1": {
+    "label": "EX Damage Up 1",
+    "item_id": "6151",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_damage_up_2": {
+    "label": "EX Damage Up 2",
+    "item_id": "6152",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_damage_up_3": {
+    "label": "EX Damage Up 3",
+    "item_id": "6153",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_damage_up_4": {
+    "label": "EX Damage Up 4",
+    "item_id": "6154",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_health_up_1": {
+    "label": "EX Health Up 1",
+    "item_id": "6143",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_health_up_2": {
+    "label": "EX Health Up 2",
+    "item_id": "6144",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_health_up_3": {
+    "label": "EX Health Up 3",
+    "item_id": "6145",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ex_health_up_4": {
+    "label": "EX Health Up 4",
+    "item_id": "6146",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_balanced_frame": {
+    "label": "Extra Balanced Frame",
+    "item_id": "4767",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "2560"
+  },
+  "extra_balanced_gears": {
+    "label": "Extra Balanced Gears",
+    "item_id": "4842",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_balanced_motor": {
+    "label": "Extra Balanced Motor",
+    "item_id": "4803",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "extra_boost_gears": {
+    "label": "Extra Boost Gears",
+    "item_id": "4852",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "9800"
+  },
+  "extra_equipment_1": {
+    "label": "Extra Equipment 1",
+    "item_id": "6174",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_equipment_2": {
+    "label": "Extra Equipment 2",
+    "item_id": "6175",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_equipment_3": {
+    "label": "Extra Equipment 3",
+    "item_id": "6176",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_godspeed_gears": {
+    "label": "Extra Godspeed Gears",
+    "item_id": "4857",
+    "classification": "important",
+    "purchase_price": "11800",
+    "purchase_points": "11800"
+  },
+  "extra_low_profile_tires": {
+    "label": "Extra Low Profile Tires",
+    "item_id": "4827",
+    "classification": "important",
+    "purchase_price": "1480",
+    "purchase_points": "1480"
+  },
+  "extra_metal_frame": {
+    "label": "Extra Metal Frame",
+    "item_id": "4772",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_power_gears": {
+    "label": "Extra Power Gears",
+    "item_id": "4837",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_power_motor": {
+    "label": "Extra Power Motor",
+    "item_id": "4793",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "3980"
+  },
+  "extra_regular_gears": {
+    "label": "Extra Regular Gears",
+    "item_id": "4847",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_rocket_frame": {
+    "label": "Extra Rocket Frame",
+    "item_id": "4777",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_rubber_frame": {
+    "label": "Extra Rubber Frame",
+    "item_id": "4782",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "extra_slick_tires": {
+    "label": "Extra Slick Tires",
+    "item_id": "4812",
+    "classification": "important",
+    "purchase_price": "1480",
+    "purchase_points": "1480"
+  },
+  "extra_slim_tires": {
+    "label": "Extra Slim Tires",
+    "item_id": "4832",
+    "classification": "important",
+    "purchase_price": "1480",
+    "purchase_points": "1480"
+  },
+  "extra_soft_tires": {
+    "label": "Extra Soft Tires",
+    "item_id": "4817",
+    "classification": "important",
+    "purchase_price": "1480",
+    "purchase_points": "1480"
+  },
+  "extra_speed_frame": {
+    "label": "Extra Speed Frame",
+    "item_id": "4787",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1500"
+  },
+  "extra_speed_motor": {
+    "label": "Extra Speed Motor",
+    "item_id": "4798",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "extra_spiked_tires": {
+    "label": "Extra Spiked Tires",
+    "item_id": "4822",
+    "classification": "important",
+    "purchase_price": "1480",
+    "purchase_points": "1480"
+  },
+  "extra_wire_1": {
+    "label": "Extra Wire 1",
+    "item_id": "6237",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_wire_2": {
+    "label": "Extra Wire 2",
+    "item_id": "6238",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_wire_3": {
+    "label": "Extra Wire 3",
+    "item_id": "6239",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extra_wire_4": {
+    "label": "Extra Wire 4",
+    "item_id": "6240",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extreme_heat_critical_damage": {
+    "label": "Extreme Heat Critical Damage",
+    "item_id": "6163",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extreme_heat_damage_1": {
+    "label": "Extreme Heat Damage 1",
+    "item_id": "6159",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extreme_heat_damage_2": {
+    "label": "Extreme Heat Damage 2",
+    "item_id": "6160",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extreme_heat_mode_undying": {
+    "label": "Extreme Heat Mode Undying",
+    "item_id": "6165",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "extreme_heat_mode_unflinching": {
+    "label": "Extreme Heat Mode Unflinching",
+    "item_id": "6164",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "eye_of_the_dragon": {
+    "label": "Eye of the Dragon",
+    "item_id": "5973",
+    "classification": "useful",
+    "purchase_price": "1138000",
+    "purchase_points": "0"
+  },
+  "fantasy_zone_ii": {
+    "label": "Fantasy Zone II",
+    "item_id": "5544",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "0"
+  },
+  "fearless_binding": {
+    "label": "Fearless Binding",
+    "item_id": "5952",
+    "classification": "useful",
+    "purchase_price": "485000",
+    "purchase_points": "0"
+  },
+  "fedora": {
+    "label": "Fedora",
+    "item_id": "6092",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "fighter_s_binding": {
+    "label": "Fighter's Binding",
+    "item_id": "5951",
+    "classification": "useful",
+    "purchase_price": "68000",
+    "purchase_points": "0"
+  },
+  "fingerless_gloves": {
+    "label": "Fingerless Gloves",
+    "item_id": "6094",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "finishing_hold": {
+    "label": "Finishing Hold",
+    "item_id": "6179",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "flat_wing": {
+    "label": "Flat Wing",
+    "item_id": "6046",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "4980"
+  },
+  "flexing_resolute_counter": {
+    "label": "Flexing Resolute Counter",
+    "item_id": "6183",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "flicky": {
+    "label": "Flicky",
+    "item_id": "5932",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "0"
+  },
+  "forks": {
+    "label": "Forks",
+    "item_id": "6036",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "2500"
+  },
+  "fresh_lettuce_sandwich": {
+    "label": "Fresh Lettuce Sandwich",
+    "item_id": "5500",
+    "classification": "filler",
+    "purchase_price": "380",
+    "purchase_points": "0"
+  },
+  "fukupi_chan_head": {
+    "label": "Fukupi-chan Head",
+    "item_id": "6085",
+    "classification": "important",
+    "purchase_price": "300000",
+    "purchase_points": "100"
+  },
+  "galaxy_force": {
+    "label": "Galaxy Force",
+    "item_id": "5931",
+    "classification": "important",
+    "purchase_price": "5500",
+    "purchase_points": "0"
+  },
+  "gel_nails": {
+    "label": "Gel Nails",
+    "item_id": "6095",
+    "classification": "important",
+    "purchase_price": "70000",
+    "purchase_points": "100"
+  },
+  "genbu_bracelet": {
+    "label": "Genbu Bracelet",
+    "item_id": "5961",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "1000"
+  },
+  "global_defense": {
+    "label": "Global Defense",
+    "item_id": "5546",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "2500"
+  },
+  "godspeed_gears": {
+    "label": "Godspeed Gears",
+    "item_id": "4855",
+    "classification": "important",
+    "purchase_price": "7980",
+    "purchase_points": "7980"
+  },
+  "godspeed_gears_plus": {
+    "label": "Godspeed Gears Plus",
+    "item_id": "4856",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "9800"
+  },
+  "godspeed_motor": {
+    "label": "Godspeed Motor",
+    "item_id": "4808",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "3980"
+  },
+  "godspeed_motor_mark_ii": {
+    "label": "Godspeed Motor Mark II",
+    "item_id": "4809",
+    "classification": "important",
+    "purchase_price": "70000",
+    "purchase_points": "50000"
+  },
+  "gold_darts": {
+    "label": "Gold Darts",
+    "item_id": "5982",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "gold_plate": {
+    "label": "Gold Plate",
+    "item_id": "5370",
+    "classification": "filler",
+    "purchase_price": "150000",
+    "purchase_points": "1000"
+  },
+  "golden_ball": {
+    "label": "Golden Ball",
+    "item_id": "6056",
+    "classification": "important",
+    "purchase_price": "77777",
+    "purchase_points": "777"
+  },
+  "golem_jaguar": {
+    "label": "Golem Jaguar",
+    "item_id": "6004",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "4980"
+  },
+  "golem_tiger": {
+    "label": "Golem Tiger",
+    "item_id": "4761",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "4980"
+  },
+  "great_fortune_gold_undies": {
+    "label": "Great Fortune Gold Undies",
+    "item_id": "6135",
+    "classification": "useful",
+    "purchase_price": "50000000",
+    "purchase_points": "0"
+  },
+  "great_fortune_silver_undies": {
+    "label": "Great Fortune Silver Undies",
+    "item_id": "6134",
+    "classification": "useful",
+    "purchase_price": "200000",
+    "purchase_points": "0"
+  },
+  "green_gem_bracelet": {
+    "label": "Green Gem Bracelet",
+    "item_id": "5957",
+    "classification": "useful",
+    "purchase_price": "11000",
+    "purchase_points": "0"
+  },
+  "green_onion_akashiyaki": {
+    "label": "Green Onion Akashiyaki",
+    "item_id": "5845",
+    "classification": "filler",
+    "purchase_price": "1051",
+    "purchase_points": "0"
+  },
+  "grip_breaker": {
+    "label": "Grip Breaker",
+    "item_id": "6226",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "gruesome_chainmail": {
+    "label": "Gruesome Chainmail",
+    "item_id": "5946",
+    "classification": "useful",
+    "purchase_price": "95000",
+    "purchase_points": "1000"
+  },
+  "ha_attack_boost_1": {
+    "label": "HA: Attack Boost 1",
+    "item_id": "6224",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_attack_boost_2": {
+    "label": "HA: Attack Boost 2",
+    "item_id": "6225",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_daidoji_arm_theft": {
+    "label": "HA: Daidoji Arm Theft",
+    "item_id": "6193",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_daidoji_bear_trap": {
+    "label": "HA: Daidoji Bear Trap",
+    "item_id": "6195",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_daidoji_defense_break": {
+    "label": "HA: Daidoji Defense Break",
+    "item_id": "6194",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_daidoji_martial_mastery": {
+    "label": "HA: Daidoji Martial Mastery",
+    "item_id": "6196",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_essence_of_double_crush": {
+    "label": "HA: Essence of Double Crush",
+    "item_id": "6187",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_essence_of_face_stomp": {
+    "label": "HA: Essence of Face Stomp",
+    "item_id": "6161",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_essence_of_raging_dragon": {
+    "label": "HA: Essence of Raging Dragon",
+    "item_id": "6185",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_essence_of_the_dragon_god": {
+    "label": "HA: Essence of the Dragon God",
+    "item_id": "6186",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_evasion_up_1": {
+    "label": "HA: Evasion Up 1",
+    "item_id": "6230",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_evasion_up_2": {
+    "label": "HA: Evasion Up 2",
+    "item_id": "6231",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ha_ultimate_essence": {
+    "label": "HA: Ultimate Essence",
+    "item_id": "6188",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "hariti_s_amulet": {
+    "label": "Hariti's Amulet",
+    "item_id": "5969",
+    "classification": "useful",
+    "purchase_price": "1000",
+    "purchase_points": "0"
+  },
+  "hat": {
+    "label": "Hat",
+    "item_id": "6051",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "health_up_1": {
+    "label": "Health Up 1",
+    "item_id": "6139",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "health_up_2": {
+    "label": "Health Up 2",
+    "item_id": "6140",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "health_up_3": {
+    "label": "Health Up 3",
+    "item_id": "6141",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "health_up_4": {
+    "label": "Health Up 4",
+    "item_id": "6142",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "healthy_balanced_bento": {
+    "label": "Healthy Balanced Bento",
+    "item_id": "5506",
+    "classification": "filler",
+    "purchase_price": "550",
+    "purchase_points": "0"
+  },
+  "heart_earrings": {
+    "label": "Heart Earrings",
+    "item_id": "5432",
+    "classification": "filler",
+    "purchase_price": "12000",
+    "purchase_points": "0"
+  },
+  "heat_gauge_auto_charge": {
+    "label": "Heat Gauge Auto Charge",
+    "item_id": "6168",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "heat_gauge_up_1": {
+    "label": "Heat Gauge Up 1",
+    "item_id": "6155",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "heat_gauge_up_2": {
+    "label": "Heat Gauge Up 2",
+    "item_id": "6156",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "heat_gauge_up_3": {
+    "label": "Heat Gauge Up 3",
+    "item_id": "6157",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "heat_gauge_up_4": {
+    "label": "Heat Gauge Up 4",
+    "item_id": "6158",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "heavy_makeup": {
+    "label": "Heavy Makeup",
+    "item_id": "6126",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "heavy_suspension": {
+    "label": "Heavy Suspension",
+    "item_id": "4868",
+    "classification": "important",
+    "purchase_price": "14980",
+    "purchase_points": "6980"
+  },
+  "high_capacity_battery": {
+    "label": "High Capacity Battery",
+    "item_id": "4860",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "150"
+  },
+  "high_end_timepiece": {
+    "label": "High-end Timepiece",
+    "item_id": "5441",
+    "classification": "filler",
+    "purchase_price": "450000",
+    "purchase_points": "0"
+  },
+  "high_speed_battery": {
+    "label": "High Speed Battery",
+    "item_id": "4861",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "150"
+  },
+  "high_torque_motor": {
+    "label": "High Torque Motor",
+    "item_id": "4806",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "3980"
+  },
+  "high_torque_motor_mark_ii": {
+    "label": "High Torque Motor Mark II",
+    "item_id": "4807",
+    "classification": "important",
+    "purchase_price": "14800",
+    "purchase_points": "50000"
+  },
+  "hockey_mask": {
+    "label": "Hockey Mask",
+    "item_id": "6079",
+    "classification": "important",
+    "purchase_price": "80000",
+    "purchase_points": "100"
+  },
+  "hokkaido_azuki_bar": {
+    "label": "Hokkaido Azuki Bar",
+    "item_id": "5915",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "hoop_earrings": {
+    "label": "Hoop Earrings",
+    "item_id": "6109",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "hornet_durability_boost": {
+    "label": "Hornet Durability Boost",
+    "item_id": "6257",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "hyottoko_mask": {
+    "label": "Hyottoko Mask",
+    "item_id": "6081",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "ichiban_fried_senbei": {
+    "label": "Ichiban Fried Senbei",
+    "item_id": "5557",
+    "classification": "filler",
+    "purchase_price": "480",
+    "purchase_points": "0"
+  },
+  "ichiban_senbei_salt": {
+    "label": "Ichiban Senbei (Salt)",
+    "item_id": "5556",
+    "classification": "filler",
+    "purchase_price": "380",
+    "purchase_points": "30"
+  },
+  "ichiban_senbei_shoyu": {
+    "label": "Ichiban Senbei (Shoyu)",
+    "item_id": "5555",
+    "classification": "filler",
+    "purchase_price": "300",
+    "purchase_points": "30"
+  },
+  "imuraya_bean_paste_bun": {
+    "label": "Imuraya Bean Paste Bun",
+    "item_id": "5510",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "imuraya_castella": {
+    "label": "Imuraya Castella",
+    "item_id": "5569",
+    "classification": "filler",
+    "purchase_price": "330",
+    "purchase_points": "0"
+  },
+  "imuraya_curry_bun": {
+    "label": "Imuraya Curry Bun",
+    "item_id": "5513",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "imuraya_gold_steamed_bun": {
+    "label": "Imuraya Gold Steamed Bun",
+    "item_id": "5512",
+    "classification": "filler",
+    "purchase_price": "160",
+    "purchase_points": "0"
+  },
+  "imuraya_pizza_bun": {
+    "label": "Imuraya Pizza Bun",
+    "item_id": "5511",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "imuraya_steamed_bun": {
+    "label": "Imuraya Steamed Bun",
+    "item_id": "5509",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "imuraya_yokan": {
+    "label": "Imuraya Yokan",
+    "item_id": "5568",
+    "classification": "filler",
+    "purchase_price": "90",
+    "purchase_points": "0"
+  },
+  "indra_s_amulet": {
+    "label": "Indra's Amulet",
+    "item_id": "5968",
+    "classification": "useful",
+    "purchase_price": "1315000",
+    "purchase_points": "10000"
+  },
+  "insulated_shirt": {
+    "label": "Insulated Shirt",
+    "item_id": "5937",
+    "classification": "useful",
+    "purchase_price": "33000",
+    "purchase_points": "500"
+  },
+  "insulting_taunt": {
+    "label": "Insulting Taunt",
+    "item_id": "6166",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "intelligent_sunglasses": {
+    "label": "Intelligent Sunglasses",
+    "item_id": "6069",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "iron_breastplate": {
+    "label": "Iron Breastplate",
+    "item_id": "5938",
+    "classification": "useful",
+    "purchase_price": "431000",
+    "purchase_points": "0"
+  },
+  "iron_plate": {
+    "label": "Iron Plate",
+    "item_id": "5373",
+    "classification": "filler",
+    "purchase_price": "150",
+    "purchase_points": "10"
+  },
+  "jewel_stud_earrings": {
+    "label": "Jewel Stud Earrings",
+    "item_id": "6111",
+    "classification": "important",
+    "purchase_price": "70000",
+    "purchase_points": "100"
+  },
+  "jeweled_ring": {
+    "label": "Jeweled Ring",
+    "item_id": "6096",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "kabuki_makeup": {
+    "label": "Kabuki Makeup",
+    "item_id": "6119",
+    "classification": "important",
+    "purchase_price": "400000",
+    "purchase_points": "100"
+  },
+  "killer_bee": {
+    "label": "Killer Bee",
+    "item_id": "4764",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "kitty_makeup": {
+    "label": "Kitty Makeup",
+    "item_id": "6123",
+    "classification": "important",
+    "purchase_price": "500000",
+    "purchase_points": "100"
+  },
+  "kiw_damage_up_1": {
+    "label": "KIW Damage Up 1",
+    "item_id": "6212",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_10": {
+    "label": "KIW Damage Up 10",
+    "item_id": "6221",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_2": {
+    "label": "KIW Damage Up 2",
+    "item_id": "6213",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_3": {
+    "label": "KIW Damage Up 3",
+    "item_id": "6214",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_4": {
+    "label": "KIW Damage Up 4",
+    "item_id": "6215",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_5": {
+    "label": "KIW Damage Up 5",
+    "item_id": "6216",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_6": {
+    "label": "KIW Damage Up 6",
+    "item_id": "6217",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_7": {
+    "label": "KIW Damage Up 7",
+    "item_id": "6218",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_8": {
+    "label": "KIW Damage Up 8",
+    "item_id": "6219",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_damage_up_9": {
+    "label": "KIW Damage Up 9",
+    "item_id": "6220",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_1": {
+    "label": "KIW Health Up 1",
+    "item_id": "6197",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_10": {
+    "label": "KIW Health Up 10",
+    "item_id": "6206",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_11": {
+    "label": "KIW Health Up 11",
+    "item_id": "6207",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_12": {
+    "label": "KIW Health Up 12",
+    "item_id": "6208",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_13": {
+    "label": "KIW Health Up 13",
+    "item_id": "6209",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_14": {
+    "label": "KIW Health Up 14",
+    "item_id": "6210",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_15": {
+    "label": "KIW Health Up 15",
+    "item_id": "6211",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_2": {
+    "label": "KIW Health Up 2",
+    "item_id": "6198",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_3": {
+    "label": "KIW Health Up 3",
+    "item_id": "6199",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_4": {
+    "label": "KIW Health Up 4",
+    "item_id": "6200",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_5": {
+    "label": "KIW Health Up 5",
+    "item_id": "6201",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_6": {
+    "label": "KIW Health Up 6",
+    "item_id": "6202",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_7": {
+    "label": "KIW Health Up 7",
+    "item_id": "6203",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_8": {
+    "label": "KIW Health Up 8",
+    "item_id": "6204",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "kiw_health_up_9": {
+    "label": "KIW Health Up 9",
+    "item_id": "6205",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "knock_back": {
+    "label": "Knock Back",
+    "item_id": "6227",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "leather_gloves": {
+    "label": "Leather Gloves",
+    "item_id": "6093",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "leather_shoes": {
+    "label": "Leather Shoes",
+    "item_id": "6101",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "legend_darts": {
+    "label": "Legend Darts",
+    "item_id": "5983",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "8000"
+  },
+  "light_makeup": {
+    "label": "Light Makeup",
+    "item_id": "6122",
+    "classification": "important",
+    "purchase_price": "70000",
+    "purchase_points": "100"
+  },
+  "light_suspension": {
+    "label": "Light Suspension",
+    "item_id": "4866",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "680"
+  },
+  "long_sleeved_button_up": {
+    "label": "Long-Sleeved Button-up",
+    "item_id": "6063",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "longer_shoe_boost_1": {
+    "label": "Longer Shoe Boost 1",
+    "item_id": "6249",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "longer_shoe_boost_2": {
+    "label": "Longer Shoe Boost 2",
+    "item_id": "6250",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "longer_shoe_boost_3": {
+    "label": "Longer Shoe Boost 3",
+    "item_id": "6251",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "longer_shoe_boost_4": {
+    "label": "Longer Shoe Boost 4",
+    "item_id": "6252",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "low_profile_tires": {
+    "label": "Low Profile Tires",
+    "item_id": "4825",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "150"
+  },
+  "low_profile_tires_plus": {
+    "label": "Low Profile Tires Plus",
+    "item_id": "4826",
+    "classification": "important",
+    "purchase_price": "880",
+    "purchase_points": "380"
+  },
+  "lucky_hanafuda_card": {
+    "label": "Lucky Hanafuda Card",
+    "item_id": "5447",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "luxury_timepiece": {
+    "label": "Luxury Timepiece",
+    "item_id": "5440",
+    "classification": "filler",
+    "purchase_price": "623000",
+    "purchase_points": "0"
+  },
+  "luxury_yakiniku_bento": {
+    "label": "Luxury Yakiniku Bento",
+    "item_id": "5507",
+    "classification": "filler",
+    "purchase_price": "1000",
+    "purchase_points": "0"
+  },
+  "medium_suspension": {
+    "label": "Medium Suspension",
+    "item_id": "4867",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "metal_frame": {
+    "label": "Metal Frame",
+    "item_id": "4770",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "0"
+  },
+  "metal_frame_plus": {
+    "label": "Metal Frame Plus",
+    "item_id": "4771",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "mevius": {
+    "label": "Mevius",
+    "item_id": "6018",
+    "classification": "filler",
+    "purchase_price": "580",
+    "purchase_points": "0"
+  },
+  "michi_michio": {
+    "label": "Michi-Michio",
+    "item_id": "6040",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "midnight_ring": {
+    "label": "Midnight Ring",
+    "item_id": "5438",
+    "classification": "filler",
+    "purchase_price": "250000",
+    "purchase_points": "0"
+  },
+  "military_armor": {
+    "label": "Military Armor",
+    "item_id": "5941",
+    "classification": "useful",
+    "purchase_price": "3825000",
+    "purchase_points": "0"
+  },
+  "military_bulletproof_vest": {
+    "label": "Military Bulletproof Vest",
+    "item_id": "5942",
+    "classification": "useful",
+    "purchase_price": "1031000",
+    "purchase_points": "8000"
+  },
+  "mini_more_perfume": {
+    "label": "mini-more Perfume",
+    "item_id": "5967",
+    "classification": "useful",
+    "purchase_price": "1320",
+    "purchase_points": "0"
+  },
+  "monk_strap_loafers": {
+    "label": "Monk Strap Loafers",
+    "item_id": "6103",
+    "classification": "important",
+    "purchase_price": "120000",
+    "purchase_points": "100"
+  },
+  "more_drones_1": {
+    "label": "More Drones 1",
+    "item_id": "6245",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "more_drones_2": {
+    "label": "More Drones 2",
+    "item_id": "6246",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "more_drones_3": {
+    "label": "More Drones 3",
+    "item_id": "6247",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "more_drones_4": {
+    "label": "More Drones 4",
+    "item_id": "6248",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "mountain_dew": {
+    "label": "Mountain Dew",
+    "item_id": "5732",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "nametag": {
+    "label": "Nametag",
+    "item_id": "6115",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "natchan_apple": {
+    "label": "Natchan! Apple",
+    "item_id": "5734",
+    "classification": "filler",
+    "purchase_price": "170",
+    "purchase_points": "0"
+  },
+  "natchan_orange": {
+    "label": "Natchan! Orange",
+    "item_id": "5733",
+    "classification": "filler",
+    "purchase_price": "170",
+    "purchase_points": "0"
+  },
+  "nine_gates_tile": {
+    "label": "Nine Gates Tile",
+    "item_id": "5452",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "6500"
+  },
+  "no_reservations": {
+    "label": "No Reservations",
+    "item_id": "6253",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "noh_mask": {
+    "label": "Noh Mask",
+    "item_id": "6080",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "nourishment_of_the_sea_king": {
+    "label": "Nourishment of the Sea King",
+    "item_id": "6129",
+    "classification": "filler",
+    "purchase_price": "100",
+    "purchase_points": "0"
+  },
+  "nourishment_of_the_seaking": {
+    "label": "Nourishment of the Seaking",
+    "item_id": "6263",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "nozaki_s_corned_beef": {
+    "label": "Nozaki's Corned Beef",
+    "item_id": "5711",
+    "classification": "filler",
+    "purchase_price": "464",
+    "purchase_points": "0"
+  },
+  "nutrement_of_the_conquering_emperor": {
+    "label": "Nutrement of the Conquering Emperor",
+    "item_id": "6265",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "nutriment_of_the_conquering_emperor": {
+    "label": "Nutriment of the Conquering Emperor",
+    "item_id": "6131",
+    "classification": "filler",
+    "purchase_price": "100",
+    "purchase_points": "0"
+  },
+  "oden": {
+    "label": "Oden",
+    "item_id": "5502",
+    "classification": "filler",
+    "purchase_price": "500",
+    "purchase_points": "0"
+  },
+  "okonomiyaki": {
+    "label": "Okonomiyaki",
+    "item_id": "5923",
+    "classification": "filler",
+    "purchase_price": "800",
+    "purchase_points": "0"
+  },
+  "okonomiyaki_mentai_mayo": {
+    "label": "Okonomiyaki (Mentai Mayo)",
+    "item_id": "5925",
+    "classification": "filler",
+    "purchase_price": "900",
+    "purchase_points": "0"
+  },
+  "okonomiyaki_mochi_cheese": {
+    "label": "Okonomiyaki (Mochi & Cheese)",
+    "item_id": "5924",
+    "classification": "filler",
+    "purchase_price": "900",
+    "purchase_points": "0"
+  },
+  "old_scar_makeup": {
+    "label": "Old Scar Makeup",
+    "item_id": "6125",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "ono_michio_head": {
+    "label": "Ono Michio Head",
+    "item_id": "6084",
+    "classification": "important",
+    "purchase_price": "1000000",
+    "purchase_points": "100"
+  },
+  "oragamachi_natto": {
+    "label": "Oragamachi Natto",
+    "item_id": "5709",
+    "classification": "filler",
+    "purchase_price": "235",
+    "purchase_points": "0"
+  },
+  "paper_plate": {
+    "label": "Paper Plate",
+    "item_id": "5374",
+    "classification": "filler",
+    "purchase_price": "15",
+    "purchase_points": "1"
+  },
+  "payback_ring": {
+    "label": "Payback Ring",
+    "item_id": "5963",
+    "classification": "useful",
+    "purchase_price": "22000",
+    "purchase_points": "0"
+  },
+  "pencils": {
+    "label": "Pencils",
+    "item_id": "6035",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "pepsi_nama": {
+    "label": "Pepsi Nama",
+    "item_id": "5730",
+    "classification": "filler",
+    "purchase_price": "160",
+    "purchase_points": "0"
+  },
+  "pilot_badge": {
+    "label": "Pilot Badge",
+    "item_id": "6112",
+    "classification": "important",
+    "purchase_price": "10000",
+    "purchase_points": "100"
+  },
+  "pine_candy": {
+    "label": "Pine Candy",
+    "item_id": "5708",
+    "classification": "filler",
+    "purchase_price": "183",
+    "purchase_points": "0"
+  },
+  "platinum_plate": {
+    "label": "Platinum Plate",
+    "item_id": "5369",
+    "classification": "filler",
+    "purchase_price": "300000",
+    "purchase_points": "2000"
+  },
+  "pocket_tissues": {
+    "label": "Pocket Tissues",
+    "item_id": "5368",
+    "classification": "filler",
+    "purchase_price": "50",
+    "purchase_points": "1"
+  },
+  "pork_tonkatsu_bento": {
+    "label": "Pork Tonkatsu Bento",
+    "item_id": "5505",
+    "classification": "filler",
+    "purchase_price": "600",
+    "purchase_points": "0"
+  },
+  "power_gears": {
+    "label": "Power Gears",
+    "item_id": "4835",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "150"
+  },
+  "power_gears_plus": {
+    "label": "Power Gears Plus",
+    "item_id": "4836",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "power_motor": {
+    "label": "Power Motor",
+    "item_id": "4791",
+    "classification": "important",
+    "purchase_price": "680",
+    "purchase_points": "0"
+  },
+  "power_motor_plus": {
+    "label": "Power Motor Plus",
+    "item_id": "4792",
+    "classification": "important",
+    "purchase_price": "1180",
+    "purchase_points": "0"
+  },
+  "power_spool": {
+    "label": "Power Spool",
+    "item_id": "6256",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "premier_darts": {
+    "label": "Premier Darts",
+    "item_id": "6017",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "2000"
+  },
+  "premium_boss": {
+    "label": "Premium BOSS",
+    "item_id": "5725",
+    "classification": "filler",
+    "purchase_price": "140",
+    "purchase_points": "0"
+  },
+  "prima_heart_earrings": {
+    "label": "Prima Heart Earrings",
+    "item_id": "5435",
+    "classification": "filler",
+    "purchase_price": "9800",
+    "purchase_points": "0"
+  },
+  "pure_white_briefs": {
+    "label": "Pure White Briefs",
+    "item_id": "5949",
+    "classification": "useful",
+    "purchase_price": "1000",
+    "purchase_points": "0"
+  },
+  "quality_egg": {
+    "label": "Quality Egg",
+    "item_id": "6013",
+    "classification": "filler",
+    "purchase_price": "200",
+    "purchase_points": "0"
+  },
+  "quartet": {
+    "label": "Quartet",
+    "item_id": "5538",
+    "classification": "important",
+    "purchase_price": "5000",
+    "purchase_points": "2500"
+  },
+  "quickstep_strike": {
+    "label": "Quickstep Strike",
+    "item_id": "6182",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "rainbow_wing": {
+    "label": "Rainbow Wing",
+    "item_id": "6048",
+    "classification": "important",
+    "purchase_price": "9800",
+    "purchase_points": "19800"
+  },
+  "rakushasa_strikes": {
+    "label": "Rakushasa Strikes",
+    "item_id": "6190",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "recovery_from_food_1": {
+    "label": "Recovery From Food 1",
+    "item_id": "6177",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "recovery_from_food_2": {
+    "label": "Recovery From Food 2",
+    "item_id": "6222",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "recovery_from_food_3": {
+    "label": "Recovery From Food 3",
+    "item_id": "6223",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "red_blaze": {
+    "label": "Red Blaze",
+    "item_id": "4756",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "red_gem_bracelet": {
+    "label": "Red Gem Bracelet",
+    "item_id": "5955",
+    "classification": "useful",
+    "purchase_price": "11000",
+    "purchase_points": "0"
+  },
+  "refreshment_of_the_sky_king": {
+    "label": "Refreshment of the Sky King",
+    "item_id": "6130",
+    "classification": "filler",
+    "purchase_price": "100",
+    "purchase_points": "0"
+  },
+  "refressment_of_the_sky_king": {
+    "label": "Refressment of the Sky King",
+    "item_id": "6264",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "regular_battery": {
+    "label": "Regular Battery",
+    "item_id": "4862",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "0"
+  },
+  "regular_gears": {
+    "label": "Regular Gears",
+    "item_id": "4845",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "0"
+  },
+  "regular_gears_plus": {
+    "label": "Regular Gears Plus",
+    "item_id": "4846",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "480"
+  },
+  "renowned_akashiyaki": {
+    "label": "Renowned Akashiyaki",
+    "item_id": "5844",
+    "classification": "filler",
+    "purchase_price": "961",
+    "purchase_points": "0"
+  },
+  "rimless_sunglasses": {
+    "label": "Rimless Sunglasses",
+    "item_id": "6071",
+    "classification": "important",
+    "purchase_price": "70000",
+    "purchase_points": "100"
+  },
+  "rocket_frame": {
+    "label": "Rocket Frame",
+    "item_id": "4775",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "250"
+  },
+  "rocket_frame_plus": {
+    "label": "Rocket Frame Plus",
+    "item_id": "4776",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "rolling_escape": {
+    "label": "Rolling Escape",
+    "item_id": "6180",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "roses": {
+    "label": "Roses",
+    "item_id": "6034",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "100"
+  },
+  "round_sunglasses": {
+    "label": "Round Sunglasses",
+    "item_id": "6068",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "royal_joker_card": {
+    "label": "Royal Joker Card",
+    "item_id": "5450",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "rubber_frame": {
+    "label": "Rubber Frame",
+    "item_id": "4780",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "250"
+  },
+  "rubber_frame_plus": {
+    "label": "Rubber Frame Plus",
+    "item_id": "4781",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "rugged_suit": {
+    "label": "Rugged Suit",
+    "item_id": "6059",
+    "classification": "important",
+    "purchase_price": "10000",
+    "purchase_points": "100"
+  },
+  "rusted_chainmail": {
+    "label": "Rusted Chainmail",
+    "item_id": "5943",
+    "classification": "useful",
+    "purchase_price": "5000",
+    "purchase_points": "0"
+  },
+  "sake": {
+    "label": "Sake",
+    "item_id": "5521",
+    "classification": "filler",
+    "purchase_price": "1000",
+    "purchase_points": "0"
+  },
+  "salmon_onigiri": {
+    "label": "Salmon Onigiri",
+    "item_id": "5499",
+    "classification": "filler",
+    "purchase_price": "160",
+    "purchase_points": "0"
+  },
+  "seaweed_onigiri": {
+    "label": "Seaweed Onigiri",
+    "item_id": "5497",
+    "classification": "filler",
+    "purchase_price": "150",
+    "purchase_points": "0"
+  },
+  "sega_taiyaki": {
+    "label": "SEGA Taiyaki",
+    "item_id": "5710",
+    "classification": "filler",
+    "purchase_price": "180",
+    "purchase_points": "0"
+  },
+  "seiryu_bracelet": {
+    "label": "Seiryu Bracelet",
+    "item_id": "5960",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "1000"
+  },
+  "sengoku_armor": {
+    "label": "Sengoku Armor",
+    "item_id": "5944",
+    "classification": "useful",
+    "purchase_price": "1984000",
+    "purchase_points": "0"
+  },
+  "sengoku_fundoshi": {
+    "label": "Sengoku Fundoshi",
+    "item_id": "5950",
+    "classification": "useful",
+    "purchase_price": "2000",
+    "purchase_points": "0"
+  },
+  "seven_stars": {
+    "label": "Seven Stars",
+    "item_id": "5366",
+    "classification": "filler",
+    "purchase_price": "600",
+    "purchase_points": "0"
+  },
+  "shiny_flower_ring": {
+    "label": "Shiny Flower Ring",
+    "item_id": "5439",
+    "classification": "filler",
+    "purchase_price": "25000",
+    "purchase_points": "0"
+  },
+  "shirtless_blazer": {
+    "label": "Shirtless Blazer",
+    "item_id": "6062",
+    "classification": "important",
+    "purchase_price": "500000",
+    "purchase_points": "100"
+  },
+  "shockin_takoyaki": {
+    "label": "Shockin' Takoyaki",
+    "item_id": "5846",
+    "classification": "filler",
+    "purchase_price": "1980",
+    "purchase_points": "0"
+  },
+  "shoes": {
+    "label": "Shoes",
+    "item_id": "6049",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "short_sleeved_button_up": {
+    "label": "Short-Sleeved Button-up",
+    "item_id": "6064",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "side_stabilizer": {
+    "label": "Side Stabilizer",
+    "item_id": "4863",
+    "classification": "important",
+    "purchase_price": "1980",
+    "purchase_points": "1980"
+  },
+  "side_stabilizer_2_0": {
+    "label": "Side Stabilizer 2.0",
+    "item_id": "4864",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "2980"
+  },
+  "side_stabilizer_3_0": {
+    "label": "Side Stabilizer 3.0",
+    "item_id": "4865",
+    "classification": "important",
+    "purchase_price": "7980",
+    "purchase_points": "4980"
+  },
+  "side_stripe": {
+    "label": "Side Stripe",
+    "item_id": "4751",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "signed_ball": {
+    "label": "Signed Ball",
+    "item_id": "6053",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "silver_darts": {
+    "label": "Silver Darts",
+    "item_id": "6016",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "0"
+  },
+  "silver_plate": {
+    "label": "Silver Plate",
+    "item_id": "5371",
+    "classification": "filler",
+    "purchase_price": "15000",
+    "purchase_points": "100"
+  },
+  "silver_ring": {
+    "label": "Silver Ring",
+    "item_id": "6097",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "single_rose": {
+    "label": "Single Rose",
+    "item_id": "6117",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "slick_tires": {
+    "label": "Slick Tires",
+    "item_id": "4810",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "0"
+  },
+  "slick_tires_plus": {
+    "label": "Slick Tires Plus",
+    "item_id": "4811",
+    "classification": "important",
+    "purchase_price": "880",
+    "purchase_points": "500"
+  },
+  "slim_tires": {
+    "label": "Slim Tires",
+    "item_id": "4830",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "150"
+  },
+  "slim_tires_plus": {
+    "label": "Slim Tires Plus",
+    "item_id": "4831",
+    "classification": "important",
+    "purchase_price": "880",
+    "purchase_points": "380"
+  },
+  "slippers": {
+    "label": "Slippers",
+    "item_id": "6105",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "smile_burger_takeout": {
+    "label": "Smile Burger (Takeout)",
+    "item_id": "5574",
+    "classification": "filler",
+    "purchase_price": "550",
+    "purchase_points": "0"
+  },
+  "smile_fries_takeout": {
+    "label": "Smile Fries (Takeout)",
+    "item_id": "5576",
+    "classification": "filler",
+    "purchase_price": "280",
+    "purchase_points": "0"
+  },
+  "smile_salad_takeout": {
+    "label": "Smile Salad (Takeout)",
+    "item_id": "5578",
+    "classification": "filler",
+    "purchase_price": "320",
+    "purchase_points": "0"
+  },
+  "smile_shake_takeout": {
+    "label": "Smile Shake (Takeout)",
+    "item_id": "5577",
+    "classification": "filler",
+    "purchase_price": "250",
+    "purchase_points": "0"
+  },
+  "smoky_heat_gauge": {
+    "label": "Smoky Heat Gauge",
+    "item_id": "6169",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "snake_eyepatch": {
+    "label": "Snake Eyepatch",
+    "item_id": "6075",
+    "classification": "important",
+    "purchase_price": "1000000",
+    "purchase_points": "100"
+  },
+  "snakeskin_shoes": {
+    "label": "Snakeskin Shoes",
+    "item_id": "6100",
+    "classification": "important",
+    "purchase_price": "500000",
+    "purchase_points": "100"
+  },
+  "sneakers": {
+    "label": "Sneakers",
+    "item_id": "6104",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "soccer_ball": {
+    "label": "Soccer Ball",
+    "item_id": "6015",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "soft_tires": {
+    "label": "Soft Tires",
+    "item_id": "4815",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "150"
+  },
+  "soft_tires_plus": {
+    "label": "Soft Tires Plus",
+    "item_id": "4816",
+    "classification": "important",
+    "purchase_price": "880",
+    "purchase_points": "380"
+  },
+  "special_yakisoba": {
+    "label": "Special Yakisoba",
+    "item_id": "5504",
+    "classification": "filler",
+    "purchase_price": "400",
+    "purchase_points": "0"
+  },
+  "speed_frame": {
+    "label": "Speed Frame",
+    "item_id": "4785",
+    "classification": "important",
+    "purchase_price": "580",
+    "purchase_points": "250"
+  },
+  "speed_frame_plus": {
+    "label": "Speed Frame Plus",
+    "item_id": "4786",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "480"
+  },
+  "speed_motor": {
+    "label": "Speed Motor",
+    "item_id": "4796",
+    "classification": "important",
+    "purchase_price": "680",
+    "purchase_points": "150"
+  },
+  "speed_motor_plus": {
+    "label": "Speed Motor Plus",
+    "item_id": "4797",
+    "classification": "important",
+    "purchase_price": "1180",
+    "purchase_points": "680"
+  },
+  "spiked_tires": {
+    "label": "Spiked Tires",
+    "item_id": "4820",
+    "classification": "important",
+    "purchase_price": "480",
+    "purchase_points": "150"
+  },
+  "spiked_tires_plus": {
+    "label": "Spiked Tires Plus",
+    "item_id": "4821",
+    "classification": "important",
+    "purchase_price": "880",
+    "purchase_points": "380"
+  },
+  "sport_coat": {
+    "label": "Sport Coat",
+    "item_id": "6061",
+    "classification": "important",
+    "purchase_price": "300000",
+    "purchase_points": "100"
+  },
+  "stamina_xx": {
+    "label": "Stamina XX",
+    "item_id": "6259",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "staminan_light": {
+    "label": "Staminan Light",
+    "item_id": "5326",
+    "classification": "filler",
+    "purchase_price": "1000",
+    "purchase_points": "0"
+  },
+  "staminan_royale": {
+    "label": "Staminan Royale",
+    "item_id": "5996",
+    "classification": "filler",
+    "purchase_price": "30000",
+    "purchase_points": "2000"
+  },
+  "staminan_royalle": {
+    "label": "Staminan Royalle",
+    "item_id": "6260",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "staminan_spark": {
+    "label": "Staminan Spark",
+    "item_id": "5328",
+    "classification": "filler",
+    "purchase_price": "100000",
+    "purchase_points": "4000"
+  },
+  "staminan_x": {
+    "label": "Staminan X",
+    "item_id": "5327",
+    "classification": "filler",
+    "purchase_price": "5000",
+    "purchase_points": "150"
+  },
+  "staminan_xx": {
+    "label": "Staminan XX",
+    "item_id": "5995",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "0"
+  },
+  "standard_darts": {
+    "label": "Standard Darts",
+    "item_id": "5979",
+    "classification": "important",
+    "purchase_price": "3000",
+    "purchase_points": "0"
+  },
+  "standard_timepiece": {
+    "label": "Standard Timepiece",
+    "item_id": "5442",
+    "classification": "filler",
+    "purchase_price": "50000",
+    "purchase_points": "0"
+  },
+  "star_crossed_earrings": {
+    "label": "Star Crossed Earrings",
+    "item_id": "5436",
+    "classification": "filler",
+    "purchase_price": "240000",
+    "purchase_points": "0"
+  },
+  "sticky_threads": {
+    "label": "Sticky Threads",
+    "item_id": "6255",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "straw_hat": {
+    "label": "Straw Hat",
+    "item_id": "6087",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "straw_sandals": {
+    "label": "Straw Sandals",
+    "item_id": "6106",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "5000"
+  },
+  "stretchtopus_mocheese": {
+    "label": "Stretchtopus Mocheese",
+    "item_id": "5922",
+    "classification": "filler",
+    "purchase_price": "1122",
+    "purchase_points": "0"
+  },
+  "sunshine": {
+    "label": "Sunshine",
+    "item_id": "4758",
+    "classification": "important",
+    "purchase_price": "980",
+    "purchase_points": "0"
+  },
+  "suntory_goma_mugicha": {
+    "label": "Suntory Goma Mugicha",
+    "item_id": "5729",
+    "classification": "filler",
+    "purchase_price": "170",
+    "purchase_points": "0"
+  },
+  "suntory_green_tea_iyemon": {
+    "label": "Suntory Green Tea Iyemon",
+    "item_id": "5728",
+    "classification": "filler",
+    "purchase_price": "170",
+    "purchase_points": "0"
+  },
+  "suntory_mineral_water": {
+    "label": "Suntory Mineral Water",
+    "item_id": "5735",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "suntory_oolong_tea": {
+    "label": "Suntory Oolong Tea",
+    "item_id": "5727",
+    "classification": "filler",
+    "purchase_price": "170",
+    "purchase_points": "0"
+  },
+  "suntory_sparkling_lemon_mineral_water": {
+    "label": "Suntory Sparkling Lemon Mineral Water",
+    "item_id": "5736",
+    "classification": "filler",
+    "purchase_price": "130",
+    "purchase_points": "0"
+  },
+  "super_balanced_frame": {
+    "label": "Super Balanced Frame",
+    "item_id": "4768",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "super_balanced_gears": {
+    "label": "Super Balanced Gears",
+    "item_id": "4843",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_balanced_motor": {
+    "label": "Super Balanced Motor",
+    "item_id": "4804",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "super_boost_gears": {
+    "label": "Super Boost Gears",
+    "item_id": "4853",
+    "classification": "important",
+    "purchase_price": "14800",
+    "purchase_points": "14800"
+  },
+  "super_cup_1_5x_pork_kimchi_ramen": {
+    "label": "Super Cup 1.5x Pork Kimchi Ramen",
+    "item_id": "5514",
+    "classification": "filler",
+    "purchase_price": "293",
+    "purchase_points": "0"
+  },
+  "super_devil_killer": {
+    "label": "Super Devil Killer",
+    "item_id": "6006",
+    "classification": "important",
+    "purchase_price": "50000000",
+    "purchase_points": "1980"
+  },
+  "super_godspeed_gears": {
+    "label": "Super Godspeed Gears",
+    "item_id": "4858",
+    "classification": "important",
+    "purchase_price": "14800",
+    "purchase_points": "14800"
+  },
+  "super_low_profile_tires": {
+    "label": "Super Low Profile Tires",
+    "item_id": "4828",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "super_metal_frame": {
+    "label": "Super Metal Frame",
+    "item_id": "4773",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_power_gears": {
+    "label": "Super Power Gears",
+    "item_id": "4838",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_power_motor": {
+    "label": "Super Power Motor",
+    "item_id": "4794",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "4980"
+  },
+  "super_regular_gears": {
+    "label": "Super Regular Gears",
+    "item_id": "4848",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_rocket_frame": {
+    "label": "Super Rocket Frame",
+    "item_id": "4778",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_rubber_frame": {
+    "label": "Super Rubber Frame",
+    "item_id": "4783",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_slick_tires": {
+    "label": "Super Slick Tires",
+    "item_id": "4813",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "super_slim_tires": {
+    "label": "Super Slim Tires",
+    "item_id": "4833",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "super_soft_tires": {
+    "label": "Super Soft Tires",
+    "item_id": "4818",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "super_speed_frame": {
+    "label": "Super Speed Frame",
+    "item_id": "4788",
+    "classification": "important",
+    "purchase_price": "2980",
+    "purchase_points": "2980"
+  },
+  "super_speed_motor": {
+    "label": "Super Speed Motor",
+    "item_id": "4799",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "super_spiked_tires": {
+    "label": "Super Spiked Tires",
+    "item_id": "4823",
+    "classification": "important",
+    "purchase_price": "2480",
+    "purchase_points": "2480"
+  },
+  "sushi_set": {
+    "label": "Sushi Set",
+    "item_id": "5508",
+    "classification": "filler",
+    "purchase_price": "1500",
+    "purchase_points": "0"
+  },
+  "suzaku_bracelet": {
+    "label": "Suzaku Bracelet",
+    "item_id": "5959",
+    "classification": "useful",
+    "purchase_price": "81000",
+    "purchase_points": "1800"
+  },
+  "t_shirt": {
+    "label": "T-Shirt",
+    "item_id": "6065",
+    "classification": "important",
+    "purchase_price": "100000",
+    "purchase_points": "100"
+  },
+  "taiyaki_ice_cream": {
+    "label": "Taiyaki Ice Cream",
+    "item_id": "5916",
+    "classification": "filler",
+    "purchase_price": "150",
+    "purchase_points": "0"
+  },
+  "takoyaki_with_large_octopus": {
+    "label": "Takoyaki with Large Octopus",
+    "item_id": "5843",
+    "classification": "filler",
+    "purchase_price": "961",
+    "purchase_points": "0"
+  },
+  "tam": {
+    "label": "Tam",
+    "item_id": "6088",
+    "classification": "important",
+    "purchase_price": "30000",
+    "purchase_points": "100"
+  },
+  "tangled_ultimate_counter": {
+    "label": "Tangled Ultimate Counter",
+    "item_id": "6234",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "taurener_maximum": {
+    "label": "Taurener Maximum",
+    "item_id": "6261",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "tauriner": {
+    "label": "Tauriner",
+    "item_id": "5325",
+    "classification": "filler",
+    "purchase_price": "3000",
+    "purchase_points": "60"
+  },
+  "tauriner_maximum": {
+    "label": "Tauriner Maximum",
+    "item_id": "5994",
+    "classification": "filler",
+    "purchase_price": "30000",
+    "purchase_points": "1000"
+  },
+  "taxi_driver_cap": {
+    "label": "Taxi Driver Cap",
+    "item_id": "6090",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "3000"
+  },
+  "teardrop_earrings": {
+    "label": "Teardrop Earrings",
+    "item_id": "5430",
+    "classification": "filler",
+    "purchase_price": "4000",
+    "purchase_points": "0"
+  },
+  "ten_ten_one_charm": {
+    "label": "Ten-Ten-One Charm",
+    "item_id": "5446",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "teriyaki_smile_burger_takeout": {
+    "label": "Teriyaki Smile Burger (Takeout)",
+    "item_id": "5575",
+    "classification": "filler",
+    "purchase_price": "600",
+    "purchase_points": "0"
+  },
+  "the_advanced_guide_to_cooperative_fighting": {
+    "label": "The Advanced Guide to Cooperative Fighting",
+    "item_id": "6044",
+    "classification": "filler",
+    "purchase_price": "540000",
+    "purchase_points": "0"
+  },
+  "the_basic_guide_to_cooperative_fighting": {
+    "label": "The Basic Guide to Cooperative Fighting",
+    "item_id": "6042",
+    "classification": "filler",
+    "purchase_price": "90000",
+    "purchase_points": "0"
+  },
+  "the_basics_of_shogi": {
+    "label": "The Basics of Shogi",
+    "item_id": "5451",
+    "classification": "important",
+    "purchase_price": "1200",
+    "purchase_points": "0"
+  },
+  "the_countdown": {
+    "label": "The Countdown",
+    "item_id": "6181",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "the_practical_guide_to_cooperative_fighting": {
+    "label": "The Practical Guide to Cooperative Fighting",
+    "item_id": "6043",
+    "classification": "filler",
+    "purchase_price": "180000",
+    "purchase_points": "0"
+  },
+  "the_secret_ultimate_guide_to_cooperative_fighting": {
+    "label": "The Secret Ultimate Guide to Cooperative Fighting",
+    "item_id": "6045",
+    "classification": "filler",
+    "purchase_price": "1800000",
+    "purchase_points": "0"
+  },
+  "three_piece_suit": {
+    "label": "Three-Piece Suit",
+    "item_id": "6060",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "throw_more_bombs_1": {
+    "label": "Throw More Bombs 1",
+    "item_id": "6241",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "throw_more_bombs_2": {
+    "label": "Throw More Bombs 2",
+    "item_id": "6242",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "throw_more_bombs_3": {
+    "label": "Throw More Bombs 3",
+    "item_id": "6243",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "throw_more_bombs_4": {
+    "label": "Throw More Bombs 4",
+    "item_id": "6244",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "thunder_darts": {
+    "label": "Thunder Darts",
+    "item_id": "6038",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "tiger_drop": {
+    "label": "Tiger Drop",
+    "item_id": "6184",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "tooghness_infinity": {
+    "label": "Tooghness Infinity",
+    "item_id": "6258",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "tougheness_zz": {
+    "label": "Tougheness ZZ",
+    "item_id": "6262",
+    "classification": "trap",
+    "purchase_price": "1",
+    "purchase_points": "1"
+  },
+  "toughness_infinity": {
+    "label": "Toughness Infinity",
+    "item_id": "5991",
+    "classification": "filler",
+    "purchase_price": "50000",
+    "purchase_points": "1500"
+  },
+  "toughness_light": {
+    "label": "Toughness Light",
+    "item_id": "5323",
+    "classification": "filler",
+    "purchase_price": "200",
+    "purchase_points": "0"
+  },
+  "toughness_z": {
+    "label": "Toughness Z",
+    "item_id": "5324",
+    "classification": "filler",
+    "purchase_price": "2000",
+    "purchase_points": "50"
+  },
+  "toughness_zz": {
+    "label": "Toughness ZZ",
+    "item_id": "5990",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "0"
+  },
+  "toy_crows": {
+    "label": "Toy Crows",
+    "item_id": "6037",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "2700"
+  },
+  "trinity_circle_earrings": {
+    "label": "Trinity Circle Earrings",
+    "item_id": "5431",
+    "classification": "filler",
+    "purchase_price": "35000",
+    "purchase_points": "0"
+  },
+  "triple_finisher": {
+    "label": "Triple Finisher",
+    "item_id": "6178",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "triple_quickstep": {
+    "label": "Triple Quickstep",
+    "item_id": "6229",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "triple_yokan": {
+    "label": "Triple Yokan",
+    "item_id": "5445",
+    "classification": "filler",
+    "purchase_price": "10000",
+    "purchase_points": "5000"
+  },
+  "tuna_egg_sandwich": {
+    "label": "Tuna & Egg Sandwich",
+    "item_id": "5501",
+    "classification": "filler",
+    "purchase_price": "300",
+    "purchase_points": "0"
+  },
+  "tuna_onigiri": {
+    "label": "Tuna Onigiri",
+    "item_id": "5498",
+    "classification": "filler",
+    "purchase_price": "150",
+    "purchase_points": "0"
+  },
+  "twinkle_heart_ring": {
+    "label": "Twinkle Heart Ring",
+    "item_id": "5437",
+    "classification": "filler",
+    "purchase_price": "35000",
+    "purchase_points": "0"
+  },
+  "twisting_ultimate_counter": {
+    "label": "Twisting Ultimate Counter",
+    "item_id": "6228",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ultimate_counter_damage_up": {
+    "label": "Ultimate Counter Damage Up",
+    "item_id": "6162",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "ultra_balanced_frame": {
+    "label": "Ultra Balanced Frame",
+    "item_id": "4769",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_balanced_gears": {
+    "label": "Ultra Balanced Gears",
+    "item_id": "4844",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_balanced_motor": {
+    "label": "Ultra Balanced Motor",
+    "item_id": "4805",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_boost_gears": {
+    "label": "Ultra Boost Gears",
+    "item_id": "4854",
+    "classification": "important",
+    "purchase_price": "19800",
+    "purchase_points": "19800"
+  },
+  "ultra_godspeed_gears": {
+    "label": "Ultra Godspeed Gears",
+    "item_id": "4859",
+    "classification": "important",
+    "purchase_price": "19800",
+    "purchase_points": "19800"
+  },
+  "ultra_godspeed_motor": {
+    "label": "Ultra Godspeed Motor",
+    "item_id": "4755",
+    "classification": "important",
+    "purchase_price": "120000",
+    "purchase_points": "120000"
+  },
+  "ultra_high_torque_motor": {
+    "label": "Ultra High Torque Motor",
+    "item_id": "4754",
+    "classification": "important",
+    "purchase_price": "120000",
+    "purchase_points": "120000"
+  },
+  "ultra_low_profile_tires": {
+    "label": "Ultra Low Profile Tires",
+    "item_id": "4829",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_metal_frame": {
+    "label": "Ultra Metal Frame",
+    "item_id": "4774",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_power_gears": {
+    "label": "Ultra Power Gears",
+    "item_id": "4839",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_power_motor": {
+    "label": "Ultra Power Motor",
+    "item_id": "4795",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_regular_gears": {
+    "label": "Ultra Regular Gears",
+    "item_id": "4849",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_rocket_frame": {
+    "label": "Ultra Rocket Frame",
+    "item_id": "4779",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_rubber_frame": {
+    "label": "Ultra Rubber Frame",
+    "item_id": "4784",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_slick_tires": {
+    "label": "Ultra Slick Tires",
+    "item_id": "4814",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_slim_tires": {
+    "label": "Ultra Slim Tires",
+    "item_id": "4834",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_soft_tires": {
+    "label": "Ultra Soft Tires",
+    "item_id": "4819",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_speed_frame": {
+    "label": "Ultra Speed Frame",
+    "item_id": "4789",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "ultra_speed_motor": {
+    "label": "Ultra Speed Motor",
+    "item_id": "4800",
+    "classification": "important",
+    "purchase_price": "4980",
+    "purchase_points": "4980"
+  },
+  "ultra_spiked_tires": {
+    "label": "Ultra Spiked Tires",
+    "item_id": "4824",
+    "classification": "important",
+    "purchase_price": "3980",
+    "purchase_points": "3980"
+  },
+  "underwear": {
+    "label": "Underwear",
+    "item_id": "6054",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "visual_kei_makeup": {
+    "label": "Visual-kei Makeup",
+    "item_id": "6120",
+    "classification": "important",
+    "purchase_price": "200000",
+    "purchase_points": "100"
+  },
+  "vitamin_water": {
+    "label": "Vitamin Water",
+    "item_id": "5737",
+    "classification": "filler",
+    "purchase_price": "160",
+    "purchase_points": "0"
+  },
+  "wakame_ramen_sesame_soy_sauce": {
+    "label": "Wakame Ramen Sesame Soy Sauce",
+    "item_id": "5516",
+    "classification": "filler",
+    "purchase_price": "255",
+    "purchase_points": "0"
+  },
+  "wedding_ring": {
+    "label": "Wedding Ring",
+    "item_id": "6052",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "0"
+  },
+  "weird_stranger_makeup": {
+    "label": "Weird Stranger Makeup",
+    "item_id": "6124",
+    "classification": "important",
+    "purchase_price": "0",
+    "purchase_points": "5000"
+  },
+  "wellington_sunglasses": {
+    "label": "Wellington Sunglasses",
+    "item_id": "6070",
+    "classification": "important",
+    "purchase_price": "50000",
+    "purchase_points": "100"
+  },
+  "white_gem_bracelet": {
+    "label": "White Gem Bracelet",
+    "item_id": "5958",
+    "classification": "useful",
+    "purchase_price": "11000",
+    "purchase_points": "0"
+  },
+  "white_pearl_earrings": {
+    "label": "White Pearl Earrings",
+    "item_id": "5434",
+    "classification": "filler",
+    "purchase_price": "25000",
+    "purchase_points": "0"
+  },
+  "wind_darts": {
+    "label": "Wind Darts",
+    "item_id": "6039",
+    "classification": "important",
+    "purchase_price": "1980000",
+    "purchase_points": "0"
+  },
+  "wonton_harusame": {
+    "label": "Wonton Harusame",
+    "item_id": "5517",
+    "classification": "filler",
+    "purchase_price": "197",
+    "purchase_points": "0"
+  },
+  "wrathful_kick": {
+    "label": "Wrathful Kick",
+    "item_id": "6232",
+    "classification": "important",
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "yakisoba_mochichi": {
+    "label": "Yakisoba Mochichi",
+    "item_id": "5515",
+    "classification": "filler",
+    "purchase_price": "255",
+    "purchase_points": "0"
+  },
+  "yakuza_dress_up_badge_hex": {
+    "label": "Yakuza Dress Up Badge (Hex)",
+    "item_id": "6114",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "yakuza_dress_up_badge_round": {
+    "label": "Yakuza Dress Up Badge (Round)",
+    "item_id": "6113",
+    "classification": "important",
+    "purchase_price": "150000",
+    "purchase_points": "100"
+  },
+  "zone": {
+    "label": "ZONe",
+    "item_id": "5712",
+    "classification": "filler",
+    "purchase_price": "210",
+    "purchase_points": "0"
+  }
+}
