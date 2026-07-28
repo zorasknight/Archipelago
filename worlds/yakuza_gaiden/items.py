@@ -82,6 +82,7 @@ DEFAULT_ITEM_CLASSIFICATIONS = {
     for item in ITEMS.values()
 }
 
+GOLDEN_BALL_COUNT = 7
 
 FILLER_ITEMS = [
     item["label"]
@@ -160,8 +161,13 @@ def create_all_items(world: YakuzaGaiden) -> None:
             "IMPORTANT" in get_item_tags(item)
             or "USEFUL" in get_item_tags(item)
         )
+        and item["label"] != "Golden Ball"
     ]
 
+    for _ in range(GOLDEN_BALL_COUNT):
+        itempool.append(
+            world.create_item("Golden Ball")
+        )
     # Some items may only exist if the player enables certain options.
     # In our case, If the hammer option is enabled, the sixth item is the Hammer.
     # Otherwise, we add a filler Confetti Cannon.
