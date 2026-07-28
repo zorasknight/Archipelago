@@ -69,7 +69,7 @@ def connect_regions(world: YakuzaGaiden) -> None:
     # An even easier way is to use the region.connect helper.
     yokohama.connect(sotenbori, "Yokohama to Sotenbori")
     sotenbori.connect(sotenbori_akame_3, "Sotenbori to Sotenbori Akame 3")
-    sotenbori_akame_3.connect(pocket_circuit, "Sotenbori Akame 3 to Pocket Circuit")
+    colosseum_bottom.connect(pocket_circuit, "Colosseum to Pocket Circuit")
     sotenbori_akame_3.connect(colosseum_bottom, "Sotenbori Akame 3 to Colosseum")
     colosseum_bottom.connect(colosseum_silver, "Colosseum to Colosseum Silver Rank")
     colosseum_silver.connect(colosseum_gold, "Colosseum Silver Rank to Colosseum Gold Rank")

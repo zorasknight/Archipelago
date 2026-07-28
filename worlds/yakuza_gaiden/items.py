@@ -33,32 +33,87 @@ ITEM_NAME_TO_ID = {
 }
 
 
-# Items should have a defined default classification.
-# In our case, we will make a dictionary from item name to classification.
+# --------------------------------------------------
+# Item Tag Helpers
+# --------------------------------------------------
+
 CLASSIFICATION_MAP = {
-    "important": ItemClassification.progression,
-    "useful": ItemClassification.useful,
-    "filler": ItemClassification.filler,
-    "trap": ItemClassification.trap,
+    "IMPORTANT": ItemClassification.progression,
+    "USEFUL": ItemClassification.useful,
+    "FILLER": ItemClassification.filler,
+    "TRAP": ItemClassification.trap,
 }
+
+OPTION_TAG_RULES = {
+    "POCKET CIRCUIT": "pocket_circuit",
+}
+
+
+def get_item_tags(item):
+    return [
+        tag.upper()
+        for tag in item.get("tags", [])
+    ]
+
+
+def get_item_classification(item):
+    """
+    Convert tags into Archipelago classification.
+    """
+
+    tags = get_item_tags(item)
+
+    for tag in [
+        "IMPORTANT",
+        "TRAP",
+        "USEFUL",
+        "FILLER",
+    ]:
+        if tag in tags:
+            return CLASSIFICATION_MAP[tag]
+
+    # Default fallback
+    return ItemClassification.filler
+
 
 
 DEFAULT_ITEM_CLASSIFICATIONS = {
-    item["label"]: CLASSIFICATION_MAP[item["classification"]]
+    item["label"]: get_item_classification(item)
     for item in ITEMS.values()
 }
+
 
 FILLER_ITEMS = [
     item["label"]
     for item in ITEMS.values()
-    if item["classification"] == "filler"
+    if "FILLER" in get_item_tags(item)
 ]
+
 
 TRAP_ITEMS = [
     item["label"]
     for item in ITEMS.values()
-    if item["classification"] == "trap"
+    if "TRAP" in get_item_tags(item)
 ]
+
+# --------------------------------------------------
+# Option Tag Filtering
+# --------------------------------------------------
+
+
+def item_allowed(world, item):
+
+    tags = get_item_tags(item)
+
+    for tag, option in OPTION_TAG_RULES.items():
+
+        if tag not in tags:
+            continue
+
+        if not getattr(world.options, option):
+            return False
+
+    return True
 
 # Each Item instance must correctly report the "game" it belongs to.
 # To make this simple, it is common practice to subclass the basic Item class and override the "game" field.
@@ -100,7 +155,11 @@ def create_all_items(world: YakuzaGaiden) -> None:
     itempool: list[Item] = [
         world.create_item(item["label"])
         for item in ITEMS.values()
-        if item["classification"] in ("important", "useful")
+        if item_allowed(world, item)
+        and (
+            "IMPORTANT" in get_item_tags(item)
+            or "USEFUL" in get_item_tags(item)
+        )
     ]
 
     # Some items may only exist if the player enables certain options.

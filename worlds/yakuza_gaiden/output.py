@@ -82,13 +82,6 @@ class GaidenContainer(APPlayerContainer):
         super().write_contents(opened_zipfile)
 
 
-MONETARY_MIN = 1
-MONETARY_MAX = 1000000
-
-POINT_MIN = 1
-POINT_MAX = 8000
-
-
 def weighted_rand(rng, min_val, max_val):
     span = max_val - min_val + 1
 
@@ -108,17 +101,34 @@ def weighted_rand(rng, min_val, max_val):
         return rng.randint(expensive_max + 1, max_val)
 
 
-def rand_money(rng):
-    return weighted_rand(rng, MONETARY_MIN, MONETARY_MAX)
 
-
-def rand_points(rng):
-    return weighted_rand(rng, POINT_MIN, POINT_MAX)
 
 def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
+
+    MONETARY_MIN = int(world.options.item_cost_min)
+    MONETARY_MAX = int(world.options.item_cost_max)
+
+    POINT_MIN = int(world.options.item_cost_point_min)
+    POINT_MAX = int(world.options.item_cost_point_max)
+
+    if MONETARY_MIN > MONETARY_MAX:
+        raise ValueError(
+            "Item Cost Minimum cannot be greater than Item Cost Maximum"
+        )
+
+    if POINT_MIN > POINT_MAX:
+        raise ValueError(
+            "Item Point Minimum cannot be greater than Item Cost Point Maximum"
+        )
+
+    def rand_money(rng):
+        return weighted_rand(rng, MONETARY_MIN, MONETARY_MAX)
+
+    def rand_points(rng):
+        return weighted_rand(rng, POINT_MIN, POINT_MAX)
+
     patch_rows = []
 
-    # Use Archipelago's seeded RNG so prices are deterministic
     rng = world.random
 
     for location in world.get_locations():

@@ -3,14 +3,31 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 from rule_builder.options import OptionFilter
-from rule_builder.rules import Has, HasAll, Rule
-
+from rule_builder.rules import Has, HasAll, HasFromListUnique, True_, Rule
+from .data import LOCATION_NAME_TO_DATA
 from .options import HardMode
 
 if TYPE_CHECKING:
     from .world import YakuzaGaiden
 
-HAS_KEY = Has("Key")  # Hmm, what could this be? A little foreshadowing perhaps? :) You'll find out if you keep reading!
+def create_key_item_check_rule(n: int) -> Rule:
+        return HasFromListUnique(
+            "Sneakers",
+            "Soccer Ball",
+            "Wedding Ring",
+            "Hat",
+            "Crawfish",
+            "Baby Tooth",
+            "Underwear",
+            "Signed Ball",
+            count=n
+        )
+
+def create_golden_ball_check_rule(n: int) -> Rule:
+        return Has(
+            "Golden Ball",
+            count=n
+        )
 
 
 def set_all_rules(world: YakuzaGaiden) -> None:
@@ -19,27 +36,32 @@ def set_all_rules(world: YakuzaGaiden) -> None:
     # Note: Regions do not have rules, the Entrances connecting them do!
     # We'll do entrances first, then locations, and then finally we set our victory condition.
 
-    #set_all_entrance_rules(world)
-    #set_all_location_rules(world)
+    set_all_entrance_rules(world)
+    set_all_location_rules(world)
     set_completion_condition(world)
 
-
-#def set_all_entrance_rules(world: YakuzaGaiden) -> None:
+def set_all_entrance_rules(world: YakuzaGaiden) -> None:
     # First, we need to actually grab our entrances. Luckily, there is a helper method for this.
-    # yokohama_to_sotenbori = world.get_entrance("Yokohama to Sotenbori")
-    # sotenbori_to_sotenbori_akame_3 = world.get_entrance("Sotenbori to Sotenbori Akame 3")
-    # sotenbori_akame_3_to_colosseum = world.get_entrance("Sotenbori Akame 3 to Colosseum")
+    
+    yokohama_to_sotenbori = world.get_entrance("Yokohama to Sotenbori")
+    sotenbori_to_sotenbori_akame_3 = world.get_entrance("Sotenbori to Sotenbori Akame 3")
+    sotenbori_akame_3_to_colosseum = world.get_entrance("Sotenbori Akame 3 to Colosseum")
+    colosseum_to_pocket_circuit = world.get_entrance("Colosseum to Pocket Circuit")
 
     # Now, let's make some rules!
     # First, let's handle the transition from the overworld to the bottom right room,
     # which requires slashing a bush with the Sword.
     # For this, we need a rule that says "player has a Sword".
     # We can use a "Has"-type rule from the rule_builder module for this.
-    # can_destroy_bush = Has("Sword")
+
+    world.set_rule(yokohama_to_sotenbori, True_)
+    world.set_rule(sotenbori_to_sotenbori_akame_3, create_key_item_check_rule(2))
+    world.set_rule(sotenbori_akame_3_to_colosseum, create_key_item_check_rule(6))
+    world.set_rule(colosseum_to_pocket_circuit, create_key_item_check_rule(6))
 
     # Now we can set our "can_destroy_bush" rule to the entrance which requires slashing a bush to clear the path.
     # The easiest way to do this is by calling world.set_rule, which works for both Locations and Entrances.
-    # world.set_rule(yokohama_to_sotenbori, can_destroy_bush)
+
 
     # Conditions can also depend on event items.
     # button_pressed = Has("Top Left Room Button Pressed")
@@ -71,7 +93,7 @@ def set_all_rules(world: YakuzaGaiden) -> None:
     # Rule Builder is quite comprehensive, and even if you have really esoteric rules,
     # you can make custom rules by subclassing CustomRule.
 
-#def set_all_location_rules(world: YakuzaGaiden) -> None:
+def set_all_location_rules(world: YakuzaGaiden) -> None:
     # Location rules work no differently from Entrance rules.
     # Most of our locations are chests that can simply be opened by walking up to them.
     # Thus, their logical requirements are covered by the Entrance rules of the Entrances that were required to
@@ -90,19 +112,20 @@ def set_all_rules(world: YakuzaGaiden) -> None:
     #can_defeat_basic_enemy: Rule = Has("Sword")
 
     # Next, we'll check whether hard mode has been chosen in the player options.
-    #if world.options.hard_mode:
-        # We'll make the condition for "Has a Shield or a Health Upgrade".
-        # We can chain two "Has" conditions together with the | operator to make "Has Shield or has Health Upgrade".
-        #can_withstand_a_hit = Has("Shield") | Has("Health Upgrade")
+    if world.options.pocket_circuit:
+        basic_pocket_circuit_items = Has("High Capacity Battery") | Has("Regular Battery") & Has("High Torque Motor") | Has("Godspeed Motor")
+    
+    for location in world.get_locations():
 
-        # Now, we chain this rule to our Sword rule.
-        # Since we want both conditions to be true, in this case, we have to chain them in an "and" way.
-        # For this, we can use the & operator.
-        #can_defeat_basic_enemy = can_defeat_basic_enemy & can_withstand_a_hit
+            location_data = LOCATION_NAME_TO_DATA.get(location.name)
 
-    # Finally, we set our rule onto the Right Room Eney Drop location.
-    # right_room_enemy = world.get_location("Right Room Enemy Drop")
-    # world.set_rule(right_room_enemy, can_defeat_basic_enemy)
+            if location_data is None:
+                continue
+
+            tags = location_data.get("tags", "")
+
+            if "Pocket Circuit" in tags:
+                world.set_rule(location, basic_pocket_circuit_items)
 
     # For the final boss, we also need to chain multiple conditions.
     # First of all, you always need a Sword and a Shield.
@@ -134,7 +157,7 @@ def set_completion_condition(world: YakuzaGaiden) -> None:
     # Finally, we need to set a completion condition for our world, defining what the player needs to win the game.
     # For this, we can use world.set_completion_rule.
     # You can just set a completion condition directly like any other condition, referencing items the player receives:
-    world.set_completion_rule(HasAll("Golden Ball"))
+    world.set_completion_rule(create_golden_ball_check_rule(7))
 
     # In our case, we went for the Victory event design pattern (see create_events() in locations.py).
     # So lets undo what we just did, and instead set the completion condition to:

@@ -34,6 +34,19 @@ LOCATION_REGION_MAP = {
     "COLOSSEUM": "Colosseum Entrance",
 }
 
+OPTION_TAGS = {
+    "POCKET CIRCUIT": "pocket_circuit",
+    "WEIRD SHOPS": "weird_shops",
+    "SHOPS": "shops",
+    "CONSUMABLE SHOPS": "consumable_shops",
+    "CASINO": "casino",
+    "DARTS": "darts",
+    "POOL": "pool",
+    "GOLF": "golf",
+    "SHOGI": "shogi",
+    "MINIGAMES": "minigames",
+}
+
 # Each Location instance must correctly report the "game" it belongs to.
 # To make this simple, it is common practice to subclass the basic Location class and override the "game" field.
 class YakuzaGaidenLocation(Location):
@@ -78,30 +91,50 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
         if location["region"] == "JUNK":
             continue
 
+        tags = location.get("tags", "").upper()
+
+        # Skip locations whose option is disabled
+        skip = False
+
+        if "POCKET CIRCUIT" in tags and not world.options.pocket_circuit:
+            skip = True
+
+        if "WEIRD SHOPS" in tags and not world.options.weird_shops:
+            skip = True
+
+        if "CONSUMABLE SHOPS" in tags and not world.options.consumable_shops:
+            skip = True
+
+        if "SHOPS" in tags and not world.options.shops:
+            skip = True
+
+        if "MINIGAMES" in tags and not world.options.minigames:
+            skip = True
+
+        if "CASINO" in tags and not world.options.casino:
+            skip = True
+
+        if "DARTS" in tags and not world.options.darts:
+            skip = True
+
+        if "POOL" in tags and not world.options.pool:
+            skip = True
+
+        if "GOLF" in tags and not world.options.golf:
+            skip = True
+
+        if "SHOGI" in tags and not world.options.shogi:
+            skip = True
+
+        if skip:
+            continue
+
         region = region_lookup.get(location["region"], sotenbori)
 
         region.add_locations(
             {location["label"]: int(location["id"])},
             YakuzaGaidenLocation,
         )
-
-    # Locations may be in different regions depending on the player's options.
-    # In our case, the hammer option puts the Top Middle Chest into its own room called Top Middle Room.
-    #top_middle_room_locations = get_location_names_with_ids(["Top Middle Chest"])
-    #if world.options.hammer:
-        #top_middle_room = world.get_region("Top Middle Room")
-        #top_middle_room.add_locations(top_middle_room_locations, YakuzaGaidenLocation)
-    #else:
-        #yokohama.add_locations(top_middle_room_locations, YakuzaGaidenLocation)
-
-    # Locations may exist only if the player enables certain options.
-    # In our case, the extra_starting_chest option adds the Bottom Left Extra Chest location.
-    #if world.options.pocket_circuit:
-        # Once again, it is important to stress that even though the Bottom Left Extra Chest location doesn't always
-        # exist, it must still always be present in the world's location_name_to_id.
-        # Whether the location actually exists in the seed is purely determined by whether we create and add it here.
-        #pocket_circuit_locations = get_location_names_with_ids(["Bottom Left Extra Chest"])
-        #pocket_circuit.add_locations(pocket_circuit_locations, YakuzaGaidenLocation)
 
 
 #def create_events(world: YakuzaGaiden) -> None:
