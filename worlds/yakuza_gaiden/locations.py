@@ -65,7 +65,7 @@ def get_location_names_with_ids(location_names: list[str]) -> dict[str, int | No
 
 def create_all_locations(world: YakuzaGaiden) -> None:
     create_regular_locations(world)
-    #create_events(world)
+    create_events(world)
 
 
 def create_regular_locations(world: YakuzaGaiden) -> None:
@@ -136,6 +136,14 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
             YakuzaGaidenLocation,
         )
 
+
+def create_events(world: YakuzaGaiden) -> None:
+    yokohama = world.get_region("Yokohama")
+
+    yokohama.add_event(
+        "Collect All Golden Balls",
+        "EVENT_GOLDEN_BALLS"
+    )
 
 #def create_events(world: YakuzaGaiden) -> None:
     # Sometimes, the player may perform in-game actions that allow them to progress which are not related to Items.

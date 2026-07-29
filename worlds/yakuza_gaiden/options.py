@@ -146,7 +146,7 @@ class ItemCostMax(Range):
     range_end = 3000000
 
     # Range options must define an explicit default value.
-    default = 1000
+    default = 1000000
 
 class ItemCostPointMin(Range):
     """
