@@ -27,6 +27,15 @@ class PocketCircuit(Toggle):
     display_name = "Enable Pocket Circuit Items Checks"
     default = True
 
+class ProgressiveSkills(Toggle):
+    """
+    Allows certain skill books to progressively get stronger with each additional copy found.
+    Disabling this causes imbalance with stats and can have weird effects with some skills gotten out of order.
+    """
+
+    display_name = "Enable Progressive Skills"
+    default = True
+
 
 class Shops(Toggle):
     """
@@ -180,6 +189,7 @@ class ItemCostPointMax(Range):
 @dataclass
 class YakuzaGaidenOptions(PerGameCommonOptions):
     pocket_circuit: PocketCircuit
+    progressive_skills: ProgressiveSkills
     minigames: Minigames
     trap_chance: TrapChance
     shops: Shops
@@ -200,7 +210,7 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
 option_groups = [
     OptionGroup(
         "Primary Settings",
-        [PocketCircuit, Minigames, TrapChance],
+        [ProgressiveSkills, PocketCircuit, Minigames, TrapChance],
     ),
     OptionGroup(
         "Shops",

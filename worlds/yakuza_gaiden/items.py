@@ -84,6 +84,23 @@ DEFAULT_ITEM_CLASSIFICATIONS = {
 
 GOLDEN_BALL_COUNT = 7
 
+PROGRESSIVE_SKILL_COUNTS = { 
+    "Progressive HP Up": 23, 
+    "Progressive Damage Up": 18, 
+    "Progressive Heat Gauge Up": 4, 
+    "Progressive Extreme Heat Damage Up": 2, 
+    "Progressive Drunk Heat Gauge Increase": 2, 
+    "Progressive Drunk Attack Heat Gauge Increase": 2, 
+    "Progressive Equipment Up": 3, 
+    "Progressive Recovery From Food Up": 3, 
+    "Progressive Heat Action Damage Up in ExH": 2, 
+    "Progressive Evasion Up in ExH": 2, 
+    "Progressive Extra Wire": 4, 
+    "Progressive Extra Bomb": 4, 
+    "Progressive Extra Drone": 4, 
+    "Progressive Extra Shoe Boost": 4, 
+    }
+
 FILLER_ITEMS = [
     item["label"]
     for item in ITEMS.values()
@@ -112,6 +129,14 @@ def item_allowed(world, item):
             continue
 
         if not getattr(world.options, option):
+            return False
+
+    if "PROGRESSIVE_SKILLS" in tags:
+        if not world.options.progressive_skills:
+            return False
+
+    if "REMOVE_SKILLS" in tags:
+        if world.options.progressive_skills:
             return False
 
     return True
@@ -161,6 +186,7 @@ def create_all_items(world: YakuzaGaiden) -> None:
             "IMPORTANT" in get_item_tags(item)
             or "USEFUL" in get_item_tags(item)
         )
+        and "PROGRESSIVE_SKILLS" not in get_item_tags(item)
         and item["label"] != "Golden Ball"
     ]
 
@@ -168,6 +194,13 @@ def create_all_items(world: YakuzaGaiden) -> None:
         itempool.append(
             world.create_item("Golden Ball")
         )
+
+    if world.options.progressive_skills:
+        for item_name, count in PROGRESSIVE_SKILL_COUNTS.items():
+            for _ in range(count):
+                itempool.append(
+                    world.create_item(item_name)
+                )
     # Some items may only exist if the player enables certain options.
     # In our case, If the hammer option is enabled, the sixth item is the Hammer.
     # Otherwise, we add a filler Confetti Cannon.

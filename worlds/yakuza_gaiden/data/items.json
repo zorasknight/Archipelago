@@ -399,7 +399,8 @@
     "label": "Damage Up 1",
     "item_id": "6147",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -408,7 +409,8 @@
     "label": "Damage Up 2",
     "item_id": "6148",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -417,7 +419,8 @@
     "label": "Damage Up 3",
     "item_id": "6149",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -426,7 +429,8 @@
     "label": "Damage Up 4",
     "item_id": "6150",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -502,7 +506,8 @@
     "label": "Drunk Heat Gauge 1",
     "item_id": "6170",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -511,7 +516,8 @@
     "label": "Drunk Heat Gauge 2",
     "item_id": "6171",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -520,7 +526,8 @@
     "label": "Drunken Dragon 1",
     "item_id": "6172",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -529,7 +536,8 @@
     "label": "Drunken Dragon 2",
     "item_id": "6173",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -558,7 +566,8 @@
     "label": "EX Damage Up 1",
     "item_id": "6151",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -567,7 +576,8 @@
     "label": "EX Damage Up 2",
     "item_id": "6152",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -576,7 +586,8 @@
     "label": "EX Damage Up 3",
     "item_id": "6153",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -585,7 +596,8 @@
     "label": "EX Damage Up 4",
     "item_id": "6154",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -594,7 +606,8 @@
     "label": "EX Health Up 1",
     "item_id": "6143",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -603,7 +616,8 @@
     "label": "EX Health Up 2",
     "item_id": "6144",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -612,7 +626,8 @@
     "label": "EX Health Up 3",
     "item_id": "6145",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -621,7 +636,8 @@
     "label": "EX Health Up 4",
     "item_id": "6146",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -670,7 +686,8 @@
     "label": "Extra Equipment 1",
     "item_id": "6174",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -679,7 +696,8 @@
     "label": "Extra Equipment 2",
     "item_id": "6175",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -688,7 +706,8 @@
     "label": "Extra Equipment 3",
     "item_id": "6176",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -837,7 +856,8 @@
     "label": "Extra Wire 1",
     "item_id": "6237",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -846,7 +866,8 @@
     "label": "Extra Wire 2",
     "item_id": "6238",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -855,7 +876,8 @@
     "label": "Extra Wire 3",
     "item_id": "6239",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -864,7 +886,8 @@
     "label": "Extra Wire 4",
     "item_id": "6240",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -882,7 +905,8 @@
     "label": "Extreme Heat Damage 1",
     "item_id": "6159",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -891,7 +915,8 @@
     "label": "Extreme Heat Damage 2",
     "item_id": "6160",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1119,7 +1144,8 @@
     "label": "HA: Attack Boost 1",
     "item_id": "6224",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1128,7 +1154,8 @@
     "label": "HA: Attack Boost 2",
     "item_id": "6225",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1209,7 +1236,8 @@
     "label": "HA: Evasion Up 1",
     "item_id": "6230",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1218,7 +1246,8 @@
     "label": "HA: Evasion Up 2",
     "item_id": "6231",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1246,7 +1275,8 @@
     "label": "Health Up 1",
     "item_id": "6139",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1255,7 +1285,8 @@
     "label": "Health Up 2",
     "item_id": "6140",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1264,7 +1295,8 @@
     "label": "Health Up 3",
     "item_id": "6141",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1273,7 +1305,8 @@
     "label": "Health Up 4",
     "item_id": "6142",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1291,7 +1324,8 @@
     "label": "Heat Gauge Up 1",
     "item_id": "6155",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1300,7 +1334,8 @@
     "label": "Heat Gauge Up 2",
     "item_id": "6156",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1309,7 +1344,8 @@
     "label": "Heat Gauge Up 3",
     "item_id": "6157",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1318,7 +1354,8 @@
     "label": "Heat Gauge Up 4",
     "item_id": "6158",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1486,7 +1523,8 @@
     "label": "KIW Damage Up 1",
     "item_id": "6212",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1495,7 +1533,8 @@
     "label": "KIW Damage Up 10",
     "item_id": "6221",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1504,7 +1543,8 @@
     "label": "KIW Damage Up 2",
     "item_id": "6213",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1513,7 +1553,8 @@
     "label": "KIW Damage Up 3",
     "item_id": "6214",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1522,7 +1563,8 @@
     "label": "KIW Damage Up 4",
     "item_id": "6215",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1531,7 +1573,8 @@
     "label": "KIW Damage Up 5",
     "item_id": "6216",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1540,7 +1583,8 @@
     "label": "KIW Damage Up 6",
     "item_id": "6217",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1549,7 +1593,8 @@
     "label": "KIW Damage Up 7",
     "item_id": "6218",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1558,7 +1603,8 @@
     "label": "KIW Damage Up 8",
     "item_id": "6219",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1567,7 +1613,8 @@
     "label": "KIW Damage Up 9",
     "item_id": "6220",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1576,7 +1623,8 @@
     "label": "KIW Health Up 1",
     "item_id": "6197",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1585,7 +1633,8 @@
     "label": "KIW Health Up 10",
     "item_id": "6206",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1594,7 +1643,8 @@
     "label": "KIW Health Up 11",
     "item_id": "6207",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1603,7 +1653,8 @@
     "label": "KIW Health Up 12",
     "item_id": "6208",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1612,7 +1663,8 @@
     "label": "KIW Health Up 13",
     "item_id": "6209",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1621,7 +1673,8 @@
     "label": "KIW Health Up 14",
     "item_id": "6210",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1630,7 +1683,8 @@
     "label": "KIW Health Up 15",
     "item_id": "6211",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1639,7 +1693,8 @@
     "label": "KIW Health Up 2",
     "item_id": "6198",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1648,7 +1703,8 @@
     "label": "KIW Health Up 3",
     "item_id": "6199",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1657,7 +1713,8 @@
     "label": "KIW Health Up 4",
     "item_id": "6200",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1666,7 +1723,8 @@
     "label": "KIW Health Up 5",
     "item_id": "6201",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1675,7 +1733,8 @@
     "label": "KIW Health Up 6",
     "item_id": "6202",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1684,7 +1743,8 @@
     "label": "KIW Health Up 7",
     "item_id": "6203",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1693,7 +1753,8 @@
     "label": "KIW Health Up 8",
     "item_id": "6204",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1702,7 +1763,8 @@
     "label": "KIW Health Up 9",
     "item_id": "6205",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1775,7 +1837,8 @@
     "label": "Longer Shoe Boost 1",
     "item_id": "6249",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1784,7 +1847,8 @@
     "label": "Longer Shoe Boost 2",
     "item_id": "6250",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1793,7 +1857,8 @@
     "label": "Longer Shoe Boost 3",
     "item_id": "6251",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1802,7 +1867,8 @@
     "label": "Longer Shoe Boost 4",
     "item_id": "6252",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1880,7 +1946,8 @@
     "label": "More Drones 1",
     "item_id": "6245",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1889,7 +1956,8 @@
     "label": "More Drones 2",
     "item_id": "6246",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1898,7 +1966,8 @@
     "label": "More Drones 3",
     "item_id": "6247",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -1907,7 +1976,8 @@
     "label": "More Drones 4",
     "item_id": "6248",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2033,6 +2103,146 @@
     "purchase_price": "0",
     "purchase_points": "2000"
   },
+  "progressive_damage_up": {
+    "label": "Progressive Damage Up",
+    "item_id": "6272",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_drunk_attack_heat_gauge_increase": {
+    "label": "Progressive Drunk Attack Heat Gauge Increase",
+    "item_id": "6276",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_drunk_heat_gauge_increase": {
+    "label": "Progressive Drunk Heat Gauge Increase",
+    "item_id": "6275",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_equipment_up": {
+    "label": "Progressive Equipment Up",
+    "item_id": "6277",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_evasion_up_in_exh": {
+    "label": "Progressive Evasion Up in ExH",
+    "item_id": "6280",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_extra_bomb": {
+    "label": "Progressive Extra Bomb",
+    "item_id": "6282",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_extra_drone": {
+    "label": "Progressive Extra Drone",
+    "item_id": "6283",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_extra_shoe_boost": {
+    "label": "Progressive Extra Shoe Boost",
+    "item_id": "6284",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_extra_wire": {
+    "label": "Progressive Extra Wire",
+    "item_id": "6281",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_extreme_heat_damage_up": {
+    "label": "Progressive Extreme Heat Damage Up",
+    "item_id": "6274",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_heat_action_damage_up_in_exh": {
+    "label": "Progressive Heat Action Damage Up in ExH",
+    "item_id": "6279",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_heat_gauge_up": {
+    "label": "Progressive Heat Gauge Up",
+    "item_id": "6273",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_hp_up": {
+    "label": "Progressive HP Up",
+    "item_id": "6271",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
+  "progressive_recovery_from_food_up": {
+    "label": "Progressive Recovery From Food Up",
+    "item_id": "6278",
+    "tags": [
+      "IMPORTANT",
+      "PROGRESSIVE_SKILLS"
+    ],
+    "purchase_price": "1000",
+    "purchase_points": "1000"
+  },
   "quartet": {
     "label": "Quartet",
     "item_id": "5538",
@@ -2075,7 +2285,8 @@
     "label": "Recovery From Food 1",
     "item_id": "6177",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2084,7 +2295,8 @@
     "label": "Recovery From Food 2",
     "item_id": "6222",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2093,7 +2305,8 @@
     "label": "Recovery From Food 3",
     "item_id": "6223",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2814,7 +3027,8 @@
     "label": "Throw More Bombs 1",
     "item_id": "6241",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2823,7 +3037,8 @@
     "label": "Throw More Bombs 2",
     "item_id": "6242",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2832,7 +3047,8 @@
     "label": "Throw More Bombs 3",
     "item_id": "6243",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"
@@ -2841,7 +3057,8 @@
     "label": "Throw More Bombs 4",
     "item_id": "6244",
     "tags": [
-      "IMPORTANT"
+      "IMPORTANT",
+      "REMOVE_SKILLS"
     ],
     "purchase_price": "1000",
     "purchase_points": "1000"

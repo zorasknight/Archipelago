@@ -97,4 +97,5 @@ class YakuzaGaiden(World):
             "item_cost_max",
             "item_cost_point_min",
             "item_cost_point_max",
+            "progressive_skills",
         )
