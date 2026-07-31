@@ -5,8 +5,8 @@
     "id": "1",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_1": {
     "label": "Sotenbori Ebisuya Pawn Shop 2",
@@ -14,8 +14,8 @@
     "id": "2",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_2": {
     "label": "Sotenbori Ebisuya Pawn Shop 3",
@@ -23,8 +23,8 @@
     "id": "3",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_3": {
     "label": "Sotenbori Ebisuya Pawn Shop 4",
@@ -32,8 +32,8 @@
     "id": "4",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_4": {
     "label": "Sotenbori Ebisuya Pawn Shop 5",
@@ -41,8 +41,8 @@
     "id": "5",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_5": {
     "label": "Sotenbori Ebisuya Pawn Shop 6",
@@ -50,8 +50,8 @@
     "id": "6",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_6": {
     "label": "Sotenbori Ebisuya Pawn Shop 7",
@@ -59,8 +59,8 @@
     "id": "7",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_7": {
     "label": "Sotenbori Ebisuya Pawn Shop 8",
@@ -68,8 +68,8 @@
     "id": "8",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_8": {
     "label": "Sotenbori Ebisuya Pawn Shop 9",
@@ -77,8 +77,8 @@
     "id": "9",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_9": {
     "label": "Sotenbori Ebisuya Pawn Shop 10",
@@ -86,8 +86,8 @@
     "id": "10",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_10": {
     "label": "Sotenbori Ebisuya Pawn Shop 11",
@@ -95,8 +95,8 @@
     "id": "11",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_11": {
     "label": "Sotenbori Ebisuya Pawn Shop 12",
@@ -104,8 +104,8 @@
     "id": "12",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_12": {
     "label": "Sotenbori Ebisuya Pawn Shop 13",
@@ -113,8 +113,8 @@
     "id": "13",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_13": {
     "label": "Sotenbori Ebisuya Pawn Shop 14",
@@ -122,8 +122,8 @@
     "id": "14",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_14": {
     "label": "Sotenbori Ebisuya Pawn Shop 15",
@@ -131,8 +131,8 @@
     "id": "15",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_15": {
     "label": "Sotenbori Ebisuya Pawn Shop 16",
@@ -140,8 +140,8 @@
     "id": "16",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_16": {
     "label": "Sotenbori Ebisuya Pawn Shop 17",
@@ -149,8 +149,8 @@
     "id": "17",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_ebisuya_17": {
     "label": "Sotenbori Ebisuya Pawn Shop 18",
@@ -158,8 +158,8 @@
     "id": "18",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_pokecir_parts_0": {
     "label": "Pocket Circuit Part Shop 1",
@@ -167,8 +167,8 @@
     "id": "19",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_1": {
     "label": "Pocket Circuit Part Shop 2",
@@ -176,8 +176,8 @@
     "id": "20",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_2": {
     "label": "Pocket Circuit Part Shop 3",
@@ -185,8 +185,8 @@
     "id": "21",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_3": {
     "label": "Pocket Circuit Part Shop 4",
@@ -194,8 +194,8 @@
     "id": "22",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3",
+    "region": "POCKET_CIRCUIT_3"
   },
   "aston_s_pokecir_parts_4": {
     "label": "Pocket Circuit Part Shop 5",
@@ -203,8 +203,8 @@
     "id": "23",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_5": {
     "label": "Pocket Circuit Part Shop 6",
@@ -212,8 +212,8 @@
     "id": "24",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_6": {
     "label": "Pocket Circuit Part Shop 7",
@@ -221,8 +221,8 @@
     "id": "25",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_7": {
     "label": "Pocket Circuit Part Shop 8",
@@ -230,8 +230,8 @@
     "id": "26",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_8": {
     "label": "Pocket Circuit Part Shop 9",
@@ -239,8 +239,8 @@
     "id": "27",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_9": {
     "label": "Pocket Circuit Part Shop 10",
@@ -248,8 +248,8 @@
     "id": "28",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_10": {
     "label": "Pocket Circuit Part Shop 11",
@@ -257,8 +257,8 @@
     "id": "29",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_11": {
     "label": "Pocket Circuit Part Shop 12",
@@ -266,8 +266,8 @@
     "id": "30",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_12": {
     "label": "Pocket Circuit Part Shop 13",
@@ -275,8 +275,8 @@
     "id": "31",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3",
+    "region": "POCKET_CIRCUIT_3"
   },
   "aston_s_pokecir_parts_13": {
     "label": "Pocket Circuit Part Shop 14",
@@ -284,8 +284,8 @@
     "id": "32",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_14": {
     "label": "Pocket Circuit Part Shop 15",
@@ -293,8 +293,8 @@
     "id": "33",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_4",
+    "region": "POCKET_CIRCUIT_4"
   },
   "aston_s_pokecir_parts_15": {
     "label": "Pocket Circuit Part Shop 16",
@@ -302,8 +302,8 @@
     "id": "34",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_4",
+    "region": "POCKET_CIRCUIT_4"
   },
   "aston_s_pokecir_parts_16": {
     "label": "Pocket Circuit Part Shop 17",
@@ -311,8 +311,8 @@
     "id": "35",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3",
+    "region": "POCKET_CIRCUIT_3"
   },
   "aston_s_pokecir_parts_17": {
     "label": "Pocket Circuit Part Shop 18",
@@ -320,8 +320,8 @@
     "id": "36",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3",
+    "region": "POCKET_CIRCUIT_3"
   },
   "aston_s_pokecir_parts_18": {
     "label": "Pocket Circuit Part Shop 19",
@@ -329,8 +329,8 @@
     "id": "37",
     "slot": "18",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_19": {
     "label": "Pocket Circuit Part Shop 20",
@@ -338,8 +338,8 @@
     "id": "38",
     "slot": "19",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_20": {
     "label": "Pocket Circuit Part Shop 21",
@@ -347,8 +347,8 @@
     "id": "39",
     "slot": "20",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_21": {
     "label": "Pocket Circuit Part Shop 22",
@@ -356,8 +356,8 @@
     "id": "40",
     "slot": "21",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_22": {
     "label": "Pocket Circuit Part Shop 23",
@@ -365,8 +365,8 @@
     "id": "41",
     "slot": "22",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_23": {
     "label": "Pocket Circuit Part Shop 24",
@@ -374,8 +374,8 @@
     "id": "42",
     "slot": "23",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_24": {
     "label": "Pocket Circuit Part Shop 25",
@@ -383,8 +383,8 @@
     "id": "43",
     "slot": "24",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_25": {
     "label": "Pocket Circuit Part Shop 26",
@@ -392,8 +392,8 @@
     "id": "44",
     "slot": "25",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_26": {
     "label": "Pocket Circuit Part Shop 27",
@@ -401,8 +401,8 @@
     "id": "45",
     "slot": "26",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_27": {
     "label": "Pocket Circuit Part Shop 28",
@@ -410,8 +410,8 @@
     "id": "46",
     "slot": "27",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_28": {
     "label": "Pocket Circuit Part Shop 29",
@@ -419,8 +419,8 @@
     "id": "47",
     "slot": "28",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_29": {
     "label": "Pocket Circuit Part Shop 30",
@@ -428,8 +428,8 @@
     "id": "48",
     "slot": "29",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_30": {
     "label": "Pocket Circuit Part Shop 31",
@@ -437,8 +437,8 @@
     "id": "49",
     "slot": "30",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_31": {
     "label": "Pocket Circuit Part Shop 32",
@@ -446,8 +446,8 @@
     "id": "50",
     "slot": "31",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_32": {
     "label": "Pocket Circuit Part Shop 33",
@@ -455,8 +455,8 @@
     "id": "51",
     "slot": "32",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_33": {
     "label": "Pocket Circuit Part Shop 34",
@@ -464,8 +464,8 @@
     "id": "52",
     "slot": "33",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_34": {
     "label": "Pocket Circuit Part Shop 35",
@@ -473,8 +473,8 @@
     "id": "53",
     "slot": "34",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_35": {
     "label": "Pocket Circuit Part Shop 36",
@@ -482,8 +482,8 @@
     "id": "54",
     "slot": "35",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_36": {
     "label": "Pocket Circuit Part Shop 37",
@@ -491,8 +491,8 @@
     "id": "55",
     "slot": "36",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_37": {
     "label": "Pocket Circuit Part Shop 38",
@@ -500,8 +500,8 @@
     "id": "56",
     "slot": "37",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_38": {
     "label": "Pocket Circuit Part Shop 39",
@@ -509,8 +509,8 @@
     "id": "57",
     "slot": "38",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_39": {
     "label": "Pocket Circuit Part Shop 40",
@@ -518,8 +518,8 @@
     "id": "58",
     "slot": "39",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_40": {
     "label": "Pocket Circuit Part Shop 41",
@@ -527,8 +527,8 @@
     "id": "59",
     "slot": "40",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_41": {
     "label": "Pocket Circuit Part Shop 42",
@@ -536,8 +536,8 @@
     "id": "60",
     "slot": "41",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_42": {
     "label": "Pocket Circuit Part Shop 43",
@@ -545,8 +545,8 @@
     "id": "61",
     "slot": "42",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_43": {
     "label": "Pocket Circuit Part Shop 44",
@@ -554,8 +554,8 @@
     "id": "62",
     "slot": "43",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_44": {
     "label": "Pocket Circuit Part Shop 45",
@@ -563,8 +563,8 @@
     "id": "63",
     "slot": "44",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_45": {
     "label": "Pocket Circuit Part Shop 46",
@@ -572,8 +572,8 @@
     "id": "64",
     "slot": "45",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_46": {
     "label": "Pocket Circuit Part Shop 47",
@@ -581,8 +581,8 @@
     "id": "65",
     "slot": "46",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_47": {
     "label": "Pocket Circuit Part Shop 48",
@@ -590,8 +590,8 @@
     "id": "66",
     "slot": "47",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_48": {
     "label": "Pocket Circuit Part Shop 49",
@@ -599,8 +599,8 @@
     "id": "67",
     "slot": "48",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_49": {
     "label": "Pocket Circuit Part Shop 50",
@@ -608,8 +608,8 @@
     "id": "68",
     "slot": "49",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_50": {
     "label": "Pocket Circuit Part Shop 51",
@@ -617,8 +617,8 @@
     "id": "69",
     "slot": "50",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_51": {
     "label": "Pocket Circuit Part Shop 52",
@@ -626,8 +626,8 @@
     "id": "70",
     "slot": "51",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_52": {
     "label": "Pocket Circuit Part Shop 53",
@@ -635,8 +635,8 @@
     "id": "71",
     "slot": "52",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_53": {
     "label": "Pocket Circuit Part Shop 54",
@@ -644,8 +644,8 @@
     "id": "72",
     "slot": "53",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_54": {
     "label": "Pocket Circuit Part Shop 55",
@@ -653,8 +653,8 @@
     "id": "73",
     "slot": "54",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_55": {
     "label": "Pocket Circuit Part Shop 56",
@@ -662,8 +662,8 @@
     "id": "74",
     "slot": "55",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_56": {
     "label": "Pocket Circuit Part Shop 57",
@@ -671,8 +671,8 @@
     "id": "75",
     "slot": "56",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_57": {
     "label": "Pocket Circuit Part Shop 58",
@@ -680,8 +680,8 @@
     "id": "76",
     "slot": "57",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_58": {
     "label": "Pocket Circuit Part Shop 59",
@@ -689,8 +689,8 @@
     "id": "77",
     "slot": "58",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_59": {
     "label": "Pocket Circuit Part Shop 60",
@@ -698,8 +698,8 @@
     "id": "78",
     "slot": "59",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_60": {
     "label": "Pocket Circuit Part Shop 61",
@@ -707,8 +707,8 @@
     "id": "79",
     "slot": "60",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_61": {
     "label": "Pocket Circuit Part Shop 62",
@@ -716,8 +716,8 @@
     "id": "80",
     "slot": "61",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_62": {
     "label": "Pocket Circuit Part Shop 63",
@@ -725,8 +725,8 @@
     "id": "81",
     "slot": "62",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_63": {
     "label": "Pocket Circuit Part Shop 64",
@@ -734,8 +734,8 @@
     "id": "82",
     "slot": "63",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_64": {
     "label": "Pocket Circuit Part Shop 65",
@@ -743,8 +743,8 @@
     "id": "83",
     "slot": "64",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_65": {
     "label": "Pocket Circuit Part Shop 66",
@@ -752,8 +752,8 @@
     "id": "84",
     "slot": "65",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_66": {
     "label": "Pocket Circuit Part Shop 67",
@@ -761,8 +761,8 @@
     "id": "85",
     "slot": "66",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_67": {
     "label": "Pocket Circuit Part Shop 68",
@@ -770,8 +770,8 @@
     "id": "86",
     "slot": "67",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_68": {
     "label": "Pocket Circuit Part Shop 69",
@@ -779,8 +779,8 @@
     "id": "87",
     "slot": "68",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_69": {
     "label": "Pocket Circuit Part Shop 70",
@@ -788,8 +788,8 @@
     "id": "88",
     "slot": "69",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_70": {
     "label": "Pocket Circuit Part Shop 71",
@@ -797,8 +797,8 @@
     "id": "89",
     "slot": "70",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_71": {
     "label": "Pocket Circuit Part Shop 72",
@@ -806,8 +806,8 @@
     "id": "90",
     "slot": "71",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_72": {
     "label": "Pocket Circuit Part Shop 73",
@@ -815,8 +815,8 @@
     "id": "91",
     "slot": "72",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_73": {
     "label": "Pocket Circuit Part Shop 74",
@@ -824,8 +824,8 @@
     "id": "92",
     "slot": "73",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_74": {
     "label": "Pocket Circuit Part Shop 75",
@@ -833,8 +833,8 @@
     "id": "93",
     "slot": "74",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_75": {
     "label": "Pocket Circuit Part Shop 76",
@@ -842,8 +842,8 @@
     "id": "94",
     "slot": "75",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_76": {
     "label": "Pocket Circuit Part Shop 77",
@@ -851,8 +851,8 @@
     "id": "95",
     "slot": "76",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_77": {
     "label": "Pocket Circuit Part Shop 78",
@@ -860,8 +860,8 @@
     "id": "96",
     "slot": "77",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_78": {
     "label": "Pocket Circuit Part Shop 79",
@@ -869,8 +869,8 @@
     "id": "97",
     "slot": "78",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_79": {
     "label": "Pocket Circuit Part Shop 80",
@@ -878,8 +878,8 @@
     "id": "98",
     "slot": "79",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_80": {
     "label": "Pocket Circuit Part Shop 81",
@@ -887,8 +887,8 @@
     "id": "99",
     "slot": "80",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_81": {
     "label": "Pocket Circuit Part Shop 82",
@@ -896,8 +896,8 @@
     "id": "100",
     "slot": "81",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_82": {
     "label": "Pocket Circuit Part Shop 83",
@@ -905,8 +905,8 @@
     "id": "101",
     "slot": "82",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_83": {
     "label": "Pocket Circuit Part Shop 84",
@@ -914,8 +914,8 @@
     "id": "102",
     "slot": "83",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "aston_s_pokecir_parts_84": {
     "label": "Pocket Circuit Part Shop 85",
@@ -923,8 +923,8 @@
     "id": "103",
     "slot": "84",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_85": {
     "label": "Pocket Circuit Part Shop 86",
@@ -932,8 +932,8 @@
     "id": "104",
     "slot": "85",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_86": {
     "label": "Pocket Circuit Part Shop 87",
@@ -941,8 +941,8 @@
     "id": "105",
     "slot": "86",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_87": {
     "label": "Pocket Circuit Part Shop 88",
@@ -950,8 +950,8 @@
     "id": "106",
     "slot": "87",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_88": {
     "label": "Pocket Circuit Part Shop 89",
@@ -959,8 +959,8 @@
     "id": "107",
     "slot": "88",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_89": {
     "label": "Pocket Circuit Part Shop 90",
@@ -968,8 +968,8 @@
     "id": "108",
     "slot": "89",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_90": {
     "label": "Pocket Circuit Part Shop 91",
@@ -977,8 +977,8 @@
     "id": "109",
     "slot": "90",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_91": {
     "label": "Pocket Circuit Part Shop 92",
@@ -986,8 +986,8 @@
     "id": "110",
     "slot": "91",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_92": {
     "label": "Pocket Circuit Part Shop 93",
@@ -995,8 +995,8 @@
     "id": "111",
     "slot": "92",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_93": {
     "label": "Pocket Circuit Part Shop 94",
@@ -1004,8 +1004,8 @@
     "id": "112",
     "slot": "93",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_s_pokecir_parts_94": {
     "label": "Pocket Circuit Part Shop 95",
@@ -1013,8 +1013,8 @@
     "id": "113",
     "slot": "94",
     "source": "shop.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_coinlocker_0": {
     "label": "Coinlocker A1",
@@ -1023,7 +1023,7 @@
     "slot": "1",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_1": {
     "label": "Coinlocker B1",
@@ -1032,7 +1032,7 @@
     "slot": "2",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_2": {
     "label": "Coinlocker C1",
@@ -1041,7 +1041,7 @@
     "slot": "3",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_3": {
     "label": "Coinlocker D1",
@@ -1050,7 +1050,7 @@
     "slot": "4",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_4": {
     "label": "Coinlocker E1",
@@ -1059,7 +1059,7 @@
     "slot": "5",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_5": {
     "label": "Coinlocker F1",
@@ -1067,8 +1067,8 @@
     "id": "119",
     "slot": "6",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Coin Locker",
+    "region": "SOTENBORI_3"
   },
   "aston_coinlocker_6": {
     "label": "Coinlocker G1",
@@ -1077,7 +1077,7 @@
     "slot": "7",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_7": {
     "label": "Coinlocker H1",
@@ -1086,7 +1086,7 @@
     "slot": "8",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_8": {
     "label": "Coinlocker I1",
@@ -1094,8 +1094,8 @@
     "id": "122",
     "slot": "9",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Pocket Circuit_1, Coin Locker",
+    "region": "POCKET_CIRCUIT_1"
   },
   "aston_coinlocker_9": {
     "label": "Coinlocker J1",
@@ -1104,7 +1104,7 @@
     "slot": "10",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_10": {
     "label": "Coinlocker A2",
@@ -1113,7 +1113,7 @@
     "slot": "11",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_11": {
     "label": "Coinlocker B2",
@@ -1122,7 +1122,7 @@
     "slot": "12",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_12": {
     "label": "Coinlocker C2",
@@ -1130,8 +1130,8 @@
     "id": "126",
     "slot": "13",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Coin Locker",
+    "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_13": {
     "label": "Coinlocker D2",
@@ -1140,7 +1140,7 @@
     "slot": "14",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_14": {
     "label": "Coinlocker E2",
@@ -1149,7 +1149,7 @@
     "slot": "15",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_15": {
     "label": "Coinlocker F2",
@@ -1158,7 +1158,7 @@
     "slot": "16",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_16": {
     "label": "Coinlocker G2",
@@ -1167,7 +1167,7 @@
     "slot": "17",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_17": {
     "label": "Coinlocker H2",
@@ -1176,7 +1176,7 @@
     "slot": "18",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_18": {
     "label": "Coinlocker I2",
@@ -1185,7 +1185,7 @@
     "slot": "19",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_19": {
     "label": "Coinlocker J2",
@@ -1194,7 +1194,7 @@
     "slot": "20",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_20": {
     "label": "Coinlocker A3",
@@ -1203,7 +1203,7 @@
     "slot": "21",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_21": {
     "label": "Coinlocker B3",
@@ -1212,7 +1212,7 @@
     "slot": "22",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_22": {
     "label": "Coinlocker C3",
@@ -1220,8 +1220,8 @@
     "id": "136",
     "slot": "23",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Coin Locker",
+    "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_23": {
     "label": "Coinlocker D3",
@@ -1230,7 +1230,7 @@
     "slot": "24",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_24": {
     "label": "Coinlocker E3",
@@ -1239,7 +1239,7 @@
     "slot": "25",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_25": {
     "label": "Coinlocker F3",
@@ -1247,8 +1247,8 @@
     "id": "139",
     "slot": "26",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_26": {
     "label": "Coinlocker G3",
@@ -1256,8 +1256,8 @@
     "id": "140",
     "slot": "27",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Coin Locker",
+    "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_27": {
     "label": "Coinlocker H3",
@@ -1266,7 +1266,7 @@
     "slot": "28",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_28": {
     "label": "Coinlocker I3",
@@ -1275,7 +1275,7 @@
     "slot": "29",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_29": {
     "label": "Coinlocker J3",
@@ -1283,8 +1283,8 @@
     "id": "143",
     "slot": "30",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Coin Locker",
+    "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_30": {
     "label": "Coinlocker A4",
@@ -1292,8 +1292,8 @@
     "id": "144",
     "slot": "31",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_31": {
     "label": "Coinlocker B4",
@@ -1302,7 +1302,7 @@
     "slot": "32",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_32": {
     "label": "Coinlocker C4",
@@ -1310,8 +1310,8 @@
     "id": "146",
     "slot": "33",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_4, Coin Locker",
+    "region": "COLOSSEUM_4"
   },
   "aston_coinlocker_33": {
     "label": "Coinlocker D4",
@@ -1319,8 +1319,8 @@
     "id": "147",
     "slot": "34",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Coin Locker",
+    "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_34": {
     "label": "Coinlocker E4",
@@ -1329,7 +1329,7 @@
     "slot": "35",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_35": {
     "label": "Coinlocker F4",
@@ -1338,7 +1338,7 @@
     "slot": "36",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_36": {
     "label": "Coinlocker G4",
@@ -1347,7 +1347,7 @@
     "slot": "37",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_37": {
     "label": "Coinlocker H4",
@@ -1356,7 +1356,7 @@
     "slot": "38",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_38": {
     "label": "Coinlocker I4",
@@ -1365,7 +1365,7 @@
     "slot": "39",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_39": {
     "label": "Coinlocker J4",
@@ -1373,8 +1373,8 @@
     "id": "153",
     "slot": "40",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Coin Locker",
+    "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_40": {
     "label": "Coinlocker A5",
@@ -1383,7 +1383,7 @@
     "slot": "41",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_41": {
     "label": "Coinlocker B5",
@@ -1391,8 +1391,8 @@
     "id": "155",
     "slot": "42",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_42": {
     "label": "Coinlocker C5",
@@ -1401,7 +1401,7 @@
     "slot": "43",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_43": {
     "label": "Coinlocker D5",
@@ -1409,8 +1409,8 @@
     "id": "157",
     "slot": "44",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_44": {
     "label": "Coinlocker E5",
@@ -1419,7 +1419,7 @@
     "slot": "45",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_45": {
     "label": "Coinlocker F5",
@@ -1427,8 +1427,8 @@
     "id": "159",
     "slot": "46",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_4, Coin Locker",
+    "region": "COLOSSEUM_4"
   },
   "aston_coinlocker_46": {
     "label": "Coinlocker G5",
@@ -1436,8 +1436,8 @@
     "id": "160",
     "slot": "47",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Coin Locker",
+    "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_47": {
     "label": "Coinlocker H5",
@@ -1446,7 +1446,7 @@
     "slot": "48",
     "source": "talk_coinlocker_locker.bin.json",
     "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "region": "MISC"
   },
   "aston_coinlocker_48": {
     "label": "Coinlocker I5",
@@ -1454,8 +1454,8 @@
     "id": "162",
     "slot": "49",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Coin Locker",
+    "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_49": {
     "label": "Coinlocker J5",
@@ -1463,8 +1463,8 @@
     "id": "163",
     "slot": "50",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Coin Locker",
+    "region": "COLOSSEUM_2"
   },
   "aston_s_akame_0": {
     "label": "Akame Point Shop 1",
@@ -1472,8 +1472,8 @@
     "id": "164",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_1": {
     "label": "Akame Point Shop 2",
@@ -1481,8 +1481,8 @@
     "id": "165",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_2": {
     "label": "Akame Point Shop 3",
@@ -1490,8 +1490,8 @@
     "id": "166",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_3": {
     "label": "Akame Point Shop 4",
@@ -1499,8 +1499,8 @@
     "id": "167",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_4": {
     "label": "Akame Point Shop 5",
@@ -1508,8 +1508,8 @@
     "id": "168",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_5": {
     "label": "Akame Point Shop 6",
@@ -1517,8 +1517,8 @@
     "id": "169",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_6": {
     "label": "Akame Point Shop 7",
@@ -1526,8 +1526,8 @@
     "id": "170",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_7": {
     "label": "Akame Point Shop 8",
@@ -1535,8 +1535,8 @@
     "id": "171",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_8": {
     "label": "Akame Point Shop 9",
@@ -1544,8 +1544,8 @@
     "id": "172",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_9": {
     "label": "Akame Point Shop 10",
@@ -1553,8 +1553,8 @@
     "id": "173",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_10": {
     "label": "Akame Point Shop 11",
@@ -1562,8 +1562,8 @@
     "id": "174",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_11": {
     "label": "Akame Point Shop 12",
@@ -1571,8 +1571,8 @@
     "id": "175",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_12": {
     "label": "Akame Point Shop 13",
@@ -1580,8 +1580,8 @@
     "id": "176",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_13": {
     "label": "Akame Point Shop 14",
@@ -1589,8 +1589,8 @@
     "id": "177",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_14": {
     "label": "Akame Point Shop 15",
@@ -1598,8 +1598,8 @@
     "id": "178",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_15": {
     "label": "Akame Point Shop 16",
@@ -1607,8 +1607,8 @@
     "id": "179",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_16": {
     "label": "Akame Point Shop 17",
@@ -1616,8 +1616,8 @@
     "id": "180",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_17": {
     "label": "Akame Point Shop 18",
@@ -1625,8 +1625,8 @@
     "id": "181",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_18": {
     "label": "Akame Point Shop 19",
@@ -1634,8 +1634,8 @@
     "id": "182",
     "slot": "18",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_19": {
     "label": "Akame Point Shop 20",
@@ -1643,8 +1643,8 @@
     "id": "183",
     "slot": "19",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_20": {
     "label": "Akame Point Shop 21",
@@ -1652,8 +1652,8 @@
     "id": "184",
     "slot": "20",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_21": {
     "label": "Akame Point Shop 22",
@@ -1661,8 +1661,8 @@
     "id": "185",
     "slot": "21",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_22": {
     "label": "Akame Point Shop 23",
@@ -1670,8 +1670,8 @@
     "id": "186",
     "slot": "22",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_23": {
     "label": "Akame Point Shop 24",
@@ -1679,8 +1679,8 @@
     "id": "187",
     "slot": "23",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_24": {
     "label": "Akame Point Shop 25",
@@ -1688,8 +1688,8 @@
     "id": "188",
     "slot": "24",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_25": {
     "label": "Akame Point Shop 26",
@@ -1697,8 +1697,8 @@
     "id": "189",
     "slot": "25",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_26": {
     "label": "Akame Point Shop 27",
@@ -1706,8 +1706,8 @@
     "id": "190",
     "slot": "26",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_27": {
     "label": "Akame Point Shop 28",
@@ -1715,8 +1715,8 @@
     "id": "191",
     "slot": "27",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_28": {
     "label": "Akame Point Shop 29",
@@ -1724,8 +1724,8 @@
     "id": "192",
     "slot": "28",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Akame Shop",
+    "region": "SOTENBORI_2"
   },
   "aston_s_akame_29": {
     "label": "Akame Point Shop 30",
@@ -1733,8 +1733,8 @@
     "id": "193",
     "slot": "29",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_akame_30": {
     "label": "Akame Point Shop 31",
@@ -1742,8 +1742,8 @@
     "id": "194",
     "slot": "30",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Akame Shop",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Akame Shop",
+    "region": "SOTENBORI_3"
   },
   "aston_s_billiards_prize_0": {
     "label": "Billiards Point Shop 1",
@@ -1751,8 +1751,8 @@
     "id": "195",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_1": {
     "label": "Billiards Point Shop 2",
@@ -1760,8 +1760,8 @@
     "id": "196",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_2": {
     "label": "Billiards Point Shop 3",
@@ -1769,8 +1769,8 @@
     "id": "197",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_3": {
     "label": "Billiards Point Shop 4",
@@ -1778,8 +1778,8 @@
     "id": "198",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_4": {
     "label": "Billiards Point Shop 5",
@@ -1787,8 +1787,8 @@
     "id": "199",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_5": {
     "label": "Billiards Point Shop 6",
@@ -1796,8 +1796,8 @@
     "id": "200",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_6": {
     "label": "Billiards Point Shop 7",
@@ -1805,8 +1805,8 @@
     "id": "201",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_7": {
     "label": "Billiards Point Shop 8",
@@ -1814,8 +1814,8 @@
     "id": "202",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_8": {
     "label": "Billiards Point Shop 9",
@@ -1823,8 +1823,8 @@
     "id": "203",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_9": {
     "label": "Billiards Point Shop 10",
@@ -1832,8 +1832,8 @@
     "id": "204",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_billiards_prize_10": {
     "label": "Billiards Point Shop 11",
@@ -1841,8 +1841,8 @@
     "id": "205",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Pool",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Pool",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_0": {
     "label": "Wannpark Shop 1",
@@ -1850,8 +1850,8 @@
     "id": "206",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_1": {
     "label": "Wannpark Shop 2",
@@ -1859,8 +1859,8 @@
     "id": "207",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_2": {
     "label": "Wannpark Shop 3",
@@ -1868,8 +1868,8 @@
     "id": "208",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_3": {
     "label": "Wannpark Shop 4",
@@ -1877,8 +1877,8 @@
     "id": "209",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_4": {
     "label": "Wannpark Shop 5",
@@ -1886,8 +1886,8 @@
     "id": "210",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_5": {
     "label": "Wannpark Shop 6",
@@ -1895,8 +1895,8 @@
     "id": "211",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_6": {
     "label": "Wannpark Shop 7",
@@ -1904,8 +1904,8 @@
     "id": "212",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_7": {
     "label": "Wannpark Shop 8",
@@ -1913,8 +1913,8 @@
     "id": "213",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_8": {
     "label": "Wannpark Shop 9",
@@ -1922,8 +1922,8 @@
     "id": "214",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_9": {
     "label": "Wannpark Shop 10",
@@ -1931,8 +1931,8 @@
     "id": "215",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_10": {
     "label": "Wannpark Shop 11",
@@ -1940,8 +1940,8 @@
     "id": "216",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_wannpark_11": {
     "label": "Wannpark Shop 12",
@@ -1949,8 +1949,8 @@
     "id": "217",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_y_shichiya_0": {
     "label": "Shichiya Pawn Shop 1",
@@ -2228,8 +2228,8 @@
     "id": "248",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_1": {
     "label": "Sotenbori Shogi Point Store 2",
@@ -2237,8 +2237,8 @@
     "id": "249",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_2": {
     "label": "Sotenbori Shogi Point Store 3",
@@ -2246,8 +2246,8 @@
     "id": "250",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_3": {
     "label": "Sotenbori Shogi Point Store 4",
@@ -2255,8 +2255,8 @@
     "id": "251",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_4": {
     "label": "Sotenbori Shogi Point Store 5",
@@ -2264,8 +2264,8 @@
     "id": "252",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_5": {
     "label": "Sotenbori Shogi Point Store 6",
@@ -2273,8 +2273,8 @@
     "id": "253",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_6": {
     "label": "Sotenbori Shogi Point Store 7",
@@ -2282,8 +2282,8 @@
     "id": "254",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_7": {
     "label": "Sotenbori Shogi Point Store 8",
@@ -2291,8 +2291,8 @@
     "id": "255",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_8": {
     "label": "Sotenbori Shogi Point Store 9",
@@ -2300,8 +2300,8 @@
     "id": "256",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_9": {
     "label": "Sotenbori Shogi Point Store 10",
@@ -2309,8 +2309,8 @@
     "id": "257",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shogi_10": {
     "label": "Sotenbori Shogi Point Store 11",
@@ -2318,8 +2318,8 @@
     "id": "258",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Shogi",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Shogi",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_0": {
     "label": "Golf Point Store 1",
@@ -2327,8 +2327,8 @@
     "id": "259",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_1": {
     "label": "Golf Point Store 2",
@@ -2336,8 +2336,8 @@
     "id": "260",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_2": {
     "label": "Golf Point Store 3",
@@ -2345,8 +2345,8 @@
     "id": "261",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_3": {
     "label": "Golf Point Store 4",
@@ -2354,8 +2354,8 @@
     "id": "262",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_4": {
     "label": "Golf Point Store 5",
@@ -2363,8 +2363,8 @@
     "id": "263",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_5": {
     "label": "Golf Point Store 6",
@@ -2372,8 +2372,8 @@
     "id": "264",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_6": {
     "label": "Golf Point Store 7",
@@ -2381,8 +2381,8 @@
     "id": "265",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_7": {
     "label": "Golf Point Store 8",
@@ -2390,8 +2390,8 @@
     "id": "266",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_8": {
     "label": "Golf Point Store 9",
@@ -2399,8 +2399,8 @@
     "id": "267",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_9": {
     "label": "Golf Point Store 10",
@@ -2408,8 +2408,8 @@
     "id": "268",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_10": {
     "label": "Golf Point Store 11",
@@ -2417,8 +2417,8 @@
     "id": "269",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_11": {
     "label": "Golf Point Store 12",
@@ -2426,8 +2426,8 @@
     "id": "270",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_golf_12": {
     "label": "Golf Point Store 13",
@@ -2435,8 +2435,8 @@
     "id": "271",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Golf",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Golf",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_0": {
     "label": "Sotenbori Gambling Hall 1",
@@ -2444,8 +2444,8 @@
     "id": "272",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_1": {
     "label": "Sotenbori Gambling Hall 2",
@@ -2453,8 +2453,8 @@
     "id": "273",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_2": {
     "label": "Sotenbori Gambling Hall 3",
@@ -2462,8 +2462,8 @@
     "id": "274",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_3": {
     "label": "Sotenbori Gambling Hall 4",
@@ -2471,8 +2471,8 @@
     "id": "275",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_4": {
     "label": "Sotenbori Gambling Hall 5",
@@ -2480,8 +2480,8 @@
     "id": "276",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_5": {
     "label": "Sotenbori Gambling Hall 6",
@@ -2489,8 +2489,8 @@
     "id": "277",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_6": {
     "label": "Sotenbori Gambling Hall 7",
@@ -2498,8 +2498,8 @@
     "id": "278",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_7": {
     "label": "Sotenbori Gambling Hall 8",
@@ -2507,8 +2507,8 @@
     "id": "279",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_8": {
     "label": "Sotenbori Gambling Hall 9",
@@ -2516,8 +2516,8 @@
     "id": "280",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_s_toba_9": {
     "label": "Sotenbori Gambling Hall 10",
@@ -2525,8 +2525,8 @@
     "id": "281",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Minigames, Casino",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Minigames, Casino",
+    "region": "SOTENBORI_1"
   },
   "aston_y_toba_0": {
     "label": "Yokohama Gambling Hall 1",
@@ -2633,8 +2633,8 @@
     "id": "293",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_1": {
     "label": "Colosseum Gambling Hall 2",
@@ -2642,8 +2642,8 @@
     "id": "294",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_2": {
     "label": "Colosseum Gambling Hall 3",
@@ -2651,8 +2651,8 @@
     "id": "295",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_3": {
     "label": "Colosseum Gambling Hall 4",
@@ -2660,8 +2660,8 @@
     "id": "296",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_4": {
     "label": "Colosseum Gambling Hall 5",
@@ -2669,8 +2669,8 @@
     "id": "297",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_5": {
     "label": "Colosseum Gambling Hall 6",
@@ -2678,8 +2678,8 @@
     "id": "298",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_6": {
     "label": "Colosseum Gambling Hall 7",
@@ -2687,8 +2687,8 @@
     "id": "299",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_7": {
     "label": "Colosseum Gambling Hall 8",
@@ -2696,8 +2696,8 @@
     "id": "300",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_8": {
     "label": "Colosseum Gambling Hall 9",
@@ -2705,8 +2705,8 @@
     "id": "301",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_9": {
     "label": "Colosseum Gambling Hall 10",
@@ -2714,8 +2714,8 @@
     "id": "302",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_10": {
     "label": "Colosseum Gambling Hall 11",
@@ -2723,8 +2723,8 @@
     "id": "303",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_11": {
     "label": "Colosseum Gambling Hall 12",
@@ -2732,8 +2732,8 @@
     "id": "304",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_12": {
     "label": "Colosseum Gambling Hall 13",
@@ -2741,8 +2741,8 @@
     "id": "305",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_13": {
     "label": "Colosseum Gambling Hall 14",
@@ -2750,8 +2750,8 @@
     "id": "306",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_14": {
     "label": "Colosseum Gambling Hall 15",
@@ -2759,8 +2759,8 @@
     "id": "307",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_toba_15": {
     "label": "Colosseum Gambling Hall 16",
@@ -2768,8 +2768,8 @@
     "id": "308",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_0": {
     "label": "Colosseum Casino 1",
@@ -2777,8 +2777,8 @@
     "id": "309",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_1": {
     "label": "Colosseum Casino 2",
@@ -2786,8 +2786,8 @@
     "id": "310",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_2": {
     "label": "Colosseum Casino 3",
@@ -2795,8 +2795,8 @@
     "id": "311",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_3": {
     "label": "Colosseum Casino 4",
@@ -2804,8 +2804,8 @@
     "id": "312",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_4": {
     "label": "Colosseum Casino 5",
@@ -2813,8 +2813,8 @@
     "id": "313",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_5": {
     "label": "Colosseum Casino 6",
@@ -2822,8 +2822,8 @@
     "id": "314",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_6": {
     "label": "Colosseum Casino 7",
@@ -2831,8 +2831,8 @@
     "id": "315",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_7": {
     "label": "Colosseum Casino 8",
@@ -2840,8 +2840,8 @@
     "id": "316",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_8": {
     "label": "Colosseum Casino 9",
@@ -2849,8 +2849,8 @@
     "id": "317",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_9": {
     "label": "Colosseum Casino 10",
@@ -2858,8 +2858,8 @@
     "id": "318",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_10": {
     "label": "Colosseum Casino 11",
@@ -2867,8 +2867,8 @@
     "id": "319",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_11": {
     "label": "Colosseum Casino 12",
@@ -2876,8 +2876,8 @@
     "id": "320",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_12": {
     "label": "Colosseum Casino 13",
@@ -2885,8 +2885,8 @@
     "id": "321",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_13": {
     "label": "Colosseum Casino 14",
@@ -2894,8 +2894,8 @@
     "id": "322",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_casino_14": {
     "label": "Colosseum Casino 15",
@@ -2903,8 +2903,8 @@
     "id": "323",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Minigames, Casino",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Minigames, Casino",
+    "region": "COLOSSEUM_1"
   },
   "aston_c_boutique_equip_0": {
     "label": "Colosseum Boutique Equip Shop 1",
@@ -2912,8 +2912,8 @@
     "id": "324",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_1": {
     "label": "Colosseum Boutique Equip Shop 2",
@@ -2921,8 +2921,8 @@
     "id": "325",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_2": {
     "label": "Colosseum Boutique Equip Shop 3",
@@ -2930,8 +2930,8 @@
     "id": "326",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_3": {
     "label": "Colosseum Boutique Equip Shop 4",
@@ -2939,8 +2939,8 @@
     "id": "327",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_4": {
     "label": "Colosseum Boutique Equip Shop 5",
@@ -2948,8 +2948,8 @@
     "id": "328",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_5": {
     "label": "Colosseum Boutique Equip Shop 6",
@@ -2957,8 +2957,8 @@
     "id": "329",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_6": {
     "label": "Colosseum Boutique Equip Shop 7",
@@ -2966,8 +2966,8 @@
     "id": "330",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_7": {
     "label": "Colosseum Boutique Equip Shop 8",
@@ -2975,8 +2975,8 @@
     "id": "331",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_8": {
     "label": "Colosseum Boutique Equip Shop 9",
@@ -2984,8 +2984,8 @@
     "id": "332",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_9": {
     "label": "Colosseum Boutique Equip Shop 10",
@@ -2993,8 +2993,8 @@
     "id": "333",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_10": {
     "label": "Colosseum Boutique Equip Shop 11",
@@ -3002,8 +3002,8 @@
     "id": "334",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_11": {
     "label": "Colosseum Boutique Equip Shop 12",
@@ -3011,8 +3011,8 @@
     "id": "335",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_12": {
     "label": "Colosseum Boutique Equip Shop 13",
@@ -3020,8 +3020,8 @@
     "id": "336",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_13": {
     "label": "Colosseum Boutique Equip Shop 14",
@@ -3029,8 +3029,8 @@
     "id": "337",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_equip_14": {
     "label": "Colosseum Boutique Equip Shop 15",
@@ -3038,8 +3038,8 @@
     "id": "338",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_boutique_0": {
     "label": "Colosseum Boutique Shop 1",
@@ -3047,7 +3047,7 @@
     "id": "339",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_1": {
@@ -3056,7 +3056,7 @@
     "id": "340",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_2": {
@@ -3065,7 +3065,7 @@
     "id": "341",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_3": {
@@ -3074,7 +3074,7 @@
     "id": "342",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_4": {
@@ -3083,7 +3083,7 @@
     "id": "343",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_5": {
@@ -3092,7 +3092,7 @@
     "id": "344",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_6": {
@@ -3101,7 +3101,7 @@
     "id": "345",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_7": {
@@ -3110,7 +3110,7 @@
     "id": "346",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_8": {
@@ -3119,7 +3119,7 @@
     "id": "347",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_9": {
@@ -3128,7 +3128,7 @@
     "id": "348",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_10": {
@@ -3137,7 +3137,7 @@
     "id": "349",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_11": {
@@ -3146,7 +3146,7 @@
     "id": "350",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_12": {
@@ -3155,7 +3155,7 @@
     "id": "351",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_13": {
@@ -3164,7 +3164,7 @@
     "id": "352",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_14": {
@@ -3173,7 +3173,7 @@
     "id": "353",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
+    "tags": "Colosseum_2, Shops",
     "region": "JUNK"
   },
   "aston_c_boutique_vip_0": {
@@ -3182,8 +3182,8 @@
     "id": "354",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_1": {
     "label": "Colosseum Boutique VIP Shop 2",
@@ -3191,8 +3191,8 @@
     "id": "355",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_2": {
     "label": "Colosseum Boutique VIP Shop 3",
@@ -3200,8 +3200,8 @@
     "id": "356",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_3": {
     "label": "Colosseum Boutique VIP Shop 4",
@@ -3209,8 +3209,8 @@
     "id": "357",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_4": {
     "label": "Colosseum Boutique VIP Shop 5",
@@ -3218,8 +3218,8 @@
     "id": "358",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_5": {
     "label": "Colosseum Boutique VIP Shop 6",
@@ -3227,8 +3227,8 @@
     "id": "359",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_6": {
     "label": "Colosseum Boutique VIP Shop 7",
@@ -3236,8 +3236,8 @@
     "id": "360",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_7": {
     "label": "Colosseum Boutique VIP Shop 8",
@@ -3245,8 +3245,8 @@
     "id": "361",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_8": {
     "label": "Colosseum Boutique VIP Shop 9",
@@ -3254,8 +3254,8 @@
     "id": "362",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_9": {
     "label": "Colosseum Boutique VIP Shop 10",
@@ -3263,8 +3263,8 @@
     "id": "363",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_boutique_vip_10": {
     "label": "Colosseum Boutique VIP Shop 11",
@@ -3272,8 +3272,8 @@
     "id": "364",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_s_mizorogi_post_0": {
     "label": "Akame Mizorogi Shop 1",
@@ -3281,8 +3281,8 @@
     "id": "365",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Weird Shops",
+    "region": "SOTENBORI_3"
   },
   "aston_s_mizorogi_post_1": {
     "label": "Akame Mizorogi Shop 2",
@@ -3290,8 +3290,8 @@
     "id": "366",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Weird Shops",
+    "region": "SOTENBORI_3"
   },
   "aston_s_mizorogi_post_2": {
     "label": "Akame Mizorogi Shop 3",
@@ -3299,8 +3299,8 @@
     "id": "367",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Weird Shops",
+    "region": "SOTENBORI_3"
   },
   "aston_s_mizorogi_post_3": {
     "label": "Akame Mizorogi Shop 4",
@@ -3308,8 +3308,8 @@
     "id": "368",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Weird Shops",
+    "region": "SOTENBORI_3"
   },
   "aston_s_mizorogi_post_4": {
     "label": "Akame Mizorogi Shop 5",
@@ -3317,8 +3317,8 @@
     "id": "369",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Weird Shops",
+    "region": "SOTENBORI_3"
   },
   "aston_s_mizorogi_0": {
     "label": "Mizorogi Shop 1",
@@ -3326,7 +3326,7 @@
     "id": "370",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
+    "tags": "Sotenbori_2, Weird Shops",
     "region": "JUNK"
   },
   "aston_s_mizorogi_1": {
@@ -3335,7 +3335,7 @@
     "id": "371",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
+    "tags": "Sotenbori_2, Weird Shops",
     "region": "JUNK"
   },
   "aston_s_mizorogi_2": {
@@ -3344,7 +3344,7 @@
     "id": "372",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
+    "tags": "Sotenbori_2, Weird Shops",
     "region": "JUNK"
   },
   "aston_s_mizorogi_3": {
@@ -3353,7 +3353,7 @@
     "id": "373",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
+    "tags": "Sotenbori_2, Weird Shops",
     "region": "JUNK"
   },
   "aston_s_mizorogi_4": {
@@ -3362,7 +3362,7 @@
     "id": "374",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
+    "tags": "Sotenbori_2, Weird Shops",
     "region": "JUNK"
   },
   "treasure_y001": {
@@ -3731,8 +3731,8 @@
     "id": "415",
     "slot": "5",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure002": {
     "label": "Sotenbori Wire 2",
@@ -3740,8 +3740,8 @@
     "id": "416",
     "slot": "6",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure003": {
     "label": "Sotenbori Wire 3",
@@ -3749,8 +3749,8 @@
     "id": "417",
     "slot": "7",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure004": {
     "label": "Sotenbori Wire 4",
@@ -3758,8 +3758,8 @@
     "id": "418",
     "slot": "8",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure005": {
     "label": "Sotenbori Wire 5",
@@ -3767,8 +3767,8 @@
     "id": "419",
     "slot": "9",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure006": {
     "label": "Sotenbori Wire 6",
@@ -3776,8 +3776,8 @@
     "id": "420",
     "slot": "10",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure007": {
     "label": "Sotenbori Wire 7",
@@ -3785,8 +3785,8 @@
     "id": "421",
     "slot": "11",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure008": {
     "label": "Sotenbori Wire 8",
@@ -3794,8 +3794,8 @@
     "id": "422",
     "slot": "12",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure009": {
     "label": "Sotenbori Wire 9",
@@ -3803,8 +3803,8 @@
     "id": "423",
     "slot": "13",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure010": {
     "label": "Sotenbori Wire 10",
@@ -3812,8 +3812,8 @@
     "id": "424",
     "slot": "14",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure011": {
     "label": "Sotenbori Wire 11",
@@ -3821,8 +3821,8 @@
     "id": "425",
     "slot": "15",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure012": {
     "label": "Sotenbori Wire 12",
@@ -3830,8 +3830,8 @@
     "id": "426",
     "slot": "16",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure013": {
     "label": "Sotenbori Wire 13",
@@ -3839,8 +3839,8 @@
     "id": "427",
     "slot": "17",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure014": {
     "label": "Sotenbori Wire 14",
@@ -3848,7 +3848,7 @@
     "id": "428",
     "slot": "18",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure015": {
@@ -3857,8 +3857,8 @@
     "id": "429",
     "slot": "19",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure016": {
     "label": "Sotenbori Wire 16",
@@ -3866,8 +3866,8 @@
     "id": "430",
     "slot": "20",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure017": {
     "label": "Sotenbori Wire 17",
@@ -3875,8 +3875,8 @@
     "id": "431",
     "slot": "21",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure018": {
     "label": "Sotenbori Wire 18",
@@ -3884,8 +3884,8 @@
     "id": "432",
     "slot": "22",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure019": {
     "label": "Sotenbori Wire 19",
@@ -3893,8 +3893,8 @@
     "id": "433",
     "slot": "23",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure020": {
     "label": "Sotenbori Wire 20",
@@ -3902,8 +3902,8 @@
     "id": "434",
     "slot": "24",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure021": {
     "label": "Sotenbori Wire 21",
@@ -3911,8 +3911,8 @@
     "id": "435",
     "slot": "25",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure022": {
     "label": "Sotenbori Wire 22",
@@ -3920,8 +3920,8 @@
     "id": "436",
     "slot": "26",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure023": {
     "label": "Sotenbori Wire 23",
@@ -3929,8 +3929,8 @@
     "id": "437",
     "slot": "27",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure024": {
     "label": "Sotenbori Wire 24",
@@ -3938,8 +3938,8 @@
     "id": "438",
     "slot": "28",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure025": {
     "label": "Sotenbori Wire 25",
@@ -3947,8 +3947,8 @@
     "id": "439",
     "slot": "29",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure026": {
     "label": "Sotenbori Wire 26",
@@ -3956,8 +3956,8 @@
     "id": "440",
     "slot": "30",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure027": {
     "label": "Sotenbori Wire 27",
@@ -3965,8 +3965,8 @@
     "id": "441",
     "slot": "31",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure028": {
     "label": "Sotenbori Wire 28",
@@ -3974,8 +3974,8 @@
     "id": "442",
     "slot": "32",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure029": {
     "label": "Sotenbori Wire 29",
@@ -3983,8 +3983,8 @@
     "id": "443",
     "slot": "33",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure030": {
     "label": "Sotenbori Wire 30",
@@ -3992,7 +3992,7 @@
     "id": "444",
     "slot": "34",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure031": {
@@ -4001,8 +4001,8 @@
     "id": "445",
     "slot": "35",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure032": {
     "label": "Sotenbori Wire 32",
@@ -4010,7 +4010,7 @@
     "id": "446",
     "slot": "36",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure033": {
@@ -4019,8 +4019,8 @@
     "id": "447",
     "slot": "37",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure034": {
     "label": "Sotenbori Wire 34",
@@ -4028,7 +4028,7 @@
     "id": "448",
     "slot": "38",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure035": {
@@ -4037,8 +4037,8 @@
     "id": "449",
     "slot": "39",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure036": {
     "label": "Sotenbori Wire 36",
@@ -4046,8 +4046,8 @@
     "id": "450",
     "slot": "40",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure037": {
     "label": "Sotenbori Wire 37",
@@ -4055,7 +4055,7 @@
     "id": "451",
     "slot": "41",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure038": {
@@ -4064,8 +4064,8 @@
     "id": "452",
     "slot": "42",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure039": {
     "label": "Sotenbori Wire 39",
@@ -4073,8 +4073,8 @@
     "id": "453",
     "slot": "43",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure040": {
     "label": "Sotenbori Wire 40",
@@ -4082,8 +4082,8 @@
     "id": "454",
     "slot": "44",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure041": {
     "label": "Sotenbori Wire 41",
@@ -4091,7 +4091,7 @@
     "id": "455",
     "slot": "45",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure042": {
@@ -4100,7 +4100,7 @@
     "id": "456",
     "slot": "46",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure043": {
@@ -4109,8 +4109,8 @@
     "id": "457",
     "slot": "47",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure044": {
     "label": "Sotenbori Wire 44",
@@ -4118,7 +4118,7 @@
     "id": "458",
     "slot": "48",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure045": {
@@ -4127,7 +4127,7 @@
     "id": "459",
     "slot": "49",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
+    "tags": "Sotenbori_1, Wire",
     "region": "JUNK"
   },
   "treasure046": {
@@ -4136,8 +4136,8 @@
     "id": "460",
     "slot": "50",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure047": {
     "label": "Sotenbori Wire 47",
@@ -4145,8 +4145,8 @@
     "id": "461",
     "slot": "51",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure048": {
     "label": "Sotenbori Wire 48",
@@ -4154,8 +4154,8 @@
     "id": "462",
     "slot": "52",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure049": {
     "label": "Sotenbori Wire 49",
@@ -4163,8 +4163,8 @@
     "id": "463",
     "slot": "53",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure050": {
     "label": "Sotenbori Wire 50",
@@ -4172,8 +4172,8 @@
     "id": "464",
     "slot": "54",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Wire",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Wire",
+    "region": "SOTENBORI_1"
   },
   "treasure_c001": {
     "label": "Colosseum Wire 1",
@@ -4181,8 +4181,8 @@
     "id": "465",
     "slot": "65",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c002": {
     "label": "Colosseum Wire 2",
@@ -4190,8 +4190,8 @@
     "id": "466",
     "slot": "66",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c003": {
     "label": "Colosseum Wire 3",
@@ -4199,7 +4199,7 @@
     "id": "467",
     "slot": "67",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_1, Wire",
     "region": "JUNK"
   },
   "treasure_c004": {
@@ -4208,8 +4208,8 @@
     "id": "468",
     "slot": "68",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c005": {
     "label": "Colosseum Wire 5",
@@ -4217,8 +4217,8 @@
     "id": "469",
     "slot": "69",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c006": {
     "label": "Colosseum Wire 6",
@@ -4226,8 +4226,8 @@
     "id": "470",
     "slot": "70",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c007": {
     "label": "Colosseum Wire 7",
@@ -4235,8 +4235,8 @@
     "id": "471",
     "slot": "71",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c008": {
     "label": "Colosseum Wire 8",
@@ -4244,8 +4244,8 @@
     "id": "472",
     "slot": "72",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c009": {
     "label": "Colosseum Wire 9",
@@ -4253,8 +4253,8 @@
     "id": "473",
     "slot": "73",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Wire",
+    "region": "COLOSSEUM_3"
   },
   "treasure_c010": {
     "label": "Colosseum Wire 10",
@@ -4262,8 +4262,8 @@
     "id": "474",
     "slot": "74",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c011": {
     "label": "Colosseum Wire 11",
@@ -4271,7 +4271,7 @@
     "id": "475",
     "slot": "75",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_2, Wire",
     "region": "JUNK"
   },
   "treasure_c012": {
@@ -4280,8 +4280,8 @@
     "id": "476",
     "slot": "76",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Wire",
+    "region": "COLOSSEUM_2"
   },
   "treasure_c013": {
     "label": "Colosseum Wire 13",
@@ -4289,8 +4289,8 @@
     "id": "477",
     "slot": "77",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c014": {
     "label": "Colosseum Wire 14",
@@ -4298,8 +4298,8 @@
     "id": "478",
     "slot": "78",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c015": {
     "label": "Colosseum Wire 15",
@@ -4307,8 +4307,8 @@
     "id": "479",
     "slot": "79",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c016": {
     "label": "Colosseum Wire 16",
@@ -4316,8 +4316,8 @@
     "id": "480",
     "slot": "80",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c017": {
     "label": "Colosseum Wire 17",
@@ -4325,8 +4325,8 @@
     "id": "481",
     "slot": "81",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c018": {
     "label": "Colosseum Wire 18",
@@ -4334,8 +4334,8 @@
     "id": "482",
     "slot": "82",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c019": {
     "label": "Colosseum Wire 19",
@@ -4343,8 +4343,8 @@
     "id": "483",
     "slot": "83",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c020": {
     "label": "Colosseum Wire 20",
@@ -4352,8 +4352,8 @@
     "id": "484",
     "slot": "84",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c021": {
     "label": "Colosseum Wire 21",
@@ -4361,8 +4361,8 @@
     "id": "485",
     "slot": "85",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c022": {
     "label": "Colosseum Wire 22",
@@ -4370,8 +4370,8 @@
     "id": "486",
     "slot": "86",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c023": {
     "label": "Colosseum Wire 23",
@@ -4379,7 +4379,7 @@
     "id": "487",
     "slot": "87",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_1, Wire",
     "region": "JUNK"
   },
   "treasure_c024": {
@@ -4388,7 +4388,7 @@
     "id": "488",
     "slot": "88",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_1, Wire",
     "region": "JUNK"
   },
   "treasure_c025": {
@@ -4397,8 +4397,8 @@
     "id": "489",
     "slot": "89",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c026": {
     "label": "Colosseum Wire 26",
@@ -4406,8 +4406,8 @@
     "id": "490",
     "slot": "90",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c027": {
     "label": "Colosseum Wire 27",
@@ -4415,8 +4415,8 @@
     "id": "491",
     "slot": "91",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c028": {
     "label": "Colosseum Wire 28",
@@ -4424,8 +4424,8 @@
     "id": "492",
     "slot": "92",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c029": {
     "label": "Colosseum Wire 29",
@@ -4433,8 +4433,8 @@
     "id": "493",
     "slot": "93",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_1, Wire",
+    "region": "COLOSSEUM_1"
   },
   "treasure_c030": {
     "label": "Colosseum Wire 30",
@@ -4442,7 +4442,7 @@
     "id": "494",
     "slot": "94",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_1, Wire",
     "region": "JUNK"
   },
   "aston_quest1010": {
@@ -4451,7 +4451,7 @@
     "id": "495",
     "slot": "166",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1020": {
@@ -4460,7 +4460,7 @@
     "id": "496",
     "slot": "167",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1030": {
@@ -4469,7 +4469,7 @@
     "id": "497",
     "slot": "168",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1040": {
@@ -4478,7 +4478,7 @@
     "id": "498",
     "slot": "169",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1050": {
@@ -4487,7 +4487,7 @@
     "id": "499",
     "slot": "170",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1060": {
@@ -4496,7 +4496,7 @@
     "id": "500",
     "slot": "171",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1070": {
@@ -4505,7 +4505,7 @@
     "id": "501",
     "slot": "172",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest1080": {
@@ -4514,7 +4514,7 @@
     "id": "502",
     "slot": "230",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_1, Quest",
     "region": "JUNK"
   },
   "aston_quest8010": {
@@ -4523,7 +4523,7 @@
     "id": "503",
     "slot": "261",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_3, Quest",
     "region": "JUNK"
   },
   "aston_side16_01": {
@@ -4532,7 +4532,7 @@
     "id": "504",
     "slot": "173",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_3, Quest",
     "region": "JUNK"
   },
   "aston_side16_02": {
@@ -4541,7 +4541,7 @@
     "id": "505",
     "slot": "174",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Sotenbori, Quest",
+    "tags": "Sotenbori_3, Quest",
     "region": "JUNK"
   },
   "treasure_cu001": {
@@ -4550,7 +4550,7 @@
     "id": "506",
     "slot": "231",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu002": {
@@ -4559,7 +4559,7 @@
     "id": "507",
     "slot": "232",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu003": {
@@ -4568,7 +4568,7 @@
     "id": "508",
     "slot": "233",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu004": {
@@ -4577,7 +4577,7 @@
     "id": "509",
     "slot": "234",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu005": {
@@ -4586,7 +4586,7 @@
     "id": "510",
     "slot": "235",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu006": {
@@ -4595,7 +4595,7 @@
     "id": "511",
     "slot": "236",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu007": {
@@ -4604,7 +4604,7 @@
     "id": "512",
     "slot": "237",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu008": {
@@ -4613,7 +4613,7 @@
     "id": "513",
     "slot": "238",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu009": {
@@ -4622,7 +4622,7 @@
     "id": "514",
     "slot": "239",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu010": {
@@ -4631,7 +4631,7 @@
     "id": "515",
     "slot": "240",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu011": {
@@ -4640,7 +4640,7 @@
     "id": "516",
     "slot": "241",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu012": {
@@ -4649,7 +4649,7 @@
     "id": "517",
     "slot": "242",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu013": {
@@ -4658,7 +4658,7 @@
     "id": "518",
     "slot": "243",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu014": {
@@ -4667,7 +4667,7 @@
     "id": "519",
     "slot": "244",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu015": {
@@ -4676,7 +4676,7 @@
     "id": "520",
     "slot": "245",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu016": {
@@ -4685,7 +4685,7 @@
     "id": "521",
     "slot": "246",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu017": {
@@ -4694,7 +4694,7 @@
     "id": "522",
     "slot": "247",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu018": {
@@ -4703,7 +4703,7 @@
     "id": "523",
     "slot": "248",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu019": {
@@ -4712,7 +4712,7 @@
     "id": "524",
     "slot": "249",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu020": {
@@ -4721,7 +4721,7 @@
     "id": "525",
     "slot": "250",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu021": {
@@ -4730,7 +4730,7 @@
     "id": "526",
     "slot": "251",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu022": {
@@ -4739,7 +4739,7 @@
     "id": "527",
     "slot": "252",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu023": {
@@ -4748,7 +4748,7 @@
     "id": "528",
     "slot": "253",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu024": {
@@ -4757,7 +4757,7 @@
     "id": "529",
     "slot": "254",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu025": {
@@ -4766,7 +4766,7 @@
     "id": "530",
     "slot": "255",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu026": {
@@ -4775,7 +4775,7 @@
     "id": "531",
     "slot": "256",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu027": {
@@ -4784,7 +4784,7 @@
     "id": "532",
     "slot": "257",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu028": {
@@ -4793,7 +4793,7 @@
     "id": "533",
     "slot": "258",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu029": {
@@ -4802,7 +4802,7 @@
     "id": "534",
     "slot": "259",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "treasure_cu030": {
@@ -4811,7 +4811,7 @@
     "id": "535",
     "slot": "260",
     "source": "item_get_by_wire.bin.json",
-    "tags": "Colosseum, Wire",
+    "tags": "Colosseum_3, Wire",
     "region": "JUNK"
   },
   "aston_hp_up01": {
@@ -5891,8 +5891,8 @@
     "id": "655",
     "slot": "4",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit, Rivals",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_4, Rivals",
+    "region": "POCKET_CIRCUIT_4"
   },
   "pokecir_reward_1": {
     "label": "Pocket Circuit Reward 2",
@@ -5900,8 +5900,8 @@
     "id": "656",
     "slot": "8",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_2": {
     "label": "Pocket Circuit Reward 3",
@@ -5909,8 +5909,8 @@
     "id": "657",
     "slot": "13",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit, Rivals",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2, Rivals",
+    "region": "POCKET_CIRCUIT_2"
   },
   "pokecir_reward_3": {
     "label": "Pocket Circuit Reward 4",
@@ -5918,8 +5918,8 @@
     "id": "658",
     "slot": "15",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_4": {
     "label": "Pocket Circuit Reward 5",
@@ -5927,8 +5927,8 @@
     "id": "659",
     "slot": "40",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_5": {
     "label": "Pocket Circuit Reward 6",
@@ -5936,8 +5936,8 @@
     "id": "660",
     "slot": "58",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit, Rivals",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3, Rivals",
+    "region": "POCKET_CIRCUIT_3"
   },
   "pokecir_reward_6": {
     "label": "Pocket Circuit Reward 7",
@@ -5945,8 +5945,8 @@
     "id": "661",
     "slot": "64",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_7": {
     "label": "Pocket Circuit Reward 8",
@@ -5954,8 +5954,8 @@
     "id": "662",
     "slot": "89",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_8": {
     "label": "Pocket Circuit Reward 9",
@@ -5963,8 +5963,8 @@
     "id": "663",
     "slot": "94",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_9": {
     "label": "Pocket Circuit Reward 10",
@@ -5972,8 +5972,8 @@
     "id": "664",
     "slot": "111",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2",
+    "region": "POCKET_CIRCUIT_2"
   },
   "pokecir_reward_10": {
     "label": "Pocket Circuit Reward 11",
@@ -5981,8 +5981,8 @@
     "id": "665",
     "slot": "120",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_11": {
     "label": "Pocket Circuit Reward 12",
@@ -5990,8 +5990,8 @@
     "id": "666",
     "slot": "124",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_1",
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_12": {
     "label": "Pocket Circuit Reward 13",
@@ -5999,8 +5999,8 @@
     "id": "667",
     "slot": "125",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit, Rivals",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_3, Rivals",
+    "region": "POCKET_CIRCUIT_3"
   },
   "pokecir_reward_13": {
     "label": "Pocket Circuit Reward 14",
@@ -6008,8 +6008,8 @@
     "id": "668",
     "slot": "130",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit, Rivals",
-    "region": "POCKET_CIRCUIT"
+    "tags": "Pocket Circuit_2, Rivals",
+    "region": "POCKET_CIRCUIT_2"
   },
   "trap_location_0": {
     "label": "Trap 1",
@@ -7457,8 +7457,8 @@
     "id": "829",
     "slot": "1",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Minigames, Darts",
+    "region": "SOTENBORI_2"
   },
   "darts_rewards_1": {
     "label": "Dart Rival Reward 2",
@@ -7466,8 +7466,8 @@
     "id": "830",
     "slot": "2",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Minigames, Darts",
+    "region": "SOTENBORI_2"
   },
   "darts_rewards_2": {
     "label": "Dart Rival Reward 3",
@@ -7475,8 +7475,8 @@
     "id": "831",
     "slot": "3",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Pocket Circuit_4, Minigames, Darts",
+    "region": "POCKET_CIRCUIT_4"
   },
   "darts_rewards_3": {
     "label": "Dart Rival Reward 4",
@@ -7484,8 +7484,8 @@
     "id": "832",
     "slot": "4",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Minigames, Darts",
+    "region": "SOTENBORI_2"
   },
   "darts_rewards_4": {
     "label": "Dart Rival Reward 5",
@@ -7493,8 +7493,8 @@
     "id": "833",
     "slot": "5",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_2, Minigames, Darts",
+    "region": "COLOSSEUM_2"
   },
   "darts_rewards_5": {
     "label": "Dart Rival Reward 6",
@@ -7502,8 +7502,8 @@
     "id": "834",
     "slot": "6",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_3, Minigames, Darts",
+    "region": "SOTENBORI_3"
   },
   "darts_rewards_6": {
     "label": "Dart Rival Reward 7",
@@ -7511,8 +7511,8 @@
     "id": "835",
     "slot": "7",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Minigames, Darts",
+    "region": "COLOSSEUM_3"
   },
   "darts_rewards_7": {
     "label": "Dart Rival Reward 8",
@@ -7520,8 +7520,8 @@
     "id": "836",
     "slot": "8",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
-    "region": "SOTENBORI"
+    "tags": "Colosseum_3, Minigames, Darts",
+    "region": "COLOSSEUM_3"
   },
   "darts_rewards_8": {
     "label": "Dart Rival Extra Reward 1",
@@ -7529,7 +7529,7 @@
     "id": "837",
     "slot": "9",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_9": {
@@ -7538,7 +7538,7 @@
     "id": "838",
     "slot": "10",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_10": {
@@ -7547,7 +7547,7 @@
     "id": "839",
     "slot": "11",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_11": {
@@ -7556,7 +7556,7 @@
     "id": "840",
     "slot": "12",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_12": {
@@ -7565,7 +7565,7 @@
     "id": "841",
     "slot": "13",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_13": {
@@ -7574,7 +7574,7 @@
     "id": "842",
     "slot": "14",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_14": {
@@ -7583,7 +7583,7 @@
     "id": "843",
     "slot": "15",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_15": {
@@ -7592,7 +7592,7 @@
     "id": "844",
     "slot": "16",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_16": {
@@ -7601,7 +7601,7 @@
     "id": "845",
     "slot": "17",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "darts_rewards_17": {
@@ -7610,7 +7610,7 @@
     "id": "846",
     "slot": "18",
     "source": "reward_table.bin.json",
-    "tags": "Sotenbori, Minigames, Darts",
+    "tags": "Sotenbori_4, Minigames, Darts",
     "region": "JUNK"
   },
   "aston_s_poppo_ashi_0": {
@@ -7619,8 +7619,8 @@
     "id": "847",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_1": {
     "label": "Sotenbori Park Poppo Shop 2",
@@ -7628,8 +7628,8 @@
     "id": "848",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_2": {
     "label": "Sotenbori Park Poppo Shop 3",
@@ -7637,8 +7637,8 @@
     "id": "849",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_3": {
     "label": "Sotenbori Park Poppo Shop 4",
@@ -7646,8 +7646,8 @@
     "id": "850",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_4": {
     "label": "Sotenbori Park Poppo Shop 5",
@@ -7655,8 +7655,8 @@
     "id": "851",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_5": {
     "label": "Sotenbori Park Poppo Shop 6",
@@ -7664,8 +7664,8 @@
     "id": "852",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_6": {
     "label": "Sotenbori Park Poppo Shop 7",
@@ -7673,8 +7673,8 @@
     "id": "853",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_7": {
     "label": "Sotenbori Park Poppo Shop 8",
@@ -7682,8 +7682,8 @@
     "id": "854",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_8": {
     "label": "Sotenbori Park Poppo Shop 9",
@@ -7691,8 +7691,8 @@
     "id": "855",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_9": {
     "label": "Sotenbori Park Poppo Shop 10",
@@ -7700,8 +7700,8 @@
     "id": "856",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_10": {
     "label": "Sotenbori Park Poppo Shop 11",
@@ -7709,8 +7709,8 @@
     "id": "857",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_11": {
     "label": "Sotenbori Park Poppo Shop 12",
@@ -7718,8 +7718,8 @@
     "id": "858",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_12": {
     "label": "Sotenbori Park Poppo Shop 13",
@@ -7727,8 +7727,8 @@
     "id": "859",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_13": {
     "label": "Sotenbori Park Poppo Shop 14",
@@ -7736,8 +7736,8 @@
     "id": "860",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_14": {
     "label": "Sotenbori Park Poppo Shop 15",
@@ -7745,8 +7745,8 @@
     "id": "861",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_15": {
     "label": "Sotenbori Park Poppo Shop 16",
@@ -7754,8 +7754,8 @@
     "id": "862",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_16": {
     "label": "Sotenbori Park Poppo Shop 17",
@@ -7763,8 +7763,8 @@
     "id": "863",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_17": {
     "label": "Sotenbori Park Poppo Shop 18",
@@ -7772,8 +7772,8 @@
     "id": "864",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_18": {
     "label": "Sotenbori Park Poppo Shop 19",
@@ -7781,8 +7781,8 @@
     "id": "865",
     "slot": "18",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_19": {
     "label": "Sotenbori Park Poppo Shop 20",
@@ -7790,8 +7790,8 @@
     "id": "866",
     "slot": "19",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_20": {
     "label": "Sotenbori Park Poppo Shop 21",
@@ -7799,8 +7799,8 @@
     "id": "867",
     "slot": "20",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_21": {
     "label": "Sotenbori Park Poppo Shop 22",
@@ -7808,8 +7808,8 @@
     "id": "868",
     "slot": "21",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_22": {
     "label": "Sotenbori Park Poppo Shop 23",
@@ -7817,8 +7817,8 @@
     "id": "869",
     "slot": "22",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_23": {
     "label": "Sotenbori Park Poppo Shop 24",
@@ -7826,8 +7826,8 @@
     "id": "870",
     "slot": "23",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_24": {
     "label": "Sotenbori Park Poppo Shop 25",
@@ -7835,8 +7835,8 @@
     "id": "871",
     "slot": "24",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_ashi_25": {
     "label": "Sotenbori Park Poppo Shop 26",
@@ -7844,8 +7844,8 @@
     "id": "872",
     "slot": "25",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_0": {
     "label": "Sotenbori South Poppo Shop 1",
@@ -7853,8 +7853,8 @@
     "id": "873",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_1": {
     "label": "Sotenbori South Poppo Shop 2",
@@ -7862,8 +7862,8 @@
     "id": "874",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_2": {
     "label": "Sotenbori South Poppo Shop 3",
@@ -7871,8 +7871,8 @@
     "id": "875",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_3": {
     "label": "Sotenbori South Poppo Shop 4",
@@ -7880,8 +7880,8 @@
     "id": "876",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_4": {
     "label": "Sotenbori South Poppo Shop 5",
@@ -7889,8 +7889,8 @@
     "id": "877",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_5": {
     "label": "Sotenbori South Poppo Shop 6",
@@ -7898,8 +7898,8 @@
     "id": "878",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_6": {
     "label": "Sotenbori South Poppo Shop 7",
@@ -7907,8 +7907,8 @@
     "id": "879",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_7": {
     "label": "Sotenbori South Poppo Shop 8",
@@ -7916,8 +7916,8 @@
     "id": "880",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_8": {
     "label": "Sotenbori South Poppo Shop 9",
@@ -7925,8 +7925,8 @@
     "id": "881",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_9": {
     "label": "Sotenbori South Poppo Shop 10",
@@ -7934,8 +7934,8 @@
     "id": "882",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_10": {
     "label": "Sotenbori South Poppo Shop 11",
@@ -7943,8 +7943,8 @@
     "id": "883",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_11": {
     "label": "Sotenbori South Poppo Shop 12",
@@ -7952,8 +7952,8 @@
     "id": "884",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_12": {
     "label": "Sotenbori South Poppo Shop 13",
@@ -7961,8 +7961,8 @@
     "id": "885",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_13": {
     "label": "Sotenbori South Poppo Shop 14",
@@ -7970,8 +7970,8 @@
     "id": "886",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_14": {
     "label": "Sotenbori South Poppo Shop 15",
@@ -7979,8 +7979,8 @@
     "id": "887",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_15": {
     "label": "Sotenbori South Poppo Shop 16",
@@ -7988,8 +7988,8 @@
     "id": "888",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_16": {
     "label": "Sotenbori South Poppo Shop 17",
@@ -7997,8 +7997,8 @@
     "id": "889",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_17": {
     "label": "Sotenbori South Poppo Shop 18",
@@ -8006,8 +8006,8 @@
     "id": "890",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_18": {
     "label": "Sotenbori South Poppo Shop 19",
@@ -8015,8 +8015,8 @@
     "id": "891",
     "slot": "18",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_19": {
     "label": "Sotenbori South Poppo Shop 20",
@@ -8024,8 +8024,8 @@
     "id": "892",
     "slot": "19",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_20": {
     "label": "Sotenbori South Poppo Shop 21",
@@ -8033,8 +8033,8 @@
     "id": "893",
     "slot": "20",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_21": {
     "label": "Sotenbori South Poppo Shop 22",
@@ -8042,8 +8042,8 @@
     "id": "894",
     "slot": "21",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_22": {
     "label": "Sotenbori South Poppo Shop 23",
@@ -8051,8 +8051,8 @@
     "id": "895",
     "slot": "22",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_23": {
     "label": "Sotenbori South Poppo Shop 24",
@@ -8060,8 +8060,8 @@
     "id": "896",
     "slot": "23",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_sh_24": {
     "label": "Sotenbori South Poppo Shop 25",
@@ -8069,8 +8069,8 @@
     "id": "897",
     "slot": "24",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_0": {
     "label": "Sotenbori North Poppo Shop 1",
@@ -8078,8 +8078,8 @@
     "id": "898",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_1": {
     "label": "Sotenbori North Poppo Shop 2",
@@ -8087,8 +8087,8 @@
     "id": "899",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_2": {
     "label": "Sotenbori North Poppo Shop 3",
@@ -8096,8 +8096,8 @@
     "id": "900",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_3": {
     "label": "Sotenbori North Poppo Shop 4",
@@ -8105,8 +8105,8 @@
     "id": "901",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_4": {
     "label": "Sotenbori North Poppo Shop 5",
@@ -8114,8 +8114,8 @@
     "id": "902",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_5": {
     "label": "Sotenbori North Poppo Shop 6",
@@ -8123,8 +8123,8 @@
     "id": "903",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_6": {
     "label": "Sotenbori North Poppo Shop 7",
@@ -8132,8 +8132,8 @@
     "id": "904",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_7": {
     "label": "Sotenbori North Poppo Shop 8",
@@ -8141,8 +8141,8 @@
     "id": "905",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_8": {
     "label": "Sotenbori North Poppo Shop 9",
@@ -8150,8 +8150,8 @@
     "id": "906",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_9": {
     "label": "Sotenbori North Poppo Shop 10",
@@ -8159,8 +8159,8 @@
     "id": "907",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_10": {
     "label": "Sotenbori North Poppo Shop 11",
@@ -8168,8 +8168,8 @@
     "id": "908",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_11": {
     "label": "Sotenbori North Poppo Shop 12",
@@ -8177,8 +8177,8 @@
     "id": "909",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_12": {
     "label": "Sotenbori North Poppo Shop 13",
@@ -8186,8 +8186,8 @@
     "id": "910",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_13": {
     "label": "Sotenbori North Poppo Shop 14",
@@ -8195,8 +8195,8 @@
     "id": "911",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_14": {
     "label": "Sotenbori North Poppo Shop 15",
@@ -8204,8 +8204,8 @@
     "id": "912",
     "slot": "14",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_15": {
     "label": "Sotenbori North Poppo Shop 16",
@@ -8213,8 +8213,8 @@
     "id": "913",
     "slot": "15",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_16": {
     "label": "Sotenbori North Poppo Shop 17",
@@ -8222,8 +8222,8 @@
     "id": "914",
     "slot": "16",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_17": {
     "label": "Sotenbori North Poppo Shop 18",
@@ -8231,8 +8231,8 @@
     "id": "915",
     "slot": "17",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_18": {
     "label": "Sotenbori North Poppo Shop 19",
@@ -8240,8 +8240,8 @@
     "id": "916",
     "slot": "18",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_19": {
     "label": "Sotenbori North Poppo Shop 20",
@@ -8249,8 +8249,8 @@
     "id": "917",
     "slot": "19",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_20": {
     "label": "Sotenbori North Poppo Shop 21",
@@ -8258,8 +8258,8 @@
     "id": "918",
     "slot": "20",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_21": {
     "label": "Sotenbori North Poppo Shop 22",
@@ -8267,8 +8267,8 @@
     "id": "919",
     "slot": "21",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_22": {
     "label": "Sotenbori North Poppo Shop 23",
@@ -8276,8 +8276,8 @@
     "id": "920",
     "slot": "22",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_23": {
     "label": "Sotenbori North Poppo Shop 24",
@@ -8285,8 +8285,8 @@
     "id": "921",
     "slot": "23",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_poppo_so_24": {
     "label": "Sotenbori North Poppo Shop 25",
@@ -8294,8 +8294,8 @@
     "id": "922",
     "slot": "24",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_y_poppo02_0": {
     "label": "Yokohama Poppo Shop 1",
@@ -8492,8 +8492,8 @@
     "id": "944",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_kukuru_1": {
     "label": "Sotenbori Kukuru Shop 2",
@@ -8501,8 +8501,8 @@
     "id": "945",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_kukuru_2": {
     "label": "Sotenbori Kukuru Shop 3",
@@ -8510,8 +8510,8 @@
     "id": "946",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_kukuru_3": {
     "label": "Sotenbori Kukuru Shop 4",
@@ -8519,8 +8519,8 @@
     "id": "947",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_kukuru_4": {
     "label": "Sotenbori Kukuru Shop 5",
@@ -8528,8 +8528,8 @@
     "id": "948",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_0": {
     "label": "Sotenbori Tsuruha Shop 1",
@@ -8537,8 +8537,8 @@
     "id": "949",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_1": {
     "label": "Sotenbori Tsuruha Shop 2",
@@ -8546,8 +8546,8 @@
     "id": "950",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_2": {
     "label": "Sotenbori Tsuruha Shop 3",
@@ -8555,8 +8555,8 @@
     "id": "951",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_3": {
     "label": "Sotenbori Tsuruha Shop 4",
@@ -8564,8 +8564,8 @@
     "id": "952",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_4": {
     "label": "Sotenbori Tsuruha Shop 5",
@@ -8573,8 +8573,8 @@
     "id": "953",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_5": {
     "label": "Sotenbori Tsuruha Shop 6",
@@ -8582,8 +8582,8 @@
     "id": "954",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_6": {
     "label": "Sotenbori Tsuruha Shop 7",
@@ -8591,8 +8591,8 @@
     "id": "955",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_7": {
     "label": "Sotenbori Tsuruha Shop 8",
@@ -8600,8 +8600,8 @@
     "id": "956",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_8": {
     "label": "Sotenbori Tsuruha Shop 9",
@@ -8609,8 +8609,8 @@
     "id": "957",
     "slot": "8",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_9": {
     "label": "Sotenbori Tsuruha Shop 10",
@@ -8618,8 +8618,8 @@
     "id": "958",
     "slot": "9",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_10": {
     "label": "Sotenbori Tsuruha Shop 11",
@@ -8627,8 +8627,8 @@
     "id": "959",
     "slot": "10",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_11": {
     "label": "Sotenbori Tsuruha Shop 12",
@@ -8636,8 +8636,8 @@
     "id": "960",
     "slot": "11",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_12": {
     "label": "Sotenbori Tsuruha Shop 13",
@@ -8645,8 +8645,8 @@
     "id": "961",
     "slot": "12",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_tsuruha_13": {
     "label": "Sotenbori Tsuruha Shop 14",
@@ -8654,8 +8654,8 @@
     "id": "962",
     "slot": "13",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Consumable Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Consumable Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_hiratai_0": {
     "label": "Sotenbori Hiratai Shop 1",
@@ -8663,8 +8663,8 @@
     "id": "963",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_hiratai_1": {
     "label": "Sotenbori Hiratai Shop 2",
@@ -8672,8 +8672,8 @@
     "id": "964",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_hiratai_2": {
     "label": "Sotenbori Hiratai Shop 3",
@@ -8681,8 +8681,8 @@
     "id": "965",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_1, Weird Shops",
+    "region": "SOTENBORI_1"
   },
   "aston_s_shigano_0": {
     "label": "Sotenbori Shigano 1",
@@ -8690,8 +8690,8 @@
     "id": "966",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Weird Shops",
+    "region": "SOTENBORI_2"
   },
   "aston_s_shigano_1": {
     "label": "Sotenbori Shigano 2",
@@ -8699,8 +8699,8 @@
     "id": "967",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Sotenbori, Weird Shops",
-    "region": "SOTENBORI"
+    "tags": "Sotenbori_2, Weird Shops",
+    "region": "SOTENBORI_2"
   },
   "aston_y_smilewagon_0": {
     "label": "Yokohama Smile Burger Wagon Shop 1",
@@ -8807,8 +8807,8 @@
     "id": "979",
     "slot": "0",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_loungeshop_1": {
     "label": "Colosseum Lounge Shop 2",
@@ -8816,8 +8816,8 @@
     "id": "980",
     "slot": "1",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_loungeshop_2": {
     "label": "Colosseum Lounge Shop 3",
@@ -8825,8 +8825,8 @@
     "id": "981",
     "slot": "2",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_loungeshop_3": {
     "label": "Colosseum Lounge Shop 4",
@@ -8834,8 +8834,8 @@
     "id": "982",
     "slot": "3",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_4, Shops",
+    "region": "COLOSSEUM_4"
   },
   "aston_c_loungeshop_4": {
     "label": "Colosseum Lounge Shop 5",
@@ -8843,8 +8843,8 @@
     "id": "983",
     "slot": "4",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_loungeshop_5": {
     "label": "Colosseum Lounge Shop 6",
@@ -8852,8 +8852,8 @@
     "id": "984",
     "slot": "5",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_2, Shops",
+    "region": "COLOSSEUM_2"
   },
   "aston_c_loungeshop_6": {
     "label": "Colosseum Lounge Shop 7",
@@ -8861,8 +8861,8 @@
     "id": "985",
     "slot": "6",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_3, Shops",
+    "region": "COLOSSEUM_3"
   },
   "aston_c_loungeshop_7": {
     "label": "Colosseum Lounge Shop 8",
@@ -8870,8 +8870,8 @@
     "id": "986",
     "slot": "7",
     "source": "shop.bin.json",
-    "tags": "Colosseum, Shops",
-    "region": "COLOSSEUM"
+    "tags": "Colosseum_4, Shops",
+    "region": "COLOSSEUM_4"
   },
   "treasure_contents_table_0": {
     "label": "Suitcase Pickup 1",

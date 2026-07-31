@@ -25,15 +25,21 @@ def create_and_connect_regions(world: YakuzaGaiden) -> None:
 def create_all_regions(world: YakuzaGaiden) -> None:
     # Creating a region is as simple as calling the constructor of the Region class.
     yokohama = Region("Yokohama", world.player, world.multiworld)
-    sotenbori = Region("Sotenbori", world.player, world.multiworld)
-    sotenbori_akame_3 = Region("Sotenbori Post Akame 3", world.player, world.multiworld)
-    colosseum_bottom = Region("Colosseum Entrance", world.player, world.multiworld)
-    colosseum_silver = Region("Colosseum Silver", world.player, world.multiworld)
-    colosseum_gold = Region("Colosseum Gold", world.player, world.multiworld)
-    pocket_circuit = Region("Pocket Circuit", world.player, world.multiworld)
+    sotenbori_1 = Region("Sotenbori 1", world.player, world.multiworld)
+    sotenbori_2 = Region("Sotenbori 2", world.player, world.multiworld)
+    sotenbori_3 = Region("Sotenbori 3", world.player, world.multiworld)
+    sotenbori_4 = Region("Sotenbori 4", world.player, world.multiworld)
+    colosseum_1 = Region("Colosseum 1", world.player, world.multiworld)
+    colosseum_2 = Region("Colosseum 2", world.player, world.multiworld)
+    colosseum_3 = Region("Colosseum 3", world.player, world.multiworld)
+    colosseum_4 = Region("Colosseum 4", world.player, world.multiworld)
+    pocket_circuit_1 = Region("Pocket Circuit 1", world.player, world.multiworld)
+    pocket_circuit_2 = Region("Pocket Circuit 2", world.player, world.multiworld)
+    pocket_circuit_3 = Region("Pocket Circuit 3", world.player, world.multiworld)
+    pocket_circuit_4 = Region("Pocket Circuit 4", world.player, world.multiworld)
 
     # Let's put all these regions in a list.
-    regions = [yokohama, sotenbori, sotenbori_akame_3, colosseum_bottom, colosseum_silver, colosseum_gold, pocket_circuit]
+    regions = [yokohama, sotenbori_1, sotenbori_2, sotenbori_3, sotenbori_4, colosseum_1, colosseum_2, colosseum_3, colosseum_4, pocket_circuit_1, pocket_circuit_2, pocket_circuit_3, pocket_circuit_4]
 
     # Some regions may only exist if the player enables certain options.
     # In our case, the Hammer locks the top middle chest in its own room if the hammer option is enabled.
@@ -51,12 +57,18 @@ def connect_regions(world: YakuzaGaiden) -> None:
     # Luckily, once you've submitted your regions to multiworld.regions,
     # you can get them at any time using world.get_region(...).
     yokohama = world.get_region("Yokohama")
-    sotenbori = world.get_region("Sotenbori")
-    sotenbori_akame_3 = world.get_region("Sotenbori Post Akame 3")
-    colosseum_bottom = world.get_region("Colosseum Entrance")
-    colosseum_silver = world.get_region("Colosseum Silver")
-    colosseum_gold = world.get_region("Colosseum Gold")
-    pocket_circuit = world.get_region("Pocket Circuit")
+    sotenbori_1 = world.get_region("Sotenbori 1")
+    sotenbori_2 = world.get_region("Sotenbori 2")
+    sotenbori_3 = world.get_region("Sotenbori 3")
+    sotenbori_4 = world.get_region("Sotenbori 4")
+    colosseum_1 = world.get_region("Colosseum 1")
+    colosseum_2 = world.get_region("Colosseum 2")
+    colosseum_3 = world.get_region("Colosseum 3")
+    colosseum_4 = world.get_region("Colosseum 4")
+    pocket_circuit_1 = world.get_region("Pocket Circuit 1")
+    pocket_circuit_2 = world.get_region("Pocket Circuit 2")
+    pocket_circuit_3 = world.get_region("Pocket Circuit 3")
+    pocket_circuit_4 = world.get_region("Pocket Circuit 4")
 
     # Okay, now we can get connecting. For this, we need to create Entrances.
     # Entrances are inherently one-way, but crucially, AP assumes you can always return to the origin region.
@@ -67,13 +79,18 @@ def connect_regions(world: YakuzaGaiden) -> None:
     #yokohama_to_sotenbori.connect(sotenbori)
 
     # An even easier way is to use the region.connect helper.
-    yokohama.connect(sotenbori, "Yokohama to Sotenbori")
-    sotenbori.connect(sotenbori_akame_3, "Sotenbori to Sotenbori Akame 3")
-    colosseum_bottom.connect(pocket_circuit, "Colosseum to Pocket Circuit")
-    sotenbori_akame_3.connect(colosseum_bottom, "Sotenbori Akame 3 to Colosseum")
-    colosseum_bottom.connect(colosseum_silver, "Colosseum to Colosseum Silver Rank")
-    colosseum_silver.connect(colosseum_gold, "Colosseum Silver Rank to Colosseum Gold Rank")
-    
+    yokohama.connect(sotenbori_1, "Yokohama to Sotenbori 1")
+    sotenbori_1.connect(sotenbori_2, "Sotenbori 1 to Sotenbori 2")
+    sotenbori_2.connect(colosseum_1, "Sotenbori 2 to Colosseum 1")
+    sotenbori_3.connect(colosseum_3, "Sotenbori 3 to Colosseum 3")
+    sotenbori_3.connect(sotenbori_4, "Sotenbori 3 to Sotenbori 4")
+    sotenbori_4.connect(colosseum_4, "Sotenbori 4 to Colosseum 4")
+    colosseum_1.connect(pocket_circuit_1, "Colosseum 1 to Pocket Circuit 1")
+    colosseum_1.connect(colosseum_2, "Colosseum 1 to Colosseum 2")
+    colosseum_1.connect(sotenbori_3, "Colosseum 1 to Sotenbori 3")
+    colosseum_2.connect(pocket_circuit_2, "Colosseum 2 to Pocket Circuit 2")
+    colosseum_3.connect(pocket_circuit_3, "Colosseum 3 to Pocket Circuit 3")
+    colosseum_4.connect(pocket_circuit_4, "Colosseum 4 to Pocket Circuit 4")
     
     # The region.connect helper even allows adding a rule immediately.
     # We'll talk more about rule creation in the set_all_rules() function in rules.py.
