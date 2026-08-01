@@ -85,20 +85,20 @@ DEFAULT_ITEM_CLASSIFICATIONS = {
 GOLDEN_BALL_COUNT = 7
 
 PROGRESSIVE_SKILL_COUNTS = { 
-    "Progressive HP Up": 23, 
-    "Progressive Damage Up": 18, 
-    "Progressive Heat Gauge Up": 4, 
-    "Progressive Extreme Heat Damage Up": 2, 
-    "Progressive Drunk Heat Gauge Increase": 2, 
-    "Progressive Drunk Attack Heat Gauge Increase": 2, 
-    "Progressive Equipment Up": 3, 
-    "Progressive Recovery From Food Up": 3, 
-    "Progressive Heat Action Damage Up in ExH": 2, 
-    "Progressive Evasion Up in ExH": 2, 
-    "Progressive Extra Wire": 4, 
-    "Progressive Extra Bomb": 4, 
-    "Progressive Extra Drone": 4, 
-    "Progressive Extra Shoe Boost": 4, 
+    "Skill Book: Progressive HP Up": 23, 
+    "Skill Book: Progressive Damage Up": 18, 
+    "Skill Book: Progressive Heat Gauge Up": 4, 
+    "Skill Book: Progressive Extreme Heat Damage Up": 2, 
+    "Skill Book: Progressive Drunk Heat Gauge Increase": 2, 
+    "Skill Book: Progressive Drunk Attack Heat Gauge Increase": 2, 
+    "Skill Book: Progressive Equipment Up": 3, 
+    "Skill Book: Progressive Recovery From Food Up": 3, 
+    "Skill Book: Progressive Heat Action Damage Up in ExH": 2, 
+    "Skill Book: Progressive Evasion Up in ExH": 2, 
+    "Skill Book: Progressive Extra Wire": 4, 
+    "Skill Book: Progressive Extra Bomb": 4, 
+    "Skill Book: Progressive Extra Drone": 4, 
+    "Skill Book: Progressive Extra Shoe Boost": 4, 
     }
 
 FILLER_ITEMS = [
