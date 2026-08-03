@@ -8,6 +8,7 @@ from BaseClasses import ItemClassification
 import orjson
 import pkgutil
 import Utils
+import yaml
 
 from worlds.Files import APPlayerContainer
 
@@ -31,6 +32,31 @@ ITEM_NAME_TO_DATA = {
     for item in ITEMS.values()
 }
 
+OPTION_EXPORT_MAP = {
+    "randomize_enemy_stats": "randomize_enemy_stats",
+    "intro_skip": "intro_skip",
+
+    "skill_money_min": "skill_money_min",
+    "skill_money_max": "skill_money_max",
+
+    "skill_point_min": "skill_akame_min",
+    "skill_point_max": "skill_akame_max",
+
+    "part_time_money_min": "part_time_money_min",
+    "part_time_money_max": "part_time_money_max",
+
+    "part_time_point_min": "part_time_akame_min",
+    "part_time_point_max": "part_time_akame_max",
+
+    "attack_defense_min": "attack_and_defense_min",
+    "attack_defense_max": "attack_and_defense_max",
+
+    "resist_min": "resist_min",
+    "resist_max": "resist_max",
+
+    "enemy_hp_mult": "enemy_hp_mult",
+    "enemy_attack_mult": "enemy_attack_mult",
+}
 
 LOCATION_NAME_TO_DATA = {
     location["label"]: location
@@ -272,8 +298,42 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         mod_name + "_" + Utils.__version__
     )
 
+    #
+    # Export world options
+    #
+    options_yaml = {}
+
+    for ap_name, yaml_name in OPTION_EXPORT_MAP.items():
+
+        if hasattr(world.options, ap_name):
+
+            option = getattr(
+                world.options,
+                ap_name
+            )
+
+            try:
+                options_yaml[yaml_name] = option.value
+
+            except AttributeError:
+                options_yaml[yaml_name] = option
+
+
+    #
+    # Seed info
+    #
+    options_yaml["seed"] = world.multiworld.seed_name
+
+
+    yaml_buffer = yaml.dump(
+        options_yaml,
+        sort_keys=False
+    )
+
+
     patch_files = {
-        "patch.csv": csv_buffer.getvalue()
+        "patch.csv": csv_buffer.getvalue(),
+        "options.yaml": yaml_buffer
     }
 
     mod = GaidenContainer(

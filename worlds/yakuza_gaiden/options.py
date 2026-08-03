@@ -36,6 +36,24 @@ class ProgressiveSkills(Toggle):
     display_name = "Enable Progressive Skills"
     default = True
 
+class RandomizeEnemyStats(Toggle):
+    """
+    Randomizes all enemy health and damage stats between 0.5 and 3.0.
+    WARNING: This can make the playthrough much harder!
+    """
+
+    display_name = "Randomize All Enemy Stats"
+    default = False
+
+class IntroSkip(Toggle):
+    """
+    Sets key fights in the early tutorial section of the game to 1 HP.
+    This goes up until the end of the first dungeon before entering sotenbori.
+    """
+
+    display_name = "Enable Intro Skip"
+    default = True
+
 
 class Shops(Toggle):
     """
@@ -120,7 +138,8 @@ class Shogi(Toggle):
 
 class TrapChance(Range):
     """
-    Percentage chance that any given Confetti Cannon will be replaced by a Math Trap.
+    Percent of junk items turned into traps.
+    Current traps: Joke healing items
     """
 
     display_name = "Trap Chance"
@@ -133,7 +152,8 @@ class TrapChance(Range):
 # A Range is a numeric option with a min and max value. This will be represented by a slider on the website.
 class ItemCostMin(Range):
     """
-    How expensive each item can be, note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    Max potential value of how expensive each item can be in stores. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
     """
 
     display_name = "Item Cost Minimum"
@@ -146,7 +166,8 @@ class ItemCostMin(Range):
 
 class ItemCostMax(Range):
     """
-    How expensive each item can be, note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    Minimum potential value of how expensive each item can be in stores. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
     """
 
     display_name = "Item Cost Maximum"
@@ -159,7 +180,8 @@ class ItemCostMax(Range):
 
 class ItemCostPointMin(Range):
     """
-    How expensive each item can be in point stores, note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    Max potential value of how expensive each item can be in point stores. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
     """
 
     display_name = "Item Cost Point Minimum"
@@ -172,7 +194,8 @@ class ItemCostPointMin(Range):
 
 class ItemCostPointMax(Range):
     """
-    How expensive each item can be in point stores, note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    Minimum potential value of how expensive each item can be in point stores. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
     """
 
     display_name = "Item Cost Point Maximum"
@@ -181,7 +204,203 @@ class ItemCostPointMax(Range):
     range_end = 10000
 
     # Range options must define an explicit default value.
-    default = 8000
+    default = 5000
+
+class SkillMoneyMin(Range):
+    """
+    The minimum monetary cost each skill can be in the level up tab. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Skill Cost Minimum"
+
+    range_start = 0
+    range_end = 3000000
+
+    # Range options must define an explicit default value.
+    default = 1000
+
+class SkillMoneyMax(Range):
+    """
+    The maximum monetary cost each skill can be in the level up tab. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.    """
+
+    display_name = "Skill Cost Maximum"
+
+    range_start = 0
+    range_end = 3000000
+
+    # Range options must define an explicit default value.
+    default = 1000000
+
+class SkillPointMin(Range):
+    """
+    The minimum point cost each skill can be in the level up tab. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Skill Point Cost Minimum"
+
+    range_start = 0
+    range_end = 10000
+
+    # Range options must define an explicit default value.
+    default = 100
+
+class SkillPointMax(Range):
+    """
+    The maximum point cost each skill can be in the level up tab. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Skill Point Cost Maximum"
+
+    range_start = 0
+    range_end = 10000
+
+    # Range options must define an explicit default value.
+    default = 3000
+
+class PartTimeMoneyMin(Range):
+    """
+    The max amount of monetary reward that Akame tasks can grant. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Akame Task Monetary Reward Minimum"
+
+    range_start = 0
+    range_end = 1000000
+
+    # Range options must define an explicit default value.
+    default = 50000
+
+class PartTimeMoneyMax(Range):
+    """
+    The maximum amount of monetary reward that Akame tasks can grant. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Akame Task Monetary Reward Maximum"
+
+    range_start = 0
+    range_end = 1000000
+
+    # Range options must define an explicit default value.
+    default = 500000
+
+class PartTimePointMin(Range):
+    """
+    The max amount of point reward that Akame tasks can grant. 
+    note: this uses a 4 bucket system to try and curve most prices towards the low end, and leave a handfull of high end prices. Use the default as a guide here.
+    """
+
+    display_name = "Akame Task Point Reward Minimum"
+
+    range_start = 0
+    range_end = 5000
+
+    # Range options must define an explicit default value.
+    default = 50
+
+class PartTimePointMax(Range):
+    """
+    The maximum amount of point reward that Akame tasks can grant. 
+    note: Setting this higher can make key items less impactful, adjust if you want to play without waiting on others.
+    """
+
+    display_name = "Akame Task Point Reward Maximum"
+
+    range_start = 0
+    range_end = 5000
+
+    # Range options must define an explicit default value.
+    default = 2000
+
+class AttackDefenseMin(Range):
+    """
+    The minimum value gear can be given for Attack and Defense.
+    note: I recomend allowing negative values as it can force some decision making based on powerful abilities randomized in.
+    """
+
+    display_name = "Gear Attack and Defense Minimum"
+
+    range_start = -1000
+    range_end = 1000
+
+    # Range options must define an explicit default value.
+    default = -200
+
+class AttackDefenseMax(Range):
+    """
+    The maximum value gear can be given for Attack and Defense.
+    note: Most values will fall somewhere in the middle of the two extremes, consider that you can get up to 4 pieces of gear.
+    """
+
+    display_name = "Gear Attack and Defense Maximum"
+
+
+    range_start = -1000
+    range_end = 1000
+
+    # Range options must define an explicit default value.
+    default = 500
+
+class ResistMin(Range):
+    """
+    Minimum Value for Resistances on gear. 
+    note: These cannot go into the negative, but higher values of resistance reduces damage from that type of attack.
+    """
+
+    display_name = "Gear Resistance Minimum"
+
+    range_start = 0
+    range_end = 500
+
+    # Range options must define an explicit default value.
+    default = 0
+
+class ResistMax(Range):
+    """
+    Maximum Value for Resistances on gear. 
+    note: These cannot go into the negative, but higher values of resistance reduces damage from that type of attack.
+    """
+
+    display_name = "Gear Resistance Maximum"
+
+    range_start = 0
+    range_end = 500
+
+    # Range options must define an explicit default value.
+    default = 250
+
+class EnemyHPMult(Range):
+    """
+    Determines the multiplier to use for Enemy HP. 
+    note: This is overidden by the "Randomize Enemy Stats" option, as this is a single multiplier for all enemies.
+    """
+
+    display_name = "Enemy HP Multiplier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 100
+
+class EnemyAttackMult(Range):
+    """
+    Determines the multiplier to use for Enemy Attack. ( 100 = 1.0, 50 = .5) 
+    note: This is overidden by the "Randomize Enemy Stats" option, as this is a single multiplier for all enemies.
+    """
+
+    display_name = "Enemy Attack Multiplier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 100
 
 
 # We must now define a dataclass inheriting from PerGameCommonOptions that we put all our options in.
@@ -200,29 +419,53 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     golf: Golf
     casino: Casino
     shogi: Shogi
+    randomize_enemy_stats: RandomizeEnemyStats
+    intro_skip: IntroSkip
     item_cost_min: ItemCostMin
     item_cost_max: ItemCostMax
     item_cost_point_min: ItemCostPointMin
     item_cost_point_max: ItemCostPointMax
+    skill_money_min: SkillMoneyMin
+    skill_money_max: SkillMoneyMax
+    skill_point_min: SkillPointMin
+    skill_point_max: SkillPointMax
+    part_time_money_min: PartTimeMoneyMin
+    part_time_money_max: PartTimeMoneyMax
+    part_time_point_min: PartTimePointMin
+    part_time_point_max: PartTimePointMax
+    attack_defense_min: AttackDefenseMin
+    attack_defense_max: AttackDefenseMax
+    resist_min: ResistMin
+    resist_max: ResistMax
+    enemy_hp_mult: EnemyHPMult
+    enemy_attack_mult: EnemyAttackMult
 
 
 # If we want to group our options by similar type, we can do so as well. This looks nice on the website.
 option_groups = [
     OptionGroup(
         "Primary Settings",
-        [ProgressiveSkills, PocketCircuit, Minigames, TrapChance],
+        [IntroSkip, ProgressiveSkills, PocketCircuit, RandomizeEnemyStats, Minigames, TrapChance],
     ),
     OptionGroup(
         "Shops",
-        [Shops, WeirdShops, ConsumableShops],
+        [Shops, WeirdShops, ConsumableShops, ItemCostMin, ItemCostMax],
     ),
     OptionGroup(
         "Minigames",
-        [Darts, Pool, Golf, Casino, Shogi],
+        [Darts, Pool, Golf, Casino, Shogi, ItemCostPointMin, ItemCostPointMax],
     ),
     OptionGroup(
-        "Cost Options",
-        [ItemCostMin, ItemCostMax, ItemCostPointMin, ItemCostPointMax],
+        "Reward Options",
+        [PartTimeMoneyMin, PartTimeMoneyMax, PartTimePointMin, PartTimePointMax],
+    ),
+    OptionGroup(
+        "Equipment Options",
+        [AttackDefenseMin, AttackDefenseMax, ResistMin, ResistMax],
+    ),
+    OptionGroup(
+        "Enemy Options",
+        [EnemyHPMult, EnemyAttackMult],
     ),
 ]
 
