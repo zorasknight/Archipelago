@@ -456,6 +456,10 @@ option_groups = [
         [Darts, Pool, Golf, Casino, Shogi, ItemCostPointMin, ItemCostPointMax],
     ),
     OptionGroup(
+        "Skill Options",
+        [SkillMoneyMin, SkillMoneyMax, SkillPointMin, SkillPointMax],
+    ),
+    OptionGroup(
         "Reward Options",
         [PartTimeMoneyMin, PartTimeMoneyMax, PartTimePointMin, PartTimePointMax],
     ),
