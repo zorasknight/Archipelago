@@ -83,6 +83,7 @@ class YakuzaGaiden(World):
     def fill_slot_data(self) -> Mapping[str, Any]:
         return self.options.as_dict(
             "pocket_circuit",
+            "shop_keys",
             "minigames",
             "trap_chance",
             "shops",

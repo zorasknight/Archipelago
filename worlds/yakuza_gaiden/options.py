@@ -27,6 +27,15 @@ class PocketCircuit(Toggle):
     display_name = "Enable Pocket Circuit Items Checks"
     default = True
 
+class ShopKeys(Toggle):
+    """
+    Locks shops down and hides all items until corresponding shop key unlock item is used.
+    Shop Key items will appear in your consumable section and need to be activated and consumed to add the items back to the shop.
+    """
+
+    display_name = "Enable Shop Keys"
+    default = True
+
 class ProgressiveSkills(Toggle):
     """
     Allows certain skill books to progressively get stronger with each additional copy found.
@@ -409,6 +418,7 @@ class EnemyAttackMult(Range):
 class YakuzaGaidenOptions(PerGameCommonOptions):
     pocket_circuit: PocketCircuit
     progressive_skills: ProgressiveSkills
+    shop_keys: ShopKeys
     minigames: Minigames
     trap_chance: TrapChance
     shops: Shops
@@ -445,7 +455,7 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
 option_groups = [
     OptionGroup(
         "Primary Settings",
-        [IntroSkip, ProgressiveSkills, PocketCircuit, RandomizeEnemyStats, Minigames, TrapChance],
+        [IntroSkip, ProgressiveSkills, ShopKeys, PocketCircuit, RandomizeEnemyStats, Minigames, TrapChance],
     ),
     OptionGroup(
         "Shops",

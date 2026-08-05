@@ -395,7 +395,172 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     pocket_circuit_4_items
                 )
 
+    if world.options.store_keys:
 
+        ebisuya_unlock = (Has("Sotenbori Ebisuya Pawn Shop Unlock"))
+        billiards_unlock = (Has("Sotenbori Billiard Point Shop Unlock"))
+        wannpark_unlock = (Has("Sotenbori Wannpark Shop Unlock"))
+        sichiya_unlock = (Has("Yokohama Sichiya Pawn Shop Unlock"))
+        lovemagic_unlock = (Has("Yokohama Lovemagic Shop Unlock"))
+        yoko_shogi_unlock = (Has("Yokohama Shogi Point Shop Unlock"))
+        sote_shogi_unlock = (Has("Sotenbori Shogi Point Shop Unlock"))
+        golf_unlock = (Has("Sotenbori Golf Point Shop Unlock"))
+        sote_toba_unlock = (Has("Sotenbori Gambling Hall Point Shop Unlock"))
+        yoko_toba_unlock = (Has("Yokohama Gambling Hall Point Shop Unlock"))
+        colo_toba_unlock = (Has("Colosseum Gambling Hall Point Shop Unlock"))
+        colo_casino_unlock = (Has("Colosseum Casino Point Shop Unlock"))
+        boutique_unlock = (Has("Colosseum Boutique Shop Unlock"))
+        boutique_vip_unlock = (Has("Colosseum Boutique VIP Shop Unlock"))
+        mizorogi_unlock = (Has("Mizorogi (Akame house) Shop Unlock"))
+        park_poppo_unlock = (Has("Sotenbori Park Poppo Shop Unlock"))
+        south_poppo_unlock = (Has("Sotenbori South Poppo Shop Unlock"))
+        north_poppo_unlock = (Has("Sotenbori North Poppo Shop Unlock"))
+        yoko_poppo_unlock = (Has("Yokohama Poppo Shop Unlock"))
+        kukuru_unlock = (Has("Sotenbori Kukuru Shop Unlock"))
+        tsuruha_unlock = (Has("Sotenbori Tsuruha Shop Unlock"))
+        hiratai_unlock = (Has("Sotenbori Hiratai Shop Unlock"))
+        shigano_unlock = (Has("Sotenbori Shigano Shop Unlock"))
+        smilewagon_unlock = (Has("Yokohama Smilewagon Shop Unlock"))
+        ichiban_unlock = (Has("Yokohama Ichiban Confections Shop Unlock"))
+
+
+
+
+
+        for location in world.get_locations():
+            location_data = LOCATION_NAME_TO_DATA.get(location.name)
+            
+            if location_data is None:
+                continue
+
+            tags = location_data.get("tags", "").upper()
+
+            if "EBISUYA" in tags:
+                world.set_rule(
+                    location,
+                    ebisuya_unlock
+                )
+
+            elif "POOL" in tags:
+                world.set_rule(
+                    location,
+                    billiards_unlock
+                )
+            elif "WANNPARK" in tags:
+                world.set_rule(
+                    location,
+                    wannpark_unlock
+                )
+            elif "SHICHIYA" in tags:
+                world.set_rule(
+                    location,
+                    sichiya_unlock
+                )
+            elif "LOVEMAGIC" in tags:
+                world.set_rule(
+                    location,
+                    lovemagic_unlock
+                )
+            elif "YOKOHAMA" in tags and "SHOGI" in tags:
+                world.set_rule(
+                    location,
+                    yoko_shogi_unlock
+                )
+            elif "SOTENBORI_1" in tags and "SHOGI" in tags:
+                world.set_rule(
+                    location,
+                    sote_shogi_unlock
+                )
+            elif "GOLF" in tags:
+                world.set_rule(
+                    location,
+                    golf_unlock
+                )
+            elif "YOKOHAMA" in tags and "CASINO" in tags:
+                world.set_rule(
+                    location,
+                    sote_toba_unlock
+                )
+            elif "SOTENBORI_1" in tags and "CASINO" in tags:
+                world.set_rule(
+                    location,
+                    yoko_toba_unlock
+                )
+            elif "COLOSSEUM_1" in tags and "CASINO" in tags and "WESTERN" in tags:
+                world.set_rule(
+                    location,
+                    colo_casino_unlock
+                )
+            elif "COLOSSEUM_1" in tags and "CASINO" in tags:
+                world.set_rule(
+                    location,
+                    colo_toba_unlock
+                )
+            elif "BOUTIQUE VIP" in tags:
+                world.set_rule(
+                    location,
+                    boutique_vip_unlock
+                )
+            elif "BOUTIQUE" in tags:
+                world.set_rule(
+                    location,
+                    boutique_unlock
+                )
+            elif "MIZOROGI" in tags:
+                world.set_rule(
+                    location,
+                    mizorogi_unlock
+                )
+            elif "PARK POPPO" in tags:
+                world.set_rule(
+                    location,
+                    park_poppo_unlock
+                )
+            elif "SOUTH POPPO" in tags:
+                world.set_rule(
+                    location,
+                    south_poppo_unlock
+                )   
+            elif "NORTH POPPO" in tags:
+                world.set_rule(
+                    location,
+                    north_poppo_unlock
+                )   
+            elif "YOKO POPPO" in tags:
+                world.set_rule(
+                    location,
+                    yoko_poppo_unlock
+                )   
+            elif "KUKURU" in tags:
+                world.set_rule(
+                    location,
+                    kukuru_unlock
+                )  
+            elif "TSURUHA" in tags:
+                world.set_rule(
+                    location,
+                    tsuruha_unlock
+                )               
+            elif "HIRATAI" in tags:
+                world.set_rule(
+                    location,
+                    hiratai_unlock
+                ) 
+            elif "SHIGANO" in tags:
+                world.set_rule(
+                    location,
+                    shigano_unlock
+                ) 
+            elif "SMILEWAGON" in tags:
+                world.set_rule(
+                    location,
+                    smilewagon_unlock
+                ) 
+            elif "ICHIBANN" in tags:
+                world.set_rule(
+                    location,
+                    ichiban_unlock
+                ) 
 
 
 def set_completion_condition(world: YakuzaGaiden) -> None:
