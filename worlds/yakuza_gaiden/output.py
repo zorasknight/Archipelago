@@ -35,6 +35,7 @@ ITEM_NAME_TO_DATA = {
 OPTION_EXPORT_MAP = {
     "randomize_enemy_stats": "randomize_enemy_stats",
     "intro_skip": "intro_skip",
+    "shop_keys": "shop_keys",
 
     "skill_money_min": "skill_money_min",
     "skill_money_max": "skill_money_max",

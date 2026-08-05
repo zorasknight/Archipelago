@@ -395,7 +395,7 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     pocket_circuit_4_items
                 )
 
-    if world.options.store_keys:
+    if world.options.shop_keys:
 
         ebisuya_unlock = (Has("Sotenbori Ebisuya Pawn Shop Unlock"))
         billiards_unlock = (Has("Sotenbori Billiard Point Shop Unlock"))
