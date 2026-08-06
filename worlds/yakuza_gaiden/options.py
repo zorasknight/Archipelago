@@ -157,6 +157,118 @@ class TrapChance(Range):
     range_end = 100
     default = 10
 
+class MaxGoldenBallCount(Range):
+    """
+    The maximum number of the game winning item "Golden Ball". 
+    This value must be above or equal to the "Required Golden Ball" count.
+    """
+
+    display_name = "Pool Shop cost modifier"
+
+    range_start = 0
+    range_end = 30
+
+    # Range options must define an explicit default value.
+    default = 10
+
+class RequiredGoldenBallCount(Range):
+    """
+    The required amount of "Golden Ball"s the player needs to find to trigger thier goal. 
+    This number must be below or equal to the "Max Golden Ball" count.
+    """
+
+    display_name = "Pool Shop cost modifier"
+
+    range_start = 0
+    range_end = 30
+
+    # Range options must define an explicit default value.
+    default = 7
+
+class PoolModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Pool minigame. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Pool Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 25
+
+class GolfModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Golf minigame. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Golf Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 40
+
+class CasinoModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Casino minigame. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Casino Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 70
+
+class ShogiModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Shogi minigame. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Shogi Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 50
+
+class AkameShopModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Akame Store. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Akame Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 200
+
+class PocketCircuitModifier(Range):
+    """
+    A modifier applied to the cost of items purchased with points from the Pocket Circuit minigame. 
+    Keeping this lower is recomended for a more natural point-to-item ratio. consider 100 = 1.0 or no modifier, 200 = 2.0 or 2x points required per item.
+    """
+
+    display_name = "Pocket Circuit Shop cost modifier"
+
+    range_start = 0
+    range_end = 300
+
+    # Range options must define an explicit default value.
+    default = 150
+
 
 # A Range is a numeric option with a min and max value. This will be represented by a slider on the website.
 class ItemCostMin(Range):
@@ -449,6 +561,14 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     resist_max: ResistMax
     enemy_hp_mult: EnemyHPMult
     enemy_attack_mult: EnemyAttackMult
+    pocket_circuit_modifier: PocketCircuitModifier
+    pool_modifier: PoolModifier
+    golf_modifier: GolfModifier
+    shogi_modifier: ShogiModifier
+    casino_modifier: CasinoModifier
+    akame_shop_modifier: AkameShopModifier
+    max_golden_ball_count: MaxGoldenBallCount
+    required_golden_ball_count: RequiredGoldenBallCount
 
 
 # If we want to group our options by similar type, we can do so as well. This looks nice on the website.
@@ -456,6 +576,10 @@ option_groups = [
     OptionGroup(
         "Primary Settings",
         [IntroSkip, ProgressiveSkills, ShopKeys, PocketCircuit, RandomizeEnemyStats, Minigames, TrapChance],
+    ),
+    OptionGroup(
+        "Win Condition",
+        [MaxGoldenBallCount, RequiredGoldenBallCount],
     ),
     OptionGroup(
         "Shops",
@@ -480,6 +604,10 @@ option_groups = [
     OptionGroup(
         "Enemy Options",
         [EnemyHPMult, EnemyAttackMult],
+    ),
+    OptionGroup(
+        "Point Modifiers",
+        [GolfModifier, PoolModifier, CasinoModifier, ShogiModifier, PocketCircuitModifier, AkameShopModifier],
     ),
 ]
 

@@ -570,7 +570,7 @@ def set_completion_condition(world: YakuzaGaiden) -> None:
 
     world.set_rule(
         golden_ball_event,
-        Has("Golden Ball", count=7)
+        Has("Golden Ball", count=world.options.required_golden_ball_count.value)
     )
 
     world.set_completion_rule(

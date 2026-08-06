@@ -115,4 +115,12 @@ class YakuzaGaiden(World):
             "resist_max",
             "enemy_hp_mult",
             "enemy_attack_mult",
+            "golf_modifier", 
+            "pool_modifier", 
+            "casino_modifier", 
+            "shogi_modifier", 
+            "pocket_circuit_modifier", 
+            "akame_shop_modifier",
+            "max_golden_ball_count", 
+            "required_golden_ball_count"
         )

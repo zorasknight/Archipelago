@@ -57,6 +57,16 @@ OPTION_EXPORT_MAP = {
 
     "enemy_hp_mult": "enemy_hp_mult",
     "enemy_attack_mult": "enemy_attack_mult",
+
+    "golf_modifier": "golf_modifier", 
+    "pool_modifier": "pool_modifier", 
+    "casino_modifier": "casino_modifier", 
+    "shogi_modifier": "shogi_modifier", 
+    "pocket_circuit_modifier": "pocket_circuit_modifier", 
+    "akame_shop_modifier": "akame_shop_modifier",
+
+    "max_golden_ball_count": "max_golden_ball_count", 
+    "required_golden_ball_count": "required_golden_ball_count"
 }
 
 LOCATION_NAME_TO_DATA = {
