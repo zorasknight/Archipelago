@@ -78,17 +78,17 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
     region_lookup = {
         "YOKOHAMA": yokohama,
 
-        "SOTENBORI": sotenbori_1,
+        "SOTENBORI_1": sotenbori_1,
         "SOTENBORI_2": sotenbori_2,
         "SOTENBORI_3": sotenbori_3,
         "SOTENBORI_4": sotenbori_4,
 
-        "COLOSSEUM": colosseum_1,
+        "COLOSSEUM_1": colosseum_1,
         "COLOSSEUM_2": colosseum_2,
         "COLOSSEUM_3": colosseum_3,
         "COLOSSEUM_4": colosseum_4,
 
-        "POCKET_CIRCUIT": pocket_circuit_1,
+        "POCKET_CIRCUIT_1": pocket_circuit_1,
         "POCKET_CIRCUIT_2": pocket_circuit_2,
         "POCKET_CIRCUIT_3": pocket_circuit_3,
         "POCKET_CIRCUIT_4": pocket_circuit_4,
