@@ -4272,7 +4272,7 @@
     "slot": "75",
     "source": "item_get_by_wire.bin.json",
     "tags": "Colosseum_2, Wire",
-    "region": "COLOSSEUM_2"
+    "region": "JUNK"
   },
   "treasure_c012": {
     "label": "Colosseum Wire 12",
@@ -6090,7 +6090,7 @@
     "slot": "94",
     "source": "reward_table.bin.json",
     "tags": "Pocket Circuit_1",
-    "region": "POCKET_CIRCUIT_1"
+    "region": "JUNK"
   },
   "pokecir_reward_9": {
     "label": "Pocket Circuit Tutorial Gift 7",

@@ -45,6 +45,15 @@ class ProgressiveSkills(Toggle):
     display_name = "Enable Progressive Skills"
     default = True
 
+class ProgressiveGrappleItems(Toggle):
+    """
+    Causes all regional grapple items to be progressive, ie: first Sotenbori grapple item will always come out as grapple_item_1 regardless of which actual grapple was grabbed.
+    Amount of relevant grapples can be set below. Good option for newer players learning where grapple points are.
+    """
+
+    display_name = "Toggle Progressive Grapple Items"
+    default = False
+
 class RandomizeEnemyStats(Toggle):
     """
     Randomizes all enemy health and damage stats between 0.5 and 3.0.
@@ -523,6 +532,47 @@ class EnemyAttackMult(Range):
     # Range options must define an explicit default value.
     default = 100
 
+class ImportantGrappleItemsYokohama(Range):
+    """
+    The max number of potentially important grapple items within Yokohama. Only in effect if "Progressive Grapple Items" is turned on. 
+    note: All grapple items collected after the max set here will be randomized junk items instead.
+    """
+
+    display_name = "Important Grapple Item's Yokohama"
+
+    range_start = 0
+    range_end = 20
+
+    # Range options must define an explicit default value.
+    default = 20
+
+class ImportantGrappleItemsSotenbori(Range):
+    """
+    The max number of potentially important grapple items within Sotenbori. Only in effect if "Progressive Grapple Items" is turned on. 
+    note: All grapple items collected after the max set here will be randomized junk items instead.
+    """
+
+    display_name = "Important Grapple Items Sotenbori"
+
+    range_start = 0
+    range_end = 30
+
+    # Range options must define an explicit default value.
+    default = 30
+
+class ImportantGrappleItemsColosseum(Range):
+    """
+    The max number of potentially important grapple items within the Colosseum. Only in effect if "Progressive Grapple Items" is turned on. 
+    note: All grapple items collected after the max set here will be randomized junk items instead.
+    """
+
+    display_name = "Important Grapple Items Colosseum"
+
+    range_start = 0
+    range_end = 10
+
+    # Range options must define an explicit default value.
+    default = 10
 
 # We must now define a dataclass inheriting from PerGameCommonOptions that we put all our options in.
 # This is in the format "option_name_in_snake_case: OptionClassName".
@@ -569,13 +619,18 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     akame_shop_modifier: AkameShopModifier
     max_golden_ball_count: MaxGoldenBallCount
     required_golden_ball_count: RequiredGoldenBallCount
+    progressive_grapple_items: ProgressiveGrappleItems
+    important_grapple_items_yokohama: ImportantGrappleItemsYokohama
+    important_grapple_items_sotenbori: ImportantGrappleItemsSotenbori
+    important_grapple_items_colosseum: ImportantGrappleItemsColosseum
+    
 
 
 # If we want to group our options by similar type, we can do so as well. This looks nice on the website.
 option_groups = [
     OptionGroup(
         "Primary Settings",
-        [IntroSkip, ProgressiveSkills, ShopKeys, PocketCircuit, RandomizeEnemyStats, Minigames, TrapChance],
+        [IntroSkip, ProgressiveSkills, ShopKeys, ProgressiveGrappleItems, RandomizeEnemyStats, PocketCircuit, Minigames, TrapChance],
     ),
     OptionGroup(
         "Win Condition",
@@ -600,6 +655,10 @@ option_groups = [
     OptionGroup(
         "Equipment Options",
         [AttackDefenseMin, AttackDefenseMax, ResistMin, ResistMax],
+    ),
+    OptionGroup(
+        "Grapple Item Options",
+        [ImportantGrappleItemsYokohama, ImportantGrappleItemsSotenbori, ImportantGrappleItemsColosseum],
     ),
     OptionGroup(
         "Enemy Options",

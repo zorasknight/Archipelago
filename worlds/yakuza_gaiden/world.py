@@ -122,5 +122,9 @@ class YakuzaGaiden(World):
             "pocket_circuit_modifier", 
             "akame_shop_modifier",
             "max_golden_ball_count", 
-            "required_golden_ball_count"
+            "required_golden_ball_count",
+            "progressive_grapple_items",
+            "important_grapple_items_yokohama",
+            "important_grapple_items_sotenbori",
+            "important_grapple_items_colosseum"
         )

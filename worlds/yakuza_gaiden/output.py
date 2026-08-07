@@ -66,7 +66,12 @@ OPTION_EXPORT_MAP = {
     "akame_shop_modifier": "akame_shop_modifier",
 
     "max_golden_ball_count": "max_golden_ball_count", 
-    "required_golden_ball_count": "required_golden_ball_count"
+    "required_golden_ball_count": "required_golden_ball_count",
+
+    "progressive_grapple_items": "progressive_grapple_items",
+    "important_grapple_items_yokohama": "important_grapple_items_yokohama",
+    "important_grapple_items_sotenbori": "important_grapple_items_sotenbori",
+    "important_grapple_items_colosseum": "important_grapple_items_colosseum"
 }
 
 LOCATION_NAME_TO_DATA = {
