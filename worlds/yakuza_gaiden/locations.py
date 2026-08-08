@@ -3,7 +3,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 from BaseClasses import Location
-
+import re
 import orjson
 import pkgutil
 
@@ -55,6 +55,17 @@ def create_all_locations(world: YakuzaGaiden) -> None:
     create_regular_locations(world)
     create_events(world)
 
+def get_grapple_limit(world, region_name):
+    if region_name == "YOKOHAMA":
+        return world.options.important_grapple_items_yokohama.value
+
+    if region_name.startswith("SOTENBORI"):
+        return world.options.important_grapple_items_sotenbori.value
+
+    if region_name.startswith("COLOSSEUM"):
+        return world.options.important_grapple_items_colosseum.value
+
+    return 0
 
 def create_regular_locations(world: YakuzaGaiden) -> None:
     # Grab regions created in regions.py
@@ -116,6 +127,33 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
 
         if skip:
             continue
+
+        # Progressive Grapple locations
+        # Progressive Wire locations
+        if "PROGRESSIVE WIRE" in tags:
+
+            if not world.options.progressive_grapple_items:
+                continue
+
+            max_grapple = get_grapple_limit(
+                world,
+                location["region"]
+            )
+
+            match = re.search(
+                r"(\d+)$",
+                location["label"]
+            )
+
+            if match:
+                grapple_number = int(match.group(1))
+
+                if grapple_number > max_grapple:
+                    continue
+
+        if "WIRE" in tags and "PROGRESSIVE WIRE" not in tags:
+            if world.options.progressive_grapple_items:
+                continue
 
         region = region_lookup.get(location["region"], sotenbori_1)
 

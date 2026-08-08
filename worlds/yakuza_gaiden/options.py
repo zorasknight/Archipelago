@@ -154,17 +154,6 @@ class Shogi(Toggle):
     display_name = "Enable Shogi Point Shop Rando"
     default = True
 
-class TrapChance(Range):
-    """
-    Percent of junk items turned into traps.
-    Current traps: Joke healing items
-    """
-
-    display_name = "Trap Chance"
-
-    range_start = 0
-    range_end = 100
-    default = 10
 
 class MaxGoldenBallCount(Range):
     """
@@ -172,7 +161,7 @@ class MaxGoldenBallCount(Range):
     This value must be above or equal to the "Required Golden Ball" count.
     """
 
-    display_name = "Pool Shop cost modifier"
+    display_name = "Max Total Golden Ball Count"
 
     range_start = 0
     range_end = 30
@@ -186,7 +175,7 @@ class RequiredGoldenBallCount(Range):
     This number must be below or equal to the "Max Golden Ball" count.
     """
 
-    display_name = "Pool Shop cost modifier"
+    display_name = "Required Golden Ball Count"
 
     range_start = 0
     range_end = 30
@@ -574,6 +563,18 @@ class ImportantGrappleItemsColosseum(Range):
     # Range options must define an explicit default value.
     default = 10
 
+class TrapChance(Range):
+    """
+    Percent of junk items turned into traps.
+    Current traps: Joke healing items
+    """
+
+    display_name = "Trap Chance"
+
+    range_start = 0
+    range_end = 100
+    default = 10
+
 # We must now define a dataclass inheriting from PerGameCommonOptions that we put all our options in.
 # This is in the format "option_name_in_snake_case: OptionClassName".
 @dataclass
@@ -582,7 +583,6 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     progressive_skills: ProgressiveSkills
     shop_keys: ShopKeys
     minigames: Minigames
-    trap_chance: TrapChance
     shops: Shops
     weird_shops: WeirdShops
     consumable_shops: ConsumableShops
@@ -623,6 +623,7 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     important_grapple_items_yokohama: ImportantGrappleItemsYokohama
     important_grapple_items_sotenbori: ImportantGrappleItemsSotenbori
     important_grapple_items_colosseum: ImportantGrappleItemsColosseum
+    trap_chance: TrapChance
     
 
 

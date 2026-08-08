@@ -479,12 +479,12 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
             elif "YOKOHAMA" in tags and "CASINO" in tags:
                 world.set_rule(
                     location,
-                    sote_toba_unlock
+                    yoko_toba_unlock
                 )
             elif "SOTENBORI_1" in tags and "CASINO" in tags:
                 world.set_rule(
                     location,
-                    yoko_toba_unlock
+                    sote_toba_unlock
                 )
             elif "COLOSSEUM_1" in tags and "CASINO" in tags and "WESTERN" in tags:
                 world.set_rule(

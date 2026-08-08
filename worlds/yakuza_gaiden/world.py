@@ -85,7 +85,6 @@ class YakuzaGaiden(World):
             "pocket_circuit",
             "shop_keys",
             "minigames",
-            "trap_chance",
             "shops",
             "weird_shops",
             "consumable_shops",
@@ -126,5 +125,6 @@ class YakuzaGaiden(World):
             "progressive_grapple_items",
             "important_grapple_items_yokohama",
             "important_grapple_items_sotenbori",
-            "important_grapple_items_colosseum"
+            "important_grapple_items_colosseum",
+            "trap_chance"
         )
