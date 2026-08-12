@@ -25,6 +25,7 @@ LOCATIONS = load_json_data("locations.json")
 LOCATION_NAME_TO_ID = {
     location["label"]: int(location["id"])
     for location in LOCATIONS.values()
+    if location.get("region", "").upper() != "JUNK"
 }
 
 
