@@ -112,6 +112,9 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
 
         tags = location.get("tags", "").upper()
 
+        if location.get("region", "").upper() == "JUNK" or "JUNK" in tags:
+            continue
+
         # Skip locations whose option is disabled
         skip = False
 
