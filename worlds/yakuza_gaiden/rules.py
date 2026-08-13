@@ -292,6 +292,8 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         )
 
         pocket_circuit_2_items = (
+            pocket_circuit_1_items
+            &
             create_pocket_circuit_car_check_rule(2)
             &
             create_pocket_circuit_rule(pocket_parts, 3)
@@ -301,6 +303,12 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     Has("Regular Battery")
                     &
                     Has("High Capacity Battery")
+                    &
+                    Has("Flat Wing")
+                    &
+                    Has("Light Suspension")
+                    &
+                    Has("Godspeed Gears")
                 )
                 &
                 (
@@ -312,6 +320,8 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         )
 
         pocket_circuit_3_items = (
+            pocket_circuit_2_items
+            &
             create_pocket_circuit_car_check_rule(4)
             &
             create_pocket_circuit_rule(pocket_parts, 4)
@@ -324,20 +334,24 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     &
                     Has("High Speed Battery")
                     &
-                    Has("Flat Wing")
+                    Has("Box Wing")
                     &
-                    Has("Light Suspension")
+                    Has("Medium Suspension")
+                    &
+                    Has("Extra Godspeed Gears")
                 )
                 &
                 (
-                    Has("Godspeed Motor Mark II")
+                    Has("Ultra Godspeed Motor")
                     |
-                    Has("High Torque Motor Mark II")
+                    Has("Ultra High Torque Motor")
                 )
             )
         )
 
         pocket_circuit_4_items = (
+            pocket_circuit_3_items
+            &
             create_pocket_circuit_car_check_rule(6)
             &
             create_pocket_circuit_rule(pocket_parts, 4)
@@ -353,11 +367,15 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     Has("Rainbow Wing")
                     &
                     Has("Heavy Suspension")
+                    &
+                    Has("Ultra Boost Gears")
+                    &
+                    Has("Ultra Godspeed Gears")
                 )
                 &
                 (
                     Has("Ultra Godspeed Motor")
-                    |
+                    &
                     Has("Ultra High Torque Motor")
                 )
             )

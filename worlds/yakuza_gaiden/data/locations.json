@@ -1017,7 +1017,7 @@
     "region": "POCKET_CIRCUIT_1"
   },
   "aston_coinlocker_0": {
-    "label": "[So] CoinlockerA1",
+    "label": "[So] CoinlockerA1 Cafe Miel planter",
     "location": "aston_coinlocker",
     "id": "114",
     "slot": "1",
@@ -1026,7 +1026,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_1": {
-    "label": "[So] CoinlockerB1",
+    "label": "[So] CoinlockerB1 Ashitaba Park urinal",
     "location": "aston_coinlocker",
     "id": "115",
     "slot": "2",
@@ -1035,7 +1035,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_2": {
-    "label": "[So] CoinlockerC1",
+    "label": "[So] CoinlockerC1 Behind golden turtle",
     "location": "aston_coinlocker",
     "id": "116",
     "slot": "3",
@@ -1044,7 +1044,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_3": {
-    "label": "[So] CoinlockerD1",
+    "label": "[So] CoinlockerD1 Behind planter near Grand",
     "location": "aston_coinlocker",
     "id": "117",
     "slot": "4",
@@ -1053,7 +1053,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_4": {
-    "label": "[So] CoinlockerE1",
+    "label": "[So] CoinlockerE1 Next to coin lockers",
     "location": "aston_coinlocker",
     "id": "118",
     "slot": "5",
@@ -1062,7 +1062,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_5": {
-    "label": "[So] CoinlockerF1",
+    "label": "[So] CoinlockerF1 Daidoji base",
     "location": "aston_coinlocker",
     "id": "119",
     "slot": "6",
@@ -1071,7 +1071,7 @@
     "region": "SOTENBORI_3"
   },
   "aston_coinlocker_6": {
-    "label": "[So] CoinlockerG1",
+    "label": "[So] CoinlockerG1 Fourshine entrance",
     "location": "aston_coinlocker",
     "id": "120",
     "slot": "7",
@@ -1080,7 +1080,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_7": {
-    "label": "[So] CoinlockerH1",
+    "label": "[So] CoinlockerH1 Upstairs near office next to coin lockers",
     "location": "aston_coinlocker",
     "id": "121",
     "slot": "8",
@@ -1089,7 +1089,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_8": {
-    "label": "[So] CoinlockerI1",
+    "label": "[PC] CoinlockerI1 Courstar sink",
     "location": "aston_coinlocker",
     "id": "122",
     "slot": "9",
@@ -1098,7 +1098,7 @@
     "region": "POCKET_CIRCUIT_1"
   },
   "aston_coinlocker_9": {
-    "label": "[So] CoinlockerJ1",
+    "label": "[So] CoinlockerJ1 Kiss Shot Billiards",
     "location": "aston_coinlocker",
     "id": "123",
     "slot": "10",
@@ -1107,7 +1107,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_10": {
-    "label": "[So] CoinlockerA2",
+    "label": "[So] CoinlockerA2 North Poppo",
     "location": "aston_coinlocker",
     "id": "124",
     "slot": "11",
@@ -1116,7 +1116,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_11": {
-    "label": "[So] CoinlockerB2",
+    "label": "[So] CoinlockerB2 Parking garage near Courstar",
     "location": "aston_coinlocker",
     "id": "125",
     "slot": "12",
@@ -1125,7 +1125,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_12": {
-    "label": "[So] CoinlockerC2",
+    "label": "[Co] CoinlockerC2 Bunny girl tray northside colosseum",
     "location": "aston_coinlocker",
     "id": "126",
     "slot": "13",
@@ -1134,7 +1134,7 @@
     "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_13": {
-    "label": "[So] CoinlockerD2",
+    "label": "[So] CoinlockerD2 Info booth near Cabaret Club",
     "location": "aston_coinlocker",
     "id": "127",
     "slot": "14",
@@ -1143,7 +1143,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_14": {
-    "label": "[So] CoinlockerE2",
+    "label": "[So] CoinlockerE2 Pathway to Daidoji Base",
     "location": "aston_coinlocker",
     "id": "128",
     "slot": "15",
@@ -1152,7 +1152,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_15": {
-    "label": "[So] CoinlockerF2",
+    "label": "[So] CoinlockerF2 Bar Stijl",
     "location": "aston_coinlocker",
     "id": "129",
     "slot": "16",
@@ -1161,7 +1161,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_16": {
-    "label": "[So] CoinlockerG2",
+    "label": "[So] CoinlockerG2 Wire Blowfish decoration",
     "location": "aston_coinlocker",
     "id": "130",
     "slot": "17",
@@ -1170,7 +1170,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_17": {
-    "label": "[So] CoinlockerH2",
+    "label": "[So] CoinlockerH2 Richi Tower's Mahjong",
     "location": "aston_coinlocker",
     "id": "131",
     "slot": "18",
@@ -1179,7 +1179,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_18": {
-    "label": "[So] CoinlockerI2",
+    "label": "[So] CoinlockerI2 Wire Big Octopus decoration",
     "location": "aston_coinlocker",
     "id": "132",
     "slot": "19",
@@ -1188,7 +1188,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_19": {
-    "label": "[So] CoinlockerJ2",
+    "label": "[So] CoinlockerJ2 Paper Lanterns Bishamon bridge",
     "location": "aston_coinlocker",
     "id": "133",
     "slot": "20",
@@ -1197,7 +1197,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_20": {
-    "label": "[So] CoinlockerA3",
+    "label": "[So] CoinlockerA3 Northwest of Kukuru ",
     "location": "aston_coinlocker",
     "id": "134",
     "slot": "21",
@@ -1206,7 +1206,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_21": {
-    "label": "[So] CoinlockerB3",
+    "label": "[So] CoinlockerB3 Club Sega",
     "location": "aston_coinlocker",
     "id": "135",
     "slot": "22",
@@ -1215,7 +1215,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_22": {
-    "label": "[So] CoinlockerC3",
+    "label": "[Co] CoinlockerC3 Castle Cabaret",
     "location": "aston_coinlocker",
     "id": "136",
     "slot": "23",
@@ -1224,7 +1224,7 @@
     "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_23": {
-    "label": "[So] CoinlockerD3",
+    "label": "[So] CoinlockerD3 Wire Sesil Coffee sign",
     "location": "aston_coinlocker",
     "id": "137",
     "slot": "24",
@@ -1233,7 +1233,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_24": {
-    "label": "[So] CoinlockerE3",
+    "label": "[So] CoinlockerE3 Wire Lucky Cat",
     "location": "aston_coinlocker",
     "id": "138",
     "slot": "25",
@@ -1242,7 +1242,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_25": {
-    "label": "[So] CoinlockerF3",
+    "label": "[Co] CoinlockerF3 Wire Koi-koi window ornament",
     "location": "aston_coinlocker",
     "id": "139",
     "slot": "26",
@@ -1251,7 +1251,7 @@
     "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_26": {
-    "label": "[So] CoinlockerG3",
+    "label": "[Co] CoinlockerG3 Gold rank VIP Pool",
     "location": "aston_coinlocker",
     "id": "140",
     "slot": "27",
@@ -1260,7 +1260,7 @@
     "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_27": {
-    "label": "[So] CoinlockerH3",
+    "label": "[So] CoinlockerH3 North of Kukuru on top of overhang",
     "location": "aston_coinlocker",
     "id": "141",
     "slot": "28",
@@ -1269,7 +1269,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_28": {
-    "label": "[So] CoinlockerI3",
+    "label": "[So] CoinlockerI3 Southwest vent Shofukucho",
     "location": "aston_coinlocker",
     "id": "142",
     "slot": "29",
@@ -1278,7 +1278,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_29": {
-    "label": "[So] CoinlockerJ3",
+    "label": "[Co] CoinlockerJ3 Boutique shelf",
     "location": "aston_coinlocker",
     "id": "143",
     "slot": "30",
@@ -1287,7 +1287,7 @@
     "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_30": {
-    "label": "[So] CoinlockerA4",
+    "label": "[Co] CoinlockerA4 Helipad railing",
     "location": "aston_coinlocker",
     "id": "144",
     "slot": "31",
@@ -1296,7 +1296,7 @@
     "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_31": {
-    "label": "[So] CoinlockerB4",
+    "label": "[So] CoinlockerB4 Bell on Iwao Bridge",
     "location": "aston_coinlocker",
     "id": "145",
     "slot": "32",
@@ -1305,7 +1305,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_32": {
-    "label": "[So] CoinlockerC4",
+    "label": "[Co] CoinlockerC4 Platinum rank Koi-koi",
     "location": "aston_coinlocker",
     "id": "146",
     "slot": "33",
@@ -1314,7 +1314,7 @@
     "region": "COLOSSEUM_4"
   },
   "aston_coinlocker_33": {
-    "label": "[So] CoinlockerD4",
+    "label": "[Co] CoinlockerD4 Silver rank Fighter's Lounge TV",
     "location": "aston_coinlocker",
     "id": "147",
     "slot": "34",
@@ -1323,16 +1323,16 @@
     "region": "COLOSSEUM_2"
   },
   "aston_coinlocker_34": {
-    "label": "[So] CoinlockerE4",
+    "label": "[So] CoinlockerE4 Alongside north entrance wall",
     "location": "aston_coinlocker",
     "id": "148",
     "slot": "35",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "MISC"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_35": {
-    "label": "[So] CoinlockerF4",
+    "label": "[So] CoinlockerF4 Wire Space between two buildings near Moon River",
     "location": "aston_coinlocker",
     "id": "149",
     "slot": "36",
@@ -1341,25 +1341,25 @@
     "region": "MISC"
   },
   "aston_coinlocker_36": {
-    "label": "[So] CoinlockerG4",
+    "label": "[Co] CoinlockerG4 Planter near Boutique",
     "location": "aston_coinlocker",
     "id": "150",
     "slot": "37",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "MISC"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_37": {
-    "label": "[So] CoinlockerH4",
+    "label": "[Co] CoinlockerH4 Wire Clown nose",
     "location": "aston_coinlocker",
     "id": "151",
     "slot": "38",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "MISC"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_38": {
-    "label": "[So] CoinlockerI4",
+    "label": "[So] CoinlockerI4 Wire South footpath tree",
     "location": "aston_coinlocker",
     "id": "152",
     "slot": "39",
@@ -1368,7 +1368,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_39": {
-    "label": "[So] CoinlockerJ4",
+    "label": "[Co] CoinlockerJ4 Wire Gold rank VIP lounge high up",
     "location": "aston_coinlocker",
     "id": "153",
     "slot": "40",
@@ -1377,7 +1377,7 @@
     "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_40": {
-    "label": "[So] CoinlockerA5",
+    "label": "[So] CoinlockerA5 Sunshine planter",
     "location": "aston_coinlocker",
     "id": "154",
     "slot": "41",
@@ -1386,7 +1386,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_41": {
-    "label": "[So] CoinlockerB5",
+    "label": "[Co] CoinlockerB5 North ledge near fountains",
     "location": "aston_coinlocker",
     "id": "155",
     "slot": "42",
@@ -1395,16 +1395,16 @@
     "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_42": {
-    "label": "[So] CoinlockerC5",
+    "label": "[Co] CoinlockerC5 Rickshaw stop shelf",
     "location": "aston_coinlocker",
     "id": "156",
     "slot": "43",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "MISC"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_43": {
-    "label": "[So] CoinlockerD5",
+    "label": "[Co] CoinlockerD5 Wire Shipping containers near Twin Ogre Gate",
     "location": "aston_coinlocker",
     "id": "157",
     "slot": "44",
@@ -1413,16 +1413,16 @@
     "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_44": {
-    "label": "[So] CoinlockerE5",
+    "label": "[Co] CoinlockerE5 Folding screen 2nd floor gambling hall",
     "location": "aston_coinlocker",
     "id": "158",
     "slot": "45",
     "source": "talk_coinlocker_locker.bin.json",
-    "tags": "Sotenbori, Coin Locker",
-    "region": "MISC"
+    "tags": "Colosseum_1, Coin Locker",
+    "region": "COLOSSEUM_1"
   },
   "aston_coinlocker_45": {
-    "label": "[So] CoinlockerF5",
+    "label": "[Co] CoinlockerF5 Platinum rank Poker",
     "location": "aston_coinlocker",
     "id": "159",
     "slot": "46",
@@ -1431,7 +1431,7 @@
     "region": "COLOSSEUM_4"
   },
   "aston_coinlocker_46": {
-    "label": "[So] CoinlockerG5",
+    "label": "[Co] CoinlockerG5 Gold rank VIP boutique",
     "location": "aston_coinlocker",
     "id": "160",
     "slot": "47",
@@ -1440,7 +1440,7 @@
     "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_47": {
-    "label": "[So] CoinlockerH5",
+    "label": "[So] CoinlockerH5 Yotsudera Kaikan rooftop under table",
     "location": "aston_coinlocker",
     "id": "161",
     "slot": "48",
@@ -1449,7 +1449,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_48": {
-    "label": "[So] CoinlockerI5",
+    "label": "[Co] CoinlockerI5 Silver rank Fighters Lounge trash can",
     "location": "aston_coinlocker",
     "id": "162",
     "slot": "49",
@@ -1458,7 +1458,7 @@
     "region": "COLOSSEUM_3"
   },
   "aston_coinlocker_49": {
-    "label": "[So] CoinlockerJ5",
+    "label": "[Co] CoinlockerJ5 Coliseum Lobby by chairs",
     "location": "aston_coinlocker",
     "id": "163",
     "slot": "50",
@@ -4212,7 +4212,7 @@
     "region": "COLOSSEUM_1"
   },
   "treasure_c005": {
-    "label": "[Co] Wire 5 On shipping crate over railing Southern Entrance",
+    "label": "[Co] Wire 5 On shipping crate over railing Southern Entrance, right of Cat",
     "location": "treasure_c005",
     "id": "469",
     "slot": "69",
@@ -6035,8 +6035,8 @@
     "id": "671",
     "slot": "13",
     "source": "reward_table.bin.json",
-    "tags": "Pocket Circuit_2, Rivals",
-    "region": "POCKET_CIRCUIT_2"
+    "tags": "Pocket Circuit_3, Rivals",
+    "region": "POCKET_CIRCUIT_3"
   },
   "pokecir_reward_3": {
     "label": "[PC] Tutorial Gift 2",
@@ -6057,7 +6057,7 @@
     "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_5": {
-    "label": "[PC] Rival Rival Momozo Reward",
+    "label": "[PC] Rival Momozo Reward",
     "location": "pokecir",
     "id": "674",
     "slot": "58",
@@ -6081,7 +6081,7 @@
     "slot": "89",
     "source": "reward_table.bin.json",
     "tags": "Pocket Circuit_1",
-    "region": "POCKET_CIRCUIT_1"
+    "region": "JUNK"
   },
   "pokecir_reward_8": {
     "label": "[PC] Tutorial Gift 6",
@@ -6090,7 +6090,7 @@
     "slot": "94",
     "source": "reward_table.bin.json",
     "tags": "Pocket Circuit_1",
-    "region": "JUNK"
+    "region": "POCKET_CIRCUIT_1"
   },
   "pokecir_reward_9": {
     "label": "[PC] Tutorial Gift 7",
@@ -7647,7 +7647,7 @@
     "slot": "8",
     "source": "reward_table.bin.json",
     "tags": "Colosseum_3, Minigames, Darts",
-    "region": "COLOSSEUM_3"
+    "region": "JUNK"
   },
   "darts_rewards_8": {
     "label": "Dart Rival Extra Reward 1",

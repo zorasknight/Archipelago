@@ -240,7 +240,7 @@
     "purchase_points": "4980"
   },
   "essence_of_decals": {
-    "label": "Essence Of Decals",
+    "label": "Essence of Decals",
     "item_id": "6041",
     "tags": [
       "IMPORTANT",
@@ -2146,8 +2146,8 @@
     "purchase_price": "0",
     "purchase_points": "2500"
   },
-  "fukupi_chan_head": {
-    "label": "Fukupi-chan Head",
+  "fukupii_chan_head": {
+    "label": "Fukupii-chan Head",
     "item_id": "6085",
     "tags": [
       "USEFUL"
