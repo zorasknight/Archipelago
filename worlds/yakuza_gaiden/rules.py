@@ -431,7 +431,7 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         boutique_vip_unlock = (Has("Colosseum Boutique VIP Shop Unlock"))
         mizorogi_unlock = (Has("Mizorogi (Akame house) Shop Unlock"))
         park_poppo_unlock = (Has("Sotenbori Park Poppo Shop Unlock"))
-        south_poppo_unlock = (Has("Sotenbori South Poppo Shop Unlock"))
+        west_poppo_unlock = (Has("Sotenbori West Poppo Shop Unlock"))
         north_poppo_unlock = (Has("Sotenbori North Poppo Shop Unlock"))
         yoko_poppo_unlock = (Has("Yokohama Poppo Shop Unlock"))
         kukuru_unlock = (Has("Sotenbori Kukuru Shop Unlock"))
@@ -534,10 +534,10 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     location,
                     park_poppo_unlock
                 )
-            elif "SOUTH POPPO" in tags:
+            elif "WEST POPPO" in tags:
                 world.set_rule(
                     location,
-                    south_poppo_unlock
+                    west_poppo_unlock
                 )   
             elif "NORTH POPPO" in tags:
                 world.set_rule(
