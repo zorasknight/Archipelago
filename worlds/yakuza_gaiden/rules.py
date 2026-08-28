@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import TYPE_CHECKING
 
-from rule_builder.rules import Has, HasFromListUnique, True_, Rule
+from rule_builder.rules import And, Has, HasFromListUnique, True_, Rule
 
 import orjson
 import pkgutil
@@ -32,7 +32,7 @@ LOCATION_NAME_TO_DATA = {
 
 def create_key_item_check_rule(n: int) -> Rule:
     return HasFromListUnique(
-        "Sneakers",
+        "Shoes",
         "Soccer Ball",
         "Wedding Ring",
         "Hat",
@@ -267,6 +267,94 @@ def set_all_entrance_rules(world: YakuzaGaiden) -> None:
 
 def set_all_location_rules(world: YakuzaGaiden) -> None:
 
+    #these are the key items
+    world.set_rule( world.get_location("[Task] A Dental Dilemma"), Has("Baby Tooth"))
+    world.set_rule( world.get_location("[Task] My Best Ball"), Has("Soccer Ball"))
+    world.set_rule( world.get_location("[Task] Kickin' the Habit"), Has("Shoes"))
+    world.set_rule( world.get_location("[Task] A Priceless Autograph"), Has("Signed Ball"))
+    world.set_rule( world.get_location("[Task] You Saw Nothing"), Has("Underwear"))
+    world.set_rule( world.get_location("[Task] Catch That Crawdad"), Has("Crawfish"))
+    world.set_rule( world.get_location("[Task] The Waterlogged Ring"), Has("Wedding Ring"))
+    world.set_rule( world.get_location("[Task] Not Just a Hat"), Has("Hat"))
+
+
+    if world.options.akame_tasks:
+
+
+        if world.options.akame_fetch:
+
+            world.set_rule( world.get_location("[Task] I Want a Convenience Store Bento!"), Has("Sotenbori Shigano Shop Unlock")),
+            world.set_rule( world.get_location("[Task] Today's a Boozin Day"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Somethin' for the Pain"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Tissue, Wipes, Anything!"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] When Will I Taste Okonomiyaki!?"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Takoyaki on the Brain"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Have Mercy Give Food!"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Hungry Hungry Bento"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] In Need of Absorption"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Desperate for Staminan Light"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] An Egg-cellent Idea"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] The Luxury Yakiniku Bento Dream"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] If Only I Had an Energy Drink..."), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Desperate for Takoyaki"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] A Certain Taiyaki Brand"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Hungry For Sushi"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Order of Oden"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Real-Deal Okonomiyaki"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] In Need of a UFO Catcher"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Can Anyone Conquer the UFO Catcher!?"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Kitty Kat, Come Home"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Pinin' For Pine Candy"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] That Tantalizing Tauriner!"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Up For an Azuki Bar"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] A Quest for Ono Michio"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Time's a Luxury"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] In Search of Star-Crossed Earings"), Has("Sotenbori Shigano Shop Unlock"))
+            world.set_rule( world.get_location("[Task] Itching for Ichiban Senbei"), Has("Sotenbori Shigano Shop Unlock"))
+
+            # world.set_rule( world.get_location("[Task] I Want a Convenience Store Bento!"), Has("Bento Lunch Set") | Has("Healthy Balanced Bento") | Has("Luxury Yakiniku Bento") | Has("Pork Tonkatsu Bento")),
+            # world.set_rule( world.get_location("[Task] Today's a Boozin Day"), Has("Sake"))
+            # world.set_rule( world.get_location("[Task] Somethin' for the Pain"), Has("Toughness Light") | Has("Toughness Z") | Has("Toughness ZZ") | Has("Toughness Infinity"))
+            # world.set_rule( world.get_location("[Task] Tissue, Wipes, Anything!"), Has("Pocket Tissues"))
+            # world.set_rule( world.get_location("[Task] When Will I Taste Okonomiyaki!?"), Has("Okonomiyaki") | Has("Okonomiyaki (Mentai Mayo)") | Has("Okonomiyaki (Mochi & Cheese)"))
+            # world.set_rule( world.get_location("[Task] Takoyaki on the Brain"), Has("Takoyaki with Large Octopus") | Has("Shockin' Takoyaki"))
+            # world.set_rule( world.get_location("[Task] Have Mercy Give Food!"), Has("Bento Lunch Set") | Has("Healthy Balanced Bento") | Has("Luxury Yakiniku Bento") | Has("Pork Tonkatsu Bento") | Has("Oden") | Has("Pine Candy") | Has("SEGA Taiyaki") | Has("Taiyaki Ice Cream"))
+            # world.set_rule( world.get_location("[Task] Hungry Hungry Bento"), Has("Luxury Yakiniku Bento"))
+            # world.set_rule( world.get_location("[Task] In Need of Absorption"), Has("Pocket Tissues"))
+            # world.set_rule( world.get_location("[Task] Desperate for Staminan Light"), Has("Staminan Light"))
+            # world.set_rule( world.get_location("[Task] An Egg-cellent Idea"), Has("Egg") | Has("Quality Egg"))
+            # world.set_rule( world.get_location("[Task] The Luxury Yakiniku Bento Dream"), Has("Luxury Yakiniku Bento"))
+            # world.set_rule( world.get_location("[Task] If Only I Had an Energy Drink..."), Has("Toughness Light") | Has("Toughness Z") | Has("Toughness ZZ") | Has("Toughness Infinity") | Has("Tauriner") | Has("Tauriner Maximum"))
+            # world.set_rule( world.get_location("[Task] Desperate for Takoyaki"), Has("Takoyaki with Large Octopus") | Has("Shockin' Takoyaki"))
+            # world.set_rule( world.get_location("[Task] A Certain Taiyaki Brand"), Has("SEGA Taiyaki"))
+            # world.set_rule( world.get_location("[Task] Hungry For Sushi"), Has("Sushi Set"))
+            # world.set_rule( world.get_location("[Task] Order of Oden"), Has("Oden"))
+            # world.set_rule( world.get_location("[Task] Real-Deal Okonomiyaki"), Has("Okonomiyaki") | Has("Okonomiyaki (Mentai Mayo)") | Has("Okonomiyaki (Mochi & Cheese)"))
+            # world.set_rule( world.get_location("[Task] In Need of a UFO Catcher"), Has("Chu-Chu Tako Doll (Takoyaki)"))
+            # world.set_rule( world.get_location("[Task] Can Anyone Conquer the UFO Catcher!?"), Has("Chu-Chu Tako Doll (Takoyaki)"))
+            # world.set_rule( world.get_location("[Task] Kitty Kat, Come Home"), Has("Kitty Kat (Tiger)"))
+            # world.set_rule( world.get_location("[Task] Pinin' For Pine Candy"), Has("Pine Candy"))
+            # world.set_rule( world.get_location("[Task] That Tantalizing Tauriner!"), Has("Tauriner") | Has("Tauriner Maximum"))
+            # world.set_rule( world.get_location("[Task] Up For an Azuki Bar"), Has("Azuki Bar BOX"))
+            # world.set_rule( world.get_location("[Task] A Quest for Ono Michio"), Has("Ono Michio Pixel Figure"))
+            # world.set_rule( world.get_location("[Task] Time's a Luxury"), Has("Luxury Timepiece"))
+            # world.set_rule( world.get_location("[Task] In Search of Star-Crossed Earings"), Has("Star Crossed Earrings"))
+            # world.set_rule( world.get_location("[Task] Itching for Ichiban Senbei"), Has("Ichiban Senbei (Shoyu)") | Has("Ichiban Fried Senbei") | Has("Ichiban Senbei (Salt)"))
+
+
+
+
+        if world.options.akame_outfit:
+
+            world.set_rule( world.get_location("[Task] Turn That Frown Upside Down, Clown"), Has("Clown Makeup"))
+            world.set_rule( world.get_location("[Task] Please Model for Me!"), Has("Straw Hat") & Has("Straw Sandals") & Has("T-Shirt"))
+            world.set_rule( world.get_location("[Task] The Outfit from My Memories"), Has("Single Rose") & Has("Leather Shoes"))
+            world.set_rule( world.get_location("[Task] A Taste of Kabuki"), Has("Kabuki Makeup"))
+            world.set_rule( world.get_location("[Task] My Friend Needs to Understand"), Has("Snake Eyepatch") & Has("Shirtless Blazer"))
+            world.set_rule( world.get_location("[Task] Bring a Smile to My Soulless Face"), Has("Weird Stranger Makeup") & Has("Bodysuit"))
+
+
+
     if world.options.pocket_circuit:
 
         pocket_parts = build_pocket_circuit_part_requirements(world)
@@ -380,6 +468,11 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                 )
             )
         )
+        
+        world.set_rule(
+            world.get_location("[Goal] Defeat Pocket Circuit Owner Rival Race"),
+            pocket_circuit_4_items
+        )
 
 
         for location in world.get_locations():
@@ -413,13 +506,10 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                     pocket_circuit_4_items
                 )
 
-    if world.options.shop_keys:
 
-        ebisuya_unlock = (Has("Sotenbori Ebisuya Pawn Shop Unlock"))
+    if world.options.minigame_shop_key:
+
         billiards_unlock = (Has("Sotenbori Billiard Point Shop Unlock"))
-        wannpark_unlock = (Has("Sotenbori Wannpark Shop Unlock"))
-        sichiya_unlock = (Has("Yokohama Sichiya Pawn Shop Unlock"))
-        lovemagic_unlock = (Has("Yokohama Lovemagic Shop Unlock"))
         yoko_shogi_unlock = (Has("Yokohama Shogi Point Shop Unlock"))
         sote_shogi_unlock = (Has("Sotenbori Shogi Point Shop Unlock"))
         golf_unlock = (Has("Sotenbori Golf Point Shop Unlock"))
@@ -427,23 +517,6 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         yoko_toba_unlock = (Has("Yokohama Gambling Hall Point Shop Unlock"))
         colo_toba_unlock = (Has("Colosseum Gambling Hall Point Shop Unlock"))
         colo_casino_unlock = (Has("Colosseum Casino Point Shop Unlock"))
-        boutique_unlock = (Has("Colosseum Boutique Shop Unlock"))
-        boutique_vip_unlock = (Has("Colosseum Boutique VIP Shop Unlock"))
-        mizorogi_unlock = (Has("Mizorogi (Akame house) Shop Unlock"))
-        park_poppo_unlock = (Has("Sotenbori Park Poppo Shop Unlock"))
-        west_poppo_unlock = (Has("Sotenbori West Poppo Shop Unlock"))
-        north_poppo_unlock = (Has("Sotenbori North Poppo Shop Unlock"))
-        yoko_poppo_unlock = (Has("Yokohama Poppo Shop Unlock"))
-        kukuru_unlock = (Has("Sotenbori Kukuru Shop Unlock"))
-        tsuruha_unlock = (Has("Sotenbori Tsuruha Shop Unlock"))
-        hiratai_unlock = (Has("Sotenbori Hiratai Shop Unlock"))
-        shigano_unlock = (Has("Sotenbori Shigano Shop Unlock"))
-        smilewagon_unlock = (Has("Yokohama Smilewagon Shop Unlock"))
-        ichiban_unlock = (Has("Yokohama Ichiban Confections Shop Unlock"))
-
-
-
-
 
         for location in world.get_locations():
             location_data = LOCATION_NAME_TO_DATA.get(location.name)
@@ -453,31 +526,10 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
 
             tags = location_data.get("tags", "").upper()
 
-            if "EBISUYA" in tags:
-                world.set_rule(
-                    location,
-                    ebisuya_unlock
-                )
-
-            elif "POOL" in tags:
+            if "POOL" in tags:
                 world.set_rule(
                     location,
                     billiards_unlock
-                )
-            elif "WANNPARK" in tags:
-                world.set_rule(
-                    location,
-                    wannpark_unlock
-                )
-            elif "SHICHIYA" in tags:
-                world.set_rule(
-                    location,
-                    sichiya_unlock
-                )
-            elif "LOVEMAGIC" in tags:
-                world.set_rule(
-                    location,
-                    lovemagic_unlock
                 )
             elif "YOKOHAMA" in tags and "SHOGI" in tags:
                 world.set_rule(
@@ -513,6 +565,60 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
                 world.set_rule(
                     location,
                     colo_toba_unlock
+                )
+
+
+    if world.options.shop_key:
+
+        ebisuya_unlock = (Has("Sotenbori Ebisuya Pawn Shop Unlock"))
+        wannpark_unlock = (Has("Sotenbori Wannpark Shop Unlock"))
+        sichiya_unlock = (Has("Yokohama Sichiya Pawn Shop Unlock"))
+        lovemagic_unlock = (Has("Yokohama Lovemagic Shop Unlock"))
+        boutique_unlock = (Has("Colosseum Boutique Shop Unlock"))
+        boutique_vip_unlock = (Has("Colosseum Boutique VIP Shop Unlock"))
+        mizorogi_unlock = (Has("Mizorogi (Akame house) Shop Unlock"))
+        park_poppo_unlock = (Has("Sotenbori Park Poppo Shop Unlock"))
+        west_poppo_unlock = (Has("Sotenbori West Poppo Shop Unlock"))
+        north_poppo_unlock = (Has("Sotenbori North Poppo Shop Unlock"))
+        yoko_poppo_unlock = (Has("Yokohama Poppo Shop Unlock"))
+        kukuru_unlock = (Has("Sotenbori Kukuru Shop Unlock"))
+        tsuruha_unlock = (Has("Sotenbori Tsuruha Shop Unlock"))
+        hiratai_unlock = (Has("Sotenbori Hiratai Shop Unlock"))
+        shigano_unlock = (Has("Sotenbori Shigano Shop Unlock"))
+        smilewagon_unlock = (Has("Yokohama Smilewagon Shop Unlock"))
+        ichiban_unlock = (Has("Yokohama Ichiban Confections Shop Unlock"))
+
+
+
+
+
+        for location in world.get_locations():
+            location_data = LOCATION_NAME_TO_DATA.get(location.name)
+            
+            if location_data is None:
+                continue
+
+            tags = location_data.get("tags", "").upper()
+
+            if "EBISUYA" in tags:
+                world.set_rule(
+                    location,
+                    ebisuya_unlock
+                )
+            elif "WANNPARK" in tags:
+                world.set_rule(
+                    location,
+                    wannpark_unlock
+                )
+            elif "SHICHIYA" in tags:
+                world.set_rule(
+                    location,
+                    sichiya_unlock
+                )
+            elif "LOVEMAGIC" in tags:
+                world.set_rule(
+                    location,
+                    lovemagic_unlock
                 )
             elif "BOUTIQUE VIP" in tags:
                 world.set_rule(
@@ -582,15 +688,44 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
 
 
 def set_completion_condition(world: YakuzaGaiden) -> None:
+
     golden_ball_event = world.get_location(
         "Collect All Golden Balls"
     )
+    defeat_shishido = world.get_location(
+        "[Goal] Defeat Shishido"
+    )
+
+    
+    golden_ball_min = int(world.options.required_golden_ball_count)
+    golden_ball_max = int(world.options.max_golden_ball_count)
+
+    if golden_ball_min > golden_ball_max:
+        golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
 
     world.set_rule(
         golden_ball_event,
-        Has("Golden Ball", count=world.options.required_golden_ball_count.value)
+        Has("Golden Ball", count=golden_ball_min)
     )
 
+    world.set_rule(
+        defeat_shishido,
+        create_key_item_check_rule(6)
+    )
+
+
+    goals = []
+
+    if world.options.golden_ball_wincon:
+        goals.append(Has("EVENT_GOLDEN_BALLS"))
+    if world.options.defeat_shishido_wincon:
+        goals.append(Has("EVENT_DEFEAT_SHISHIDO"))
+    if world.options.defeat_pocket_circuit_owner_wincon and world.options.pocket_circuit:
+        goals.append(Has("EVENT_DEFEAT_POCKET_CIRCUIT_OWNER"))
+
+    if not goals:
+        goals.append(Has("EVENT_DEFEAT_SHISHIDO"))
+
     world.set_completion_rule(
-        Has("EVENT_GOLDEN_BALLS")
+        And(*goals)
     )

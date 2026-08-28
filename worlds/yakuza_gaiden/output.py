@@ -35,7 +35,8 @@ ITEM_NAME_TO_DATA = {
 OPTION_EXPORT_MAP = {
     "randomize_enemy_stats": "randomize_enemy_stats",
     "intro_skip": "intro_skip",
-    "shop_keys": "shop_keys",
+    "shop_key": "shop_key",
+    "minigame_shop_key": "minigame_shop_key",
 
     "skill_money_min": "skill_money_min",
     "skill_money_max": "skill_money_max",
@@ -64,6 +65,19 @@ OPTION_EXPORT_MAP = {
     "shogi_modifier": "shogi_modifier", 
     "pocket_circuit_modifier": "pocket_circuit_modifier", 
     "akame_shop_modifier": "akame_shop_modifier",
+
+    "golden_ball_wincon": "golden_ball_wincon",
+    "defeat_shishido_wincon": "defeat_shishido_wincon",
+    "defeat_pocket_circuit_owner_wincon": "defeat_pocket_circuit_owner_wincon",
+
+    "substory": "substory",
+
+    "akame_tasks": "akame_tasks",
+    "akame_combat": "akame_combat",
+    "akame_fetch": "akame_fetch",
+    "akame_photo": "akame_photo",
+    "akame_trial": "akame_trial",
+    "akame_outfit": "akame_outfit",
 
     "max_golden_ball_count": "max_golden_ball_count", 
     "required_golden_ball_count": "required_golden_ball_count",
@@ -147,21 +161,50 @@ def weighted_rand(rng, min_val, max_val):
 
 def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
 
-    MONETARY_MIN = int(world.options.item_cost_min)
-    MONETARY_MAX = int(world.options.item_cost_max)
+    MONETARY_MIN, MONETARY_MAX = sorted([
+        int(world.options.item_cost_min),
+        int(world.options.item_cost_max),
+    ])
 
-    POINT_MIN = int(world.options.item_cost_point_min)
-    POINT_MAX = int(world.options.item_cost_point_max)
+    POINT_MIN, POINT_MAX = sorted([
+        int(world.options.item_cost_point_min),
+        int(world.options.item_cost_point_max),
+    ])
 
-    if MONETARY_MIN > MONETARY_MAX:
-        raise ValueError(
-            "Item Cost Minimum cannot be greater than Item Cost Maximum"
-        )
+    GOLDEN_BALL_MIN, GOLDEN_BALL_MAX = sorted([
+        int(world.options.required_golden_ball_count),
+        int(world.options.max_golden_ball_count),
+    ])
 
-    if POINT_MIN > POINT_MAX:
-        raise ValueError(
-            "Item Point Minimum cannot be greater than Item Cost Point Maximum"
-        )
+    SKILL_MONEY_MIN, SKILL_MONEY_MAX = sorted([
+        int(world.options.skill_money_min),
+        int(world.options.skill_money_max),
+    ])
+
+    SKILL_POINT_MIN, SKILL_POINT_MAX = sorted([
+        int(world.options.skill_point_min),
+        int(world.options.skill_point_max),
+    ])
+
+    PART_TIME_MONEY_MIN, PART_TIME_MONEY_MAX = sorted([
+        int(world.options.part_time_money_min),
+        int(world.options.part_time_money_max),
+    ])
+
+    PART_TIME_POINT_MIN, PART_TIME_POINT_MAX = sorted([
+        int(world.options.part_time_point_min),
+        int(world.options.part_time_point_max),
+    ])
+
+    ATTACK_DEFENSE_MIN, ATTACK_DEFENSE_MAX = sorted([
+        int(world.options.attack_defense_min),
+        int(world.options.attack_defense_max),
+    ])
+
+    RESIST_MIN, RESIST_MAX = sorted([
+        int(world.options.resist_min),
+        int(world.options.resist_max),
+    ])
 
     def rand_money(rng):
         return weighted_rand(rng, MONETARY_MIN, MONETARY_MAX)
@@ -247,10 +290,6 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
 
         patch_rows.append(row)
 
-    # --------------------------------------------------
-    # Add JUNK region filler checks
-    # --------------------------------------------------
-
     for location_name, location_data in LOCATION_NAME_TO_DATA.items():
 
         if location_data.get("region") != "JUNK":
@@ -334,11 +373,36 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
             except AttributeError:
                 options_yaml[yaml_name] = option
 
+        options_yaml["item_cost_min"] = MONETARY_MIN
+        options_yaml["item_cost_max"] = MONETARY_MAX
 
-    #
-    # Seed info
-    #
-    options_yaml["seed"] = world.multiworld.seed_name
+        options_yaml["item_cost_point_min"] = POINT_MIN
+        options_yaml["item_cost_point_max"] = POINT_MAX
+
+        options_yaml["required_golden_ball_count"] = GOLDEN_BALL_MIN
+        options_yaml["max_golden_ball_count"] = GOLDEN_BALL_MAX
+
+        options_yaml["skill_money_min"] = SKILL_MONEY_MIN
+        options_yaml["skill_money_max"] = SKILL_MONEY_MAX
+
+        options_yaml["skill_akame_min"] = SKILL_POINT_MIN
+        options_yaml["skill_akame_max"] = SKILL_POINT_MAX
+
+        options_yaml["part_time_money_min"] = PART_TIME_MONEY_MIN
+        options_yaml["part_time_money_max"] = PART_TIME_MONEY_MAX
+
+        options_yaml["part_time_akame_min"] = PART_TIME_POINT_MIN
+        options_yaml["part_time_akame_max"] = PART_TIME_POINT_MAX
+
+        options_yaml["attack_and_defense_min"] = ATTACK_DEFENSE_MIN
+        options_yaml["attack_and_defense_max"] = ATTACK_DEFENSE_MAX
+
+        options_yaml["resist_min"] = RESIST_MIN
+        options_yaml["resist_max"] = RESIST_MAX
+
+
+    #options_yaml["seed"] = world.multiworld.seed_name
+    options_yaml["seed"] = int(world.multiworld.seed_name) + world.player
 
 
     yaml_buffer = yaml.dump(

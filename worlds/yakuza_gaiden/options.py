@@ -27,7 +27,34 @@ class PocketCircuit(Toggle):
     display_name = "Enable Pocket Circuit Items Checks"
     default = True
 
-class ShopKeys(Toggle):
+class GoldenBallWincon(Toggle):
+    """
+    Having this option on will require collecting Golden Balls to be able to goal the game.
+    Having multiple wincons active will require completing each one, if no wincons are selected defeat Shishido will be enabled.
+    """
+
+    display_name = "Enable Golden Ball Wincon"
+    default = True
+
+class DefeatShishidoWincon(Toggle):
+    """
+    Having this option on will require defeating Shishido at the end of the game be able to goal the game.
+    Having multiple wincons active will require completing each one, if no wincons are selected "Defeat Shishido" will be enabled.
+    """
+
+    display_name = "Enable Defeat Shishido Wincon"
+    default = False
+
+class DefeatPocketCircuitOwnerWincon(Toggle):
+    """
+    Having this option on will require Defeating the Pocket Circuit Owner Rival in a race to be able to goal the game.
+    Having multiple wincons active will require completing each one, if no wincons are selected defeat Shishido will be enabled.
+    """
+
+    display_name = "Enable Defeat Pocket Circuit Owner Wincon"
+    default = False
+
+class ShopKey(Toggle):
     """
     Locks shops down and hides all items until corresponding shop key unlock item is used.
     Shop Key items will appear in your consumable section and need to be activated and consumed to add the items back to the shop.
@@ -35,6 +62,80 @@ class ShopKeys(Toggle):
 
     display_name = "Enable Shop Keys"
     default = True
+
+class MinigameKey(Toggle):
+    """
+    Locks Minigame Point shops down and hides all items until corresponding Minigame shop key unlock item is used.
+    Minigame Shop Key items will appear in your consumable section and need to be activated and consumed to add the items back to the shop.
+    """
+
+    display_name = "Enable Minigame Shop Keys"
+    default = True
+
+class Substory(Toggle):
+    """
+    Adds a check for completing substories.
+    This currently adds a single check for each substory, 
+    so you will get one for vanquishing the Red Peacocks and one for the Final Showdown with the Red Peacocks.
+    """
+
+    display_name = "Enable Substory Checks"
+    default = False
+
+class AkameTasks(Toggle):
+    """
+    Adds checks for each Akame Task, will also add all required items to the Shigano Shop in Sotenbori.
+    You can adjust which tasks give a reward in the below Akame Tasks section.
+    """
+
+    display_name = "Enable Akame Task Checks"
+    default = True
+
+class AkameFetch(Toggle):
+    """
+    Toggle Akame Fetch Quests giving items, these are the quests where you give an item gift to the person for a reward, Excluding the special 8 progression checks.
+    This will not have an effect if Akame Tasks are disabled.
+    """
+
+    display_name = "Enable Akame Fetch Tasks"
+    default = True
+
+class AkameCombat(Toggle):
+    """
+    Toggle Akame Combat Quests giving items, these are the quests where you battle a group of enemies for a reward.
+    This will not have an effect if Akame Tasks are disabled.
+    """
+
+    display_name = "Enable Akame Combat Tasks"
+    default = True
+
+class AkameTrial(Toggle):
+    """
+    Toggle Akame Trial Quests giving items, these are the various quests around Sotenbori that require Kiryu to do various tasks like Pool or Darts.
+    This will not have an effect if Akame Tasks are disabled.
+    """
+
+    display_name = "Enable Akame Trial Tasks"
+    default = True
+
+class AkamePhoto(Toggle):
+    """
+    Toggle Akame Photo Quests giving items, These quests require Kiryu to take photos of various objects.
+    This will not have an effect if Akame Tasks are disabled.
+    """
+
+    display_name = "Enable Akame Photo Tasks"
+    default = True
+
+class AkameOutfit(Toggle):
+    """
+    Toggle Akame Outfit Quests giving items, These Quests require specific outfits to be worn, requiring specific outfit items to be in logic.
+    This will not have an effect if Akame Tasks are disabled.
+    """
+
+    display_name = "Enable Akame Outfit Tasks"
+    default = True
+
 
 class ProgressiveSkills(Toggle):
     """
@@ -163,7 +264,7 @@ class MaxGoldenBallCount(Range):
 
     display_name = "Max Total Golden Ball Count"
 
-    range_start = 0
+    range_start = 1
     range_end = 30
 
     # Range options must define an explicit default value.
@@ -177,7 +278,7 @@ class RequiredGoldenBallCount(Range):
 
     display_name = "Required Golden Ball Count"
 
-    range_start = 0
+    range_start = 1
     range_end = 30
 
     # Range options must define an explicit default value.
@@ -191,11 +292,11 @@ class PoolModifier(Range):
 
     display_name = "Pool Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
-    default = 25
+    default = 20
 
 class GolfModifier(Range):
     """
@@ -205,11 +306,11 @@ class GolfModifier(Range):
 
     display_name = "Golf Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
-    default = 40
+    default = 25
 
 class CasinoModifier(Range):
     """
@@ -219,11 +320,11 @@ class CasinoModifier(Range):
 
     display_name = "Casino Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
-    default = 70
+    default = 60
 
 class ShogiModifier(Range):
     """
@@ -233,7 +334,7 @@ class ShogiModifier(Range):
 
     display_name = "Shogi Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
@@ -247,7 +348,7 @@ class AkameShopModifier(Range):
 
     display_name = "Akame Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
@@ -261,7 +362,7 @@ class PocketCircuitModifier(Range):
 
     display_name = "Pocket Circuit Shop cost modifier"
 
-    range_start = 0
+    range_start = 1
     range_end = 300
 
     # Range options must define an explicit default value.
@@ -277,7 +378,7 @@ class ItemCostMin(Range):
 
     display_name = "Item Cost Minimum"
 
-    range_start = 0
+    range_start = 100
     range_end = 3000000
 
     # Range options must define an explicit default value.
@@ -291,7 +392,7 @@ class ItemCostMax(Range):
 
     display_name = "Item Cost Maximum"
 
-    range_start = 0
+    range_start = 100
     range_end = 3000000
 
     # Range options must define an explicit default value.
@@ -305,7 +406,7 @@ class ItemCostPointMin(Range):
 
     display_name = "Item Cost Point Minimum"
 
-    range_start = 0
+    range_start = 10
     range_end = 10000
 
     # Range options must define an explicit default value.
@@ -319,7 +420,7 @@ class ItemCostPointMax(Range):
 
     display_name = "Item Cost Point Maximum"
 
-    range_start = 0
+    range_start = 10
     range_end = 10000
 
     # Range options must define an explicit default value.
@@ -333,7 +434,7 @@ class SkillMoneyMin(Range):
 
     display_name = "Skill Cost Minimum"
 
-    range_start = 0
+    range_start = 100
     range_end = 3000000
 
     # Range options must define an explicit default value.
@@ -346,7 +447,7 @@ class SkillMoneyMax(Range):
 
     display_name = "Skill Cost Maximum"
 
-    range_start = 0
+    range_start = 100
     range_end = 3000000
 
     # Range options must define an explicit default value.
@@ -360,7 +461,7 @@ class SkillPointMin(Range):
 
     display_name = "Skill Point Cost Minimum"
 
-    range_start = 0
+    range_start = 10
     range_end = 10000
 
     # Range options must define an explicit default value.
@@ -374,7 +475,7 @@ class SkillPointMax(Range):
 
     display_name = "Skill Point Cost Maximum"
 
-    range_start = 0
+    range_start = 10
     range_end = 10000
 
     # Range options must define an explicit default value.
@@ -388,11 +489,11 @@ class PartTimeMoneyMin(Range):
 
     display_name = "Akame Task Monetary Reward Minimum"
 
-    range_start = 0
+    range_start = 100
     range_end = 1000000
 
     # Range options must define an explicit default value.
-    default = 50000
+    default = 75000
 
 class PartTimeMoneyMax(Range):
     """
@@ -402,7 +503,7 @@ class PartTimeMoneyMax(Range):
 
     display_name = "Akame Task Monetary Reward Maximum"
 
-    range_start = 0
+    range_start = 100
     range_end = 1000000
 
     # Range options must define an explicit default value.
@@ -416,11 +517,11 @@ class PartTimePointMin(Range):
 
     display_name = "Akame Task Point Reward Minimum"
 
-    range_start = 0
+    range_start = 10
     range_end = 5000
 
     # Range options must define an explicit default value.
-    default = 50
+    default = 100
 
 class PartTimePointMax(Range):
     """
@@ -430,7 +531,7 @@ class PartTimePointMax(Range):
 
     display_name = "Akame Task Point Reward Maximum"
 
-    range_start = 0
+    range_start = 10
     range_end = 5000
 
     # Range options must define an explicit default value.
@@ -463,7 +564,7 @@ class AttackDefenseMax(Range):
     range_end = 1000
 
     # Range options must define an explicit default value.
-    default = 500
+    default = 400
 
 class ResistMin(Range):
     """
@@ -491,7 +592,7 @@ class ResistMax(Range):
     range_end = 500
 
     # Range options must define an explicit default value.
-    default = 250
+    default = 150
 
 class EnemyHPMult(Range):
     """
@@ -501,7 +602,7 @@ class EnemyHPMult(Range):
 
     display_name = "Enemy HP Multiplier"
 
-    range_start = 0
+    range_start = 10
     range_end = 300
 
     # Range options must define an explicit default value.
@@ -515,7 +616,7 @@ class EnemyAttackMult(Range):
 
     display_name = "Enemy Attack Multiplier"
 
-    range_start = 0
+    range_start = 10
     range_end = 300
 
     # Range options must define an explicit default value.
@@ -529,8 +630,8 @@ class ImportantGrappleItemsYokohama(Range):
 
     display_name = "Important Grapple Item's Yokohama"
 
-    range_start = 0
-    range_end = 20
+    range_start = 1
+    range_end = 29
 
     # Range options must define an explicit default value.
     default = 20
@@ -543,8 +644,8 @@ class ImportantGrappleItemsSotenbori(Range):
 
     display_name = "Important Grapple Items Sotenbori"
 
-    range_start = 0
-    range_end = 30
+    range_start = 1
+    range_end = 39
 
     # Range options must define an explicit default value.
     default = 30
@@ -557,8 +658,8 @@ class ImportantGrappleItemsColosseum(Range):
 
     display_name = "Important Grapple Items Colosseum"
 
-    range_start = 0
-    range_end = 10
+    range_start = 1
+    range_end = 19
 
     # Range options must define an explicit default value.
     default = 10
@@ -579,9 +680,20 @@ class TrapChance(Range):
 # This is in the format "option_name_in_snake_case: OptionClassName".
 @dataclass
 class YakuzaGaidenOptions(PerGameCommonOptions):
+    golden_ball_wincon: GoldenBallWincon
+    defeat_shishido_wincon: DefeatShishidoWincon
+    defeat_pocket_circuit_owner_wincon: DefeatPocketCircuitOwnerWincon
+    minigame_shop_key: MinigameKey
+    substory: Substory
     pocket_circuit: PocketCircuit
+    akame_tasks: AkameTasks
+    akame_combat: AkameCombat
+    akame_fetch: AkameFetch
+    akame_photo: AkamePhoto
+    akame_trial: AkameTrial
+    akame_outfit: AkameOutfit
     progressive_skills: ProgressiveSkills
-    shop_keys: ShopKeys
+    shop_key: ShopKey
     minigames: Minigames
     shops: Shops
     weird_shops: WeirdShops
@@ -631,11 +743,11 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
 option_groups = [
     OptionGroup(
         "Primary Settings",
-        [IntroSkip, ProgressiveSkills, ShopKeys, ProgressiveGrappleItems, RandomizeEnemyStats, PocketCircuit, Minigames, TrapChance],
+        [Substory, AkameTasks, ShopKey, MinigameKey, PocketCircuit, Minigames, ProgressiveSkills, IntroSkip, RandomizeEnemyStats, ProgressiveGrappleItems, TrapChance],
     ),
     OptionGroup(
-        "Win Condition",
-        [MaxGoldenBallCount, RequiredGoldenBallCount],
+        "Win Conditions",
+        [GoldenBallWincon, DefeatShishidoWincon, DefeatPocketCircuitOwnerWincon, MaxGoldenBallCount, RequiredGoldenBallCount],
     ),
     OptionGroup(
         "Shops",
@@ -644,6 +756,10 @@ option_groups = [
     OptionGroup(
         "Minigames",
         [Darts, Pool, Golf, Casino, Shogi, ItemCostPointMin, ItemCostPointMax],
+    ),
+    OptionGroup(
+        "Akame Tasks",
+        [AkameCombat, AkameFetch, AkamePhoto, AkameTrial, AkameOutfit],
     ),
     OptionGroup(
         "Skill Options",

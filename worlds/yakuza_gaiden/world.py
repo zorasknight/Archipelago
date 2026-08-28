@@ -24,7 +24,7 @@ from . import options as YakuzaGaiden_options  # rename due to a name conflict w
 # It is recommended that you read these in that specific order, then come back to the world class.
 class YakuzaGaiden(World):
     """
-    Yakuza Like a Dragon: Gaiden is a modern day beat em up, mini game fest, rpg.
+    Yakuza Like a Dragon: Gaiden is a modern day beat em up, mini game fest, role playing game where you play the role of Joryu, totally distinct from Kiryu.
     Baka mi tai.
     """
 
@@ -83,7 +83,8 @@ class YakuzaGaiden(World):
     def fill_slot_data(self) -> Mapping[str, Any]:
         return self.options.as_dict(
             "pocket_circuit",
-            "shop_keys",
+            "shop_key",
+            "minigame_shop_key",
             "minigames",
             "shops",
             "weird_shops",
@@ -126,5 +127,16 @@ class YakuzaGaiden(World):
             "important_grapple_items_yokohama",
             "important_grapple_items_sotenbori",
             "important_grapple_items_colosseum",
-            "trap_chance"
+            "trap_chance",
+            "golden_ball_wincon",
+            "defeat_shishido_wincon",
+            "defeat_pocket_circuit_owner_wincon",
+            "substory",
+            "pocket_circuit",
+            "akame_tasks",
+            "akame_combat",
+            "akame_fetch",
+            "akame_photo",
+            "akame_trial",
+            "akame_outfit"
         )

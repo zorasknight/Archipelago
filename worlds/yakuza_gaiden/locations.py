@@ -39,7 +39,13 @@ OPTION_TAGS = {
     "POOL": "pool",
     "GOLF": "golf",
     "SHOGI": "shogi",
-    "MINIGAMES": "minigames",
+    "AKAME TASKS": "akame_tasks",
+    "AKAME TRIAL": "akame_trial",
+    "AKAME COMBAT": "akame_combat",
+    "AKAME FETCH": "akame_fetch",
+    "AKAME PHOTO": "akame_photo",
+    "AKAME OUTFIT": "akame_outfit",
+    "SUBSTORY": "substory",
 }
 
 
@@ -110,6 +116,8 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
 
         if location["region"] == "JUNK":
             continue
+        if location["region"] == "GOAL":
+            continue
 
         tags = location.get("tags", "").upper()
 
@@ -173,4 +181,14 @@ def create_events(world: YakuzaGaiden) -> None:
     yokohama.add_event(
         "Collect All Golden Balls",
         "EVENT_GOLDEN_BALLS"
+    )
+    
+    yokohama.add_event(
+        "[Goal] Defeat Shishido",
+        "EVENT_DEFEAT_SHISHIDO"
+    )
+
+    yokohama.add_event(
+        "[Goal] Defeat Pocket Circuit Owner Rival Race",
+        "EVENT_DEFEAT_POCKET_CIRCUIT_OWNER"
     )
