@@ -41,7 +41,7 @@ CLASSIFICATION_MAP = {
 }
 
 OPTION_TAG_RULES = {
-    "POCKET CIRCUIT": "pocket_circuit",
+    "POCKET_CIRCUIT": "pocket_circuit",
     "MINIGAME_SHOP_KEY": "minigame_shop_key",
     "SHOP_KEY": "shop_key",
     "MINIGAMES": "minigames",
@@ -50,6 +50,7 @@ OPTION_TAG_RULES = {
     "SHOGI": "shogi",
     "GOLF": "golf",
     "CASINO": "casino",
+    "DARTS": "darts",
     "CONSUMABLE_SHOPS": "consumable_shops",
     "WEIRD_SHOPS": "weird_shops",
 }
