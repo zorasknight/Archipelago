@@ -20,6 +20,11 @@ def load_json_data(data_name: str):
 LOCATIONS = load_json_data("locations.json")
 
 
+LOCATION_NAME_TO_DATA = {
+    location["label"]: location
+    for location in LOCATIONS.values()
+}
+
 # Every location must have a unique integer ID associated with it.
 # Lookup from location name to ID.
 LOCATION_NAME_TO_ID = {
@@ -48,6 +53,13 @@ OPTION_TAGS = {
     "SUBSTORY": "substory",
 }
 
+POCKET_CIRCUIT_SPECIAL_TAGS = {
+    "CAR FRAME": "Car Frame",
+    "CAR TIRES": "Car Tires",
+    "CAR MOTOR": "Car Motor",
+    "CAR GEARS": "Car Gears",
+    "CAR MISC": "Car Misc",
+}
 
 # Each Location instance must correctly report the "game" it belongs to.
 class YakuzaGaidenLocation(Location):
@@ -57,6 +69,25 @@ class YakuzaGaidenLocation(Location):
 def get_location_names_with_ids(location_names: list[str]) -> dict[str, int | None]:
     return {location_name: LOCATION_NAME_TO_ID[location_name] for location_name in location_names}
 
+
+def get_pocket_circuit_special_category(location_name: str) -> str | None:
+    location_data = LOCATION_NAME_TO_DATA.get(location_name)
+
+    if location_data is None:
+        return None
+
+    raw_tags = location_data.get("tags", "")
+
+    tags = {
+        tag.strip().upper()
+        for tag in raw_tags.split(",")
+    }
+
+    for tag, category in POCKET_CIRCUIT_SPECIAL_TAGS.items():
+        if tag in tags:
+            return category
+
+    return None
 
 def create_all_locations(world: YakuzaGaiden) -> None:
     create_regular_locations(world)

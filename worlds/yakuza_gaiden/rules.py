@@ -3,7 +3,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 from rule_builder.rules import And, Has, HasFromListUnique, True_, Rule
-
+from . import items, locations
 import orjson
 import pkgutil
 
@@ -43,6 +43,44 @@ def create_key_item_check_rule(n: int) -> Rule:
         count=n
     )
 
+def set_pocket_circuit_item_rules(world):
+    for location in world.multiworld.get_locations(world.player):
+        category = locations.get_pocket_circuit_special_category(location.name)
+
+        if category is None:
+            continue
+
+        allowed_tags = items.POCKET_CIRCUIT_PART_CATEGORIES[category]
+
+        location.item_rule = lambda item, tags=allowed_tags: (
+            items.item_has_tag(item.name, "POCKET_CIRCUIT")
+            and any(
+                items.item_has_tag(item.name, tag)
+                for tag in tags
+            )
+        )
+
+        car_name = get_pocket_circuit_car_name(location.name)
+
+        if car_name is not None:
+            world.set_rule(
+                location,
+                Has(car_name)
+            )
+
+def get_pocket_circuit_car_name(location_name: str) -> str | None:
+    prefix = "[PC] Car "
+
+    if not location_name.startswith(prefix):
+        return None
+
+    name = location_name[len(prefix):]
+
+    for part in [" Frame", " Tires", " Motor", " Gears", " Misc"]:
+        if name.endswith(part):
+            return name[:-len(part)]
+
+    return None
 
 def create_golden_ball_check_rule(n: int) -> Rule:
     return Has(
@@ -267,6 +305,9 @@ def set_all_entrance_rules(world: YakuzaGaiden) -> None:
 
 def set_all_location_rules(world: YakuzaGaiden) -> None:
 
+    if world.options.pocket_circuit:
+        set_pocket_circuit_item_rules(world)
+
     #these are the key items
     world.set_rule( world.get_location("[Task] A Dental Dilemma"), Has("Baby Tooth"))
     world.set_rule( world.get_location("[Task] My Best Ball"), Has("Soccer Ball"))
@@ -415,7 +456,7 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         pocket_circuit_3_items = (
             pocket_circuit_2_items
             &
-            create_pocket_circuit_car_check_rule(4)
+            create_pocket_circuit_car_check_rule(3)
             &
             create_pocket_circuit_rule(pocket_parts, 4)
             &
@@ -445,7 +486,7 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
         pocket_circuit_4_items = (
             pocket_circuit_3_items
             &
-            create_pocket_circuit_car_check_rule(6)
+            create_pocket_circuit_car_check_rule(4)
             &
             create_pocket_circuit_rule(pocket_parts, 4)
             &

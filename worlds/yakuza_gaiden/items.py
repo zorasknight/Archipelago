@@ -1,9 +1,9 @@
 from __future__ import annotations
 
 from typing import TYPE_CHECKING
-
+from Fill import fill_restrictive
 from BaseClasses import Item, ItemClassification
-
+from . import locations
 if TYPE_CHECKING:
     from .world import YakuzaGaiden
 import orjson
@@ -25,6 +25,11 @@ LOCATIONS = load_json_data("locations.json")
 
 ITEM_NAME_TO_ID = {
     item["label"]: int(item["item_id"])
+    for item in ITEMS.values()
+}
+
+ITEM_DATA_BY_NAME = {
+    item["label"]: item
     for item in ITEMS.values()
 }
 
@@ -53,6 +58,14 @@ OPTION_TAG_RULES = {
     "DARTS": "darts",
     "CONSUMABLE_SHOPS": "consumable_shops",
     "WEIRD_SHOPS": "weird_shops",
+}
+
+POCKET_CIRCUIT_PART_CATEGORIES = {
+    "Car Frame": {"FRAME"},
+    "Car Tires": {"TIRES"},
+    "Car Motor": {"MOTOR"},
+    "Car Gears": {"GEARS"},
+    "Car Misc": {"MISC", "DECAL"},
 }
 
 AKAME_FETCH_MINIMUMS = {
@@ -103,7 +116,62 @@ def get_item_classification(item):
     # Default fallback
     return ItemClassification.filler
 
+def item_has_tag(item_name: str, tag: str) -> bool:
+    item_data = ITEM_DATA_BY_NAME.get(item_name)
 
+    if item_data is None:
+        return False
+
+    return tag.upper() in get_item_tags(item_data)
+
+
+def fill_pocket_circuit_locations(world, itempool):
+    for category, allowed_tags in POCKET_CIRCUIT_PART_CATEGORIES.items():
+
+        locations_to_fill = [
+            location
+            for location in world.multiworld.get_locations(world.player)
+            if locations.get_pocket_circuit_special_category(location.name) == category
+        ]
+
+        items_to_fill = [
+            item
+            for item in itempool
+            if item_has_tag(item.name, "POCKET_CIRCUIT")
+            and any(
+                item_has_tag(item.name, tag)
+                for tag in allowed_tags
+            )
+        ]
+
+        if len(items_to_fill) < len(locations_to_fill):
+            raise RuntimeError(
+                f"Not enough {category} Pocket Circuit parts. "
+                f"Need {len(locations_to_fill)}, "
+                f"have {len(items_to_fill)}."
+            )
+
+        original_items = list(items_to_fill)
+
+        fill_restrictive(
+            world.multiworld,
+            world.multiworld.state,
+            locations_to_fill,
+            items_to_fill,
+            lock=True,
+            name=f"Pocket Circuit {category}",
+        )
+
+        if locations_to_fill:
+            raise RuntimeError(
+                f"Pocket Circuit {category} fill failed.\n"
+                "Unfilled locations:\n"
+                + "\n".join(location.name for location in locations_to_fill)
+            )
+
+        for item in original_items:
+            if item not in items_to_fill:
+                itempool.remove(item)
 
 DEFAULT_ITEM_CLASSIFICATIONS = {
     item["label"]: get_item_classification(item)
@@ -218,7 +286,7 @@ def create_all_items(world: YakuzaGaiden) -> None:
                 itempool.append(
                     world.create_item(item_name)
                 )
-
+                
     number_of_items = len(itempool)
 
     number_of_unfilled_locations = len(world.multiworld.get_unfilled_locations(world.player))
