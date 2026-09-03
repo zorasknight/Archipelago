@@ -1,6 +1,7 @@
 from collections.abc import Mapping
 from typing import Any
-from Fill import FillError
+from BaseClasses import CollectionState
+from Fill import FillError, fill_restrictive
 # Imports of base Archipelago modules must be absolute.
 from worlds.AutoWorld import World
 from .output import generate_output
@@ -60,11 +61,15 @@ class YakuzaGaiden(World):
     def set_rules(self) -> None:
         rules.set_all_rules(self)
 
+    def pre_fill(self) -> None:
+        if not self.options.pocket_circuit:
+            return
+
+        self.fill_pocket_circuit_locations()
+
+
     def create_items(self) -> None:
         items.create_all_items(self)
-
-    def pre_fill(self) -> None:
-        self.fill_pocket_circuit_locations()
 
     # Our world class must also have a create_item function that can create any one of our items by name at any time.
     # We also put this in a different file, the same one that create_items is in.
@@ -79,64 +84,80 @@ class YakuzaGaiden(World):
     def get_filler_item_name(self) -> str:
         return items.get_random_filler_item_name(self)
 
+
+    def fill_pocket_circuit_locations(self) -> None:
+        locations_to_fill = [
+            location
+            for location in self.multiworld.get_locations(self.player)
+            if (
+                locations.get_pocket_circuit_special_category(location.name)
+                is not None
+                and not location.item
+            )
+        ]
+
+        pc_items = [
+            item
+            for item in self.multiworld.itempool
+            if (
+                item.player == self.player
+                and items.item_has_tag(item.name, "POCKET_CIRCUIT")
+            )
+        ]
+
+        if len(locations_to_fill) > len(pc_items):
+            raise FillError(
+                "Pocket Circuit placement failed: "
+                f"need {len(locations_to_fill)} PC items, "
+                f"but only {len(pc_items)} exist."
+            )
+
+        # Give restrictive fill its own copy of all PC items.
+        # fill_restrictive() removes successfully placed items from this list,
+        # while unused PC items remain available for the normal global fill.
+        items_to_fill = pc_items.copy()
+
+        # Build a state representing the currently available item pool.
+        partial_state = CollectionState(self.multiworld)
+
+        for item in self.multiworld.itempool:
+            partial_state.collect(item, prevent_sweep=True)
+
+        partial_state.sweep_for_advancements()
+
+        fill_restrictive(
+            self.multiworld,
+            partial_state,
+            locations_to_fill,
+            items_to_fill,
+            single_player_placement=True,
+            lock=True,
+            allow_partial=True,
+            name="Pocket Circuit",
+        )
+
+        # Remove only PC items that were actually placed from the real
+        # multiworld item pool. Unused PC parts stay available to normal fill.
+        for item in pc_items:
+            if item.location is not None:
+                self.multiworld.itempool.remove(item)
+
+        # We require all 50 PC part locations to have been filled.
+        unfilled_locations = [
+            location
+            for location in locations_to_fill
+            if not location.item
+        ]
+
+        if unfilled_locations:
+            raise FillError(
+                "Pocket Circuit placement failed: "
+                f"{len(unfilled_locations)} PC locations could not be filled."
+            )
+
     # There may be data that the game client will need to modify the behavior of the game.
     # This is what slot_data exists for. Upon every client connection, the slot's slot_data is sent to the client.
     # slot_data is just a dictionary using basic types, that will be converted to json when sent to the client.
-
-    def fill_pocket_circuit_locations(self) -> None:
-        print("=== PC PRE-FILL START ===")
-
-        for category, allowed_tags in items.POCKET_CIRCUIT_PART_CATEGORIES.items():
-
-            locations_to_fill = [
-                location
-                for location in self.multiworld.get_locations(self.player)
-                if locations.get_pocket_circuit_special_category(location.name) == category
-            ]
-
-            items_to_fill = [
-                item
-                for item in self.multiworld.itempool
-                if item.player == self.player
-                and items.item_has_tag(item.name, "POCKET_CIRCUIT")
-                and any(
-                    items.item_has_tag(item.name, tag)
-                    for tag in allowed_tags
-                )
-            ]
-
-            print(
-                f"{category}: "
-                f"{len(locations_to_fill)} locations, "
-                f"{len(items_to_fill)} compatible items"
-            )
-
-            if len(items_to_fill) < len(locations_to_fill):
-                raise FillError(
-                    f"Pocket Circuit {category} placement failed: "
-                    f"need {len(locations_to_fill)} compatible items, "
-                    f"but only {len(items_to_fill)} exist."
-                )
-
-            selected_items = self.random.sample(
-                items_to_fill,
-                len(locations_to_fill)
-            )
-
-            for location, item in zip(locations_to_fill, selected_items):
-                print(f"PLACING: {location.name} <- {item.name}")
-
-                location.place_locked_item(item)
-
-                if location.item is not item:
-                    raise FillError(
-                        f"Pocket Circuit placement failed: "
-                        f"{location.name} did not receive {item.name}"
-                    )
-
-                self.multiworld.itempool.remove(item)
-
-        print("=== PC PRE-FILL COMPLETE ===")
 
     def fill_slot_data(self) -> Mapping[str, Any]:
         return self.options.as_dict(

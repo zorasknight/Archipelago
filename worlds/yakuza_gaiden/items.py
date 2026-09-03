@@ -261,17 +261,17 @@ def create_all_items(world: YakuzaGaiden) -> None:
         and item["label"] != "Golden Ball"
     ]
 
-    
-    golden_ball_min = int(world.options.required_golden_ball_count)
-    golden_ball_max = int(world.options.max_golden_ball_count)
+    if world.options.golden_ball_wincon:
+        golden_ball_min = int(world.options.required_golden_ball_count)
+        golden_ball_max = int(world.options.max_golden_ball_count)
 
-    if golden_ball_min > golden_ball_max:
-        golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
+        if golden_ball_min > golden_ball_max:
+            golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
 
-    for _ in range(golden_ball_max):
-        itempool.append(
-            world.create_item("Golden Ball")
-        )
+        for _ in range(golden_ball_max):
+            itempool.append(
+                world.create_item("Golden Ball")
+            )
 
     if world.options.progressive_skills:
         for item_name, count in PROGRESSIVE_SKILL_COUNTS.items():
@@ -286,7 +286,7 @@ def create_all_items(world: YakuzaGaiden) -> None:
                 itempool.append(
                     world.create_item(item_name)
                 )
-                
+
     number_of_items = len(itempool)
 
     number_of_unfilled_locations = len(world.multiworld.get_unfilled_locations(world.player))
