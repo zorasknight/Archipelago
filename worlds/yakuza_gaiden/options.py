@@ -150,6 +150,7 @@ class ProgressiveGrappleItems(Toggle):
     """
     Causes all regional grapple items to be progressive, ie: first Sotenbori grapple item will always come out as grapple_item_1 regardless of which actual grapple was grabbed.
     Amount of relevant grapples can be set below. Good option for newer players learning where grapple points are.
+    I recomend not maxing this out as you will not have the standard location hints to guide you to missed points.
     """
 
     display_name = "Toggle Progressive Grapple Items"
@@ -680,35 +681,39 @@ class TrapChance(Range):
 # This is in the format "option_name_in_snake_case: OptionClassName".
 @dataclass
 class YakuzaGaidenOptions(PerGameCommonOptions):
+    substory: Substory
+    akame_tasks: AkameTasks
+    shop_key: ShopKey
+    minigame_shop_key: MinigameKey
+    pocket_circuit: PocketCircuit
+    minigames: Minigames
+    progressive_skills: ProgressiveSkills
+    intro_skip: IntroSkip
+    randomize_enemy_stats: RandomizeEnemyStats
+    progressive_grapple_items: ProgressiveGrappleItems
+    trap_chance: TrapChance
     golden_ball_wincon: GoldenBallWincon
     defeat_shishido_wincon: DefeatShishidoWincon
     defeat_pocket_circuit_owner_wincon: DefeatPocketCircuitOwnerWincon
-    minigame_shop_key: MinigameKey
-    substory: Substory
-    pocket_circuit: PocketCircuit
-    akame_tasks: AkameTasks
-    akame_combat: AkameCombat
-    akame_fetch: AkameFetch
-    akame_photo: AkamePhoto
-    akame_trial: AkameTrial
-    akame_outfit: AkameOutfit
-    progressive_skills: ProgressiveSkills
-    shop_key: ShopKey
-    minigames: Minigames
+    required_golden_ball_count: RequiredGoldenBallCount
+    max_golden_ball_count: MaxGoldenBallCount
     shops: Shops
     weird_shops: WeirdShops
     consumable_shops: ConsumableShops
+    item_cost_min: ItemCostMin
+    item_cost_max: ItemCostMax
     darts: Darts
     pool: Pool
     golf: Golf
     casino: Casino
     shogi: Shogi
-    randomize_enemy_stats: RandomizeEnemyStats
-    intro_skip: IntroSkip
-    item_cost_min: ItemCostMin
-    item_cost_max: ItemCostMax
     item_cost_point_min: ItemCostPointMin
     item_cost_point_max: ItemCostPointMax
+    akame_combat: AkameCombat
+    akame_fetch: AkameFetch
+    akame_photo: AkamePhoto
+    akame_trial: AkameTrial
+    akame_outfit: AkameOutfit
     skill_money_min: SkillMoneyMin
     skill_money_max: SkillMoneyMax
     skill_point_min: SkillPointMin
@@ -721,23 +726,17 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     attack_defense_max: AttackDefenseMax
     resist_min: ResistMin
     resist_max: ResistMax
-    enemy_hp_mult: EnemyHPMult
-    enemy_attack_mult: EnemyAttackMult
-    pocket_circuit_modifier: PocketCircuitModifier
-    pool_modifier: PoolModifier
-    golf_modifier: GolfModifier
-    shogi_modifier: ShogiModifier
-    casino_modifier: CasinoModifier
-    akame_shop_modifier: AkameShopModifier
-    max_golden_ball_count: MaxGoldenBallCount
-    required_golden_ball_count: RequiredGoldenBallCount
-    progressive_grapple_items: ProgressiveGrappleItems
     important_grapple_items_yokohama: ImportantGrappleItemsYokohama
     important_grapple_items_sotenbori: ImportantGrappleItemsSotenbori
     important_grapple_items_colosseum: ImportantGrappleItemsColosseum
-    trap_chance: TrapChance
-    
-
+    enemy_hp_mult: EnemyHPMult
+    enemy_attack_mult: EnemyAttackMult
+    pool_modifier: PoolModifier
+    golf_modifier: GolfModifier
+    casino_modifier: CasinoModifier
+    shogi_modifier: ShogiModifier
+    pocket_circuit_modifier: PocketCircuitModifier
+    akame_shop_modifier: AkameShopModifier
 
 # If we want to group our options by similar type, we can do so as well. This looks nice on the website.
 option_groups = [
@@ -747,7 +746,7 @@ option_groups = [
     ),
     OptionGroup(
         "Win Conditions",
-        [GoldenBallWincon, DefeatShishidoWincon, DefeatPocketCircuitOwnerWincon, MaxGoldenBallCount, RequiredGoldenBallCount],
+        [GoldenBallWincon, DefeatShishidoWincon, DefeatPocketCircuitOwnerWincon, RequiredGoldenBallCount, MaxGoldenBallCount],
     ),
     OptionGroup(
         "Shops",
@@ -783,7 +782,7 @@ option_groups = [
     ),
     OptionGroup(
         "Point Modifiers",
-        [GolfModifier, PoolModifier, CasinoModifier, ShogiModifier, PocketCircuitModifier, AkameShopModifier],
+        [PoolModifier, GolfModifier, CasinoModifier, ShogiModifier, PocketCircuitModifier, AkameShopModifier],
     ),
 ]
 
