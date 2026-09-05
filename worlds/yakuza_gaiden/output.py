@@ -37,7 +37,7 @@ OPTION_EXPORT_MAP = {
     "intro_skip": "intro_skip",
     "shop_key": "shop_key",
     "minigame_shop_key": "minigame_shop_key",
-
+    "pocket_circuit": "pocket_circuit",
     "skill_money_min": "skill_money_min",
     "skill_money_max": "skill_money_max",
 
