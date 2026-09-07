@@ -15,9 +15,7 @@ from typing import Dict, Any, Union, List
 
 
 def load_json_data(data_name: str) -> Union[List[Any], Dict[str, Any]]:
-    return orjson.loads(
-        pkgutil.get_data(__name__, "data/" + data_name).decode("utf-8-sig")
-    )
+    return orjson.loads( pkgutil.get_data(__name__, "data/" + data_name).decode("utf-8-sig") )
 
 
 ITEMS = load_json_data("items.json")
@@ -32,11 +30,6 @@ ITEM_DATA_BY_NAME = {
     item["label"]: item
     for item in ITEMS.values()
 }
-
-
-# --------------------------------------------------
-# Item Tag Helpers
-# --------------------------------------------------
 
 CLASSIFICATION_MAP = {
     "IMPORTANT": ItemClassification.progression,
@@ -153,14 +146,7 @@ def fill_pocket_circuit_locations(world, itempool):
 
         original_items = list(items_to_fill)
 
-        fill_restrictive(
-            world.multiworld,
-            world.multiworld.state,
-            locations_to_fill,
-            items_to_fill,
-            lock=True,
-            name=f"Pocket Circuit {category}",
-        )
+        fill_restrictive( world.multiworld, world.multiworld.state, locations_to_fill, items_to_fill, lock=True, name=f"Pocket Circuit {category}", )
 
         if locations_to_fill:
             raise RuntimeError(
@@ -253,10 +239,7 @@ def create_all_items(world: YakuzaGaiden) -> None:
         world.create_item(item["label"])
         for item in ITEMS.values()
         if item_allowed(world, item)
-        and (
-            "IMPORTANT" in get_item_tags(item)
-            or "USEFUL" in get_item_tags(item)
-        )
+        and ( "IMPORTANT" in get_item_tags(item) or "USEFUL" in get_item_tags(item) )
         and "PROGRESSIVE_SKILLS" not in get_item_tags(item)
         and item["label"] != "Golden Ball"
     ]
@@ -269,23 +252,17 @@ def create_all_items(world: YakuzaGaiden) -> None:
             golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
 
         for _ in range(golden_ball_max):
-            itempool.append(
-                world.create_item("Golden Ball")
-            )
+            itempool.append( world.create_item("Golden Ball") )
 
     if world.options.progressive_skills:
         for item_name, count in PROGRESSIVE_SKILL_COUNTS.items():
             for _ in range(count):
-                itempool.append(
-                    world.create_item(item_name)
-                )
+                itempool.append( world.create_item(item_name) )
 
     if world.options.akame_tasks and world.options.akame_fetch:
         for item_name, count in AKAME_FETCH_MINIMUMS.items():
             for _ in range(count):
-                itempool.append(
-                    world.create_item(item_name)
-                )
+                itempool.append( world.create_item(item_name) )
 
     number_of_items = len(itempool)
 

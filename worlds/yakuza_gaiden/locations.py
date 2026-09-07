@@ -25,8 +25,6 @@ LOCATION_NAME_TO_DATA = {
     for location in LOCATIONS.values()
 }
 
-# Every location must have a unique integer ID associated with it.
-# Lookup from location name to ID.
 LOCATION_NAME_TO_ID = {
     location["label"]: int(location["id"])
     for location in LOCATIONS.values()
@@ -62,7 +60,6 @@ POCKET_CIRCUIT_SPECIAL_TAGS = {
     "CAR MISC": "Car Misc",
 }
 
-# Each Location instance must correctly report the "game" it belongs to.
 class YakuzaGaidenLocation(Location):
     game = "YakuzaGaiden"
 
@@ -160,34 +157,22 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
         skip = False
 
         for tag, option_name in OPTION_TAGS.items():
-            # This intentionally catches:
-            # POCKET CIRCUIT_1
-            # POCKET CIRCUIT_2
-            # POCKET CIRCUIT_3
-            # POCKET CIRCUIT_4
-            if tag in tags and not getattr(world.options, option_name):
+
+            if tag in tags and not getattr( world.options, option_name ):
                 skip = True
                 break
 
         if skip:
             continue
 
-        # Progressive Grapple locations
-        # Progressive Wire locations
         if "PROGRESSIVE WIRE" in tags:
 
             if not world.options.progressive_grapple_items:
                 continue
 
-            max_grapple = get_grapple_limit(
-                world,
-                location["region"]
-            )
+            max_grapple = get_grapple_limit( world, location["region"] )
 
-            match = re.search(
-                r"(\d+)$",
-                location["label"]
-            )
+            match = re.search( r"(\d+)$", location["label"] )
 
             if match:
                 grapple_number = int(match.group(1))
@@ -201,26 +186,14 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
 
         region = region_lookup.get(location["region"], sotenbori_1)
 
-        region.add_locations(
-            {location["label"]: int(location["id"])},
-            YakuzaGaidenLocation,
-        )
+        region.add_locations( {location["label"]: int(location["id"])}, YakuzaGaidenLocation, )
 
 
 def create_events(world: YakuzaGaiden) -> None:
     yokohama = world.get_region("Yokohama")
 
-    yokohama.add_event(
-        "Collect All Golden Balls",
-        "EVENT_GOLDEN_BALLS"
-    )
+    yokohama.add_event( "Collect All Golden Balls", "EVENT_GOLDEN_BALLS" )
     
-    yokohama.add_event(
-        "[Goal] Defeat Shishido",
-        "EVENT_DEFEAT_SHISHIDO"
-    )
+    yokohama.add_event( "[Goal] Defeat Shishido", "EVENT_DEFEAT_SHISHIDO" )
 
-    yokohama.add_event(
-        "[Goal] Defeat Pocket Circuit Owner Rival Race",
-        "EVENT_DEFEAT_POCKET_CIRCUIT_OWNER"
-    )
+    yokohama.add_event( "[Goal] Defeat Pocket Circuit Owner Rival Race", "EVENT_DEFEAT_POCKET_CIRCUIT_OWNER" )

@@ -18,9 +18,7 @@ if TYPE_CHECKING:
 
 
 def load_json_data(data_name: str):
-    return orjson.loads(
-        pkgutil.get_data(__name__, "data/" + data_name).decode("utf-8-sig")
-    )
+    return orjson.loads( pkgutil.get_data(__name__, "data/" + data_name).decode("utf-8-sig") )
 
 
 ITEMS = load_json_data("items.json")
@@ -104,36 +102,17 @@ class GaidenContainer(APPlayerContainer):
     game: str = "Yakuza Gaiden"
     patch_file_ending = ".zip"
 
-    def __init__(
-        self,
-        patch_data: dict,
-        base_path: str,
-        output_directory: str,
-        player=None,
-        player_name: str = "",
-        server: str = "",
-    ):
+    def __init__( self, patch_data: dict, base_path: str, output_directory: str, player=None, player_name: str = "", server: str = "", ):
         self.patch_data = patch_data
         self.file_path = base_path
 
-        container_path = os.path.join(
-            output_directory,
-            base_path + ".zip"
-        )
+        container_path = os.path.join( output_directory, base_path + ".zip" )
 
-        super().__init__(
-            container_path,
-            player,
-            player_name,
-            server
-        )
+        super().__init__( container_path, player, player_name, server )
 
     def write_contents(self, opened_zipfile: zipfile.ZipFile) -> None:
         for filename, contents in self.patch_data.items():
-            opened_zipfile.writestr(
-                filename,
-                contents
-            )
+            opened_zipfile.writestr( filename, contents )
 
         super().write_contents(opened_zipfile)
 
@@ -141,9 +120,9 @@ class GaidenContainer(APPlayerContainer):
 def weighted_rand(rng, min_val, max_val):
     span = max_val - min_val + 1
 
-    cheap_max = min_val + int(span * 0.08) - 1
-    average_max = min_val + int(span * 0.35) - 1
-    expensive_max = min_val + int(span * 0.65) - 1
+    cheap_max = min_val + int( span * 0.08 ) - 1
+    average_max = min_val + int( span * 0.35 ) - 1
+    expensive_max = min_val + int( span * 0.65 ) - 1
 
     r = rng.random()
 
@@ -176,6 +155,13 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         int(world.options.max_golden_ball_count),
     ])
 
+    golden_ball_wincon = world.options.golden_ball_wincon
+    defeat_shishido_wincon = world.options.defeat_shishido_wincon
+
+    if GOLDEN_BALL_MIN == 0 or GOLDEN_BALL_MAX == 0:
+        golden_ball_wincon = False
+        defeat_shishido_wincon = True
+
     SKILL_MONEY_MIN, SKILL_MONEY_MAX = sorted([
         int(world.options.skill_money_min),
         int(world.options.skill_money_max),
@@ -207,10 +193,10 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
     ])
 
     def rand_money(rng):
-        return weighted_rand(rng, MONETARY_MIN, MONETARY_MAX)
+        return weighted_rand( rng, MONETARY_MIN, MONETARY_MAX )
 
     def rand_points(rng):
-        return weighted_rand(rng, POINT_MIN, POINT_MAX)
+        return weighted_rand( rng, POINT_MIN, POINT_MAX )
 
     patch_rows = []
 
@@ -224,7 +210,7 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         if location.item is None:
             continue
 
-        location_data = LOCATION_NAME_TO_DATA.get(location.name)
+        location_data = LOCATION_NAME_TO_DATA.get( location.name )
 
         if location_data is None:
             continue
@@ -251,9 +237,7 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
             ])
 
         else:
-            owner_name = world.multiworld.get_file_safe_player_name(
-                item.player
-            )
+            owner_name = world.multiworld.get_file_safe_player_name( item.player )
 
             display_name = f"({owner_name}) {item.name}"
 
@@ -276,17 +260,11 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
                 rand_points(rng),
             ])
 
-        row.append(
-            location_data["id"]
-        )
+        row.append( location_data["id"] )
 
-        row.append(
-            item_quality
-        )
+        row.append( item_quality )
 
-        row.append(
-            "False"
-        )
+        row.append( "False" )
 
         patch_rows.append(row)
 
@@ -297,10 +275,7 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
 
         junk_item = world.create_filler()
 
-        junk_item_data = ITEM_NAME_TO_DATA.get(
-            junk_item.name,
-            {}
-        )
+        junk_item_data = ITEM_NAME_TO_DATA.get( junk_item.name, {} )
 
         patch_rows.append([
             location_data["source"],
@@ -316,9 +291,9 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
             "True",
         ])
 
-    csv_buffer = io.StringIO(newline="")
+    csv_buffer = io.StringIO( newline="" )
 
-    writer = csv.writer(csv_buffer)
+    writer = csv.writer( csv_buffer )
 
     writer.writerow([
         "file_name",
@@ -334,12 +309,9 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         "junk_check"
     ])
 
-    writer.writerows(patch_rows)
+    writer.writerows( patch_rows )
 
-    curr_timestamp = datetime.strftime(
-        datetime.now(UTC),
-        "%d%b%Y-%H%M%S"
-    )
+    curr_timestamp = datetime.strftime( datetime.now(UTC), "%d%b%Y-%H%M%S" )
 
     mod_name = (
         f"AP-{world.multiworld.seed_name}-"
@@ -348,30 +320,32 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         f"{curr_timestamp}"
     )
 
-    mod_dir = os.path.join(
-        output_directory,
-        mod_name + "_" + Utils.__version__
-    )
+    mod_dir = os.path.join( output_directory, mod_name + "_" + Utils.__version__ )
 
-    #
-    # Export world options
-    #
     options_yaml = {}
 
     for ap_name, yaml_name in OPTION_EXPORT_MAP.items():
 
-        if hasattr(world.options, ap_name):
+        if hasattr( world.options, ap_name ):
 
-            option = getattr(
-                world.options,
-                ap_name
-            )
+            option = getattr( world.options, ap_name )
 
             try:
-                options_yaml[yaml_name] = option.value
+                value = option.value
 
             except AttributeError:
-                options_yaml[yaml_name] = option
+                value = option
+
+            if ap_name == "golden_ball_wincon":
+                value = golden_ball_wincon
+
+            elif ap_name == "defeat_shishido_wincon":
+                value = defeat_shishido_wincon
+
+            elif ( ap_name == "defeat_pocket_circuit_owner_wincon" and not world.options.pocket_circuit ):
+                value = False
+
+            options_yaml[yaml_name] = value
 
         options_yaml["item_cost_min"] = MONETARY_MIN
         options_yaml["item_cost_max"] = MONETARY_MAX
@@ -402,30 +376,19 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
 
 
     #options_yaml["seed"] = world.multiworld.seed_name
-    options_yaml["seed"] = int(world.multiworld.seed_name) + world.player
+    options_yaml["seed"] = int( world.multiworld.seed_name ) + world.player
 
 
-    yaml_buffer = yaml.dump(
-        options_yaml,
-        sort_keys=False
-    )
+    yaml_buffer = yaml.dump( options_yaml, sort_keys=False )
 
 
-    patch_files = {
+    patch_files = { 
         "patch.csv": csv_buffer.getvalue(),
         "options.yaml": yaml_buffer
     }
 
-    mod = GaidenContainer(
-        patch_files,
-        mod_dir,
-        output_directory,
-        world.player,
-        world.multiworld.get_file_safe_player_name(world.player)
-    )
+    mod = GaidenContainer( patch_files, mod_dir, output_directory, world.player, world.multiworld.get_file_safe_player_name( world.player ) )
 
     mod.write()
 
-    print(
-        f"Wrote Yakuza Gaiden patch zip for player {world.player}"
-    )
+    print( f"Wrote Yakuza Gaiden patch zip for player { world.player }" )
