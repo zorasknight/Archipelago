@@ -155,8 +155,8 @@ def generate_output(world: "YakuzaGaiden", output_directory: str) -> None:
         int(world.options.max_golden_ball_count),
     ])
 
-    golden_ball_wincon = world.options.golden_ball_wincon
-    defeat_shishido_wincon = world.options.defeat_shishido_wincon
+    golden_ball_wincon = world.options.golden_ball_wincon.value
+    defeat_shishido_wincon = world.options.defeat_shishido_wincon.value
 
     if GOLDEN_BALL_MIN == 0 or GOLDEN_BALL_MAX == 0:
         golden_ball_wincon = False
