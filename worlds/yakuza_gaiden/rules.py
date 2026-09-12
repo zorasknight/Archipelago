@@ -49,10 +49,6 @@ def set_pocket_circuit_item_rules(world):
 
         location.item_rule = lambda item, tags=allowed_tags: ( items.item_has_tag(item.name, "POCKET_CIRCUIT") and any( items.item_has_tag(item.name, tag) for tag in tags ) )
 
-        car_name = get_pocket_circuit_car_name(location.name)
-
-        if car_name is not None:
-            world.set_rule( location, Has(car_name) )
 
 def get_pocket_circuit_car_name(location_name: str) -> str | None:
     prefix = "[PC] Car "
@@ -479,6 +475,11 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
             elif "POCKET CIRCUIT_4" in tags:
                 world.set_rule( location, pocket_circuit_4_items )
 
+            car_name = get_pocket_circuit_car_name(location.name)
+
+            if car_name is not None:
+                world.set_rule(location, Has(car_name))
+
 
     if world.options.minigame_shop_key:
 
@@ -610,20 +611,21 @@ def set_all_location_rules(world: YakuzaGaiden) -> None:
 
 def set_completion_condition(world: YakuzaGaiden) -> None:
 
-    golden_ball_event = world.get_location( "Collect All Golden Balls" )
-
     defeat_shishido = world.get_location( "[Goal] Defeat Shishido" )
-
-    
-    golden_ball_min = int(world.options.required_golden_ball_count)
-    golden_ball_max = int(world.options.max_golden_ball_count)
-
-    if golden_ball_min > golden_ball_max:
-        golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
-
-    world.set_rule( golden_ball_event, Has("Golden Ball", count=golden_ball_min) )
-
     world.set_rule( defeat_shishido, create_key_item_check_rule(6) )
+
+    if world.options.golden_ball_wincon:
+        golden_ball_event = world.get_location( "Collect All Golden Balls" )
+
+        golden_ball_min = int(world.options.required_golden_ball_count)
+        golden_ball_max = int(world.options.max_golden_ball_count)
+
+        if golden_ball_min > golden_ball_max:
+            golden_ball_min, golden_ball_max = golden_ball_max, golden_ball_min
+
+        world.set_rule( golden_ball_event, Has("Golden Ball", count=golden_ball_min) )
+
+        
 
 
     goals = []

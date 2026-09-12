@@ -192,7 +192,8 @@ def create_regular_locations(world: YakuzaGaiden) -> None:
 def create_events(world: YakuzaGaiden) -> None:
     yokohama = world.get_region("Yokohama")
 
-    yokohama.add_event( "Collect All Golden Balls", "EVENT_GOLDEN_BALLS" )
+    if world.options.golden_ball_wincon:
+        yokohama.add_event( "Collect All Golden Balls", "EVENT_GOLDEN_BALLS" )
     
     yokohama.add_event( "[Goal] Defeat Shishido", "EVENT_DEFEAT_SHISHIDO" )
 
