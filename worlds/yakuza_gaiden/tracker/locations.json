@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Saints Mission #02: Appointed Defender",
+        "sections": [
+            {
+                "name": "Saints Mission #02: Appointed Defender"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "sotenbori",
+                "x": 1573,
+                "y": 1324
+            }
+        ]
+    },
+    {
+        "name": "Aisha's House",
+        "sections": [
+            {
+                "name": "Saints Mission #03: Down Payment"
+            },
+            {
+                "name": "Ronin Mission #02: Laundry Day"
+            },
+            {
+                "name": "Ronin Mission #03: Road Rage"
+            },
+            {
+                "name": "Ronin Mission #04: Bleeding Out"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "sotenbori",
+                "x": 1467,
+                "y": 304
+            }
+        ]
+    }
+]

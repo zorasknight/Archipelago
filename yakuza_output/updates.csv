@@ -1,0 +1,985 @@
+file_name,table_name,row_id,column_id,item_id,new_value,item_name,purchase_price,purchase_points,location_id
+shop.bin.json,aston_s_ebisuya,0,replacement_item_id,6315,6315,(Junic) Money x25,26516,707,1
+shop.bin.json,aston_s_ebisuya,1,replacement_item_id,6316,6316,Fedora,62720,1383,2
+shop.bin.json,aston_s_ebisuya,2,replacement_item_id,6317,6317,Salmon Onigiri,158317,334,3
+shop.bin.json,aston_s_ebisuya,3,replacement_item_id,6318,6318,(CyberTheHexhog2) Twenty Rings,858326,682,4
+shop.bin.json,aston_s_ebisuya,4,replacement_item_id,6319,6319,(Stro) Hidden Dragon,147012,181,5
+shop.bin.json,aston_s_ebisuya,5,replacement_item_id,6320,6320,Toughness Z,47471,339,6
+shop.bin.json,aston_s_ebisuya,6,replacement_item_id,6321,6321,Extra Slim Tires,188237,1152,7
+shop.bin.json,aston_s_ebisuya,7,replacement_item_id,6322,6322,Beanie,471871,3515,8
+shop.bin.json,aston_s_ebisuya,8,replacement_item_id,6323,6323,(Junic) Effigy,47478,324,9
+shop.bin.json,aston_s_ebisuya,9,replacement_item_id,6324,6324,(CyberTheHexhog2) Emblem,20170,224,10
+shop.bin.json,aston_s_ebisuya,10,replacement_item_id,6325,6325,(CyberTheHexhog2) Emblem,103761,1593,11
+shop.bin.json,aston_s_ebisuya,11,replacement_item_id,6326,6326,(grubvin) Charm_Notch,282989,1133,12
+shop.bin.json,aston_s_ebisuya,12,replacement_item_id,6327,6327,Kitty Kat (Tiger),14147,2102,13
+shop.bin.json,aston_s_ebisuya,13,replacement_item_id,6328,6328,(Stro) Drive Gauge Up,234802,335,14
+shop.bin.json,aston_s_ebisuya,14,replacement_item_id,6329,6329,(CyberTheHexhog2) Emblem,150229,246,15
+shop.bin.json,aston_s_ebisuya,15,replacement_item_id,6330,6330,(CyberTheHexhog2) Emblem,490713,427,16
+shop.bin.json,aston_s_ebisuya,16,replacement_item_id,6331,6331,(Stro) Lucky Lucky,42663,434,17
+shop.bin.json,aston_s_ebisuya,17,replacement_item_id,6332,6332,Big Frame Sunglasses,405366,289,18
+shop.bin.json,aston_s_pokecir_parts,0,replacement_item_id,6333,6333,(Stro) Draw,29740,247,19
+shop.bin.json,aston_s_pokecir_parts,1,replacement_item_id,6334,6334,(Junic) Money x30,74921,129,20
+shop.bin.json,aston_s_pokecir_parts,2,replacement_item_id,6335,6335,Insulated Shirt,15085,2112,21
+shop.bin.json,aston_s_pokecir_parts,3,replacement_item_id,6336,6336,(Stro) Expert's Ring,837842,326,22
+shop.bin.json,aston_s_pokecir_parts,4,replacement_item_id,6337,6337,(Junic) Bone Card,122372,113,23
+shop.bin.json,aston_s_pokecir_parts,5,replacement_item_id,6338,6338,(Stro) Wisdom Form,51215,1884,24
+shop.bin.json,aston_s_pokecir_parts,6,replacement_item_id,6339,6339,(grubvin) Wanderer's_Journal,825611,476,25
+shop.bin.json,aston_s_pokecir_parts,7,replacement_item_id,6340,6340,(CyberTheHexhog2) Emblem,27440,1444,26
+shop.bin.json,aston_s_pokecir_parts,8,replacement_item_id,6341,6341,(Junic) Fairy,12967,304,27
+shop.bin.json,aston_s_pokecir_parts,9,replacement_item_id,6342,6342,(grubvin) Defender's_Crest,256287,309,28
+shop.bin.json,aston_s_pokecir_parts,10,replacement_item_id,6343,6343,Skill Book: Progressive Extra Shoe Boost,615759,216,29
+shop.bin.json,aston_s_pokecir_parts,11,replacement_item_id,6344,6344,(Stro) Secret Ansem's Report 10,25134,1964,30
+shop.bin.json,aston_s_pokecir_parts,12,replacement_item_id,6345,6345,(Junic) Effigy,499691,442,31
+shop.bin.json,aston_s_pokecir_parts,13,replacement_item_id,6346,6346,(Junic) Money x30,298450,418,32
+shop.bin.json,aston_s_pokecir_parts,14,replacement_item_id,6347,6347,(grubvin) City_Storerooms_Stag,30936,2802,33
+shop.bin.json,aston_s_pokecir_parts,15,replacement_item_id,6348,6348,(CyberTheHexhog2) Emblem,310042,3687,34
+shop.bin.json,aston_s_pokecir_parts,16,replacement_item_id,6349,6349,(Stro) Mage Earring,37076,2416,35
+shop.bin.json,aston_s_pokecir_parts,17,replacement_item_id,6350,6350,Alpha Cool Striker,87424,909,36
+shop.bin.json,aston_s_pokecir_parts,18,replacement_item_id,6351,6351,(grubvin) Royal_Waterways_Map,312744,182,37
+shop.bin.json,aston_s_pokecir_parts,19,replacement_item_id,6352,6352,Premium BOSS,33685,1504,38
+shop.bin.json,aston_s_pokecir_parts,20,replacement_item_id,6353,6353,(Junic) Fairy,7709,399,39
+shop.bin.json,aston_s_pokecir_parts,21,replacement_item_id,6354,6354,(Stro) Frozen Pride+,39197,1458,40
+shop.bin.json,aston_s_pokecir_parts,22,replacement_item_id,6355,6355,(CyberTheHexhog2) Extra Life,11229,3041,41
+shop.bin.json,aston_s_pokecir_parts,23,replacement_item_id,6356,6356,(grubvin) Wanderer's_Journal,71419,889,42
+shop.bin.json,aston_s_pokecir_parts,24,replacement_item_id,6357,6357,Skill Book: Daidoji Trip Wire,968236,994,43
+shop.bin.json,aston_s_pokecir_parts,25,replacement_item_id,6358,6358,(CyberTheHexhog2) Emblem,104859,1650,44
+shop.bin.json,aston_s_pokecir_parts,26,replacement_item_id,6359,6359,(Junic) Effigy,48296,476,45
+shop.bin.json,aston_s_pokecir_parts,27,replacement_item_id,6360,6360,(grubvin) King's_Station_Stag,317262,158,46
+shop.bin.json,aston_s_pokecir_parts,28,replacement_item_id,6361,6361,Paper Plate,638887,1783,47
+shop.bin.json,aston_s_pokecir_parts,29,replacement_item_id,6362,6362,Business Shoes,189443,353,48
+shop.bin.json,aston_s_pokecir_parts,30,replacement_item_id,6363,6363,Soccer Ball,265922,739,49
+shop.bin.json,aston_s_pokecir_parts,31,replacement_item_id,6364,6364,Skill Book: Flexing Resolute Counter,11467,1194,50
+shop.bin.json,aston_s_pokecir_parts,32,replacement_item_id,6365,6365,Gruesome Chainmail,901911,1555,51
+shop.bin.json,aston_s_pokecir_parts,33,replacement_item_id,6366,6366,Taxi Driver Cap,244263,1097,52
+shop.bin.json,aston_s_pokecir_parts,34,replacement_item_id,6367,6367,(Stro) Max HP Up,212907,402,53
+shop.bin.json,aston_s_pokecir_parts,35,replacement_item_id,6368,6368,Skill Book: HA: Daidoji Arm Theft,57801,2099,54
+shop.bin.json,aston_s_pokecir_parts,36,replacement_item_id,6369,6369,(Stro) Torn Page,40825,426,55
+shop.bin.json,aston_s_pokecir_parts,37,replacement_item_id,6370,6370,(Junic) Firecracker x2,368153,166,56
+shop.bin.json,aston_s_pokecir_parts,38,replacement_item_id,6371,6371,(grubvin) Grub,72434,1708,57
+shop.bin.json,aston_s_pokecir_parts,39,replacement_item_id,6372,6372,Refressment of the Sky King,14696,207,58
+shop.bin.json,aston_s_pokecir_parts,40,replacement_item_id,6373,6373,(Stro) Secret Ansem's Report 1,204753,405,59
+shop.bin.json,aston_s_pokecir_parts,41,replacement_item_id,6374,6374,(grubvin) Vessel_Fragment,123018,293,60
+shop.bin.json,aston_s_pokecir_parts,42,replacement_item_id,6375,6375,(grubvin) Resting_Grounds_Map,455012,1484,61
+shop.bin.json,aston_s_pokecir_parts,43,replacement_item_id,6376,6376,Tuna & Egg Sandwich,522195,388,62
+shop.bin.json,aston_s_pokecir_parts,44,replacement_item_id,6377,6377,(CyberTheHexhog2) Emblem,331083,451,63
+shop.bin.json,aston_s_pokecir_parts,45,replacement_item_id,6378,6378,(CyberTheHexhog2) Sonic - Flame Ring,64696,483,64
+shop.bin.json,aston_s_pokecir_parts,46,replacement_item_id,6379,6379,(grubvin) Boss_Geo-Crystal_Guardian,562008,1105,65
+shop.bin.json,aston_s_pokecir_parts,47,replacement_item_id,6380,6380,(Stro) Torn Page,47130,154,66
+shop.bin.json,aston_s_pokecir_parts,48,replacement_item_id,6381,6381,(grubvin) Hiveblood,422807,330,67
+shop.bin.json,aston_s_pokecir_parts,49,replacement_item_id,6382,6382,(grubvin) Rancid_Egg,22058,431,68
+shop.bin.json,aston_s_pokecir_parts,50,replacement_item_id,6383,6383,(Stro) Max HP Up,76582,1735,69
+shop.bin.json,aston_s_pokecir_parts,51,replacement_item_id,6384,6384,White Pearl Earrings,10037,469,70
+shop.bin.json,aston_s_pokecir_parts,52,replacement_item_id,6385,6385,(Junic) Money x48,52863,716,71
+shop.bin.json,aston_s_pokecir_parts,53,replacement_item_id,6386,6386,Skill Book: Progressive Damage Up,298454,1520,72
+shop.bin.json,aston_s_pokecir_parts,54,replacement_item_id,6387,6387,(CyberTheHexhog2) Invincibility,100147,1305,73
+shop.bin.json,aston_s_pokecir_parts,55,replacement_item_id,6388,6388,Payback Ring,158333,392,74
+shop.bin.json,aston_s_pokecir_parts,56,replacement_item_id,6389,6389,(Junic) Pages 12-13,596687,931,75
+shop.bin.json,aston_s_pokecir_parts,57,replacement_item_id,6390,6390,(CyberTheHexhog2) Emblem,37888,389,76
+shop.bin.json,aston_s_pokecir_parts,58,replacement_item_id,6391,6391,Blue Gem Bracelet,182164,422,77
+shop.bin.json,aston_s_pokecir_parts,59,replacement_item_id,6392,6392,Taiyaki Ice Cream,34247,241,78
+shop.bin.json,aston_s_pokecir_parts,60,replacement_item_id,6393,6393,(Stro) Genji Shield,3695,1702,79
+shop.bin.json,aston_s_pokecir_parts,61,replacement_item_id,6394,6394,(grubvin) Geo_Chest-Soul_Master,34668,1372,80
+shop.bin.json,aston_s_pokecir_parts,62,replacement_item_id,6395,6395,(grubvin) Grub,8958,1777,81
+shop.bin.json,aston_s_pokecir_parts,63,replacement_item_id,6396,6396,Ceremonial Oath Sake Cup (Pine),85149,2889,82
+shop.bin.json,aston_s_pokecir_parts,64,replacement_item_id,6397,6397,(Junic) Fire Bomb x2,11289,3088,83
+shop.bin.json,aston_s_pokecir_parts,65,replacement_item_id,6398,6398,(grubvin) Crossroads_Map,197565,774,84
+shop.bin.json,aston_s_pokecir_parts,66,replacement_item_id,6399,6399,(Stro) Drive Boost,40067,233,85
+shop.bin.json,aston_s_pokecir_parts,67,replacement_item_id,6400,6400,(Junic) Fool Trap,490377,103,86
+shop.bin.json,aston_s_pokecir_parts,68,replacement_item_id,6401,6401,(grubvin) Vessel_Fragment,13172,2127,87
+shop.bin.json,aston_s_pokecir_parts,69,replacement_item_id,6402,6402,(CyberTheHexhog2) Emblem,21089,686,88
+shop.bin.json,aston_s_pokecir_parts,70,replacement_item_id,6403,6403,(CyberTheHexhog2) Emblem,228528,345,89
+shop.bin.json,aston_s_pokecir_parts,71,replacement_item_id,6404,6404,(CyberTheHexhog2) Emblem,83168,198,90
+shop.bin.json,aston_s_pokecir_parts,72,replacement_item_id,6405,6405,(CyberTheHexhog2) Emblem,332097,1575,91
+shop.bin.json,aston_s_pokecir_parts,73,replacement_item_id,6406,6406,(grubvin) Unbreakable_Greed,78978,2435,92
+shop.bin.json,aston_s_pokecir_parts,74,replacement_item_id,6407,6407,Platinum Plate,21001,2257,93
+shop.bin.json,aston_s_pokecir_parts,75,replacement_item_id,6408,6408,(Stro) Max MP Up,70929,831,94
+shop.bin.json,aston_s_pokecir_parts,76,replacement_item_id,6409,6409,(CyberTheHexhog2) Eggman - Large Cannon,45790,2901,95
+shop.bin.json,aston_s_pokecir_parts,77,replacement_item_id,6410,6410,(Junic) Money x32,38851,335,96
+shop.bin.json,aston_s_pokecir_parts,78,replacement_item_id,6411,6411,Extra Spiked Tires,292720,220,97
+shop.bin.json,aston_s_pokecir_parts,79,replacement_item_id,6412,6412,(Junic) Fool Trap,197642,401,98
+shop.bin.json,aston_s_pokecir_parts,80,replacement_item_id,6413,6413,Skill Book: Progressive Evasion Up in ExH,536821,3574,99
+shop.bin.json,aston_s_pokecir_parts,81,replacement_item_id,6414,6414,(Stro) Max HP Up,585611,2471,100
+shop.bin.json,aston_s_pokecir_parts,82,replacement_item_id,6415,6415,Takoyaki with Large Octopus,53997,405,101
+shop.bin.json,aston_s_pokecir_parts,83,replacement_item_id,6416,6416,(CyberTheHexhog2) Shadow - Flame Ring,195201,266,102
+shop.bin.json,aston_s_pokecir_parts,84,replacement_item_id,6417,6417,(CyberTheHexhog2) Emblem,41940,1581,103
+shop.bin.json,aston_s_pokecir_parts,85,replacement_item_id,6418,6418,(Stro) Goofy Protera,6729,387,104
+shop.bin.json,aston_s_pokecir_parts,86,replacement_item_id,6419,6419,(grubvin) Hallownest_Seal,1216,1679,105
+shop.bin.json,aston_s_pokecir_parts,87,replacement_item_id,6420,6420,Divine Water,48262,266,106
+shop.bin.json,aston_s_pokecir_parts,88,replacement_item_id,6421,6421,Bento Lunch Set,324686,437,107
+shop.bin.json,aston_s_pokecir_parts,89,replacement_item_id,6422,6422,(grubvin) Rancid_Egg,3374,293,108
+shop.bin.json,aston_s_pokecir_parts,90,replacement_item_id,6423,6423,(grubvin) Collector's_Map,355942,1181,109
+shop.bin.json,aston_s_pokecir_parts,91,replacement_item_id,6424,6424,(CyberTheHexhog2) Invincibility,277800,110,110
+shop.bin.json,aston_s_pokecir_parts,92,replacement_item_id,6425,6425,(grubvin) Deepnest_Map,571603,430,111
+shop.bin.json,aston_s_pokecir_parts,93,replacement_item_id,6426,6426,Golden Ball,72438,610,112
+shop.bin.json,aston_s_pokecir_parts,94,replacement_item_id,6427,6427,Imuraya Castella,252755,169,113
+talk_coinlocker_locker.bin.json,aston_coinlocker,1,replacement_item_id,6428,6428,(grubvin) Pale_Ore,89284,178,114
+talk_coinlocker_locker.bin.json,aston_coinlocker,2,replacement_item_id,6429,6429,(CyberTheHexhog2) Emblem,23147,277,115
+talk_coinlocker_locker.bin.json,aston_coinlocker,3,replacement_item_id,6430,6430,Fighter's Binding,95366,1544,116
+talk_coinlocker_locker.bin.json,aston_coinlocker,4,replacement_item_id,6431,6431,(grubvin) Quill,309932,196,117
+talk_coinlocker_locker.bin.json,aston_coinlocker,5,replacement_item_id,6432,6432,Wedding Ring,3576,1348,118
+talk_coinlocker_locker.bin.json,aston_coinlocker,6,replacement_item_id,6433,6433,Skill Book: Progressive Extra Drone,313786,1006,119
+talk_coinlocker_locker.bin.json,aston_coinlocker,7,replacement_item_id,6434,6434,(Stro) Goofy Damage Control,67695,283,120
+talk_coinlocker_locker.bin.json,aston_coinlocker,8,replacement_item_id,6435,6435,(Stro) Membership Card,68016,116,121
+talk_coinlocker_locker.bin.json,aston_coinlocker,9,replacement_item_id,6436,6436,(Junic) Money x100,606043,185,122
+talk_coinlocker_locker.bin.json,aston_coinlocker,10,replacement_item_id,6437,6437,(Stro) Item Slot Up,159841,1375,123
+talk_coinlocker_locker.bin.json,aston_coinlocker,11,replacement_item_id,6438,6438,Cyber Sunglasses,282890,451,124
+talk_coinlocker_locker.bin.json,aston_coinlocker,12,replacement_item_id,6439,6439,(grubvin) Mask_Shard,629051,231,125
+talk_coinlocker_locker.bin.json,aston_coinlocker,13,replacement_item_id,6440,6440,(grubvin) Rancid_Egg,488525,338,126
+talk_coinlocker_locker.bin.json,aston_coinlocker,14,replacement_item_id,6441,6441,(grubvin) Rancid_Egg,115269,491,127
+talk_coinlocker_locker.bin.json,aston_coinlocker,15,replacement_item_id,6442,6442,(Junic) Pages 52-53 (Icebolt),54429,1395,128
+talk_coinlocker_locker.bin.json,aston_coinlocker,16,replacement_item_id,6443,6443,(Stro) Elven Bandana,128773,158,129
+talk_coinlocker_locker.bin.json,aston_coinlocker,17,replacement_item_id,6444,6444,(Stro) Precious Mushroom,341966,754,130
+talk_coinlocker_locker.bin.json,aston_coinlocker,18,replacement_item_id,6445,6445,Skill Book: Progressive Extra Bomb,7900,115,131
+talk_coinlocker_locker.bin.json,aston_coinlocker,19,replacement_item_id,6446,6446,Tam,326987,338,132
+talk_coinlocker_locker.bin.json,aston_coinlocker,20,replacement_item_id,6447,6447,(Stro) Drive Gauge Up,80181,1766,133
+talk_coinlocker_locker.bin.json,aston_coinlocker,21,replacement_item_id,6448,6448,(Stro) Ice Cream,3469,1967,134
+talk_coinlocker_locker.bin.json,aston_coinlocker,22,replacement_item_id,6449,6449,(grubvin) Sprintmaster,958598,677,135
+talk_coinlocker_locker.bin.json,aston_coinlocker,23,replacement_item_id,6450,6450,Twinkle Heart Ring,36766,1995,136
+talk_coinlocker_locker.bin.json,aston_coinlocker,24,replacement_item_id,6451,6451,(Junic) DEF Offering,11226,364,137
+talk_coinlocker_locker.bin.json,aston_coinlocker,25,replacement_item_id,6452,6452,(grubvin) Cyclone_Slash,670346,287,138
+talk_coinlocker_locker.bin.json,aston_coinlocker,26,replacement_item_id,6453,6453,(grubvin) Queen's_Gardens_Map,219578,283,139
+talk_coinlocker_locker.bin.json,aston_coinlocker,27,replacement_item_id,6454,6454,(grubvin) Grub,57696,1394,140
+talk_coinlocker_locker.bin.json,aston_coinlocker,28,replacement_item_id,6455,6455,Galaxy Force,906600,2985,141
+talk_coinlocker_locker.bin.json,aston_coinlocker,29,replacement_item_id,6456,6456,(Junic) Money x100,464629,1040,142
+talk_coinlocker_locker.bin.json,aston_coinlocker,30,replacement_item_id,6457,6457,Kitty Kat (Tiger),202887,468,143
+talk_coinlocker_locker.bin.json,aston_coinlocker,31,replacement_item_id,6458,6458,Tauriner,360852,402,144
+talk_coinlocker_locker.bin.json,aston_coinlocker,32,replacement_item_id,6459,6459,(Stro) Petite Ribbon,8846,421,145
+talk_coinlocker_locker.bin.json,aston_coinlocker,33,replacement_item_id,6460,6460,(Stro) Accessory Slot Up,285157,398,146
+talk_coinlocker_locker.bin.json,aston_coinlocker,34,replacement_item_id,6461,6461,(Junic) Money x30,273004,385,147
+talk_coinlocker_locker.bin.json,aston_coinlocker,35,replacement_item_id,6462,6462,Blesswood Armor,407619,306,148
+talk_coinlocker_locker.bin.json,aston_coinlocker,36,replacement_item_id,6463,6463,(Stro) Thunder Element,72622,435,149
+talk_coinlocker_locker.bin.json,aston_coinlocker,37,replacement_item_id,6464,6464,(grubvin) Grub,56269,2486,150
+talk_coinlocker_locker.bin.json,aston_coinlocker,38,replacement_item_id,6465,6465,(CyberTheHexhog2) Emblem,9155,1502,151
+talk_coinlocker_locker.bin.json,aston_coinlocker,39,replacement_item_id,6466,6466,(CyberTheHexhog2) Emblem,138016,579,152
+talk_coinlocker_locker.bin.json,aston_coinlocker,40,replacement_item_id,6467,6467,(grubvin) Geo_Chest-Watcher_Knights,2724,343,153
+talk_coinlocker_locker.bin.json,aston_coinlocker,41,replacement_item_id,6468,6468,(grubvin) Rancid_Egg,607975,644,154
+talk_coinlocker_locker.bin.json,aston_coinlocker,42,replacement_item_id,6469,6469,(Junic) Money x20,724538,3042,155
+talk_coinlocker_locker.bin.json,aston_coinlocker,43,replacement_item_id,6470,6470,(Junic) HP Offering,261311,622,156
+talk_coinlocker_locker.bin.json,aston_coinlocker,44,replacement_item_id,6471,6471,(Junic) HP Berry x2,33963,345,157
+talk_coinlocker_locker.bin.json,aston_coinlocker,45,replacement_item_id,6472,6472,(Junic) Flask Shard,160148,1344,158
+talk_coinlocker_locker.bin.json,aston_coinlocker,46,replacement_item_id,6473,6473,Rusted Chainmail,55448,221,159
+talk_coinlocker_locker.bin.json,aston_coinlocker,47,replacement_item_id,6474,6474,(Stro) Dark Anklet,47682,1126,160
+talk_coinlocker_locker.bin.json,aston_coinlocker,48,replacement_item_id,6475,6475,(Junic) Flask Shard,60422,431,161
+talk_coinlocker_locker.bin.json,aston_coinlocker,49,replacement_item_id,6476,6476,(CyberTheHexhog2) Extra Life,164964,131,162
+talk_coinlocker_locker.bin.json,aston_coinlocker,50,replacement_item_id,6477,6477,(CyberTheHexhog2) Ten Rings,62776,4820,163
+shop.bin.json,aston_s_akame,0,replacement_item_id,6478,6478,(Stro) Premium Mushroom,68260,228,164
+shop.bin.json,aston_s_akame,1,replacement_item_id,6479,6479,(grubvin) Longnail,270622,1441,165
+shop.bin.json,aston_s_akame,2,replacement_item_id,6480,6480,Pine Candy,574998,329,166
+shop.bin.json,aston_s_akame,3,replacement_item_id,6481,6481,Paper Plate,210316,2605,167
+shop.bin.json,aston_s_akame,4,replacement_item_id,6482,6482,(Stro) Finishing Plus,205641,1453,168
+shop.bin.json,aston_s_akame,5,replacement_item_id,6483,6483,(grubvin) Soul_Eater,72720,2573,169
+shop.bin.json,aston_s_akame,6,replacement_item_id,6484,6484,ZONe,97174,101,170
+shop.bin.json,aston_s_akame,7,replacement_item_id,6485,6485,(Stro) Ribbon,217980,262,171
+shop.bin.json,aston_s_akame,8,replacement_item_id,6486,6486,(CyberTheHexhog2) Invincibility,79075,1379,172
+shop.bin.json,aston_s_akame,9,replacement_item_id,6487,6487,(Junic) Lure,354064,481,173
+shop.bin.json,aston_s_akame,10,replacement_item_id,6488,6488,(CyberTheHexhog2) Emblem,20146,1007,174
+shop.bin.json,aston_s_akame,11,replacement_item_id,6489,6489,Platinum Plate,249452,1430,175
+shop.bin.json,aston_s_akame,12,replacement_item_id,6490,6490,(grubvin) Wanderer's_Journal,2790,1539,176
+shop.bin.json,aston_s_akame,13,replacement_item_id,6491,6491,(CyberTheHexhog2) Emblem,295656,483,177
+shop.bin.json,aston_s_akame,14,replacement_item_id,6492,6492,(Stro) Magnet Element,84748,114,178
+shop.bin.json,aston_s_akame,15,replacement_item_id,6493,6493,Stamina XX,46387,1926,179
+shop.bin.json,aston_s_akame,16,replacement_item_id,6494,6494,(grubvin) Grub,84158,942,180
+shop.bin.json,aston_s_akame,17,replacement_item_id,6495,6495,(CyberTheHexhog2) Emblem,17297,3205,181
+shop.bin.json,aston_s_akame,18,replacement_item_id,6496,6496,(CyberTheHexhog2) Emblem,119115,185,182
+shop.bin.json,aston_s_akame,19,replacement_item_id,6497,6497,(Junic) Money x50,469756,430,183
+shop.bin.json,aston_s_akame,20,replacement_item_id,6498,6498,(grubvin) Ancient_Basin_Map,47851,236,184
+shop.bin.json,aston_s_akame,21,replacement_item_id,6499,6499,(Stro) Gaia Belt,4813,1324,185
+shop.bin.json,aston_s_akame,22,replacement_item_id,6500,6500,(CyberTheHexhog2) Emblem,23346,201,186
+shop.bin.json,aston_s_akame,23,replacement_item_id,6501,6501,Golden Ball,218766,483,187
+shop.bin.json,aston_s_akame,24,replacement_item_id,6502,6502,(Junic) Money x20,70071,1741,188
+shop.bin.json,aston_s_akame,25,replacement_item_id,6503,6503,(grubvin) Quick_Slash,18070,478,189
+shop.bin.json,aston_s_akame,26,replacement_item_id,6504,6504,(Junic) Bracer,36618,291,190
+shop.bin.json,aston_s_akame,27,replacement_item_id,6505,6505,(grubvin) Crossroads_Stag,34630,333,191
+shop.bin.json,aston_s_akame,28,replacement_item_id,6506,6506,(grubvin) King's_Idol,41809,1715,192
+shop.bin.json,aston_s_akame,29,replacement_item_id,6507,6507,(Stro) Max HP Up,64338,521,193
+shop.bin.json,aston_s_akame,30,replacement_item_id,6508,6508,(Stro) Max HP Up,75885,494,194
+shop.bin.json,aston_s_wannpark,0,replacement_item_id,6509,6509,Super Spiked Tires,80100,224,206
+shop.bin.json,aston_s_wannpark,1,replacement_item_id,6510,6510,Shirtless Blazer,72674,456,207
+shop.bin.json,aston_s_wannpark,2,replacement_item_id,6511,6511,(CyberTheHexhog2) Eggman - Mystic Melody,160824,256,208
+shop.bin.json,aston_s_wannpark,3,replacement_item_id,6512,6512,Bloody Talisman,648714,713,209
+shop.bin.json,aston_s_wannpark,4,replacement_item_id,6513,6513,Ultra Godspeed Gears,58373,213,210
+shop.bin.json,aston_s_wannpark,5,replacement_item_id,6514,6514,(grubvin) Fragile_Heart,34499,437,211
+shop.bin.json,aston_s_wannpark,6,replacement_item_id,6515,6515,(grubvin) Grub,75564,1139,212
+shop.bin.json,aston_s_wannpark,7,replacement_item_id,6516,6516,Shiny Flower Ring,228028,1759,213
+shop.bin.json,aston_s_wannpark,8,replacement_item_id,6517,6517,(Junic) HP Berry x2,117440,839,214
+shop.bin.json,aston_s_wannpark,9,replacement_item_id,6518,6518,(grubvin) Spore_Shroom,18046,596,215
+shop.bin.json,aston_s_wannpark,10,replacement_item_id,6519,6519,(grubvin) Wanderer's_Journal,254054,523,216
+shop.bin.json,aston_s_wannpark,11,replacement_item_id,6520,6520,Kabuki Makeup,48552,694,217
+shop.bin.json,aston_y_shichiya,0,replacement_item_id,6521,6521,Rimless Sunglasses,32172,875,218
+shop.bin.json,aston_y_shichiya,1,replacement_item_id,6522,6522,Pepsi Nama,8664,182,219
+shop.bin.json,aston_y_shichiya,2,replacement_item_id,6523,6523,(Stro) Donald Draw,195045,751,220
+shop.bin.json,aston_y_shichiya,3,replacement_item_id,6524,6524,(grubvin) Wanderer's_Journal,199760,1470,221
+shop.bin.json,aston_y_shichiya,4,replacement_item_id,6525,6525,(Junic) Old House Key,89837,359,222
+shop.bin.json,aston_y_shichiya,5,replacement_item_id,6526,6526,Ultra Power Gears,198083,726,223
+shop.bin.json,aston_y_shichiya,6,replacement_item_id,6527,6527,(Stro) Max HP Up,293207,181,224
+shop.bin.json,aston_y_shichiya,7,replacement_item_id,6528,6528,Skill Book: Grip Breaker,51931,2422,225
+shop.bin.json,aston_y_lovemagic,0,replacement_item_id,6529,6529,(Stro) Champion Belt,16819,1741,226
+shop.bin.json,aston_y_lovemagic,1,replacement_item_id,6530,6530,Mizorogi (Akame house) Shop Unlock,174081,3411,227
+shop.bin.json,aston_y_lovemagic,2,replacement_item_id,6531,6531,(CyberTheHexhog2) Emblem,61086,111,228
+shop.bin.json,aston_y_lovemagic,3,replacement_item_id,6532,6532,Toy Crows,30534,892,229
+shop.bin.json,aston_y_lovemagic,4,replacement_item_id,6533,6533,White Pearl Earrings,28790,334,230
+shop.bin.json,aston_y_lovemagic,5,replacement_item_id,6534,6534,Golem Jaguar,614158,1507,231
+shop.bin.json,aston_y_lovemagic,6,replacement_item_id,6535,6535,(Junic) Pages 48-49,73423,877,232
+shop.bin.json,aston_y_lovemagic,7,replacement_item_id,6536,6536,(Stro) Fire Element,279648,330,233
+shop.bin.json,aston_y_lovemagic,8,replacement_item_id,6537,6537,(Stro) Jackpot,159074,264,234
+shop.bin.json,aston_y_lovemagic,9,replacement_item_id,6538,6538,(grubvin) Elegant_Key,30357,1503,235
+shop.bin.json,aston_y_lovemagic,10,replacement_item_id,6539,6539,(Junic) HP Offering,297446,772,236
+shop.bin.json,aston_y_shogi,0,replacement_item_id,6540,6540,(Junic) Golden Coin,185871,1205,237
+shop.bin.json,aston_y_shogi,1,replacement_item_id,6541,6541,Luxury Yakiniku Bento,710433,439,238
+shop.bin.json,aston_y_shogi,2,replacement_item_id,6542,6542,(CyberTheHexhog2) Extra Life,329984,316,239
+shop.bin.json,aston_y_shogi,3,replacement_item_id,6543,6543,(Stro) Aerial Sweep,47404,4793,240
+shop.bin.json,aston_y_shogi,4,replacement_item_id,6544,6544,(Stro) Goofy Protera,14586,135,241
+shop.bin.json,aston_y_shogi,5,replacement_item_id,6545,6545,(CyberTheHexhog2) Emblem,33382,258,242
+shop.bin.json,aston_y_shogi,6,replacement_item_id,6546,6546,(CyberTheHexhog2) Rouge - Mystic Melody,285892,283,243
+shop.bin.json,aston_y_shogi,7,replacement_item_id,6547,6547,(Junic) Mr Mayor,79513,1770,244
+shop.bin.json,aston_y_shogi,8,replacement_item_id,6548,6548,(Stro) Olette Munny Pouch,908488,1405,245
+shop.bin.json,aston_y_shogi,9,replacement_item_id,6549,6549,Sushi Set,966057,513,246
+shop.bin.json,aston_y_shogi,10,replacement_item_id,6550,6550,(grubvin) Grubberfly's_Elegy,163630,1523,247
+shop.bin.json,aston_s_shogi,0,replacement_item_id,6551,6551,(Stro) Lucky Lucky,272420,1726,248
+shop.bin.json,aston_s_shogi,1,replacement_item_id,6552,6552,(Stro) Namine Sketches,23162,1494,249
+shop.bin.json,aston_s_shogi,2,replacement_item_id,6553,6553,(Stro) Lucky Lucky,64964,446,250
+shop.bin.json,aston_s_shogi,3,replacement_item_id,6554,6554,(CyberTheHexhog2) Emblem,303655,474,251
+shop.bin.json,aston_s_shogi,4,replacement_item_id,6555,6555,Balanced Gears Plus,56885,2987,252
+shop.bin.json,aston_s_shogi,5,replacement_item_id,6556,6556,(Stro) Guard Break,151252,1116,253
+shop.bin.json,aston_s_shogi,6,replacement_item_id,6557,6557,Hat,284609,2986,254
+shop.bin.json,aston_s_shogi,7,replacement_item_id,6558,6558,(CyberTheHexhog2) Invincibility,157165,1772,255
+shop.bin.json,aston_s_shogi,8,replacement_item_id,6559,6559,Ultra Power Motor,437136,1268,256
+shop.bin.json,aston_s_shogi,9,replacement_item_id,6560,6560,(Stro) Secret Ansem's Report 12,589993,3451,257
+shop.bin.json,aston_s_shogi,10,replacement_item_id,6561,6561,(Junic) Potion Flask,66430,304,258
+shop.bin.json,aston_c_boutique_equip,0,replacement_item_id,6562,6562,Hariti's Amulet,71738,531,324
+shop.bin.json,aston_c_boutique_equip,1,replacement_item_id,6563,6563,(CyberTheHexhog2) Magnetic Shield,49864,262,325
+shop.bin.json,aston_c_boutique_equip,2,replacement_item_id,6564,6564,(Stro) Two Become One,72359,1235,326
+shop.bin.json,aston_c_boutique_equip,3,replacement_item_id,6565,6565,(Stro) Sword of the Ancestor,54028,446,327
+shop.bin.json,aston_c_boutique_equip,4,replacement_item_id,6566,6566,(grubvin) Wayward_Compass,43709,986,328
+shop.bin.json,aston_c_boutique_equip,5,replacement_item_id,6567,6567,(Stro) Grand Ribbon,78297,1965,329
+shop.bin.json,aston_c_boutique_equip,6,replacement_item_id,6568,6568,(Stro) Bone Fist,18603,335,330
+shop.bin.json,aston_c_boutique_equip,7,replacement_item_id,6569,6569,Godspeed Gears,472303,408,331
+shop.bin.json,aston_c_boutique_equip,8,replacement_item_id,6570,6570,(grubvin) Hallownest_Seal,36900,153,332
+shop.bin.json,aston_c_boutique_equip,9,replacement_item_id,6571,6571,(Junic) Ice Bomb x3,5837,3022,333
+shop.bin.json,aston_c_boutique_equip,10,replacement_item_id,6572,6572,(Stro) Way to the Dawn,11143,100,334
+shop.bin.json,aston_c_boutique_equip,11,replacement_item_id,6573,6573,(CyberTheHexhog2) Emblem,246137,438,335
+shop.bin.json,aston_c_boutique_equip,12,replacement_item_id,6574,6574,(Stro) Final Form,472580,1148,336
+shop.bin.json,aston_c_boutique_equip,13,replacement_item_id,6575,6575,Oragamachi Natto,58104,168,337
+shop.bin.json,aston_c_boutique_equip,14,replacement_item_id,6576,6576,(Stro) Donald Cure,9686,152,338
+shop.bin.json,aston_c_boutique_vip,0,replacement_item_id,6577,6577,(CyberTheHexhog2) Emblem,64620,2163,354
+shop.bin.json,aston_c_boutique_vip,1,replacement_item_id,6578,6578,(Stro) Thunder Element,77007,3286,355
+shop.bin.json,aston_c_boutique_vip,2,replacement_item_id,6579,6579,(Stro) Aerial Dodge,150871,332,356
+shop.bin.json,aston_c_boutique_vip,3,replacement_item_id,6580,6580,(CyberTheHexhog2) Emblem,154914,112,357
+shop.bin.json,aston_c_boutique_vip,4,replacement_item_id,6581,6581,Color Contacts (Silver),72960,256,358
+shop.bin.json,aston_c_boutique_vip,5,replacement_item_id,6582,6582,(grubvin) Grub,54715,411,359
+shop.bin.json,aston_c_boutique_vip,6,replacement_item_id,6583,6583,Leather Gloves,172436,662,360
+shop.bin.json,aston_c_boutique_vip,7,replacement_item_id,6584,6584,(CyberTheHexhog2) Ten Rings,76484,377,361
+shop.bin.json,aston_c_boutique_vip,8,replacement_item_id,6585,6585,Skill Book: Daidoji Double Guard,27337,3535,362
+shop.bin.json,aston_c_boutique_vip,9,replacement_item_id,6586,6586,(CyberTheHexhog2) Emblem,241517,1211,363
+shop.bin.json,aston_c_boutique_vip,10,replacement_item_id,6587,6587,Roses,129206,609,364
+shop.bin.json,aston_s_mizorogi_2,0,replacement_item_id,6588,6588,(grubvin) Queen's_Gardens_Stag,80127,428,365
+shop.bin.json,aston_s_mizorogi_2,1,replacement_item_id,6589,6589,Refressment of the Sky King,508957,966,366
+shop.bin.json,aston_s_mizorogi_2,2,replacement_item_id,6590,6590,Tougheness ZZ,274148,172,367
+shop.bin.json,aston_s_mizorogi_2,3,replacement_item_id,6591,6591,(grubvin) Whispering_Root-Howling_Cliffs,153067,276,368
+shop.bin.json,aston_s_mizorogi_2,4,replacement_item_id,6592,6592,Skill Book: Progressive Drunk Heat Gauge Increase,193522,142,369
+item_get_by_wire.bin.json,treasure_y001,115,replacement_item_id,6593,6593,(CyberTheHexhog2) Ten Rings,691741,656,375
+item_get_by_wire.bin.json,treasure_y002,116,replacement_item_id,6594,6594,(CyberTheHexhog2) Extra Life,63849,789,376
+item_get_by_wire.bin.json,treasure_y003,117,replacement_item_id,6595,6595,(Stro) Upper Slash,197625,912,377
+item_get_by_wire.bin.json,treasure_y004,118,replacement_item_id,6596,6596,(Stro) Goofy Defender,444457,2393,378
+item_get_by_wire.bin.json,treasure_y005,119,replacement_item_id,6597,6597,(Junic) Money x25,364942,391,379
+item_get_by_wire.bin.json,treasure_y006,120,replacement_item_id,6598,6598,(Stro) Thundagun Trinket,14376,661,380
+item_get_by_wire.bin.json,treasure_y007,121,replacement_item_id,6599,6599,(Junic) Hero's Laurels,245630,222,381
+item_get_by_wire.bin.json,treasure_y008,122,replacement_item_id,6600,6600,(grubvin) Lifeblood_Cocoon_Small,73794,196,382
+item_get_by_wire.bin.json,treasure_y009,123,replacement_item_id,6601,6601,(Stro) Drive Converter,18319,472,383
+item_get_by_wire.bin.json,treasure_y010,124,replacement_item_id,6602,6602,Nozaki's Corned Beef,63510,3086,384
+item_get_by_wire.bin.json,treasure_y011,125,replacement_item_id,6603,6603,(Stro) Shock Charm,238925,1331,385
+item_get_by_wire.bin.json,treasure_y013,127,replacement_item_id,6604,6604,(Junic) Money x50,80710,348,387
+item_get_by_wire.bin.json,treasure_y014,128,replacement_item_id,6605,6605,(Stro) Teamwork,64878,641,388
+item_get_by_wire.bin.json,treasure_y015,129,replacement_item_id,6606,6606,Ichiban Senbei (Shoyu),305347,1383,389
+item_get_by_wire.bin.json,treasure_y016,130,replacement_item_id,6607,6607,(grubvin) Hallownest_Seal,4272,229,390
+item_get_by_wire.bin.json,treasure_y017,131,replacement_item_id,6608,6608,Extra Low Profile Tires,491272,1346,391
+item_get_by_wire.bin.json,treasure_y018,132,replacement_item_id,6609,6609,(grubvin) Lifeblood_Core,158238,984,392
+item_get_by_wire.bin.json,treasure_y019,133,replacement_item_id,6610,6610,(Stro) Reflect Element,926622,286,393
+item_get_by_wire.bin.json,treasure_y020,134,replacement_item_id,6611,6611,(CyberTheHexhog2) Emblem,333118,2441,394
+item_get_by_wire.bin.json,treasure_y021,135,replacement_item_id,6612,6612,Egg,41024,678,395
+item_get_by_wire.bin.json,treasure_y022,136,replacement_item_id,6613,6613,Casual Leather Shoes,75979,466,396
+item_get_by_wire.bin.json,treasure_y023,137,replacement_item_id,6614,6614,(Junic) Fairy,62008,157,397
+item_get_by_wire.bin.json,treasure_y024,138,replacement_item_id,6615,6615,The Basic Guide to Cooperative Fighting,19733,102,398
+item_get_by_wire.bin.json,treasure_y025,139,replacement_item_id,6616,6616,Skill Book: Sticky Threads,65408,2625,399
+item_get_by_wire.bin.json,treasure_y026,140,replacement_item_id,6617,6617,Skill Book: Rolling Escape,562221,300,400
+item_get_by_wire.bin.json,treasure_y027,141,replacement_item_id,6618,6618,Suntory Goma Mugicha,368566,263,401
+item_get_by_wire.bin.json,treasure_y028,142,replacement_item_id,6619,6619,Skill Book: Progressive HP Up,545443,590,402
+item_get_by_wire.bin.json,treasure_y029,143,replacement_item_id,6620,6620,(Stro) Fenrir,60233,233,403
+item_get_by_wire.bin.json,treasure_y030,144,replacement_item_id,6621,6621,(Junic) ATT Offering,100715,444,404
+item_get_by_wire.bin.json,treasure001,5,replacement_item_id,6622,6622,(CyberTheHexhog2) Shield,249558,517,415
+item_get_by_wire.bin.json,treasure002,6,replacement_item_id,6623,6623,Skill Book: Progressive Drunk Attack Heat Gauge Increase,19362,488,416
+item_get_by_wire.bin.json,treasure003,7,replacement_item_id,6624,6624,(CyberTheHexhog2) Shield,66834,393,417
+item_get_by_wire.bin.json,treasure004,8,replacement_item_id,6625,6625,(grubvin) Mask_Shard,291626,2325,418
+item_get_by_wire.bin.json,treasure005,9,replacement_item_id,6626,6626,(CyberTheHexhog2) Emblem,715647,340,419
+item_get_by_wire.bin.json,treasure006,10,replacement_item_id,6627,6627,Bare Feet,58010,678,420
+item_get_by_wire.bin.json,treasure007,11,replacement_item_id,6628,6628,White Pearl Earrings,143400,249,421
+item_get_by_wire.bin.json,treasure008,12,replacement_item_id,6629,6629,Toughness Z,45956,144,422
+item_get_by_wire.bin.json,treasure009,13,replacement_item_id,6630,6630,(Stro) Ice Cream,2133,357,423
+item_get_by_wire.bin.json,treasure010,14,replacement_item_id,6631,6631,Skill Book: Progressive Extra Drone,178672,2721,424
+item_get_by_wire.bin.json,treasure011,15,replacement_item_id,6632,6632,(grubvin) Grub,45944,150,425
+item_get_by_wire.bin.json,treasure012,16,replacement_item_id,6633,6633,(Stro) Donald Fire Boost,16931,1456,426
+item_get_by_wire.bin.json,treasure013,17,replacement_item_id,6634,6634,Skill Book: Progressive Heat Gauge Up,63868,1295,427
+item_get_by_wire.bin.json,treasure014,18,replacement_item_id,6635,6635,(Junic) Effigy,138352,602,428
+item_get_by_wire.bin.json,treasure015,19,replacement_item_id,6636,6636,(CyberTheHexhog2) Invincibility,56814,122,429
+item_get_by_wire.bin.json,treasure016,20,replacement_item_id,6637,6637,(grubvin) Steady_Body,272109,2310,430
+item_get_by_wire.bin.json,treasure017,21,replacement_item_id,6638,6638,(Stro) Centurion+,18217,132,431
+item_get_by_wire.bin.json,treasure018,22,replacement_item_id,6639,6639,(grubvin) Whispering_Root-Mantis_Village,623440,436,432
+item_get_by_wire.bin.json,treasure019,23,replacement_item_id,6640,6640,(Junic) Potion Flask,62319,1678,433
+item_get_by_wire.bin.json,treasure020,24,replacement_item_id,6641,6641,(grubvin) Hallownest_Seal,34196,465,434
+item_get_by_wire.bin.json,treasure021,25,replacement_item_id,6642,6642,(Stro) Sleeping Lion,45395,436,435
+item_get_by_wire.bin.json,treasure022,26,replacement_item_id,6643,6643,(Stro) Negative Combo,19701,2500,436
+item_get_by_wire.bin.json,treasure023,27,replacement_item_id,6644,6644,Pine Candy,336690,144,437
+item_get_by_wire.bin.json,treasure024,28,replacement_item_id,6645,6645,Extra Metal Frame,18295,459,438
+item_get_by_wire.bin.json,treasure025,29,replacement_item_id,6646,6646,Green Gem Bracelet,254081,384,439
+item_get_by_wire.bin.json,treasure026,30,replacement_item_id,6647,6647,(Junic) Magic Orb,561766,2308,440
+item_get_by_wire.bin.json,treasure027,31,replacement_item_id,6648,6648,(CyberTheHexhog2) Emblem,495555,1500,441
+item_get_by_wire.bin.json,treasure028,32,replacement_item_id,6649,6649,(grubvin) Mask_Shard,781342,351,442
+item_get_by_wire.bin.json,treasure029,33,replacement_item_id,6650,6650,(grubvin) King's_Idol,21902,1482,443
+item_get_by_wire.bin.json,treasure030,34,replacement_item_id,6651,6651,(grubvin) Vessel_Fragment,599618,388,444
+item_get_by_wire.bin.json,treasure031,35,replacement_item_id,6652,6652,Fresh Lettuce Sandwich,48482,372,445
+item_get_by_wire.bin.json,treasure032,36,replacement_item_id,6653,6653,(Junic) HP Offering,33739,398,446
+item_get_by_wire.bin.json,treasure033,37,replacement_item_id,6654,6654,(CyberTheHexhog2) Knuckles - Mystic Melody,314857,202,447
+item_get_by_wire.bin.json,treasure034,38,replacement_item_id,6655,6655,(CyberTheHexhog2) Five Rings,184958,677,448
+item_get_by_wire.bin.json,treasure035,39,replacement_item_id,6656,6656,(Stro) Drive Boost,27729,409,449
+item_get_by_wire.bin.json,treasure036,40,replacement_item_id,6657,6657,(Stro) Donald Flare Force,532326,749,450
+item_get_by_wire.bin.json,treasure037,41,replacement_item_id,6658,6658,(CyberTheHexhog2) Emblem,89569,215,451
+item_get_by_wire.bin.json,treasure038,42,replacement_item_id,6659,6659,(CyberTheHexhog2) Invincibility,781605,337,452
+item_get_by_wire.bin.json,treasure039,43,replacement_item_id,6660,6660,(Junic) MP Offering,29144,209,453
+item_get_by_wire.bin.json,treasure_c001,65,replacement_item_id,6661,6661,Ono Michio Pixel Figure,12494,474,465
+item_get_by_wire.bin.json,treasure_c002,66,replacement_item_id,6662,6662,Skill Book: Progressive Extra Bomb,42292,555,466
+item_get_by_wire.bin.json,treasure_c003,67,replacement_item_id,6663,6663,(grubvin) Lifeblood_Cocoon_Large,62660,187,467
+item_get_by_wire.bin.json,treasure_c004,68,replacement_item_id,6664,6664,Tauriner,202867,1726,468
+item_get_by_wire.bin.json,treasure_c005,69,replacement_item_id,6665,6665,Chu-Chu Tako Doll (Takoyaki),123040,149,469
+item_get_by_wire.bin.json,treasure_c006,70,replacement_item_id,6666,6666,(Junic) Golden Coin,538939,351,470
+item_get_by_wire.bin.json,treasure_c007,71,replacement_item_id,6667,6667,Taurener Maximum,233209,897,471
+item_get_by_wire.bin.json,treasure_c008,72,replacement_item_id,6668,6668,(CyberTheHexhog2) Emblem,152930,527,472
+item_get_by_wire.bin.json,treasure_c009,73,replacement_item_id,6669,6669,(CyberTheHexhog2) Emblem,7486,259,473
+item_get_by_wire.bin.json,treasure_c010,74,replacement_item_id,6670,6670,Leather Shoes,128237,113,474
+item_get_by_wire.bin.json,treasure_c011,75,replacement_item_id,6671,6671,(CyberTheHexhog2) Twenty Rings,2405,401,475
+item_get_by_wire.bin.json,treasure_c012,76,replacement_item_id,6672,6672,(Stro) Blizzard Armlet,707246,124,476
+item_get_by_wire.bin.json,treasure_c013,77,replacement_item_id,6673,6673,(grubvin) Whispering_Root-Hive,74394,152,477
+item_get_by_wire.bin.json,treasure_c014,78,replacement_item_id,6674,6674,The Secret Ultimate Guide to Cooperative Fighting,9899,1011,478
+item_get_by_wire.bin.json,treasure_c015,79,replacement_item_id,6675,6675,(Junic) Fairy,118907,389,479
+item_get_by_wire.bin.json,treasure_c017,81,replacement_item_id,6676,6676,Hyottoko Mask,72925,1310,481
+item_get_by_wire.bin.json,treasure_c018,82,replacement_item_id,6677,6677,(CyberTheHexhog2) Emblem,145017,3106,482
+item_get_by_wire.bin.json,treasure_c019,83,replacement_item_id,6678,6678,(CyberTheHexhog2) Ten Rings,58175,174,483
+item_get_by_wire.bin.json,treasure_c020,84,replacement_item_id,6679,6679,(Junic) Firecracker x5,13401,1792,484
+reward_table.bin.json,pokecir,4,replacement_item_id,6680,6680,Skill Book: Daidoji Wire Spin,54529,168,669
+reward_table.bin.json,pokecir,8,replacement_item_id,6681,6681,(Stro) Max HP Up,80875,461,670
+reward_table.bin.json,pokecir,13,replacement_item_id,6682,6682,(Stro) Drive Converter,45994,1089,671
+reward_table.bin.json,pokecir,15,replacement_item_id,6683,6683,Ultra Rubber Frame,201526,282,672
+reward_table.bin.json,pokecir,40,replacement_item_id,6684,6684,(Junic) Ivy x3,158703,400,673
+reward_table.bin.json,pokecir,58,replacement_item_id,6685,6685,Skill Book: Progressive Damage Up,17616,3379,674
+reward_table.bin.json,pokecir,64,replacement_item_id,6686,6686,Skill Book: Insulting Taunt,192821,420,675
+reward_table.bin.json,pokecir,94,replacement_item_id,6687,6687,(CyberTheHexhog2) Emblem,62935,914,677
+reward_table.bin.json,pokecir,111,replacement_item_id,6688,6688,(Junic) Perfume,33276,3655,678
+reward_table.bin.json,pokecir,120,replacement_item_id,6689,6689,(CyberTheHexhog2) Twenty Rings,203842,369,679
+reward_table.bin.json,pokecir,124,replacement_item_id,6690,6690,(CyberTheHexhog2) Shield,20196,480,680
+reward_table.bin.json,pokecir,125,replacement_item_id,6691,6691,(Junic) HP Berry x2,607895,260,681
+reward_table.bin.json,pokecir,130,replacement_item_id,6692,6692,(Stro) Aquamarine Ring,153470,2915,682
+events,event,0,replacement_item_id,6693,6693,Tauriner,53785,3023,683
+events,event,1,replacement_item_id,6694,6694,(grubvin) City_Crest,34308,392,684
+events,event,2,replacement_item_id,6695,6695,Balanced Frame,62806,1579,685
+events,event,3,replacement_item_id,6696,6696,Refressment of the Sky King,27472,589,686
+events,event,4,replacement_item_id,6697,6697,(Junic) Ice Bomb x5,290734,420,687
+events,event,5,replacement_item_id,6698,6698,(Junic) Fire Bomb x2,231995,269,688
+events,event,6,replacement_item_id,6699,6699,(CyberTheHexhog2) Emblem,584028,1071,689
+events,event,7,replacement_item_id,6700,6700,(CyberTheHexhog2) Sonic - Ancient Light,427346,1960,690
+events,event,8,replacement_item_id,6701,6701,(CyberTheHexhog2) Five Rings,163269,426,691
+events,event,23,replacement_item_id,6702,6702,White Pearl Earrings,20089,1335,704
+events,event,35,replacement_item_id,6703,6703,(Junic) Money x50,54781,406,716
+events,event,36,replacement_item_id,6704,6704,(Junic) Pages 28-29,221163,230,717
+events,event,37,replacement_item_id,6705,6705,Smile Burger (Takeout),214222,317,718
+events,event,38,replacement_item_id,6706,6706,(Stro) Combo Plus,53338,973,719
+events,event,39,replacement_item_id,6707,6707,(Junic) Money x100,12260,1568,720
+events,event,40,replacement_item_id,6708,6708,(grubvin) Rancid_Egg,144846,1544,721
+events,event,41,replacement_item_id,6709,6709,(Stro) Max HP Up,6674,394,722
+events,event,42,replacement_item_id,6710,6710,(CyberTheHexhog2) Emblem,69918,301,723
+events,event,43,replacement_item_id,6711,6711,(CyberTheHexhog2) Emblem,16489,1382,724
+events,event,44,replacement_item_id,6712,6712,(CyberTheHexhog2) Extra Life,31272,1124,725
+events,event,45,replacement_item_id,6713,6713,(Stro) High Jump,561465,356,726
+events,event,46,replacement_item_id,6714,6714,Silver Plate,61307,864,727
+events,event,47,replacement_item_id,6715,6715,(grubvin) Wanderer's_Journal,227315,329,728
+events,event,48,replacement_item_id,6716,6716,(grubvin) Deepnest_Map,557051,1477,729
+events,event,49,replacement_item_id,6717,6717,(CyberTheHexhog2) Magnetic Shield,68196,465,730
+events,event,50,replacement_item_id,6718,6718,(Junic) Pages 14-15,890377,220,731
+events,event,51,replacement_item_id,6719,6719,(CyberTheHexhog2) Emblem,315737,3426,732
+events,event,52,replacement_item_id,6720,6720,C.C. Lemon,54212,1334,733
+events,event,53,replacement_item_id,6721,6721,(Stro) Goofy Lucky Lucky,15824,296,734
+events,event,54,replacement_item_id,6722,6722,(Junic) Pages 38-39,75121,325,735
+events,event,55,replacement_item_id,6723,6723,(grubvin) Howling_Cliffs_Map,15064,251,736
+events,event,56,replacement_item_id,6724,6724,(CyberTheHexhog2) Five Rings,60999,2102,737
+events,event,58,replacement_item_id,6725,6725,Ultra Speed Frame,350003,380,739
+events,event,59,replacement_item_id,6726,6726,(grubvin) Rancid_Egg,130181,324,740
+events,event,60,replacement_item_id,6727,6727,Skill Book: Progressive Extra Wire,158354,1390,741
+events,event,61,replacement_item_id,6728,6728,Skill Book: HA: Essence of Face Stomp,15976,398,742
+events,event,62,replacement_item_id,6729,6729,Golden Ball,67486,900,743
+events,event,63,replacement_item_id,6730,6730,(Junic) Firecracker x4,234954,477,744
+events,event,64,replacement_item_id,6731,6731,(Stro) Form Boost,252994,1862,745
+events,event,65,replacement_item_id,6732,6732,(Junic) MP Berry x3,95760,231,746
+events,event,66,replacement_item_id,6733,6733,Ceremonial Oath Sake Cup (Pine),36035,2325,747
+events,event,67,replacement_item_id,6734,6734,Iron Breastplate,137343,1264,748
+events,event,68,replacement_item_id,6735,6735,Skill Book: Progressive HP Up,469795,2029,749
+events,event,69,replacement_item_id,6736,6736,Intelligent Sunglasses,492732,193,750
+events,event,70,replacement_item_id,6737,6737,Indra's Amulet,24322,1755,751
+events,event,71,replacement_item_id,6738,6738,(Stro) Second Chance,312222,831,752
+events,event,72,replacement_item_id,6739,6739,(Junic) Spring Falls,937528,404,753
+events,event,73,replacement_item_id,6740,6740,(CyberTheHexhog2) Shield,4159,543,754
+events,event,74,replacement_item_id,6741,6741,(CyberTheHexhog2) Emblem,70427,2842,755
+events,event,75,replacement_item_id,6742,6742,(grubvin) Whispering_Root-Waterways,15708,378,756
+events,event,76,replacement_item_id,6743,6743,(Junic) MP Berry x3,11744,247,757
+events,event,77,replacement_item_id,6744,6744,(CyberTheHexhog2) Emblem,40106,4079,758
+events,event,78,replacement_item_id,6745,6745,(Junic) Golden Coin,39658,428,759
+events,event,79,replacement_item_id,6746,6746,(Junic) Fool Trap,79092,240,760
+events,event,80,replacement_item_id,6747,6747,(Stro) Magnet Element,328071,2608,761
+events,event,82,replacement_item_id,6748,6748,(CyberTheHexhog2) Emblem,254546,116,763
+events,event,83,replacement_item_id,6749,6749,(grubvin) Mask_Shard,60550,1514,764
+events,event,84,replacement_item_id,6750,6750,Skill Book: Progressive Damage Up,65705,459,765
+events,event,85,replacement_item_id,6751,6751,(Junic) Pepper x2,548230,452,766
+events,event,86,replacement_item_id,6752,6752,(Junic) Money x32,315471,3147,767
+events,event,87,replacement_item_id,6753,6753,(Stro) Secret Ansem's Report 4,635313,431,768
+events,event,88,replacement_item_id,6754,6754,(CyberTheHexhog2) Emblem,566415,180,769
+events,event,89,replacement_item_id,6755,6755,C.C. Lemon,114156,1947,770
+events,event,90,replacement_item_id,6756,6756,Triple Yokan,561487,352,771
+events,event,92,replacement_item_id,6757,6757,(Junic) Firecracker x3,5391,4651,773
+events,event,93,replacement_item_id,6758,6758,Trinity Circle Earrings,559612,1483,774
+events,event,94,replacement_item_id,6759,6759,(grubvin) Weaversong,274305,4103,775
+events,event,95,replacement_item_id,6760,6760,(Stro) Negative Combo,79212,382,776
+events,event,96,replacement_item_id,6761,6761,(Junic) Firecracker x2,7965,217,777
+events,event,97,replacement_item_id,6762,6762,(grubvin) Hallownest_Seal,71056,182,778
+events,event,98,replacement_item_id,6763,6763,(Junic) Key,476577,3877,779
+events,event,99,replacement_item_id,6764,6764,(Junic) Firecracker x6,78395,4977,780
+events,event,102,replacement_item_id,6765,6765,Healthy Balanced Bento,35538,335,783
+events,event,103,replacement_item_id,6766,6766,(grubvin) Mask_Shard,14773,213,784
+events,event,104,replacement_item_id,6767,6767,(Stro) Retaliating Slash,67253,239,785
+events,event,105,replacement_item_id,6768,6768,Natchan! Orange,375854,501,786
+events,event,106,replacement_item_id,6769,6769,(CyberTheHexhog2) Emblem,308838,554,787
+events,event,107,replacement_item_id,6770,6770,(grubvin) Flukenest,176665,428,788
+events,event,108,replacement_item_id,6771,6771,Skill Book: Progressive Damage Up,167943,4165,789
+events,event,109,replacement_item_id,6772,6772,Dragon's Binding,155491,179,790
+events,event,110,replacement_item_id,6773,6773,Skill Book: Quickstep Strike,39218,286,791
+events,event,111,replacement_item_id,6774,6774,(Stro) Master's Ring,21515,1762,792
+events,event,112,replacement_item_id,6775,6775,(CyberTheHexhog2) Emblem,147974,821,793
+events,event,113,replacement_item_id,6776,6776,White Pearl Earrings,275381,306,794
+events,event,114,replacement_item_id,6777,6777,(Stro) Way to the Dawn,671603,1553,795
+events,event,115,replacement_item_id,6778,6778,(CyberTheHexhog2) Emblem,289130,2329,796
+events,event,116,replacement_item_id,6779,6779,(Junic) HP Offering,164480,4842,797
+events,event,117,replacement_item_id,6780,6780,(CyberTheHexhog2) Emblem,4254,128,798
+events,event,118,replacement_item_id,6781,6781,(grubvin) Fragile_Strength,8972,1398,799
+events,event,119,replacement_item_id,6782,6782,Ichiban Senbei (Shoyu),284507,1019,800
+events,event,120,replacement_item_id,6783,6783,(grubvin) Grub,20518,485,801
+events,event,122,replacement_item_id,6784,6784,(Stro) Secret Ansem's Report 13,133358,2500,803
+events,event,123,replacement_item_id,6785,6785,(Junic) Effigy,80907,1440,804
+events,event,124,replacement_item_id,6786,6786,(grubvin) Vessel_Fragment,961385,4709,805
+events,event,125,replacement_item_id,6787,6787,Godspeed Gears Plus,3040,350,806
+shop.bin.json,aston_s_kukuru,0,replacement_item_id,6788,6788,Egg,576760,129,982
+shop.bin.json,aston_s_kukuru,1,replacement_item_id,6789,6789,(grubvin) Grub,186751,3172,983
+shop.bin.json,aston_s_kukuru,2,replacement_item_id,6790,6790,(Stro) Slapshot,236978,1774,984
+shop.bin.json,aston_s_kukuru,3,replacement_item_id,6791,6791,Smile Shake (Takeout),71969,1205,985
+shop.bin.json,aston_s_kukuru,4,replacement_item_id,6792,6792,Natchan! Apple,269127,107,986
+shop.bin.json,aston_s_hiratai,0,replacement_item_id,6793,6793,Okonomiyaki,8815,111,1001
+shop.bin.json,aston_s_hiratai,1,replacement_item_id,6794,6794,(grubvin) Wanderer's_Journal,97513,175,1002
+shop.bin.json,aston_s_hiratai,2,replacement_item_id,6795,6795,Skill Book: Extreme Heat Mode Undying,72846,1675,1003
+shop.bin.json,aston_s_shigano,0,replacement_item_id,6796,6796,(Stro) Beast's Claw,13026,3820,1004
+shop.bin.json,aston_s_shigano,1,replacement_item_id,6797,6797,(Junic) Potion Flask,50663,346,1005
+shop.bin.json,aston_y_smilewagon,0,replacement_item_id,6798,6798,(Junic) Dath Stone,125420,276,1006
+shop.bin.json,aston_y_smilewagon,1,replacement_item_id,6799,6799,Yokohama Sichiya Pawn Shop Unlock,30135,959,1007
+shop.bin.json,aston_y_smilewagon,2,replacement_item_id,6800,6800,(Junic) Golden Coin,280078,339,1008
+shop.bin.json,aston_y_smilewagon,3,replacement_item_id,6801,6801,(Stro) Max MP Up,73405,362,1009
+shop.bin.json,aston_y_smilewagon,4,replacement_item_id,6802,6802,(Stro) Reflect Element,204800,1343,1010
+shop.bin.json,aston_y_ichibann,0,replacement_item_id,6803,6803,(grubvin) Grub,48299,2160,1011
+shop.bin.json,aston_y_ichibann,1,replacement_item_id,6804,6804,Quartet,9515,334,1012
+shop.bin.json,aston_y_ichibann,2,replacement_item_id,6805,6805,Golden Ball,455030,948,1013
+shop.bin.json,aston_y_ichibann,3,replacement_item_id,6806,6806,(grubvin) Dash_Slash,842454,1394,1014
+shop.bin.json,aston_y_ichibann,4,replacement_item_id,6807,6807,(CyberTheHexhog2) Shield,85193,1245,1015
+shop.bin.json,aston_y_ichibann,5,replacement_item_id,6808,6808,(Stro) Goofy Tornado,46766,1330,1016
+shop.bin.json,aston_c_loungeshop,0,replacement_item_id,6809,6809,(Junic) Blue Questagon,72803,1476,1017
+shop.bin.json,aston_c_loungeshop,1,replacement_item_id,6810,6810,(Junic) Firecracker x3,913764,3570,1018
+shop.bin.json,aston_c_loungeshop,2,replacement_item_id,6811,6811,(Junic) Fire Bomb x3,802552,1298,1019
+shop.bin.json,aston_c_loungeshop,3,replacement_item_id,6812,6812,(CyberTheHexhog2) Tails - Booster,62687,124,1020
+shop.bin.json,aston_c_loungeshop,4,replacement_item_id,6813,6813,(grubvin) Pale_Ore,423997,2158,1021
+shop.bin.json,aston_c_loungeshop,5,replacement_item_id,6814,6814,(CyberTheHexhog2) Emblem,251958,827,1022
+shop.bin.json,aston_c_loungeshop,6,replacement_item_id,6815,6815,(grubvin) Whispering_Root-City,68802,988,1023
+shop.bin.json,aston_c_loungeshop,7,replacement_item_id,6816,6816,(grubvin) Greenpath_Map,247169,320,1024
+events,aston_s_pokecir_parts,1,replacement_item_id,6817,6817,Rocket Frame Plus,40920,114,1246
+events,aston_s_pokecir_parts,2,replacement_item_id,6818,6818,Spiked Tires Plus,109939,282,1247
+events,aston_s_pokecir_parts,3,replacement_item_id,6819,6819,Power Motor Plus,13038,115,1248
+events,aston_s_pokecir_parts,4,replacement_item_id,6820,6820,Regular Gears Plus,256381,2709,1249
+events,aston_s_pokecir_parts,5,replacement_item_id,6821,6821,Side Stripe,12189,619,1250
+events,aston_s_pokecir_parts,6,replacement_item_id,6822,6822,Rocket Frame,609597,380,1251
+events,aston_s_pokecir_parts,7,replacement_item_id,6823,6823,Spiked Tires,126401,3468,1252
+events,aston_s_pokecir_parts,8,replacement_item_id,6824,6824,Power Motor,67159,1797,1253
+events,aston_s_pokecir_parts,9,replacement_item_id,6825,6825,Regular Gears,159369,344,1254
+events,aston_s_pokecir_parts,10,replacement_item_id,6826,6826,Side Stabilizer 3.0,155840,291,1255
+events,aston_s_pokecir_parts,11,replacement_item_id,6827,6827,Metal Frame Plus,84758,1100,1256
+events,aston_s_pokecir_parts,12,replacement_item_id,6828,6828,Soft Tires Plus,427473,437,1257
+events,aston_s_pokecir_parts,13,replacement_item_id,6829,6829,Ultra High Torque Motor,737357,213,1258
+events,aston_s_pokecir_parts,14,replacement_item_id,6830,6830,Power Gears Plus,33899,772,1259
+events,aston_s_pokecir_parts,15,replacement_item_id,6831,6831,Side Stabilizer 2.0,32268,1512,1260
+events,aston_s_pokecir_parts,16,replacement_item_id,6832,6832,Metal Frame,301691,1509,1261
+events,aston_s_pokecir_parts,17,replacement_item_id,6833,6833,Soft Tires,38859,395,1262
+events,aston_s_pokecir_parts,18,replacement_item_id,6834,6834,Ultra Godspeed Motor,21568,1150,1263
+events,aston_s_pokecir_parts,19,replacement_item_id,6835,6835,Power Gears,29810,3417,1264
+events,aston_s_pokecir_parts,20,replacement_item_id,6836,6836,Side Stabilizer,332556,531,1265
+events,aston_s_pokecir_parts,21,replacement_item_id,6837,6837,Ultra Balanced Frame,160755,680,1266
+events,aston_s_pokecir_parts,22,replacement_item_id,6838,6838,Slim Tires Plus,65154,1807,1267
+events,aston_s_pokecir_parts,23,replacement_item_id,6839,6839,Ultra Balanced Motor,740125,107,1268
+events,aston_s_pokecir_parts,24,replacement_item_id,6840,6840,Ultra Balanced Gears,66666,1073,1269
+events,aston_s_pokecir_parts,25,replacement_item_id,6841,6841,Regular Battery,2999,173,1270
+events,aston_s_pokecir_parts,26,replacement_item_id,6842,6842,Super Balanced Frame,209757,1655,1271
+events,aston_s_pokecir_parts,27,replacement_item_id,6843,6843,Slim Tires,183101,777,1272
+events,aston_s_pokecir_parts,28,replacement_item_id,6844,6844,Super Speed Motor,59184,534,1273
+events,aston_s_pokecir_parts,29,replacement_item_id,6845,6845,Super Regular Gears,503743,473,1274
+events,aston_s_pokecir_parts,30,replacement_item_id,6846,6846,Red Blaze,295094,307,1275
+events,aston_s_pokecir_parts,31,replacement_item_id,6847,6847,Speed Frame Plus,229143,154,1276
+events,aston_s_pokecir_parts,32,replacement_item_id,6848,6848,Slick Tires Plus,51504,752,1277
+events,aston_s_pokecir_parts,33,replacement_item_id,6849,6849,Super Power Motor,14123,1146,1278
+events,aston_s_pokecir_parts,34,replacement_item_id,6850,6850,Super Power Gears,16892,735,1279
+events,aston_s_pokecir_parts,35,replacement_item_id,6851,6851,Rainbow Wing,279706,4476,1280
+events,aston_s_pokecir_parts,36,replacement_item_id,6852,6852,Speed Frame,76472,251,1281
+events,aston_s_pokecir_parts,37,replacement_item_id,6853,6853,Slick Tires,511433,225,1282
+events,aston_s_pokecir_parts,38,replacement_item_id,6854,6854,Super Balanced Motor,15449,155,1283
+events,aston_s_pokecir_parts,39,replacement_item_id,6855,6855,Super Godspeed Gears,32974,360,1284
+events,aston_s_pokecir_parts,40,replacement_item_id,6856,6856,Michi-Michio,517001,937,1285
+events,aston_s_pokecir_parts,41,replacement_item_id,6857,6857,Rubber Frame Plus,60029,1769,1286
+events,aston_s_pokecir_parts,42,replacement_item_id,6858,6858,Low Profile Tires Plus,23777,1757,1287
+events,aston_s_pokecir_parts,43,replacement_item_id,6859,6859,Speed Motor Plus,21863,342,1288
+events,aston_s_pokecir_parts,44,replacement_item_id,6860,6860,Super Boost Gears,44464,1801,1289
+events,aston_s_pokecir_parts,45,replacement_item_id,6861,6861,Medium Suspension,13258,399,1290
+events,aston_s_pokecir_parts,46,replacement_item_id,6862,6862,Rubber Frame,58394,2396,1291
+events,aston_s_pokecir_parts,47,replacement_item_id,6863,6863,Low Profile Tires,54387,142,1292
+events,aston_s_pokecir_parts,48,replacement_item_id,6864,6864,Speed Motor,16616,583,1293
+events,aston_s_pokecir_parts,49,replacement_item_id,6865,6865,Super Balanced Gears,61994,1449,1294
+events,aston_s_pokecir_parts,50,replacement_item_id,6866,6866,Light Suspension,15320,1419,1295
+shop.bin.json,aston_c_boutique,0,replacement_item_id,5557,5557,Ichiban Fried Senbei,103696,404,339
+shop.bin.json,aston_c_boutique,1,replacement_item_id,5497,5497,Seaweed Onigiri,525973,1696,340
+shop.bin.json,aston_c_boutique,2,replacement_item_id,5437,5437,Twinkle Heart Ring,280976,700,341
+shop.bin.json,aston_c_boutique,3,replacement_item_id,6263,6263,Nourishment of the Seaking,30057,872,342
+shop.bin.json,aston_c_boutique,4,replacement_item_id,5326,5326,Staminan Light,65835,2605,343
+shop.bin.json,aston_c_boutique,5,replacement_item_id,5448,5448,Blackjack Amulet,297749,672,344
+shop.bin.json,aston_c_boutique,6,replacement_item_id,5505,5505,Pork Tonkatsu Bento,306228,474,345
+shop.bin.json,aston_c_boutique,7,replacement_item_id,5923,5923,Okonomiyaki,265424,272,346
+shop.bin.json,aston_c_boutique,8,replacement_item_id,6258,6258,Tooghness Infinity,57695,1161,347
+shop.bin.json,aston_c_boutique,9,replacement_item_id,6262,6262,Tougheness ZZ,22996,177,348
+shop.bin.json,aston_c_boutique,10,replacement_item_id,5405,5405,Ono Michio Pixel Figure,36012,1771,349
+shop.bin.json,aston_c_boutique,11,replacement_item_id,5370,5370,Gold Plate,46140,2301,350
+shop.bin.json,aston_c_boutique,12,replacement_item_id,5366,5366,Seven Stars,35287,826,351
+shop.bin.json,aston_c_boutique,13,replacement_item_id,5515,5515,Yakisoba Mochichi,150909,4651,352
+shop.bin.json,aston_c_boutique,14,replacement_item_id,5509,5509,Imuraya Steamed Bun,44238,245,353
+shop.bin.json,aston_s_mizorogi,0,replacement_item_id,5516,5516,Wakame Ramen Sesame Soy Sauce,206584,485,370
+shop.bin.json,aston_s_mizorogi,1,replacement_item_id,6129,6129,Nourishment of the Sea King,21033,419,371
+shop.bin.json,aston_s_mizorogi,2,replacement_item_id,5925,5925,Okonomiyaki (Mentai Mayo),252173,454,372
+shop.bin.json,aston_s_mizorogi,3,replacement_item_id,5517,5517,Wonton Harusame,797936,679,373
+shop.bin.json,aston_s_mizorogi,4,replacement_item_id,5445,5445,Triple Yokan,61341,159,374
+item_get_by_wire.bin.json,treasure_y012,126,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),24915,372,386
+item_get_by_wire.bin.json,treasure_y031,145,replacement_item_id,5511,5511,Imuraya Pizza Bun,109407,654,405
+item_get_by_wire.bin.json,treasure_y032,146,replacement_item_id,5708,5708,Pine Candy,78595,396,406
+item_get_by_wire.bin.json,treasure_y033,147,replacement_item_id,5736,5736,Suntory Sparkling Lemon Mineral Water,49026,4925,407
+item_get_by_wire.bin.json,treasure_y034,148,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,27810,1570,408
+item_get_by_wire.bin.json,treasure_y035,149,replacement_item_id,5710,5710,SEGA Taiyaki,67927,188,409
+item_get_by_wire.bin.json,treasure_y036,150,replacement_item_id,5500,5500,Fresh Lettuce Sandwich,25504,1102,410
+item_get_by_wire.bin.json,treasure_y037,151,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,72744,391,411
+item_get_by_wire.bin.json,treasure_y038,152,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,53703,3385,412
+item_get_by_wire.bin.json,treasure_y039,153,replacement_item_id,5326,5326,Staminan Light,32717,2796,413
+item_get_by_wire.bin.json,treasure_y040,154,replacement_item_id,5502,5502,Oden,743731,2446,414
+item_get_by_wire.bin.json,treasure040,44,replacement_item_id,5737,5737,Vitamin Water,22738,223,454
+item_get_by_wire.bin.json,treasure041,45,replacement_item_id,5442,5442,Standard Timepiece,35430,1328,455
+item_get_by_wire.bin.json,treasure042,46,replacement_item_id,5555,5555,Ichiban Senbei (Shoyu),32385,1640,456
+item_get_by_wire.bin.json,treasure043,47,replacement_item_id,5328,5328,Staminan Spark,165098,324,457
+item_get_by_wire.bin.json,treasure044,48,replacement_item_id,5436,5436,Star Crossed Earrings,496189,978,458
+item_get_by_wire.bin.json,treasure045,49,replacement_item_id,5712,5712,ZONe,95582,855,459
+item_get_by_wire.bin.json,treasure046,50,replacement_item_id,5502,5502,Oden,916152,481,460
+item_get_by_wire.bin.json,treasure047,51,replacement_item_id,6260,6260,Staminan Royalle,7018,446,461
+item_get_by_wire.bin.json,treasure048,52,replacement_item_id,5730,5730,Pepsi Nama,778501,2178,462
+item_get_by_wire.bin.json,treasure049,53,replacement_item_id,5405,5405,Ono Michio Pixel Figure,232181,443,463
+item_get_by_wire.bin.json,treasure050,54,replacement_item_id,5579,5579,Divine Water,222301,155,464
+item_get_by_wire.bin.json,treasure_c016,80,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),6317,431,480
+item_get_by_wire.bin.json,treasure_c021,85,replacement_item_id,5504,5504,Special Yakisoba,131144,3217,485
+item_get_by_wire.bin.json,treasure_c022,86,replacement_item_id,6013,6013,Quality Egg,63534,1773,486
+item_get_by_wire.bin.json,treasure_c023,87,replacement_item_id,5446,5446,Ten-Ten-One Charm,548905,140,487
+item_get_by_wire.bin.json,treasure_c024,88,replacement_item_id,5996,5996,Staminan Royale,155459,132,488
+item_get_by_wire.bin.json,treasure_c025,89,replacement_item_id,5366,5366,Seven Stars,63060,322,489
+item_get_by_wire.bin.json,treasure_c026,90,replacement_item_id,5513,5513,Imuraya Curry Bun,74368,173,490
+item_get_by_wire.bin.json,treasure_c027,91,replacement_item_id,5555,5555,Ichiban Senbei (Shoyu),76083,408,491
+item_get_by_wire.bin.json,treasure_c028,92,replacement_item_id,6259,6259,Stamina XX,172975,172,492
+item_get_by_wire.bin.json,treasure_c029,93,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,42807,472,493
+item_get_by_wire.bin.json,treasure_c030,94,replacement_item_id,5734,5734,Natchan! Apple,32200,379,494
+item_get_by_wire.bin.json,aston_quest1010,166,replacement_item_id,5371,5371,Silver Plate,305810,879,495
+item_get_by_wire.bin.json,aston_quest1020,167,replacement_item_id,5498,5498,Tuna Onigiri,63580,328,496
+item_get_by_wire.bin.json,aston_quest1030,168,replacement_item_id,5711,5711,Nozaki's Corned Beef,26869,445,497
+item_get_by_wire.bin.json,aston_quest1040,169,replacement_item_id,5708,5708,Pine Candy,18060,294,498
+item_get_by_wire.bin.json,aston_quest1050,170,replacement_item_id,5366,5366,Seven Stars,35367,544,499
+item_get_by_wire.bin.json,aston_quest1060,171,replacement_item_id,5434,5434,White Pearl Earrings,65745,3717,500
+item_get_by_wire.bin.json,aston_quest1070,172,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,158423,297,501
+item_get_by_wire.bin.json,aston_quest1080,230,replacement_item_id,5732,5732,Mountain Dew,624339,257,502
+item_get_by_wire.bin.json,aston_quest8010,261,replacement_item_id,5557,5557,Ichiban Fried Senbei,227506,292,503
+item_get_by_wire.bin.json,aston_side16_01,173,replacement_item_id,5434,5434,White Pearl Earrings,25153,1661,504
+item_get_by_wire.bin.json,aston_side16_02,174,replacement_item_id,5726,5726,BOSS Light Sugar,54262,327,505
+item_get_by_wire.bin.json,treasure_cu001,231,replacement_item_id,6021,6021,Ceremonial Oath Sake Cup (Plum),3127,4838,506
+item_get_by_wire.bin.json,treasure_cu002,232,replacement_item_id,6263,6263,Nourishment of the Seaking,80898,378,507
+item_get_by_wire.bin.json,treasure_cu003,233,replacement_item_id,6045,6045,The Secret Ultimate Guide to Cooperative Fighting,32827,1715,508
+item_get_by_wire.bin.json,treasure_cu004,234,replacement_item_id,5327,5327,Staminan X,147470,1519,509
+item_get_by_wire.bin.json,treasure_cu005,235,replacement_item_id,5366,5366,Seven Stars,12118,464,510
+item_get_by_wire.bin.json,treasure_cu006,236,replacement_item_id,5435,5435,Prima Heart Earrings,59379,2231,511
+item_get_by_wire.bin.json,treasure_cu007,237,replacement_item_id,5555,5555,Ichiban Senbei (Shoyu),41261,1535,512
+item_get_by_wire.bin.json,treasure_cu008,238,replacement_item_id,5731,5731,C.C. Lemon,250309,268,513
+item_get_by_wire.bin.json,treasure_cu009,239,replacement_item_id,5508,5508,Sushi Set,7799,200,514
+item_get_by_wire.bin.json,treasure_cu010,240,replacement_item_id,5325,5325,Tauriner,49738,1969,515
+item_get_by_wire.bin.json,treasure_cu011,241,replacement_item_id,5447,5447,Lucky Hanafuda Card,56920,1479,516
+item_get_by_wire.bin.json,treasure_cu012,242,replacement_item_id,5512,5512,Imuraya Gold Steamed Bun,381132,212,517
+item_get_by_wire.bin.json,treasure_cu013,243,replacement_item_id,5574,5574,Smile Burger (Takeout),28596,955,518
+item_get_by_wire.bin.json,treasure_cu014,244,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,26939,495,519
+item_get_by_wire.bin.json,treasure_cu015,245,replacement_item_id,5725,5725,Premium BOSS,209582,327,520
+item_get_by_wire.bin.json,treasure_cu016,246,replacement_item_id,5557,5557,Ichiban Fried Senbei,31648,1727,521
+item_get_by_wire.bin.json,treasure_cu017,247,replacement_item_id,5579,5579,Divine Water,28185,370,522
+item_get_by_wire.bin.json,treasure_cu018,248,replacement_item_id,5325,5325,Tauriner,51069,102,523
+item_get_by_wire.bin.json,treasure_cu019,249,replacement_item_id,5447,5447,Lucky Hanafuda Card,192370,328,524
+item_get_by_wire.bin.json,treasure_cu020,250,replacement_item_id,5497,5497,Seaweed Onigiri,71967,394,525
+item_get_by_wire.bin.json,treasure_cu021,251,replacement_item_id,5391,5391,Kitty Kat (Tiger),209248,792,526
+item_get_by_wire.bin.json,treasure_cu022,252,replacement_item_id,5366,5366,Seven Stars,63080,262,527
+item_get_by_wire.bin.json,treasure_cu023,253,replacement_item_id,5736,5736,Suntory Sparkling Lemon Mineral Water,284928,4512,528
+item_get_by_wire.bin.json,treasure_cu024,254,replacement_item_id,5994,5994,Tauriner Maximum,348793,424,529
+item_get_by_wire.bin.json,treasure_cu025,255,replacement_item_id,5711,5711,Nozaki's Corned Beef,19455,166,530
+item_get_by_wire.bin.json,treasure_cu026,256,replacement_item_id,5498,5498,Tuna Onigiri,20917,477,531
+item_get_by_wire.bin.json,treasure_cu027,257,replacement_item_id,5995,5995,Staminan XX,129952,162,532
+item_get_by_wire.bin.json,treasure_cu028,258,replacement_item_id,5515,5515,Yakisoba Mochichi,217017,899,533
+item_get_by_wire.bin.json,treasure_cu029,259,replacement_item_id,6129,6129,Nourishment of the Sea King,247757,241,534
+item_get_by_wire.bin.json,treasure_cu030,260,replacement_item_id,5737,5737,Vitamin Water,268992,1066,535
+agent_skills,aston_hp_up01,992,replacement_item_id,6018,6018,Mevius,34174,1591,536
+agent_skills,aston_hp_up02,993,replacement_item_id,6019,6019,Ceremonial Oath Sake Cup (Pine),19093,444,537
+agent_skills,aston_hp_up03,994,replacement_item_id,5501,5501,Tuna & Egg Sandwich,17653,376,538
+agent_skills,aston_hp_up04,995,replacement_item_id,5324,5324,Toughness Z,225452,333,539
+agent_skills,aston_hp_up05,996,replacement_item_id,5435,5435,Prima Heart Earrings,41121,251,540
+agent_skills,aston_hp_up06,997,replacement_item_id,6045,6045,The Secret Ultimate Guide to Cooperative Fighting,18946,835,541
+agent_skills,aston_hp_up07,998,replacement_item_id,6020,6020,Ceremonial Oath Sake Cup (Bamboo),62651,254,542
+agent_skills,aston_hp_up08,999,replacement_item_id,5923,5923,Okonomiyaki,348561,447,543
+agent_skills,aston_dmg_up01,1000,replacement_item_id,6012,6012,Egg,122255,993,544
+agent_skills,aston_dmg_up02,1001,replacement_item_id,5323,5323,Toughness Light,856751,502,545
+agent_skills,aston_dmg_up03,1002,replacement_item_id,6018,6018,Mevius,7708,2126,546
+agent_skills,aston_dmg_up04,1003,replacement_item_id,5366,5366,Seven Stars,168488,924,547
+agent_skills,aston_dmg_up05,1004,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),137598,385,548
+agent_skills,aston_dmg_up06,1005,replacement_item_id,5325,5325,Tauriner,12496,139,549
+agent_skills,aston_dmg_up07,1006,replacement_item_id,5555,5555,Ichiban Senbei (Shoyu),7986,831,550
+agent_skills,aston_dmg_up08,1007,replacement_item_id,5727,5727,Suntory Oolong Tea,74521,340,551
+agent_skills,aston_heatgauge_up01,1008,replacement_item_id,6262,6262,Tougheness ZZ,12578,932,552
+agent_skills,aston_heatgauge_up02,1009,replacement_item_id,5569,5569,Imuraya Castella,329388,887,553
+agent_skills,aston_heatgauge_up03,1010,replacement_item_id,5725,5725,Premium BOSS,24938,308,554
+agent_skills,aston_heatgauge_up04,1011,replacement_item_id,5430,5430,Teardrop Earrings,38972,3562,555
+agent_skills,aston_uhdmg_up01,1012,replacement_item_id,5368,5368,Pocket Tissues,43803,702,556
+agent_skills,aston_uhdmg_up02,1013,replacement_item_id,6131,6131,Nutriment of the Conquering Emperor,343203,251,557
+agent_skills,aston_all_addhact01,1016,replacement_item_id,5366,5366,Seven Stars,40512,226,558
+agent_skills,aston_skl_dygmr,1017,replacement_item_id,5712,5712,ZONe,65986,2288,559
+agent_skills,aston_skl_dyguhdmgup,1018,replacement_item_id,5940,5940,Bust Amulet,75934,1068,560
+agent_skills,aston_skl_dyguhunstp,1019,replacement_item_id,5725,5725,Premium BOSS,210599,1378,561
+agent_skills,aston_skl_uhimm,1020,replacement_item_id,5575,5575,Teriyaki Smile Burger (Takeout),4034,1745,562
+agent_skills,aston_skl_dwnprv,1021,replacement_item_id,5435,5435,Prima Heart Earrings,312779,3150,563
+agent_skills,aston_skl_allprv,1022,replacement_item_id,5508,5508,Sushi Set,952936,304,564
+agent_skills,aston_skl_dyghgup,1023,replacement_item_id,5374,5374,Paper Plate,309987,1492,565
+agent_skills,aston_skl_smoke,1024,replacement_item_id,5726,5726,BOSS Light Sugar,16156,2612,566
+agent_skills,aston_skl_alcohol_hg01,1025,replacement_item_id,5436,5436,Star Crossed Earrings,297027,1604,567
+agent_skills,aston_skl_alcohol_hg02,1026,replacement_item_id,5405,5405,Ono Michio Pixel Figure,575562,443,568
+agent_skills,aston_skl_alcohol_uh01,1027,replacement_item_id,5725,5725,Premium BOSS,241901,154,569
+agent_skills,aston_skl_alcohol_uh02,1028,replacement_item_id,5437,5437,Twinkle Heart Ring,238426,1451,570
+agent_skills,aston_skl_eqp01,1029,replacement_item_id,5733,5733,Natchan! Orange,777322,222,571
+agent_skills,aston_skl_eqp02,1030,replacement_item_id,5431,5431,Trinity Circle Earrings,573790,270,572
+agent_skills,aston_skl_eqp03,1031,replacement_item_id,5731,5731,C.C. Lemon,15202,447,573
+agent_skills,aston_skl_eat01,1032,replacement_item_id,5434,5434,White Pearl Earrings,167725,386,574
+agent_skills,aston_ory_fnsb01,1034,replacement_item_id,5441,5441,High-end Timepiece,134433,1764,575
+agent_skills,aston_ory_fnsh01,1035,replacement_item_id,5725,5725,Premium BOSS,94960,386,576
+agent_skills,aston_ory_dblswy,1036,replacement_item_id,5521,5521,Sake,302228,363,577
+agent_skills,aston_ory_dwnatk,1037,replacement_item_id,5368,5368,Pocket Tissues,320414,1012,578
+agent_skills,aston_ory_swayat,1038,replacement_item_id,6021,6021,Ceremonial Oath Sake Cup (Plum),60072,431,579
+agent_skills,aston_ory_rev02,1040,replacement_item_id,5505,5505,Pork Tonkatsu Bento,76026,456,580
+agent_skills,aston_ory_cntr,1041,replacement_item_id,5500,5500,Fresh Lettuce Sandwich,79723,198,581
+agent_skills,aston_ory_addhact01,1045,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,59369,146,582
+agent_skills,aston_ory_addhact02,1046,replacement_item_id,5712,5712,ZONe,107551,940,583
+agent_skills,aston_ory_addhact03,1047,replacement_item_id,5914,5914,Azuki Bar BOX,58432,3026,584
+agent_skills,aston_ory_addhact04,1048,replacement_item_id,5323,5323,Toughness Light,74580,392,585
+agent_skills,aston_agt_grd01,1051,replacement_item_id,5510,5510,Imuraya Bean Paste Bun,23626,2297,586
+agent_skills,aston_agt_jstswyatk01,1052,replacement_item_id,5727,5727,Suntory Oolong Tea,76192,2004,587
+agent_skills,aston_agt_dwnccl,1053,replacement_item_id,5568,5568,Imuraya Yokan,66277,3675,588
+agent_skills,aston_agt_swayat,1054,replacement_item_id,5569,5569,Imuraya Castella,220498,308,589
+agent_skills,aston_agt_addhact01,1055,replacement_item_id,5990,5990,Toughness ZZ,84481,360,590
+agent_skills,aston_agt_addhact02,1056,replacement_item_id,5508,5508,Sushi Set,50389,199,591
+agent_skills,aston_agt_addhact03,1057,replacement_item_id,5925,5925,Okonomiyaki (Mentai Mayo),66456,174,592
+agent_skills,aston_agt_addhact04,1058,replacement_item_id,5915,5915,Hokkaido Azuki Bar,101740,501,593
+agent_skills,aston_hp_kiwami_up01,1059,replacement_item_id,6044,6044,The Advanced Guide to Cooperative Fighting,39205,658,594
+agent_skills,aston_hp_kiwami_up02,1060,replacement_item_id,5512,5512,Imuraya Gold Steamed Bun,119383,187,595
+agent_skills,aston_hp_kiwami_up03,1061,replacement_item_id,5923,5923,Okonomiyaki,57950,399,596
+agent_skills,aston_hp_kiwami_up04,1062,replacement_item_id,5442,5442,Standard Timepiece,68772,1315,597
+agent_skills,aston_hp_kiwami_up05,1063,replacement_item_id,5994,5994,Tauriner Maximum,77797,1873,598
+agent_skills,aston_hp_kiwami_up06,1064,replacement_item_id,5735,5735,Suntory Mineral Water,21506,1476,599
+agent_skills,aston_hp_kiwami_up07,1065,replacement_item_id,5915,5915,Hokkaido Azuki Bar,120656,3408,600
+agent_skills,aston_hp_kiwami_up08,1066,replacement_item_id,5709,5709,Oragamachi Natto,135222,2814,601
+agent_skills,aston_hp_kiwami_up09,1067,replacement_item_id,6129,6129,Nourishment of the Sea King,278561,730,602
+agent_skills,aston_hp_kiwami_up10,1068,replacement_item_id,5734,5734,Natchan! Apple,380283,434,603
+agent_skills,aston_hp_kiwami_up11,1069,replacement_item_id,5914,5914,Azuki Bar BOX,62350,3969,604
+agent_skills,aston_hp_kiwami_up12,1070,replacement_item_id,5450,5450,Royal Joker Card,144167,212,605
+agent_skills,aston_hp_kiwami_up13,1071,replacement_item_id,6258,6258,Tooghness Infinity,644420,1781,606
+agent_skills,aston_hp_kiwami_up14,1072,replacement_item_id,5732,5732,Mountain Dew,250012,313,607
+agent_skills,aston_hp_kiwami_up15,1073,replacement_item_id,5726,5726,BOSS Light Sugar,641335,342,608
+agent_skills,aston_dmg_kiwami_up01,1074,replacement_item_id,5499,5499,Salmon Onigiri,29341,308,609
+agent_skills,aston_dmg_kiwami_up02,1075,replacement_item_id,5578,5578,Smile Salad (Takeout),375679,467,610
+agent_skills,aston_dmg_kiwami_up03,1076,replacement_item_id,5452,5452,Nine Gates Tile,266384,3204,611
+agent_skills,aston_dmg_kiwami_up04,1077,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,456495,434,612
+agent_skills,aston_dmg_kiwami_up05,1078,replacement_item_id,5438,5438,Midnight Ring,95312,1022,613
+agent_skills,aston_dmg_kiwami_up06,1079,replacement_item_id,5497,5497,Seaweed Onigiri,159172,320,614
+agent_skills,aston_dmg_kiwami_up07,1080,replacement_item_id,5556,5556,Ichiban Senbei (Salt),316592,667,615
+agent_skills,aston_dmg_kiwami_up08,1081,replacement_item_id,5369,5369,Platinum Plate,135270,342,616
+agent_skills,aston_dmg_kiwami_up09,1082,replacement_item_id,5442,5442,Standard Timepiece,508559,462,617
+agent_skills,aston_dmg_kiwami_up10,1083,replacement_item_id,5735,5735,Suntory Mineral Water,60452,3918,618
+agent_skills,aston_skl_eat02,1084,replacement_item_id,6264,6264,Refressment of the Sky King,326792,609,619
+agent_skills,aston_skl_eat03,1085,replacement_item_id,6263,6263,Nourishment of the Seaking,260970,798,620
+agent_skills,aston_ory_dmgupskl1,1086,replacement_item_id,5498,5498,Tuna Onigiri,25755,414,621
+agent_skills,aston_ory_dmgupskl2,1087,replacement_item_id,6262,6262,Tougheness ZZ,29201,140,622
+agent_skills,aston_ory_grpdrev,1088,replacement_item_id,5845,5845,Green Onion Akashiyaki,55303,1843,623
+agent_skills,aston_ory_grdrev,1089,replacement_item_id,5556,5556,Ichiban Senbei (Salt),56508,146,624
+agent_skills,aston_ory_mr2,1090,replacement_item_id,6260,6260,Staminan Royalle,195539,280,625
+agent_skills,aston_agt_trpswy,1091,replacement_item_id,5735,5735,Suntory Mineral Water,68916,2026,626
+agent_skills,aston_agt_swyupskl1,1092,replacement_item_id,5326,5326,Staminan Light,20713,630,627
+agent_skills,aston_agt_swyupskl2,1093,replacement_item_id,5450,5450,Royal Joker Card,32975,2900,628
+agent_skills,aston_agt_jstswyatk02,1094,replacement_item_id,5512,5512,Imuraya Gold Steamed Bun,67550,1246,629
+agent_skills,aston_agt_grpdrev,1095,replacement_item_id,5940,5940,Bust Amulet,41255,472,630
+agent_skills,aston_agt_mr2,1096,replacement_item_id,5733,5733,Natchan! Orange,44980,150,631
+agent_skills,aston_agt_wiratk1,1097,replacement_item_id,6260,6260,Staminan Royalle,214020,751,632
+agent_skills,aston_agt_wiratk2,1098,replacement_item_id,5441,5441,High-end Timepiece,99366,227,633
+agent_skills,ggt_wire01,1099,replacement_item_id,5732,5732,Mountain Dew,388667,1518,634
+agent_skills,ggt_wire02,1100,replacement_item_id,5369,5369,Platinum Plate,29524,388,635
+agent_skills,ggt_wire03,1101,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,158012,101,636
+agent_skills,ggt_wire04,1102,replacement_item_id,6264,6264,Refressment of the Sky King,18611,194,637
+agent_skills,ggt_bomb01,1103,replacement_item_id,5450,5450,Royal Joker Card,98955,261,638
+agent_skills,ggt_bomb02,1104,replacement_item_id,5371,5371,Silver Plate,189503,1501,639
+agent_skills,ggt_bomb03,1105,replacement_item_id,5514,5514,Super Cup 1.5x Pork Kimchi Ramen,139672,953,640
+agent_skills,ggt_bomb04,1106,replacement_item_id,6045,6045,The Secret Ultimate Guide to Cooperative Fighting,12019,256,641
+agent_skills,ggt_drone01,1107,replacement_item_id,5436,5436,Star Crossed Earrings,37136,491,642
+agent_skills,ggt_drone02,1108,replacement_item_id,5733,5733,Natchan! Orange,90705,257,643
+agent_skills,ggt_drone03,1109,replacement_item_id,6130,6130,Refreshment of the Sky King,90678,986,644
+agent_skills,ggt_drone04,1110,replacement_item_id,6264,6264,Refressment of the Sky King,2812,989,645
+agent_skills,ggt_shoes01,1111,replacement_item_id,5737,5737,Vitamin Water,34018,105,646
+agent_skills,ggt_shoes02,1112,replacement_item_id,5916,5916,Taiyaki Ice Cream,42819,1029,647
+agent_skills,ggt_shoes03,1113,replacement_item_id,5368,5368,Pocket Tissues,307916,466,648
+agent_skills,ggt_shoes04,1114,replacement_item_id,6260,6260,Staminan Royalle,59942,966,649
+agent_skills,aston_skl_infeatalc,1115,replacement_item_id,5513,5513,Imuraya Curry Bun,465800,415,650
+agent_skills,aston_agt_wiratk0,1116,replacement_item_id,5439,5439,Shiny Flower Ring,195310,419,651
+agent_skills,ggt_wire_plus1,1117,replacement_item_id,6262,6262,Tougheness ZZ,65981,784,652
+agent_skills,ggt_wire_plus2,1118,replacement_item_id,6261,6261,Taurener Maximum,63093,1112,653
+agent_skills,ggt_drone_plus1,1119,replacement_item_id,5430,5430,Teardrop Earrings,615045,743,654
+agent_skills,prog_hp_up,1120,replacement_item_id,5506,5506,Healthy Balanced Bento,51623,2594,655
+agent_skills,prog_dmg_up,1121,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,214095,257,656
+agent_skills,prog_heat_up,1122,replacement_item_id,5514,5514,Super Cup 1.5x Pork Kimchi Ramen,431581,487,657
+agent_skills,prog_exh_dmg_up,1123,replacement_item_id,5369,5369,Platinum Plate,107251,3629,658
+agent_skills,prog_drunk_heat_up,1124,replacement_item_id,5505,5505,Pork Tonkatsu Bento,338597,355,659
+agent_skills,prog_drunk_attack_heat_up,1125,replacement_item_id,5436,5436,Star Crossed Earrings,51007,765,660
+agent_skills,prog_equip_up,1126,replacement_item_id,5435,5435,Prima Heart Earrings,509603,488,661
+agent_skills,prog_rec_food,1127,replacement_item_id,6262,6262,Tougheness ZZ,5857,487,662
+agent_skills,prog_heat_action_ex_up,1128,replacement_item_id,5509,5509,Imuraya Steamed Bun,323740,4675,663
+agent_skills,prog_evasion_ex_up,1129,replacement_item_id,5504,5504,Special Yakisoba,736458,4642,664
+agent_skills,prog_wire,1130,replacement_item_id,6020,6020,Ceremonial Oath Sake Cup (Bamboo),44871,280,665
+agent_skills,prog_bomb,1131,replacement_item_id,5843,5843,Takoyaki with Large Octopus,931461,399,666
+agent_skills,prog_drone,1132,replacement_item_id,5846,5846,Shockin' Takoyaki,690924,132,667
+agent_skills,prog_shoe_boost,1133,replacement_item_id,5434,5434,White Pearl Earrings,334714,325,668
+reward_table.bin.json,pokecir,89,replacement_item_id,5736,5736,Suntory Sparkling Lemon Mineral Water,192711,1471,676
+outfits,outfit_location,2,replacement_item_id,6021,6021,Ceremonial Oath Sake Cup (Plum),686345,1521,807
+outfits,outfit_location,3,replacement_item_id,5432,5432,Heart Earrings,14958,192,808
+outfits,outfit_location,4,replacement_item_id,5328,5328,Staminan Spark,458897,293,809
+outfits,outfit_location,5,replacement_item_id,5447,5447,Lucky Hanafuda Card,540053,769,810
+outfits,outfit_location,6,replacement_item_id,5432,5432,Heart Earrings,41953,3795,811
+outfits,outfit_location,7,replacement_item_id,5711,5711,Nozaki's Corned Beef,32113,478,812
+outfits,outfit_location,8,replacement_item_id,5374,5374,Paper Plate,31810,454,813
+outfits,outfit_location,9,replacement_item_id,5498,5498,Tuna Onigiri,647926,2202,814
+outfits,outfit_location,11,replacement_item_id,5442,5442,Standard Timepiece,196086,1662,815
+outfits,outfit_location,12,replacement_item_id,6022,6022,Ceremonial Oath Sake Cup (Sakura),80854,402,816
+outfits,outfit_location,13,replacement_item_id,5441,5441,High-end Timepiece,888728,2697,817
+outfits,outfit_location,14,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,101749,229,818
+outfits,outfit_location,16,replacement_item_id,5577,5577,Smile Shake (Takeout),76765,3776,819
+outfits,outfit_location,17,replacement_item_id,6263,6263,Nourishment of the Seaking,258844,1482,820
+outfits,outfit_location,18,replacement_item_id,5501,5501,Tuna & Egg Sandwich,35085,444,821
+outfits,outfit_location,21,replacement_item_id,5323,5323,Toughness Light,991635,1165,822
+outfits,outfit_location,22,replacement_item_id,5733,5733,Natchan! Orange,3844,1449,823
+outfits,outfit_location,23,replacement_item_id,6260,6260,Staminan Royalle,69355,1065,824
+outfits,outfit_location,24,replacement_item_id,5517,5517,Wonton Harusame,56471,172,825
+outfits,outfit_location,27,replacement_item_id,5732,5732,Mountain Dew,28434,183,826
+outfits,outfit_location,28,replacement_item_id,6129,6129,Nourishment of the Sea King,208373,698,827
+outfits,outfit_location,31,replacement_item_id,5556,5556,Ichiban Senbei (Salt),14151,438,828
+outfits,outfit_location,32,replacement_item_id,5441,5441,High-end Timepiece,509018,4567,829
+outfits,outfit_location,33,replacement_item_id,5505,5505,Pork Tonkatsu Bento,21353,428,830
+outfits,outfit_location,34,replacement_item_id,5569,5569,Imuraya Castella,10218,958,831
+outfits,outfit_location,36,replacement_item_id,5575,5575,Teriyaki Smile Burger (Takeout),629957,275,832
+outfits,outfit_location,37,replacement_item_id,5325,5325,Tauriner,29634,710,833
+outfits,outfit_location,39,replacement_item_id,5325,5325,Tauriner,38496,864,834
+outfits,outfit_location,40,replacement_item_id,5916,5916,Taiyaki Ice Cream,167049,247,835
+outfits,outfit_location,41,replacement_item_id,5326,5326,Staminan Light,6914,1210,836
+outfits,outfit_location,42,replacement_item_id,5976,5976,Chu-Chu Tako Doll (Takoyaki),276114,181,837
+outfits,outfit_location,43,replacement_item_id,5435,5435,Prima Heart Earrings,355723,3410,838
+outfits,outfit_location,45,replacement_item_id,5732,5732,Mountain Dew,74591,2453,839
+outfits,outfit_location,46,replacement_item_id,5922,5922,Stretchtopus Mocheese,10288,1951,840
+outfits,outfit_location,47,replacement_item_id,5578,5578,Smile Salad (Takeout),15035,455,841
+outfits,outfit_location,48,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),64592,1137,842
+outfits,outfit_location,49,replacement_item_id,5507,5507,Luxury Yakiniku Bento,375855,947,843
+outfits,outfit_location,50,replacement_item_id,5371,5371,Silver Plate,64047,1401,844
+outfits,outfit_location,51,replacement_item_id,5578,5578,Smile Salad (Takeout),177336,172,845
+outfits,outfit_location,53,replacement_item_id,5497,5497,Seaweed Onigiri,224531,225,846
+outfits,outfit_location,55,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),174869,1234,847
+outfits,outfit_location,56,replacement_item_id,6258,6258,Tooghness Infinity,714188,1622,848
+outfits,outfit_location,57,replacement_item_id,5727,5727,Suntory Oolong Tea,312910,825,849
+outfits,outfit_location,58,replacement_item_id,5507,5507,Luxury Yakiniku Bento,180364,1367,850
+outfits,outfit_location,60,replacement_item_id,6265,6265,Nutrement of the Conquering Emperor,51042,222,851
+outfits,outfit_location,61,replacement_item_id,5325,5325,Tauriner,285001,570,852
+outfits,outfit_location,62,replacement_item_id,5726,5726,BOSS Light Sugar,441537,1820,853
+outfits,outfit_location,63,replacement_item_id,5373,5373,Iron Plate,978267,2295,854
+outfits,outfit_location,64,replacement_item_id,5499,5499,Salmon Onigiri,563070,153,855
+outfits,outfit_location,65,replacement_item_id,6263,6263,Nourishment of the Seaking,21338,240,856
+outfits,outfit_location,67,replacement_item_id,5511,5511,Imuraya Pizza Bun,42194,1271,857
+outfits,outfit_location,68,replacement_item_id,5439,5439,Shiny Flower Ring,179956,1373,858
+outfits,outfit_location,69,replacement_item_id,5916,5916,Taiyaki Ice Cream,118522,407,859
+outfits,outfit_location,70,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,74907,129,860
+outfits,outfit_location,71,replacement_item_id,5506,5506,Healthy Balanced Bento,336626,653,861
+outfits,outfit_location,72,replacement_item_id,6045,6045,The Secret Ultimate Guide to Cooperative Fighting,27695,251,862
+outfits,outfit_location,73,replacement_item_id,5569,5569,Imuraya Castella,56568,323,863
+outfits,outfit_location,74,replacement_item_id,5498,5498,Tuna Onigiri,987828,179,864
+outfits,outfit_location,76,replacement_item_id,5434,5434,White Pearl Earrings,649768,179,865
+outfits,outfit_location,77,replacement_item_id,5505,5505,Pork Tonkatsu Bento,772824,455,866
+reward_table.bin.json,darts,9,replacement_item_id,5510,5510,Imuraya Bean Paste Bun,23261,460,875
+reward_table.bin.json,darts,10,replacement_item_id,5440,5440,Luxury Timepiece,697205,209,876
+reward_table.bin.json,darts,11,replacement_item_id,5734,5734,Natchan! Apple,19245,1739,877
+reward_table.bin.json,darts,12,replacement_item_id,5369,5369,Platinum Plate,141898,440,878
+reward_table.bin.json,darts,13,replacement_item_id,5914,5914,Azuki Bar BOX,292333,130,879
+reward_table.bin.json,darts,14,replacement_item_id,6261,6261,Taurener Maximum,216337,1773,880
+reward_table.bin.json,darts,15,replacement_item_id,5366,5366,Seven Stars,308706,340,881
+reward_table.bin.json,darts,16,replacement_item_id,5366,5366,Seven Stars,94218,238,882
+reward_table.bin.json,darts,17,replacement_item_id,6019,6019,Ceremonial Oath Sake Cup (Pine),502366,557,883
+reward_table.bin.json,darts,18,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,444700,258,884
+reward_table.bin.json,treasure_contents_table,323,replacement_item_id,5373,5373,Iron Plate,41551,2839,1025
+reward_table.bin.json,treasure_contents_table,324,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,681834,329,1026
+reward_table.bin.json,treasure_contents_table,325,replacement_item_id,5497,5497,Seaweed Onigiri,3787,4075,1027
+reward_table.bin.json,treasure_contents_table,326,replacement_item_id,6021,6021,Ceremonial Oath Sake Cup (Plum),527969,2446,1028
+reward_table.bin.json,treasure_contents_table,327,replacement_item_id,5575,5575,Teriyaki Smile Burger (Takeout),464989,1809,1029
+reward_table.bin.json,treasure_contents_table,328,replacement_item_id,5710,5710,SEGA Taiyaki,517191,376,1030
+reward_table.bin.json,treasure_contents_table,329,replacement_item_id,5513,5513,Imuraya Curry Bun,27054,135,1031
+reward_table.bin.json,treasure_contents_table,330,replacement_item_id,5327,5327,Staminan X,227548,4486,1032
+reward_table.bin.json,treasure_contents_table,331,replacement_item_id,5438,5438,Midnight Ring,7028,219,1033
+reward_table.bin.json,treasure_contents_table,332,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,483525,114,1034
+reward_table.bin.json,treasure_contents_table,333,replacement_item_id,5369,5369,Platinum Plate,21848,4631,1035
+reward_table.bin.json,treasure_contents_table,334,replacement_item_id,6260,6260,Staminan Royalle,292802,454,1036
+reward_table.bin.json,treasure_contents_table,335,replacement_item_id,5452,5452,Nine Gates Tile,2536,278,1037
+reward_table.bin.json,treasure_contents_table,336,replacement_item_id,5710,5710,SEGA Taiyaki,59708,1242,1038
+reward_table.bin.json,treasure_contents_table,337,replacement_item_id,5729,5729,Suntory Goma Mugicha,610360,1479,1039
+reward_table.bin.json,treasure_contents_table,338,replacement_item_id,5326,5326,Staminan Light,806518,260,1040
+reward_table.bin.json,treasure_contents_table,339,replacement_item_id,5439,5439,Shiny Flower Ring,9334,253,1041
+reward_table.bin.json,treasure_contents_table,340,replacement_item_id,5323,5323,Toughness Light,26192,301,1042
+reward_table.bin.json,treasure_contents_table,341,replacement_item_id,5708,5708,Pine Candy,303001,140,1043
+reward_table.bin.json,treasure_contents_table,342,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),200461,338,1044
+reward_table.bin.json,treasure_contents_table,343,replacement_item_id,5435,5435,Prima Heart Earrings,226186,920,1045
+reward_table.bin.json,treasure_contents_table,344,replacement_item_id,5579,5579,Divine Water,35053,3508,1046
+reward_table.bin.json,treasure_contents_table,345,replacement_item_id,5976,5976,Chu-Chu Tako Doll (Takoyaki),392280,4043,1047
+reward_table.bin.json,treasure_contents_table,346,replacement_item_id,5442,5442,Standard Timepiece,55809,1525,1048
+reward_table.bin.json,treasure_contents_table,347,replacement_item_id,5366,5366,Seven Stars,210672,554,1049
+reward_table.bin.json,treasure_contents_table,348,replacement_item_id,5996,5996,Staminan Royale,524487,110,1050
+reward_table.bin.json,treasure_contents_table,349,replacement_item_id,5579,5579,Divine Water,474426,394,1051
+reward_table.bin.json,treasure_contents_table,350,replacement_item_id,5710,5710,SEGA Taiyaki,200798,1002,1052
+reward_table.bin.json,treasure_contents_table,351,replacement_item_id,5512,5512,Imuraya Gold Steamed Bun,294456,1197,1053
+reward_table.bin.json,treasure_contents_table,352,replacement_item_id,5446,5446,Ten-Ten-One Charm,13571,963,1054
+reward_table.bin.json,treasure_contents_table,353,replacement_item_id,5502,5502,Oden,2958,1246,1055
+reward_table.bin.json,treasure_contents_table,354,replacement_item_id,6042,6042,The Basic Guide to Cooperative Fighting,199303,898,1056
+reward_table.bin.json,treasure_contents_table,355,replacement_item_id,5505,5505,Pork Tonkatsu Bento,62066,259,1057
+reward_table.bin.json,treasure_contents_table,356,replacement_item_id,5327,5327,Staminan X,42920,237,1058
+reward_table.bin.json,treasure_contents_table,357,replacement_item_id,5371,5371,Silver Plate,38272,770,1059
+reward_table.bin.json,treasure_contents_table,358,replacement_item_id,5501,5501,Tuna & Egg Sandwich,3627,2924,1060
+reward_table.bin.json,treasure_contents_table,359,replacement_item_id,5708,5708,Pine Candy,286057,592,1061
+reward_table.bin.json,treasure_contents_table,360,replacement_item_id,5514,5514,Super Cup 1.5x Pork Kimchi Ramen,11488,511,1062
+reward_table.bin.json,treasure_contents_table,361,replacement_item_id,6022,6022,Ceremonial Oath Sake Cup (Sakura),17837,467,1063
+reward_table.bin.json,treasure_contents_table,362,replacement_item_id,5731,5731,C.C. Lemon,22708,1219,1064
+reward_table.bin.json,treasure_contents_table,363,replacement_item_id,5844,5844,Renowned Akashiyaki,24391,414,1065
+reward_table.bin.json,treasure_contents_table,364,replacement_item_id,5511,5511,Imuraya Pizza Bun,71345,389,1066
+reward_table.bin.json,treasure_contents_table,365,replacement_item_id,5448,5448,Blackjack Amulet,270010,204,1067
+reward_table.bin.json,treasure_contents_table,366,replacement_item_id,5441,5441,High-end Timepiece,65058,646,1068
+reward_table.bin.json,treasure_contents_table,367,replacement_item_id,5729,5729,Suntory Goma Mugicha,349962,1034,1069
+reward_table.bin.json,treasure_contents_table,368,replacement_item_id,6265,6265,Nutrement of the Conquering Emperor,251070,1365,1070
+reward_table.bin.json,treasure_contents_table,369,replacement_item_id,5442,5442,Standard Timepiece,73788,392,1071
+reward_table.bin.json,treasure_contents_table,370,replacement_item_id,6020,6020,Ceremonial Oath Sake Cup (Bamboo),13228,208,1072
+reward_table.bin.json,treasure_contents_table,371,replacement_item_id,5732,5732,Mountain Dew,27910,454,1073
+reward_table.bin.json,treasure_contents_table,372,replacement_item_id,5328,5328,Staminan Spark,43717,1420,1074
+reward_table.bin.json,treasure_contents_table,373,replacement_item_id,5328,5328,Staminan Spark,9546,355,1075
+reward_table.bin.json,treasure_contents_table,374,replacement_item_id,5327,5327,Staminan X,504486,352,1076
+reward_table.bin.json,treasure_contents_table,375,replacement_item_id,5710,5710,SEGA Taiyaki,114430,4150,1077
+reward_table.bin.json,treasure_contents_table,376,replacement_item_id,5503,5503,Bento Lunch Set,43909,508,1078
+reward_table.bin.json,treasure_contents_table,378,replacement_item_id,5430,5430,Teardrop Earrings,577343,2078,1079
+reward_table.bin.json,treasure_contents_table,379,replacement_item_id,5521,5521,Sake,82071,4024,1080
+reward_table.bin.json,treasure_contents_table,380,replacement_item_id,6131,6131,Nutriment of the Conquering Emperor,15323,287,1081
+reward_table.bin.json,treasure_contents_table,381,replacement_item_id,5732,5732,Mountain Dew,824367,1707,1082
+reward_table.bin.json,treasure_contents_table,382,replacement_item_id,5508,5508,Sushi Set,16225,2827,1083
+reward_table.bin.json,treasure_contents_table,384,replacement_item_id,5435,5435,Prima Heart Earrings,43158,206,1084
+reward_table.bin.json,treasure_contents_table,386,replacement_item_id,5521,5521,Sake,73466,4029,1085
+reward_table.bin.json,treasure_contents_table,387,replacement_item_id,5369,5369,Platinum Plate,65174,455,1086
+reward_table.bin.json,treasure_contents_table,388,replacement_item_id,5578,5578,Smile Salad (Takeout),24183,1073,1087
+reward_table.bin.json,treasure_contents_table,390,replacement_item_id,5436,5436,Star Crossed Earrings,191007,385,1088
+reward_table.bin.json,treasure_contents_table,391,replacement_item_id,5498,5498,Tuna Onigiri,258692,673,1089
+reward_table.bin.json,treasure_contents_table,392,replacement_item_id,6013,6013,Quality Egg,537151,2078,1090
+reward_table.bin.json,treasure_contents_table,396,replacement_item_id,5556,5556,Ichiban Senbei (Salt),53697,936,1091
+reward_table.bin.json,treasure_contents_table,397,replacement_item_id,6018,6018,Mevius,29374,2548,1092
+reward_table.bin.json,treasure_contents_table,398,replacement_item_id,5373,5373,Iron Plate,50947,233,1093
+reward_table.bin.json,treasure_contents_table,399,replacement_item_id,5440,5440,Luxury Timepiece,671547,1697,1094
+reward_table.bin.json,treasure_contents_table,400,replacement_item_id,5436,5436,Star Crossed Earrings,254062,2899,1095
+reward_table.bin.json,treasure_contents_table,401,replacement_item_id,5576,5576,Smile Fries (Takeout),295126,777,1096
+reward_table.bin.json,treasure_contents_table,402,replacement_item_id,5505,5505,Pork Tonkatsu Bento,248748,236,1097
+reward_table.bin.json,treasure_contents_table,403,replacement_item_id,5846,5846,Shockin' Takoyaki,64331,409,1098
+reward_table.bin.json,treasure_contents_table,404,replacement_item_id,5923,5923,Okonomiyaki,140652,175,1099
+reward_table.bin.json,treasure_contents_table,405,replacement_item_id,5434,5434,White Pearl Earrings,4436,1098,1100
+reward_table.bin.json,treasure_contents_table,406,replacement_item_id,5325,5325,Tauriner,871905,337,1101
+reward_table.bin.json,treasure_contents_table,407,replacement_item_id,6019,6019,Ceremonial Oath Sake Cup (Pine),145464,1214,1102
+reward_table.bin.json,treasure_contents_table,408,replacement_item_id,5509,5509,Imuraya Steamed Bun,57511,555,1103
+reward_table.bin.json,treasure_contents_table,409,replacement_item_id,5990,5990,Toughness ZZ,156009,465,1104
+reward_table.bin.json,treasure_contents_table,410,replacement_item_id,5447,5447,Lucky Hanafuda Card,85740,335,1105
+reward_table.bin.json,treasure_contents_table,411,replacement_item_id,6021,6021,Ceremonial Oath Sake Cup (Plum),53265,120,1106
+reward_table.bin.json,treasure_contents_table,412,replacement_item_id,6259,6259,Stamina XX,84757,1721,1107
+reward_table.bin.json,treasure_contents_table,413,replacement_item_id,5518,5518,Drink to the Last Drop Dandan Noodles,185883,2298,1108
+reward_table.bin.json,treasure_contents_table,414,replacement_item_id,5325,5325,Tauriner,95023,1061,1109
+reward_table.bin.json,treasure_contents_table,415,replacement_item_id,5441,5441,High-end Timepiece,216609,1200,1110
+reward_table.bin.json,treasure_contents_table,416,replacement_item_id,5446,5446,Ten-Ten-One Charm,49207,1676,1111
+reward_table.bin.json,treasure_contents_table,417,replacement_item_id,5995,5995,Staminan XX,108181,1720,1112
+reward_table.bin.json,treasure_contents_table,418,replacement_item_id,5940,5940,Bust Amulet,51340,326,1113
+reward_table.bin.json,treasure_contents_table,419,replacement_item_id,5557,5557,Ichiban Fried Senbei,209896,1284,1114
+reward_table.bin.json,treasure_contents_table,420,replacement_item_id,5730,5730,Pepsi Nama,21391,1132,1115
+reward_table.bin.json,treasure_contents_table,421,replacement_item_id,5434,5434,White Pearl Earrings,344446,230,1116
+reward_table.bin.json,treasure_contents_table,422,replacement_item_id,5845,5845,Green Onion Akashiyaki,272735,3791,1117
+reward_table.bin.json,treasure_contents_table,423,replacement_item_id,5372,5372,Bronze Plate,13323,2446,1118
+reward_table.bin.json,treasure_contents_table,424,replacement_item_id,5725,5725,Premium BOSS,78356,180,1119
+reward_table.bin.json,treasure_contents_table,425,replacement_item_id,5511,5511,Imuraya Pizza Bun,60685,559,1120
+reward_table.bin.json,treasure_contents_table,426,replacement_item_id,6262,6262,Tougheness ZZ,70465,109,1121
+reward_table.bin.json,treasure_contents_table,427,replacement_item_id,5924,5924,Okonomiyaki (Mochi & Cheese),146357,1395,1122
+reward_table.bin.json,treasure_contents_table,428,replacement_item_id,5439,5439,Shiny Flower Ring,460642,352,1123
+reward_table.bin.json,treasure_contents_table,429,replacement_item_id,6264,6264,Refressment of the Sky King,3731,356,1124
+reward_table.bin.json,treasure_contents_table,430,replacement_item_id,6258,6258,Tooghness Infinity,47852,3144,1125
+reward_table.bin.json,treasure_contents_table,431,replacement_item_id,6265,6265,Nutrement of the Conquering Emperor,18869,154,1126
+reward_table.bin.json,treasure_contents_table,432,replacement_item_id,5725,5725,Premium BOSS,235641,335,1127
+reward_table.bin.json,treasure_contents_table,433,replacement_item_id,6265,6265,Nutrement of the Conquering Emperor,67370,281,1128
+reward_table.bin.json,treasure_contents_table,434,replacement_item_id,5441,5441,High-end Timepiece,24500,214,1129
+reward_table.bin.json,treasure_contents_table,435,replacement_item_id,5369,5369,Platinum Plate,6207,2345,1130
+reward_table.bin.json,treasure_contents_table,436,replacement_item_id,5736,5736,Suntory Sparkling Lemon Mineral Water,40517,3462,1131
+reward_table.bin.json,treasure_contents_table,437,replacement_item_id,5737,5737,Vitamin Water,781430,428,1132
+reward_table.bin.json,treasure_contents_table,438,replacement_item_id,5736,5736,Suntory Sparkling Lemon Mineral Water,33128,411,1133
+items.bin.json,aston_s_ebisuya,4,replacement_item_id,6018,6018,Mevius,382825,161,1134
+items.bin.json,aston_s_billiards_prize,5,replacement_item_id,6258,6258,Tooghness Infinity,150159,636,1135
+items.bin.json,aston_s_wannpark,6,replacement_item_id,6131,6131,Nutriment of the Conquering Emperor,239984,1633,1136
+items.bin.json,aston_y_shichiya,7,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,86173,301,1137
+items.bin.json,aston_y_lovemagic,8,replacement_item_id,5579,5579,Divine Water,7319,278,1138
+items.bin.json,aston_y_shogi,9,replacement_item_id,5432,5432,Heart Earrings,586350,117,1139
+items.bin.json,aston_s_shogi,10,replacement_item_id,5710,5710,SEGA Taiyaki,345223,150,1140
+items.bin.json,aston_s_golf,11,replacement_item_id,6043,6043,The Practical Guide to Cooperative Fighting,53639,201,1141
+items.bin.json,aston_s_toba,12,replacement_item_id,5499,5499,Salmon Onigiri,658655,401,1142
+items.bin.json,aston_y_toba,13,replacement_item_id,5371,5371,Silver Plate,33183,314,1143
+items.bin.json,aston_c_toba,14,replacement_item_id,5508,5508,Sushi Set,23569,400,1144
+items.bin.json,aston_c_casino,15,replacement_item_id,5505,5505,Pork Tonkatsu Bento,257953,715,1145
+items.bin.json,aston_c_boutique_equip,16,replacement_item_id,5923,5923,Okonomiyaki,131799,3765,1146
+items.bin.json,aston_c_boutique_vip,17,replacement_item_id,5446,5446,Ten-Ten-One Charm,39965,218,1147
+items.bin.json,aston_s_mizorogi_2,18,replacement_item_id,5730,5730,Pepsi Nama,69321,1037,1148
+items.bin.json,aston_s_poppo_park,19,replacement_item_id,5500,5500,Fresh Lettuce Sandwich,157919,891,1149
+items.bin.json,aston_s_poppo_west,20,replacement_item_id,5505,5505,Pork Tonkatsu Bento,322828,822,1150
+items.bin.json,aston_s_poppo_north,21,replacement_item_id,5452,5452,Nine Gates Tile,572363,908,1151
+items.bin.json,aston_y_poppo,22,replacement_item_id,5437,5437,Twinkle Heart Ring,182728,460,1152
+items.bin.json,aston_s_kukuru,23,replacement_item_id,5373,5373,Iron Plate,183077,1482,1153
+items.bin.json,aston_s_tsuruha,24,replacement_item_id,6019,6019,Ceremonial Oath Sake Cup (Pine),71691,1401,1154
+items.bin.json,aston_s_hiratai,25,replacement_item_id,6130,6130,Refreshment of the Sky King,76692,350,1155
+items.bin.json,aston_s_shigano,26,replacement_item_id,5447,5447,Lucky Hanafuda Card,5410,1602,1156
+items.bin.json,aston_y_smilewagon,27,replacement_item_id,5502,5502,Oden,39902,484,1157
+items.bin.json,aston_y_ichibann,28,replacement_item_id,5405,5405,Ono Michio Pixel Figure,62741,4903,1158
