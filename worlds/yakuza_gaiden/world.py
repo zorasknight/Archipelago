@@ -29,6 +29,13 @@ class YakuzaGaiden(World):
 
     origin_region_name = "Yokohama"
 
+    tracker_world = {
+        "map_page_folder": "tracker",
+        "map_page_maps": "maps.json",
+        "map_page_locations": "locations.json",
+        "map_page_layouts": "layouts.json",
+    }
+
     def create_regions(self) -> None:
         regions.create_and_connect_regions(self)
         locations.create_all_locations(self)

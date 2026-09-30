@@ -1,4 +1,5 @@
 import asyncio
+import json
 import logging
 
 tracker_loaded = False
@@ -27,13 +28,14 @@ from CommonClient import (
 class YakuzaGaidenContext(SuperContext):
     game = "Yakuza Gaiden"
 
-    def run_gui(self):
-        from kvui import GameManager
+    def make_gui(self):
+        base_manager = super().make_gui()
+
         from kivy.uix.boxlayout import BoxLayout
         from kivy.uix.button import Button
         from kivy.uix.label import Label
 
-        class YakuzaGaidenManager(GameManager):
+        class YakuzaGaidenManager(base_manager):
             logging_pairs = [
                 ("Client", "Archipelago")
             ]
@@ -104,7 +106,6 @@ class YakuzaGaidenContext(SuperContext):
                     logging.getLogger("Client").exception(
                         "Failed to create randomizer folder."
                     )
-
 
             def run_randomizer(self, _button):
                 try:
@@ -209,12 +210,43 @@ class YakuzaGaidenContext(SuperContext):
 
                 return root
 
-        self.ui = YakuzaGaidenManager(self)
-        self.ui_task = asyncio.create_task(
-            self.ui.async_run(),
-            name="UI",
+        return YakuzaGaidenManager
+
+async def handle_status_client(reader, writer):
+    try:
+        command = await reader.readline()
+
+        if command.decode().strip().upper() != "STATUS":
+            writer.write(b'{"error":"unknown command"}\n')
+            await writer.drain()
+            return
+
+        ctx = handle_status_client.ctx
+
+        server = ctx.server_address
+
+        if server and "@" in server:
+            server = server.split("@", 1)[1]
+
+        if server and server.startswith("wss://"):
+            server = server[6:]
+
+        response = {
+            "connected": ctx.server is not None,
+            "server": server,
+            "slot": getattr(ctx, "auth", None),
+            "password": "" if ctx.password in (None, "None") else ctx.password,
+        }
+
+        writer.write(
+            (json.dumps(response) + "\n").encode("utf-8")
         )
 
+        await writer.drain()
+
+    finally:
+        writer.close()
+        await writer.wait_closed()
 
 def launch():
     async def main(args):
@@ -222,6 +254,14 @@ def launch():
             args.connect,
             args.password,
         )
+
+        status_server = await asyncio.start_server(
+            handle_status_client,
+            "127.0.0.1",
+            38282,
+        )
+
+        handle_status_client.ctx = ctx
 
         ctx.server_task = asyncio.create_task(
             server_loop(ctx),
@@ -237,6 +277,9 @@ def launch():
         ctx.run_cli()
 
         await ctx.exit_event.wait()
+
+        status_server.close()
+        await status_server.wait_closed()
 
         ctx.server_address = None
 

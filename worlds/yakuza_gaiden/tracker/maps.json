@@ -1,9 +1,23 @@
 [
     {
         "name": "sotenbori",
-        "location_size": 24,
-        "location_border_thickness": 2,
+        "location_size": 25,
+        "location_border_thickness": 3,
         "location_shape": "rect",
         "img": "images/map/sotenbori.png"
+    },
+    {
+        "name": "yokohama",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "location_shape": "rect",
+        "img": "images/map/yokohama.png"
+    },
+    {
+        "name": "castle",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "location_shape": "rect",
+        "img": "images/map/castle.png"
     }
 ]

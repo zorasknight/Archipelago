@@ -1,41 +1,1447 @@
 [
     {
-        "name": "Saints Mission #02: Appointed Defender",
-        "sections": [
-            {
-                "name": "Saints Mission #02: Appointed Defender"
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "sotenbori",
-                "x": 1573,
-                "y": 1324
-            }
-        ]
+        "name": "Wire 1 Bunzaemon and East Shofukucho intersection", "sections": [ { "name": "[So] Wire 1 Bunzaemon and East Shofukucho intersection" } ], "map_locations": [ { "map": "sotenbori", "x": 1440, "y": 1060 } ]
     },
     {
-        "name": "Aisha's House",
+        "name": "Wire 2 West of Ashitaba Park Shofukucho Blue Sign", "sections": [ { "name": "[So] Wire 2 West of Ashitaba Park Shofukucho Blue Sign" } ], "map_locations": [ { "map": "sotenbori", "x": 980, "y": 1260 } ]
+    },
+    {
+        "name": "Wire 3 Next to Akame's entrance", "sections": [ { "name": "[So] Wire 3 Next to Akame's entrance" } ], "map_locations": [ { "map": "sotenbori", "x": 1135, "y": 1700 } ]
+    },
+    {
+        "name": "Wire 4 Across building at Yotsudera Kaikan roof northwest corner", "sections": [ { "name": "[So] Wire 4 Across building at Yotsudera Kaikan roof northwest corner" } ], "map_locations": [ { "map": "sotenbori", "x": 390, "y": 1400 } ]
+    },
+    {
+        "name": "Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall", "sections": [ { "name": "[So] Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall" } ], "map_locations": [ { "map": "sotenbori", "x": 1480, "y": 1000 } ]
+    },
+    {
+        "name": "Wire 6 Above Soten-Wrestling at South Shofukucho", "sections": [ { "name": "[So] Wire 6 Above Soten-Wrestling at South Shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 700, "y": 1630 } ]
+    },
+    {
+        "name": "Wire 7 Outside Daidoji Hideout", "sections": [ { "name": "[So] Wire 7 Outside Daidoji Hideout" } ], "map_locations": [ { "map": "sotenbori", "x": 100, "y": 1200 } ]
+    },
+    {
+        "name": "Wire 8 Street lamp outside Poppo Mart", "sections": [ { "name": "[So] Wire 8 Street lamp outside Poppo Mart" } ], "map_locations": [ { "map": "sotenbori", "x": 290, "y": 1020 } ]
+    },
+    {
+        "name": "Wire 9 2nd floor balcony at corner by cabbaret", "sections": [ { "name": "[So] Wire 9 2nd floor balcony at corner by cabbaret" } ], "map_locations": [ { "map": "sotenbori", "x": 950, "y": 980 } ]
+    },
+    {
+        "name": "Wire 10 Above black car in parking lot across from Wild Jackson's", "sections": [ { "name": "[So] Wire 10 Above black car in parking lot across from Wild Jackson's" } ], "map_locations": [ { "map": "sotenbori", "x": 630, "y": 950 } ]
+    },
+    {
+        "name": "Wire 11 Above the Four Shine banner", "sections": [ { "name": "[So] Wire 11 Above the Four Shine banner" } ], "map_locations": [ { "map": "sotenbori", "x": 910, "y": 1400 } ]
+    },
+    {
+        "name": "Wire 12 Mikey Sign E Shofukuchu near Ebisuya Pawn", "sections": [ { "name": "[So] Wire 12 Mikey Sign E Shofukuchu near Ebisuya Pawn" } ], "map_locations": [ { "map": "sotenbori", "x": 1240, "y": 1040 } ]
+    },
+    {
+        "name": "Wire 13 Middle light south center of shofukucho", "sections": [ { "name": "[So] Wire 13 Middle light south center of shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 760, "y": 1110 } ]
+    },
+    {
+        "name": "Wire 14 East Bunzaemon Taxi drink dispensers", "sections": [ { "name": "[So] Wire 14 East Bunzaemon Taxi drink dispensers" } ], "map_locations": [ { "map": "sotenbori", "x": 1910, "y": 940 } ]
+    },
+    {
+        "name": "Wire 15 North side of Iwao Bridge on Air conditioner below Pizza NY sign", "sections": [ { "name": "[So] Wire 15 North side of Iwao Bridge on Air conditioner below Pizza NY sign" } ], "map_locations": [ { "map": "sotenbori", "x": 1690, "y": 580 } ]
+    },
+    {
+        "name": "Wire 16 Above Hiratai satelite dish south Sotenbori Footpath", "sections": [ { "name": "[So] Wire 16 Above Hiratai satelite dish south Sotenbori Footpath" } ], "map_locations": [ { "map": "sotenbori", "x": 1160, "y": 840 } ]
+    },
+    {
+        "name": "Wire 17 Hotel Ballon sign S. Shofukucho", "sections": [ { "name": "[So] Wire 17 Hotel Ballon sign S. Shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 1000, "y": 1670 } ]
+    },
+    {
+        "name": "Wire 18 Outside Mizorogi's shop on awning", "sections": [ { "name": "[So] Wire 18 Outside Mizorogi's shop on awning" } ], "map_locations": [ { "map": "sotenbori", "x": 420, "y": 480 } ]
+    },
+    {
+        "name": "Wire 19 On top of tan beach umbrella northern Sotenbori Footpath", "sections": [ { "name": "[So] Wire 19 On top of tan beach umbrella northern Sotenbori Footpath" } ], "map_locations": [ { "map": "sotenbori", "x": 1060, "y": 600 } ]
+    },
+    {
+        "name": "Wire 20 Pine nut sign northern Bishamon Bridge", "sections": [ { "name": "[So] Wire 20 Pine nut sign northern Bishamon Bridge" } ], "map_locations": [ { "map": "sotenbori", "x": 450, "y": 570 } ]
+    },
+    {
+        "name": "Wire 21 Dragon mouth outside of Kinryu Ramen", "sections": [ { "name": "[So] Wire 21 Dragon mouth outside of Kinryu Ramen" } ], "map_locations": [ { "map": "sotenbori", "x": 640, "y": 350 } ]
+    },
+    {
+        "name": "Wire 22 Cabaret Grand Sign north west city limits", "sections": [ { "name": "[So] Wire 22 Cabaret Grand Sign north west city limits" } ], "map_locations": [ { "map": "sotenbori", "x": 330, "y": 375 } ]
+    },
+    {
+        "name": "Wire 23 Inside Meat Flower under pig across Cabaret Grand", "sections": [ { "name": "[So] Wire 23 Inside Meat Flower under pig across Cabaret Grand" } ], "map_locations": [ { "map": "sotenbori", "x": 480, "y": 260 } ]
+    },
+    {
+        "name": "Wire 24 Top of Blue Oni's crown S. Sotenbori St.", "sections": [ { "name": "[So] Wire 24 Top of Blue Oni's crown S. Sotenbori St." } ], "map_locations": [ { "map": "sotenbori", "x": 740, "y": 490 } ]
+    },
+    {
+        "name": "Wire 25 On top of bronze takoyaki", "sections": [ { "name": "[So] Wire 25 On top of bronze takoyaki" } ], "map_locations": [ { "map": "sotenbori", "x": 970, "y": 1100 } ]
+    },
+    {
+        "name": "Wire 26 Above Revenge Books at East Shofokucho", "sections": [ { "name": "[So] Wire 26 Above Revenge Books at East Shofokucho" } ], "map_locations": [ { "map": "sotenbori", "x": 1640, "y": 1040 } ]
+    },
+    {
+        "name": "Wire 27 Club Sega 3rd light item", "sections": [ { "name": "[So] Wire 27 Club Sega 3rd light item" } ], "map_locations": [ { "map": "sotenbori", "x": 1350, "y": 350 } ]
+    },
+    {
+        "name": "Wire 28 Ganko Sushi Sign Sotenbori St.", "sections": [ { "name": "[So] Wire 28 Ganko Sushi Sign Sotenbori St." } ], "map_locations": [ { "map": "sotenbori", "x": 1200, "y": 330 } ]
+    },
+    {
+        "name": "Wire 29 On top of the giant crab outside of Kani Douraku", "sections": [ { "name": "[So] Wire 29 On top of the giant crab outside of Kani Douraku" } ], "map_locations": [ { "map": "sotenbori", "x": 1470, "y": 490 } ]
+    },
+    {
+        "name": "Wire 30 High up in the music note along the eastern wall past Iwao Bridge", "sections": [ { "name": "[So] Wire 30 High up in the music note along the eastern wall past Iwao Bridge" } ], "map_locations": [ { "map": "sotenbori", "x": 1660, "y": 440 } ]
+    },
+    {
+        "name": "Wire 31 Above green sign W Shofokucho", "sections": [ { "name": "[So] Wire 31 Above green sign W Shofokucho" } ], "map_locations": [ { "map": "sotenbori", "x": 370, "y": 1080 } ]
+    },
+    {
+        "name": "Wire 32 Christmas wreath across from Club Sega", "sections": [ { "name": "[So] Wire 32 Christmas wreath across from Club Sega" } ], "map_locations": [ { "map": "sotenbori", "x": 1270, "y": 540 } ]
+    },
+    {
+        "name": "Wire 33 Northwest corner of the southwest parking spot", "sections": [ { "name": "[So] Wire 33 Northwest corner of the southwest parking spot" } ], "map_locations": [ { "map": "sotenbori", "x": 260, "y": 1510 } ]
+    },
+    {
+        "name": "Wire 34 Sunshine verticle sign on the \"i\" W Shofukucho", "sections": [ { "name": "[So] Wire 34 Sunshine verticle sign on the \"i\" W Shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 470, "y": 1360 } ]
+    },
+    {
+        "name": "Wire 35 Above Poppo sign at Ashitaba Park", "sections": [ { "name": "[So] Wire 35 Above Poppo sign at Ashitaba Park" } ], "map_locations": [ { "map": "sotenbori", "x": 1320, "y": 1400 } ]
+    },
+    {
+        "name": "Wire 36 South building via Yotsudera Kaikan 3F", "sections": [ { "name": "[So] Wire 36 South building via Yotsudera Kaikan 3F" } ], "map_locations": [ { "map": "sotenbori", "x": 580, "y": 1640 } ]
+    },
+    {
+        "name": "Wire 37 Cow sign above South Poppo Mart", "sections": [ { "name": "[So] Wire 37 Cow sign above South Poppo Mart" } ], "map_locations": [ { "map": "sotenbori", "x": 410, "y": 930 } ]
+    },
+    {
+        "name": "Wire 38 Tonkatsu ramen sign across west side of Bishamon Bridge", "sections": [ { "name": "[So] Wire 38 Tonkatsu ramen sign across west side of Bishamon Bridge" } ], "map_locations": [ { "map": "sotenbori", "x": 460, "y": 800 } ]
+    },
+    {
+        "name": "Wire 39 Imuraya Ice cream sign near northern entrance to sotenbori", "sections": [ { "name": "[So] Wire 39 Imuraya Ice cream sign near northern entrance to sotenbori" } ], "map_locations": [ { "map": "sotenbori", "x": 550, "y": 280 } ]
+    },
+    {
+        "name": "Wire 1 South of Ichiban Confections within stairway", "sections": [ { "name": "[Yo] Wire 1 South of Ichiban Confections within stairway" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 2 East side of the poppo mart building N. Sakura River St.", "sections": [ { "name": "[Yo] Wire 2 East side of the poppo mart building N. Sakura River St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 3 Electric pole on top of Parking Garage S. Sakura River St.", "sections": [ { "name": "[Yo] Wire 3 Electric pole on top of Parking Garage S. Sakura River St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 4 Clothes Rack on 2nd floor balcony Misaki St", "sections": [ { "name": "[Yo] Wire 4 Clothes Rack on 2nd floor balcony Misaki St" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 5 Behind Trash Pile near Shogi Central St.", "sections": [ { "name": "[Yo] Wire 5 Behind Trash Pile near Shogi Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 6 Seriyu clan crest Romance St.", "sections": [ { "name": "[Yo] Wire 6 Seriyu clan crest Romance St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 7 Above 40/50 sign Ohama St.", "sections": [ { "name": "[Yo] Wire 7 Above 40/50 sign Ohama St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 8 Behind west wooden gate on steps Misaki St. Alleyway", "sections": [ { "name": "[Yo] Wire 8 Behind west wooden gate on steps Misaki St. Alleyway" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 9 Street lamp outside Poppo Mart W Tsurukame Hwy.", "sections": [ { "name": "[Yo] Wire 9 Street lamp outside Poppo Mart W Tsurukame Hwy." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 10 On top of Crane S Sakura River St.", "sections": [ { "name": "[Yo] Wire 10 On top of Crane S Sakura River St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 11 Outside arcade 2nd floor balcony E. Tsurukame Alley", "sections": [ { "name": "[Yo] Wire 11 Outside arcade 2nd floor balcony E. Tsurukame Alley" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 13 Under small bridge S. Sakura River St.", "sections": [ { "name": "[Yo] Wire 13 Under small bridge S. Sakura River St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 14 Hello Work sign Central St.", "sections": [ { "name": "[Yo] Wire 14 Hello Work sign Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 15 Homeless Camp South tree S Sakura River St.", "sections": [ { "name": "[Yo] Wire 15 Homeless Camp South tree S Sakura River St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 16 Elephant trunk Romance St.", "sections": [ { "name": "[Yo] Wire 16 Elephant trunk Romance St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 17 Cow sign between Central St and Romance St.", "sections": [ { "name": "[Yo] Wire 17 Cow sign between Central St and Romance St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 18 Construction Lot north end Central St.", "sections": [ { "name": "[Yo] Wire 18 Construction Lot north end Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 19 Love Magic Sign Romance St.", "sections": [ { "name": "[Yo] Wire 19 Love Magic Sign Romance St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 20 Bike on side path of Hello Work Central St.", "sections": [ { "name": "[Yo] Wire 20 Bike on side path of Hello Work Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 21 South map border by Shogi Central St.", "sections": [ { "name": "[Yo] Wire 21 South map border by Shogi Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 22 Inside Stone Lamp W. Tsurukame Alley", "sections": [ { "name": "[Yo] Wire 22 Inside Stone Lamp W. Tsurukame Alley" } ], "map_locations": [ { "map": "yokohama", "x": 710, "y": 470 } ]
+    },
+    {
+        "name": "Wire 23 Satelite dish high up Misaki St. Alleyway", "sections": [ { "name": "[Yo] Wire 23 Satelite dish high up Misaki St. Alleyway" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 24 2nd Floor Window Mahjong Building Sakura Lane", "sections": [ { "name": "[Yo] Wire 24 2nd Floor Window Mahjong Building Sakura Lane" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 25 2nd floor Mahjong building Chandelier east entrance", "sections": [ { "name": "[Yo] Wire 25 2nd floor Mahjong building Chandelier east entrance" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 26 2nd Floor Mahjong building blocked stairs to third floor", "sections": [ { "name": "[Yo] Wire 26 2nd Floor Mahjong building blocked stairs to third floor" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 27 2nd floor balcony W Central St.", "sections": [ { "name": "[Yo] Wire 27 2nd floor balcony W Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 28 Inside Gated property W. Central St.", "sections": [ { "name": "[Yo] Wire 28 Inside Gated property W. Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 29 Street Lamp on parking lot corner E. Central St.", "sections": [ { "name": "[Yo] Wire 29 Street Lamp on parking lot corner E. Central St." } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 30 2nd floor balcony W Tsurukame Alley", "sections": [ { "name": "[Yo] Wire 30 2nd floor balcony W Tsurukame Alley" } ], "map_locations": [ { "map": "yokohama", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 1 Casino back wall, VIP section", "sections": [ { "name": "[Co] Wire 1 Casino back wall, VIP section" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 2 On top of northern speakers Center Colosseum", "sections": [ { "name": "[Co] Wire 2 On top of northern speakers Center Colosseum" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 3 On top of spinning fist statue Southern Central Street", "sections": [ { "name": "[Co] Wire 3 On top of spinning fist statue Southern Central Street" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 4 On top of gold water tube Northern Entrance", "sections": [ { "name": "[Co] Wire 4 On top of gold water tube Northern Entrance" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 5 On shipping crate over railing Southern Entrance, right of Cat", "sections": [ { "name": "[Co] Wire 5 On shipping crate over railing Southern Entrance, right of Cat" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 6 On top of blue umbrella Southern Central Street", "sections": [ { "name": "[Co] Wire 6 On top of blue umbrella Southern Central Street" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 7 Cat statue hand Southern entrance", "sections": [ { "name": "[Co] Wire 7 Cat statue hand Southern entrance" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 8 In fire southside of Twin Ogre Gate", "sections": [ { "name": "[Co] Wire 8 In fire southside of Twin Ogre Gate" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 9 Gold Lounge above speaker north west wall", "sections": [ { "name": "[Co] Wire 9 Gold Lounge above speaker north west wall" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 10 On top of Southern Partition Central Colosseum", "sections": [ { "name": "[Co] Wire 10 On top of Southern Partition Central Colosseum" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 11 Golden Balls of Oni Outside Fighter's Lounge", "sections": [ { "name": "[Co] Wire 11 Golden Balls of Oni Outside Fighter's Lounge" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 12 Warrior's Bar above the sign fighter's lounge", "sections": [ { "name": "[Co] Wire 12 Warrior's Bar above the sign fighter's lounge" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 13 Center colosseum on a wooden spike", "sections": [ { "name": "[Co] Wire 13 Center colosseum on a wooden spike" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 14 Casino entrance chandelier", "sections": [ { "name": "[Co] Wire 14 Casino entrance chandelier" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 15 Inside North Oni Mouth at Twin Ogre Gate", "sections": [ { "name": "[Co] Wire 15 Inside North Oni Mouth at Twin Ogre Gate" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 17 On Sign for Toba up above Central Street", "sections": [ { "name": "[Co] Wire 17 On Sign for Toba up above Central Street" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 18 Tree in Gambling Hall Center", "sections": [ { "name": "[Co] Wire 18 Tree in Gambling Hall Center" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 19 On top of Sign middle of colosseum Gold Lounge", "sections": [ { "name": "[Co] Wire 19 On top of Sign middle of colosseum Gold Lounge" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Wire 20 Chandelier in Colosseum Lounge", "sections": [ { "name": "[Co] Wire 20 Chandelier in Colosseum Lounge" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerA1 Cafe Miel planter", "sections": [ { "name": "[So] CoinlockerA1 Cafe Miel planter" } ], "map_locations": [ { "map": "sotenbori", "x": 1120, "y": 1510 } ]
+    },
+    {
+        "name": "CoinlockerB1 Ashitaba Park urinal", "sections": [ { "name": "[So] CoinlockerB1 Ashitaba Park urinal" } ], "map_locations": [ { "map": "sotenbori", "x": 1150, "y": 1190 } ]
+    },
+    {
+        "name": "CoinlockerC1 Behind golden turtle", "sections": [ { "name": "[So] CoinlockerC1 Behind golden turtle" } ], "map_locations": [ { "map": "sotenbori", "x": 630, "y": 1085 } ]
+    },
+    {
+        "name": "CoinlockerD1 Behind planter near Grand", "sections": [ { "name": "[So] CoinlockerD1 Behind planter near Grand" } ], "map_locations": [ { "map": "sotenbori", "x": 300, "y": 350 } ]
+    },
+    {
+        "name": "CoinlockerE1 Next to coin lockers", "sections": [ { "name": "[So] CoinlockerE1 Next to coin lockers" } ], "map_locations": [ { "map": "sotenbori", "x": 480, "y": 845 } ]
+    },
+    {
+        "name": "CoinlockerF1 Daidoji base", "sections": [ { "name": "[So] CoinlockerF1 Daidoji base" } ], "map_locations": [ { "map": "sotenbori", "x": 50, "y": 1250 } ]
+    },
+    {
+        "name": "CoinlockerG1 Fourshine entrance", "sections": [ { "name": "[So] CoinlockerG1 Fourshine entrance" } ], "map_locations": [ { "map": "sotenbori", "x": 930, "y": 1330 } ]
+    },
+    {
+        "name": "CoinlockerH1 Upstairs near office next to coin lockers", "sections": [ { "name": "[So] CoinlockerH1 Upstairs near office next to coin lockers" } ], "map_locations": [ { "map": "sotenbori", "x": 480, "y": 920 } ]
+    },
+    {
+        "name": "CoinlockerI1 Courstar sink", "sections": [ { "name": "[PC] CoinlockerI1 Courstar sink" } ], "map_locations": [ { "map": "sotenbori", "x": 1670, "y": 1120 } ]
+    },
+    {
+        "name": "CoinlockerJ1 Kiss Shot Billiards", "sections": [ { "name": "[So] CoinlockerJ1 Kiss Shot Billiards" } ], "map_locations": [ { "map": "sotenbori", "x": 290, "y": 1450 } ]
+    },
+    {
+        "name": "CoinlockerA2 North Poppo", "sections": [ { "name": "[So] CoinlockerA2 North Poppo" } ], "map_locations": [ { "map": "sotenbori", "x": 1885, "y": 230 } ]
+    },
+    {
+        "name": "CoinlockerB2 Parking garage near Courstar", "sections": [ { "name": "[So] CoinlockerB2 Parking garage near Courstar" } ], "map_locations": [ { "map": "sotenbori", "x": 1830, "y": 1040 } ]
+    },
+    {
+        "name": "CoinlockerC2 Bunny girl tray northside colosseum", "sections": [ { "name": "[Co] CoinlockerC2 Bunny girl tray northside colosseum" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerD2 Info booth near Cabaret Club", "sections": [ { "name": "[So] CoinlockerD2 Info booth near Cabaret Club" } ], "map_locations": [ { "map": "sotenbori", "x": 1175, "y": 900 } ]
+    },
+    {
+        "name": "CoinlockerE2 Pathway to Daidoji Base", "sections": [ { "name": "[So] CoinlockerE2 Pathway to Daidoji Base" } ], "map_locations": [ { "map": "sotenbori", "x": 230, "y": 1180 } ]
+    },
+    {
+        "name": "CoinlockerF2 Bar Stijl", "sections": [ { "name": "[So] CoinlockerF2 Bar Stijl" } ], "map_locations": [ { "map": "sotenbori", "x": 640, "y": 515 } ]
+    },
+    {
+        "name": "CoinlockerG2 Wire Blowfish decoration", "sections": [ { "name": "[So] CoinlockerG2 Wire Blowfish decoration" } ], "map_locations": [ { "map": "sotenbori", "x": 1000, "y": 440 } ]
+    },
+    {
+        "name": "CoinlockerH2 Richi Tower's Mahjong", "sections": [ { "name": "[So] CoinlockerH2 Richi Tower's Mahjong" } ], "map_locations": [ { "map": "sotenbori", "x": 370, "y": 1140 } ]
+    },
+    {
+        "name": "CoinlockerI2 Wire Big Octopus decoration", "sections": [ { "name": "[So] CoinlockerI2 Wire Big Octopus decoration" } ], "map_locations": [ { "map": "sotenbori", "x": 830, "y": 380 } ]
+    },
+    {
+        "name": "CoinlockerJ2 Paper Lanterns Bishamon bridge", "sections": [ { "name": "[So] CoinlockerJ2 Paper Lanterns Bishamon bridge" } ], "map_locations": [ { "map": "sotenbori", "x": 500, "y": 700 } ]
+    },
+    {
+        "name": "CoinlockerA3 Northwest of Kukuru", "sections": [ { "name": "[So] CoinlockerA3 Northwest of Kukuru" } ], "map_locations": [ { "map": "sotenbori", "x": 1640, "y": 320 } ]
+    },
+    {
+        "name": "CoinlockerB3 Club Sega", "sections": [ { "name": "[So] CoinlockerB3 Club Sega" } ], "map_locations": [ { "map": "sotenbori", "x": 1390, "y": 290 } ]
+    },
+    {
+        "name": "CoinlockerC3 Castle Cabaret", "sections": [ { "name": "[Co] CoinlockerC3 Castle Cabaret" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerD3 Wire Sesil Coffee sign", "sections": [ { "name": "[So] CoinlockerD3 Wire Sesil Coffee sign" } ], "map_locations": [ { "map": "sotenbori", "x": 1510, "y": 1300 } ]
+    },
+    {
+        "name": "CoinlockerE3 Wire Lucky Cat", "sections": [ { "name": "[So] CoinlockerE3 Wire Lucky Cat" } ], "map_locations": [ { "map": "sotenbori", "x": 1130, "y": 950 } ]
+    },
+    {
+        "name": "CoinlockerF3 Wire Koi-koi window ornament", "sections": [ { "name": "[Co] CoinlockerF3 Wire Koi-koi window ornament" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerG3 Gold rank VIP Pool", "sections": [ { "name": "[Co] CoinlockerG3 Gold rank VIP Pool" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerH3 North of Kukuru on top of overhang", "sections": [ { "name": "[So] CoinlockerH3 North of Kukuru on top of overhang" } ], "map_locations": [ { "map": "sotenbori", "x": 1780, "y": 320 } ]
+    },
+    {
+        "name": "CoinlockerI3 Southwest vent Shofukucho", "sections": [ { "name": "[So] CoinlockerI3 Southwest vent Shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 470, "y": 1630 } ]
+    },
+    {
+        "name": "CoinlockerJ3 Boutique shelf", "sections": [ { "name": "[Co] CoinlockerJ3 Boutique shelf" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerA4 Helipad railing", "sections": [ { "name": "[Co] CoinlockerA4 Helipad railing" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerB4 Bell on Iwao Bridge", "sections": [ { "name": "[So] CoinlockerB4 Bell on Iwao Bridge" } ], "map_locations": [ { "map": "sotenbori", "x": 1550, "y": 740 } ]
+    },
+    {
+        "name": "CoinlockerC4 Platinum Rank Koi-koi", "sections": [ { "name": "[Co] CoinlockerC4 Platinum Rank Koi-koi" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerD4 Silver Rank Above Fighter's Lounge TV", "sections": [ { "name": "[Co] CoinlockerD4 Silver Rank Above Fighter's Lounge TV" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerE4 Alongside north entrance wall", "sections": [ { "name": "[Co] CoinlockerE4 Alongside north entrance wall" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerF4 Between buildings Yotsudera Kaikan SE corner", "sections": [ { "name": "[So] CoinlockerF4 Between buildings Yotsudera Kaikan SE corner" } ], "map_locations": [ { "map": "sotenbori", "x": 580, "y": 1550 } ]
+    },
+    {
+        "name": "CoinlockerG4 Planter near Boutique", "sections": [ { "name": "[Co] CoinlockerG4 Planter near Boutique" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerH4 Wire Clown nose", "sections": [ { "name": "[Co] CoinlockerH4 Wire Clown nose" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerI4 Wire South footpath tree", "sections": [ { "name": "[So] CoinlockerI4 Wire South footpath tree" } ], "map_locations": [ { "map": "sotenbori", "x": 700, "y": 800 } ]
+    },
+    {
+        "name": "CoinlockerJ4 Wire Gold rank VIP lounge high up", "sections": [ { "name": "[Co] CoinlockerJ4 Wire Gold rank VIP lounge high up" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerA5 Sunshine planter", "sections": [ { "name": "[So] CoinlockerA5 Sunshine planter" } ], "map_locations": [ { "map": "sotenbori", "x": 480, "y": 1290 } ]
+    },
+    {
+        "name": "CoinlockerB5 North ledge near fountains", "sections": [ { "name": "[Co] CoinlockerB5 North ledge near fountains" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerC5 Rickshaw stop shelf", "sections": [ { "name": "[Co] CoinlockerC5 Rickshaw stop shelf" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerD5 Wire Shipping containers near Twin Ogre Gate", "sections": [ { "name": "[Co] CoinlockerD5 Wire Shipping containers near Twin Ogre Gate" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerE5 Folding screen 2nd floor gambling hall", "sections": [ { "name": "[Co] CoinlockerE5 Folding screen 2nd floor gambling hall" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerF5 Platinum rank Poker", "sections": [ { "name": "[Co] CoinlockerF5 Platinum rank Poker" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerG5 Gold rank VIP boutique", "sections": [ { "name": "[Co] CoinlockerG5 Gold rank VIP boutique" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerH5 Yotsudera Kaikan rooftop under table", "sections": [ { "name": "[So] CoinlockerH5 Yotsudera Kaikan rooftop under table" } ], "map_locations": [ { "map": "sotenbori", "x": 560, "y": 1430 } ]
+    },
+    {
+        "name": "CoinlockerI5 Silver rank Fighters Lounge trash can", "sections": [ { "name": "[Co] CoinlockerI5 Silver rank Fighters Lounge trash can" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "CoinlockerJ5 Coliseum Lobby by chairs", "sections": [ { "name": "[Co] CoinlockerJ5 Coliseum Lobby by chairs" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Karaoke Tasks",
         "sections": [
-            {
-                "name": "Saints Mission #03: Down Payment"
-            },
-            {
-                "name": "Ronin Mission #02: Laundry Day"
-            },
-            {
-                "name": "Ronin Mission #03: Road Rage"
-            },
-            {
-                "name": "Ronin Mission #04: Bleeding Out"
-            }
+            { "name": "[Task] Sing Me \"Sayonara, Silent Night\"" },
+            { "name": "[Task] Let's Hear \"Shin Ichizu Samurai\"!" },
+            { "name": "[Task] Score a 90 on \"Baka Mitai\"!" },
+            { "name": "[Task] Score a 90 on \"Hands\"!" },
+            { "name": "[Task] Score a 90 on \"Hands\"!" }
         ],
-        "map_locations": [
-            {
-                "map": "sotenbori",
-                "x": 1467,
-                "y": 304
-            }
-        ]
+        "map_locations": [ { "map": "sotenbori", "x": 300, "y": 1200 } ]
+    },
+    {
+        "name": "Park Tasks",
+        "sections": [
+            { "name": "[Task] I Want a Convenience Store Bento!" },
+            { "name": "[Task] Today's a Boozin Day" },
+            { "name": "[Task] Somethin' for the Pain" },
+            { "name": "[Task] Tissue, Wipes, Anything!" },
+            { "name": "[Task] An Egg-cellent Idea" },
+            { "name": "[Task] The Luxury Yakiniku Bento Dream" },
+            { "name": "[Task] If Only I Had an Energy Drink..." }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1230, "y": 1300 } ]
+    },
+    {
+        "name": "Stijl Tasks",
+        "sections": [
+            { "name": "[Task] A Friendly Game of Darts" },
+            { "name": "[Task] Find the Flying Takoyaki!" },
+            { "name": "[Task] Find the Terrifying Beings!" },
+            { "name": "[Task] Find the Cute Cafe!" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 640, "y": 550 } ]
+    },
+    {
+        "name": "Pool Tasks",
+        "sections": [
+            { "name": "[Task] Complete a 1-Shot Challenge on Easy!" },
+            { "name": "[Task] Complete a 1-Shot Challenge on Normal!" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 300, "y": 1500 } ]
+    },
+    {
+        "name": "Golf Tasks",
+        "sections": [
+            { "name": "[Task] Four Golf Bingos!" },
+            { "name": "[Task] Eight Golf Bingos!" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 930, "y": 320 } ]
+    },
+    {
+        "name": "Informant Tasks",
+        "sections": [
+            { "name": "[Task] Challenge to the Informant #1" },
+            { "name": "[Task] Challenge to the Informant #2" },
+            { "name": "[Task] Challenge to the Informant #3" },
+            { "name": "[Task] Challenge to the Informant #4" },
+            { "name": "[Task] Challenge to the Informant #5" },
+            { "name": "[Task] Challenge to the Informant #6" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 450, "y": 880 } ]
+    },
+    {
+        "name": "SEGA Tasks",
+        "sections": [
+            { "name": "[Task] A Friendly Game of Darts" },
+            { "name": "[Task] In Need of a UFO Catcher" },
+            { "name": "[Task] Can Anyone Conquer the UFO Catcher!?" },
+            { "name": "[Task] Kitty Kat, Come Home" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1300, "y": 300 } ]
+    },
+    {
+        "name": "A Dental Dilemma", "sections": [ { "name": "[Task] A Dental Dilemma" } ], "map_locations": [ { "map": "sotenbori", "x": 1155, "y": 1160 } ]
+    },
+    {
+        "name": "My Best Ball", "sections": [ { "name": "[Task] My Best Ball" } ], "map_locations": [ { "map": "sotenbori", "x": 1160, "y": 1520 } ]
+    },
+    {
+        "name": "Kickin' the Habit", "sections": [ { "name": "[Task] Kickin' the Habit" } ], "map_locations": [ { "map": "sotenbori", "x": 1630, "y": 560 } ]
+    },
+    {
+        "name": "A Priceless Autograph", "sections": [ { "name": "[Task] A Priceless Autograph" } ], "map_locations": [ { "map": "sotenbori", "x": 420, "y": 1640 } ]
+    },
+    {
+        "name": "You Saw Nothing", "sections": [ { "name": "[Task] You Saw Nothing" } ], "map_locations": [ { "map": "sotenbori", "x": 1050, "y": 1090 } ]
+    },
+    {
+        "name": "Catch That Crawdad", "sections": [ { "name": "[Task] Catch That Crawdad" } ], "map_locations": [ { "map": "sotenbori", "x": 580, "y": 750 } ]
+    },
+    {
+        "name": "The Waterlogged Ring", "sections": [ { "name": "[Task] The Waterlogged Ring" } ], "map_locations": [ { "map": "sotenbori", "x": 520, "y": 660 } ]
+    },
+    {
+        "name": "Not Just a Hat", "sections": [ { "name": "[Task] Not Just a Hat" } ], "map_locations": [ { "map": "sotenbori", "x": 1450, "y": 600 } ]
+    },
+    {
+        "name": "The Dad Hunter", "sections": [ { "name": "[Task] The Dad Hunter" } ], "map_locations": [ { "map": "sotenbori", "x": 1040, "y": 1270 } ]
+    },
+    {
+        "name": "Those Damn Smartphones!", "sections": [ { "name": "[Task] Those Damn Smartphones!" } ], "map_locations": [ { "map": "sotenbori", "x": 1190, "y": 1560 } ]
+    },
+    {
+        "name": "When Will I Taste Okonomiyaki!?", "sections": [ { "name": "[Task] When Will I Taste Okonomiyaki!?" } ], "map_locations": [ { "map": "sotenbori", "x": 820, "y": 1070 } ]
+    },
+    {
+        "name": "Takoyaki on the Brain", "sections": [ { "name": "[Task] Takoyaki on the Brain" } ], "map_locations": [ { "map": "sotenbori", "x": 580, "y": 1070 } ]
+    },
+    {
+        "name": "Have Mercy Give Food!", "sections": [ { "name": "[Task] Have Mercy Give Food!" } ], "map_locations": [ { "map": "sotenbori", "x": 400, "y": 1180 } ]
+    },
+    {
+        "name": "Protectors of My Ego", "sections": [ { "name": "[Task] Protectors of My Ego" } ], "map_locations": [ { "map": "sotenbori", "x": 1800, "y": 1000 } ]
+    },
+    {
+        "name": "Hungry Hungry Bento", "sections": [ { "name": "[Task] Hungry Hungry Bento" } ], "map_locations": [ { "map": "sotenbori", "x": 1000, "y": 630 } ]
+    },
+    {
+        "name": "In Need of Absorption", "sections": [ { "name": "[Task] In Need of Absorption" } ], "map_locations": [ { "map": "sotenbori", "x": 460, "y": 530 } ]
+    },
+    {
+        "name": "Desperate for Staminan Light", "sections": [ { "name": "[Task] Desperate for Staminan Light" } ], "map_locations": [ { "map": "sotenbori", "x": 1130, "y": 1660 } ]
+    },
+    {
+        "name": "Hunting the Homeless", "sections": [ { "name": "[Task] Hunting the Homeless" } ], "map_locations": [ { "map": "sotenbori", "x": 1100, "y": 1150 } ]
+    },
+    {
+        "name": "Desperate for Takoyaki", "sections": [ { "name": "[Task] Desperate for Takoyaki" } ], "map_locations": [ { "map": "sotenbori", "x": 890, "y": 1020 } ]
+    },
+    {
+        "name": "A Certain Taiyaki Brand", "sections": [ { "name": "[Task] A Certain Taiyaki Brand" } ], "map_locations": [ { "map": "sotenbori", "x": 700, "y": 1020 } ]
+    },
+    {
+        "name": "Hungry For Sushi", "sections": [ { "name": "[Task] Hungry For Sushi" } ], "map_locations": [ { "map": "sotenbori", "x": 480, "y": 1090 } ]
+    },
+    {
+        "name": "Osaka's Famous Clown", "sections": [ { "name": "[Task] Osaka's Famous Clown" } ], "map_locations": [ { "map": "sotenbori", "x": 380, "y": 1020 } ]
+    },
+    {
+        "name": "Order of Oden", "sections": [ { "name": "[Task] Order of Oden" } ], "map_locations": [ { "map": "sotenbori", "x": 540, "y": 940 } ]
+    },
+    {
+        "name": "Real-Deal Okonomiyaki", "sections": [ { "name": "[Task] Real-Deal Okonomiyaki" } ], "map_locations": [ { "map": "sotenbori", "x": 590, "y": 620 } ]
+    },
+    {
+        "name": "Crush the Collector", "sections": [ { "name": "[Task] Crush the Collector" } ], "map_locations": [ { "map": "sotenbori", "x": 310, "y": 290 } ]
+    },
+    {
+        "name": "Never Forget Four Shine", "sections": [ { "name": "[Task] Never Forget Four Shine" } ], "map_locations": [ { "map": "sotenbori", "x": 600, "y": 320 } ]
+    },
+    {
+        "name": "Calm My Nerves and Find My Car!", "sections": [ { "name": "[Task] Calm My Nerves and Find My Car!" } ], "map_locations": [ { "map": "sotenbori", "x": 1175, "y": 450 } ]
+    },
+    {
+        "name": "I need... uh, help!", "sections": [ { "name": "[Task] I need... uh, help!" } ], "map_locations": [ { "map": "sotenbori", "x": 1490, "y": 390 } ]
+    },
+    {
+        "name": "Until Next Time!", "sections": [ { "name": "[Task] Until Next Time!" } ], "map_locations": [ { "map": "sotenbori", "x": 1560, "y": 550 } ]
+    },
+    {
+        "name": "Taking the Blame", "sections": [ { "name": "[Task] Taking the Blame" } ], "map_locations": [ { "map": "sotenbori", "x": 410, "y": 1460 } ]
+    },
+    {
+        "name": "Pinin' For Pine Candy", "sections": [ { "name": "[Task] Pinin' For Pine Candy" } ], "map_locations": [ { "map": "sotenbori", "x": 1420, "y": 980 } ]
+    },
+    {
+        "name": "That Tantalizing Tauriner!", "sections": [ { "name": "[Task] That Tantalizing Tauriner!" } ], "map_locations": [ { "map": "sotenbori", "x": 1450, "y": 1010 } ]
+    },
+    {
+        "name": "Up For an Azuki Bar", "sections": [ { "name": "[Task] Up For an Azuki Bar" } ], "map_locations": [ { "map": "sotenbori", "x": 1180, "y": 1010 } ]
+    },
+    {
+        "name": "I'll Die Before I Let You In!", "sections": [ { "name": "[Task] I'll Die Before I Let You In!" } ], "map_locations": [ { "map": "sotenbori", "x": 1370, "y": 1370 } ]
+    },
+    {
+        "name": "A Quest for Ono Michio", "sections": [ { "name": "[Task] A Quest for Ono Michio" } ], "map_locations": [ { "map": "sotenbori", "x": 1540, "y": 1010 } ]
+    },
+    {
+        "name": "Show Me Kids Playing \"Pocket Circuit\"", "sections": [ { "name": "[Task] Show Me Kids Playing \"Pocket Circuit\"" } ], "map_locations": [ { "map": "sotenbori", "x": 1740, "y": 1010 } ]
+    },
+    {
+        "name": "Turning the Tables", "sections": [ { "name": "[Task] Turning the Tables" } ], "map_locations": [ { "map": "sotenbori", "x": 1030, "y": 580 } ]
+    },
+    {
+        "name": "The Trendy Thug", "sections": [ { "name": "[Task] The Trendy Thug" } ], "map_locations": [ { "map": "sotenbori", "x": 1070, "y": 380 } ]
+    },
+    {
+        "name": "Turn That Frown Upside Down, Clown", "sections": [ { "name": "[Task] Turn That Frown Upside Down, Clown" } ], "map_locations": [ { "map": "sotenbori", "x": 1370, "y": 450 } ]
+    },
+    {
+        "name": "Where is My Son?", "sections": [ { "name": "[Task] Where is My Son?" } ], "map_locations": [ { "map": "sotenbori", "x": 1820, "y": 320 } ]
+    },
+    {
+        "name": "A Negative Exposure", "sections": [ { "name": "[Task] A Negative Exposure" } ], "map_locations": [ { "map": "sotenbori", "x": 950, "y": 1060 } ]
+    },
+    {
+        "name": "Turn Out Your Pockets", "sections": [ { "name": "[Task] Turn Out Your Pockets" } ], "map_locations": [ { "map": "sotenbori", "x": 1285, "y": 1000 } ]
+    },
+    {
+        "name": "The Hidden One's Challenge", "sections": [ { "name": "[Task] The Hidden One's Challenge" } ], "map_locations": [ { "map": "sotenbori", "x": 1180, "y": 1640 } ]
+    },
+    {
+        "name": "A Yakuza Never Forgets", "sections": [ { "name": "[Task] A Yakuza Never Forgets" } ], "map_locations": [ { "map": "sotenbori", "x": 770, "y": 1620 } ]
+    },
+    {
+        "name": "Chicken Chase", "sections": [ { "name": "[Task] Chicken Chase" } ], "map_locations": [ { "map": "sotenbori", "x": 510, "y": 1530 } ]
+    },
+    {
+        "name": "How 'Bout Them Kappas", "sections": [ { "name": "[Task] How 'Bout Them Kappas" } ], "map_locations": [ { "map": "sotenbori", "x": 880, "y": 600 } ]
+    },
+    {
+        "name": "The Hidden One's Revenge", "sections": [ { "name": "[Task] The Hidden One's Revenge" } ], "map_locations": [ { "map": "sotenbori", "x": 430, "y": 1730 } ]
+    },
+    {
+        "name": "The Hidden One's Last Stand", "sections": [ { "name": "[Task] The Hidden One's Last Stand" } ], "map_locations": [ { "map": "sotenbori", "x": 1930, "y": 410 } ]
+    },
+    {
+        "name": "Please Model for Me!", "sections": [ { "name": "[Task] Please Model for Me!" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "The Outfit from My Memories", "sections": [ { "name": "[Task] The Outfit from My Memories" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "A Taste of Kabuki", "sections": [ { "name": "[Task] A Taste of Kabuki" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "A Stubborn Customer", "sections": [ { "name": "[Task] A Stubborn Customer" } ], "map_locations": [ { "map": "sotenbori", "x": 1360, "y": 1000 } ]
+    },
+    {
+        "name": "Time's a Luxury", "sections": [ { "name": "[Task] Time's a Luxury" } ], "map_locations": [ { "map": "sotenbori", "x": 1610, "y": 870 } ]
+    },
+    {
+        "name": "In Search of Star-Crossed Earings", "sections": [ { "name": "[Task] In Search of Star-Crossed Earings" } ], "map_locations": [ { "map": "sotenbori", "x": 1150, "y": 750 } ]
+    },
+    {
+        "name": "Chase Off the Nuisances", "sections": [ { "name": "[Task] Chase Off the Nuisances" } ], "map_locations": [ { "map": "sotenbori", "x": 470, "y": 980 } ]
+    },
+    {
+        "name": "Solve the Mysterious Note", "sections": [ { "name": "[Task] Solve the Mysterious Note" } ], "map_locations": [ { "map": "sotenbori", "x": 1170, "y": 600 } ]
+    },
+    {
+        "name": "Itching for Ichiban Senbei", "sections": [ { "name": "[Task] Itching for Ichiban Senbei" } ], "map_locations": [ { "map": "sotenbori", "x": 870, "y": 380 } ]
+    },
+    {
+        "name": "My Friend Needs to Understand", "sections": [ { "name": "[Task] My Friend Needs to Understand" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Bring a Smile to My Soulless Face", "sections": [ { "name": "[Task] Bring a Smile to My Soulless Face" } ], "map_locations": [ { "map": "colosseum", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Please Photograph Fukupi-chan", "sections": [ { "name": "[Task] Please Photograph Fukupi-chan" } ], "map_locations": [ { "map": "sotenbori", "x": 540, "y": 1610 } ]
+    },
+    {
+        "name": "Fukupi-chan Or Bust", "sections": [ { "name": "[Task] Fukupi-chan Or Bust" } ], "map_locations": [ { "map": "sotenbori", "x": 170, "y": 1180 } ]
+    },
+    {
+        "name": "Defeat Akame Drink Link Boss", "sections": [ { "name": "[Boss] Defeat Akame Drink Link Boss" } ], "map_locations": [ { "map": "sotenbori", "x": 1200, "y": 1790 } ]
+    },
+    {
+        "name": "Defeat Patriarch with Drones", "sections": [ { "name": "[Boss] Defeat Patriarch with Drones" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Defeat Mizorogi", "sections": [ { "name": "[Boss] Defeat Mizorogi" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Defeat Daidoji Squad", "sections": [ { "name": "[Boss] Defeat Daidoji Squad" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Defeat Hanya Mask", "sections": [ { "name": "[Boss] Defeat Hanya Mask" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Defeat Ryuji Goda?", "sections": [ { "name": "[Boss] Defeat Ryuji Goda?" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Complete Daidoji HQ Dungeon", "sections": [ { "name": "[Dun] Complete Daidoji HQ" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Complete Castle Escape Dungeon", "sections": [ { "name": "[Dun] Complete Castle Escape" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Complete Hotel Dungeon", "sections": [ { "name": "[Dun] Complete Hotel" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Complete Nishitani Hideout Dungeon", "sections": [ { "name": "[Dun] Complete Nishitani Hideout" } ], "map_locations": [ { "map": "sotenbori", "x": 690, "y": 470 } ]
+    },
+    {
+        "name": "Substory Set 1",
+        "sections": [
+            { "name": "[Sub] Film Assistant Needed" },
+            { "name": "[Sub] Emergency Request" },
+            { "name": "[Sub] Investigation Request" },
+            { "name": "[Sub] Vanquish the Red Peacocks" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1300, "y": 1700 } ]
+    },
+    {
+        "name": "Substory Set 2",
+        "sections": [
+            { "name": "[Sub] A Simple Heavy-Lifting Job" },
+            { "name": "[Sub] Ghost of Sotenbori" },
+            { "name": "[Sub] Seeking Advice" },
+            { "name": "[Sub] Recruit Homeless Yamanaka" },
+            { "name": "[Sub] The Strongest Convenence Store Clerk" },
+            { "name": "[Sub] Liberate the Hammer Man" },
+            { "name": "[Sub] Final Showdown Red Peacocks" },
+            { "name": "[Sub] The Golden Samurai" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1350, "y": 1700 } ]
+    },
+    {
+        "name": "Substory Set 3",
+        "sections": [
+            { "name": "[Sub] Save the Pro Wrestler" },
+            { "name": "[Sub] The Cat-Lovin' Rapper" },
+            { "name": "[Sub] The Struggling Host" },
+            { "name": "[Sub] Vanquish the White Knights" },
+            { "name": "[Sub] The Golden Scourge" },
+            { "name": "[Sub] End the Destruction" },
+            { "name": "[Sub] Final Showdown the White Knights" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1400, "y": 1700 } ]
+    },
+    {
+        "name": "Substory Set 4",
+        "sections": [
+            { "name": "[Sub] Golden Gauntlet Throwdown" },
+            { "name": "[Sub] Vanquish the Black Swallowtails" },
+            { "name": "[Sub] Final Showdown the Black Swallowtails" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1450, "y": 1700 } ]
+    },
+    {
+        "name": "Pocket Circuit Starting Shop",
+        "sections": [
+            { "name": "[PC] Shop Starting Shop 1" },
+            { "name": "[PC] Shop Starting Shop 2" },
+            { "name": "[PC] Shop Starting Shop 3" },
+            { "name": "[PC] Shop Starting Shop 4" },
+            { "name": "[PC] Shop Starting Shop 5" },
+            { "name": "[PC] Shop Starting Shop 6" },
+            { "name": "[PC] Shop Starting Shop 7" },
+            { "name": "[PC] Shop Starting Shop 8" },
+            { "name": "[PC] Shop Starting Shop 9" },
+            { "name": "[PC] Shop Starting Shop 10" },
+            { "name": "[PC] Shop Starting Shop 11" },
+            { "name": "[PC] Shop Starting Shop 12" },
+            { "name": "[PC] Shop Starting Shop 13" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1550, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Introductory Race Shop",
+        "sections": [
+            { "name": "[PC] Shop Introductory Race 1" },
+            { "name": "[PC] Shop Introductory Race 2" },
+            { "name": "[PC] Shop Introductory Race 3" },
+            { "name": "[PC] Shop Introductory Race 4" },
+            { "name": "[PC] Shop Introductory Race 5" },
+            { "name": "[PC] Shop Introductory Race 6" },
+            { "name": "[PC] Shop Introductory Race 7" },
+            { "name": "[PC] Shop Introductory Race 8" },
+            { "name": "[PC] Shop Introductory Race 9" },
+            { "name": "[PC] Shop Introductory Race 10" },
+            { "name": "[PC] Shop Introductory Race 11" },
+            { "name": "[PC] Shop Introductory Race 12" },
+            { "name": "[PC] Shop Introductory Race 13" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1590, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Rookie Race Shop",
+        "sections": [
+            { "name": "[PC] Shop Rookie Race 1" },
+            { "name": "[PC] Shop Rookie Race 2" },
+            { "name": "[PC] Shop Rookie Race 3" },
+            { "name": "[PC] Shop Rookie Race 4" },
+            { "name": "[PC] Shop Rookie Race 5" },
+            { "name": "[PC] Shop Rookie Race 6" },
+            { "name": "[PC] Shop Rookie Race 7" },
+            { "name": "[PC] Shop Rookie Race 8" },
+            { "name": "[PC] Shop Rookie Race 9" },
+            { "name": "[PC] Shop Rookie Race 10" },
+            { "name": "[PC] Shop Rookie Race 11" },
+            { "name": "[PC] Shop Rookie Race 12" },
+            { "name": "[PC] Shop Rookie Race 13" },
+            { "name": "[PC] Shop Rookie Race 14" },
+            { "name": "[PC] Shop Rookie Race 15" },
+            { "name": "[PC] Shop Rookie Race 16" },
+            { "name": "[PC] Shop Rookie Race 17" },
+            { "name": "[PC] Shop Rookie Race 18" },
+            { "name": "[PC] Shop Rookie Race 19" },
+            { "name": "[PC] Shop Rookie Race 20" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1630, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Veteran Race Shop",
+        "sections": [
+            { "name": "[PC] Shop Veteran Race 1" },
+            { "name": "[PC] Shop Veteran Race 2" },
+            { "name": "[PC] Shop Veteran Race 3" },
+            { "name": "[PC] Shop Veteran Race 4" },
+            { "name": "[PC] Shop Veteran Race 5" },
+            { "name": "[PC] Shop Veteran Race 6" },
+            { "name": "[PC] Shop Veteran Race 7" },
+            { "name": "[PC] Shop Veteran Race 8" },
+            { "name": "[PC] Shop Veteran Race 9" },
+            { "name": "[PC] Shop Veteran Race 10" },
+            { "name": "[PC] Shop Veteran Race 11" },
+            { "name": "[PC] Shop Veteran Race 12" },
+            { "name": "[PC] Shop Veteran Race 13" },
+            { "name": "[PC] Shop Veteran Race 14" },
+            { "name": "[PC] Shop Veteran Race 15" },
+            { "name": "[PC] Shop Veteran Race 16" },
+            { "name": "[PC] Shop Veteran Race 17" },
+            { "name": "[PC] Shop Veteran Race 18" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1670, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Official Race Shop",
+        "sections": [
+            { "name": "[PC] Shop Official Race 1" },
+            { "name": "[PC] Shop Official Race 2" },
+            { "name": "[PC] Shop Official Race 3" },
+            { "name": "[PC] Shop Official Race 4" },
+            { "name": "[PC] Shop Official Race 5" },
+            { "name": "[PC] Shop Official Race 6" },
+            { "name": "[PC] Shop Official Race 7" },
+            { "name": "[PC] Shop Official Race 8" },
+            { "name": "[PC] Shop Official Race 9" },
+            { "name": "[PC] Shop Official Race 10" },
+            { "name": "[PC] Shop Official Race 11" },
+            { "name": "[PC] Shop Official Race 12" },
+            { "name": "[PC] Shop Official Race 13" },
+            { "name": "[PC] Shop Official Race 14" },
+            { "name": "[PC] Shop Official Race 15" },
+            { "name": "[PC] Shop Official Race 16" },
+            { "name": "[PC] Shop Official Race 17" },
+            { "name": "[PC] Shop Official Race 18" },
+            { "name": "[PC] Shop Official Race 19" },
+            { "name": "[PC] Shop Official Race 20" },
+            { "name": "[PC] Shop Official Race 21" },
+            { "name": "[PC] Shop Official Race 22" },
+            { "name": "[PC] Shop Official Race 23" },
+            { "name": "[PC] Shop Official Race 24" },
+            { "name": "[PC] Shop Official Race 25" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1710, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Invitational Race Shop",
+        "sections": [
+            { "name": "[PC] Shop Invitational Cup 1" },
+            { "name": "[PC] Shop Invitational Cup 2" },
+            { "name": "[PC] Shop Invitational Cup 3" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1750, "y": 1080 } ]
+    },
+    {
+        "name": "Pocket Circuit Rival Ran Shop",
+        "sections": [
+            { "name": "[PC] Shop Rival Ran 1" },
+            { "name": "[PC] Shop Rival Ran 2" },
+            { "name": "[PC] Shop Rival Ran 3" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1550, "y": 1120 } ]
+    },
+    {
+        "name": "Pocket Circuit Gifts",
+        "sections": [
+            { "name": "[PC] Tutorial Gift 1" },
+            { "name": "[PC] Tutorial Gift 2" },
+            { "name": "[PC] Tutorial Gift 3" },
+            { "name": "[PC] Tutorial Gift 4" },
+            { "name": "[PC] Tutorial Gift 6" },
+            { "name": "[PC] Tutorial Gift 7" },
+            { "name": "[PC] Tutorial Gift 8" },
+            { "name": "[PC] Veteran Gift" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1590, "y": 1120 } ]
+    },
+    {
+        "name": "Pocket Circuit Rival Gifts",
+        "sections": [
+            { "name": "[PC] Rival Hammer Head Reward" },
+            { "name": "[PC] Rival Keiko Reward" },
+            { "name": "[PC] Rival Momozo Reward" },
+            { "name": "[PC] Rival Akame Reward" },
+            { "name": "[PC] Rival Owner Reward" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1630, "y": 1120 } ]
+    },
+    {
+        "name": "Ebisuya Pawn",
+        "sections": [
+            { "name": "[So] Ebisuya Pawn Shop 1" },
+            { "name": "[So] Ebisuya Pawn Shop 2" },
+            { "name": "[So] Ebisuya Pawn Shop 3" },
+            { "name": "[So] Ebisuya Pawn Shop 4" },
+            { "name": "[So] Ebisuya Pawn Shop 5" },
+            { "name": "[So] Ebisuya Pawn Shop 6" },
+            { "name": "[So] Ebisuya Pawn Shop 7" },
+            { "name": "[So] Ebisuya Pawn Shop 8" },
+            { "name": "[So] Ebisuya Pawn Shop 9" },
+            { "name": "[So] Ebisuya Pawn Shop 10" },
+            { "name": "[So] Ebisuya Pawn Shop 11" },
+            { "name": "[So] Ebisuya Pawn Shop 12" },
+            { "name": "[So] Ebisuya Pawn Shop 13" },
+            { "name": "[So] Ebisuya Pawn Shop 14" },
+            { "name": "[So] Ebisuya Pawn Shop 15" },
+            { "name": "[So] Ebisuya Pawn Shop 16" },
+            { "name": "[So] Ebisuya Pawn Shop 17" },
+            { "name": "[So] Ebisuya Pawn Shop 18" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1300, "y": 1060 } ]
+    },
+    {
+        "name": "Akame Shop",
+        "sections": [
+            { "name": "[So] Akame Point Shop 1" },
+            { "name": "[So] Akame Point Shop 2" },
+            { "name": "[So] Akame Point Shop 3" },
+            { "name": "[So] Akame Point Shop 4" },
+            { "name": "[So] Akame Point Shop 5" },
+            { "name": "[So] Akame Point Shop 6" },
+            { "name": "[So] Akame Point Shop 7" },
+            { "name": "[So] Akame Point Shop 8" },
+            { "name": "[So] Akame Point Shop 9" },
+            { "name": "[So] Akame Point Shop 10" },
+            { "name": "[So] Akame Point Shop 11" },
+            { "name": "[So] Akame Point Shop 12" },
+            { "name": "[So] Akame Point Shop 13" },
+            { "name": "[So] Akame Point Shop 14" },
+            { "name": "[So] Akame Point Shop 15" },
+            { "name": "[So] Akame Point Shop 16" },
+            { "name": "[So] Akame Point Shop 17" },
+            { "name": "[So] Akame Point Shop 18" },
+            { "name": "[So] Akame Point Shop 19" },
+            { "name": "[So] Akame Point Shop 20" },
+            { "name": "[So] Akame Point Shop 21" },
+            { "name": "[So] Akame Point Shop 22" },
+            { "name": "[So] Akame Point Shop 23" },
+            { "name": "[So] Akame Point Shop 24" },
+            { "name": "[So] Akame Point Shop 25" },
+            { "name": "[So] Akame Point Shop 26" },
+            { "name": "[So] Akame Point Shop 27" },
+            { "name": "[So] Akame Point Shop 28" },
+            { "name": "[So] Akame Point Shop 29" },
+            { "name": "[So] Akame Point Shop 30" },
+            { "name": "[So] Akame Point Shop 31" }
+
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1160, "y": 1750 } ]
+    },
+    {
+        "name": "Akame Mizorogi Shop",
+        "sections": [
+            { "name": "[So] Akame Mizorogi Shop 1" },
+            { "name": "[So] Akame Mizorogi Shop 2" },
+            { "name": "[So] Akame Mizorogi Shop 3" },
+            { "name": "[So] Akame Mizorogi Shop 4" },
+            { "name": "[So] Akame Mizorogi Shop 5" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1200, "y": 1750 } ]
+    },
+    {
+        "name": "Wannpark Clothing Shop",
+        "sections": [
+            { "name": "[So] Wannpark Shop 1" },
+            { "name": "[So] Wannpark Shop 2" },
+            { "name": "[So] Wannpark Shop 3" },
+            { "name": "[So] Wannpark Shop 4" },
+            { "name": "[So] Wannpark Shop 5" },
+            { "name": "[So] Wannpark Shop 6" },
+            { "name": "[So] Wannpark Shop 7" },
+            { "name": "[So] Wannpark Shop 8" },
+            { "name": "[So] Wannpark Shop 9" },
+            { "name": "[So] Wannpark Shop 10" },
+            { "name": "[So] Wannpark Shop 11" },
+            { "name": "[So] Wannpark Shop 12" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1370, "y": 1260 } ]
+    },
+    {
+        "name": "Park Poppo Shop",
+        "sections": [
+            { "name": "[So] Park Poppo Shop 1" },
+            { "name": "[So] Park Poppo Shop 2" },
+            { "name": "[So] Park Poppo Shop 3" },
+            { "name": "[So] Park Poppo Shop 4" },
+            { "name": "[So] Park Poppo Shop 5" },
+            { "name": "[So] Park Poppo Shop 6" },
+            { "name": "[So] Park Poppo Shop 7" },
+            { "name": "[So] Park Poppo Shop 8" },
+            { "name": "[So] Park Poppo Shop 9" },
+            { "name": "[So] Park Poppo Shop 10" },
+            { "name": "[So] Park Poppo Shop 11" },
+            { "name": "[So] Park Poppo Shop 12" },
+            { "name": "[So] Park Poppo Shop 13" },
+            { "name": "[So] Park Poppo Shop 14" },
+            { "name": "[So] Park Poppo Shop 15" },
+            { "name": "[So] Park Poppo Shop 16" },
+            { "name": "[So] Park Poppo Shop 17" },
+            { "name": "[So] Park Poppo Shop 18" },
+            { "name": "[So] Park Poppo Shop 19" },
+            { "name": "[So] Park Poppo Shop 20" },
+            { "name": "[So] Park Poppo Shop 21" },
+            { "name": "[So] Park Poppo Shop 22" },
+            { "name": "[So] Park Poppo Shop 23" },
+            { "name": "[So] Park Poppo Shop 24" },
+            { "name": "[So] Park Poppo Shop 25" },
+            { "name": "[So] Park Poppo Shop 26" }
+            
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1355, "y": 1450 } ]
+    },
+    {
+        "name": "West Poppo Shop",
+        "sections": [
+            { "name": "[So] West Poppo Shop 1" },
+            { "name": "[So] West Poppo Shop 2" },
+            { "name": "[So] West Poppo Shop 3" },
+            { "name": "[So] West Poppo Shop 4" },
+            { "name": "[So] West Poppo Shop 5" },
+            { "name": "[So] West Poppo Shop 6" },
+            { "name": "[So] West Poppo Shop 7" },
+            { "name": "[So] West Poppo Shop 8" },
+            { "name": "[So] West Poppo Shop 9" },
+            { "name": "[So] West Poppo Shop 10" },
+            { "name": "[So] West Poppo Shop 11" },
+            { "name": "[So] West Poppo Shop 12" },
+            { "name": "[So] West Poppo Shop 13" },
+            { "name": "[So] West Poppo Shop 14" },
+            { "name": "[So] West Poppo Shop 15" },
+            { "name": "[So] West Poppo Shop 16" },
+            { "name": "[So] West Poppo Shop 17" },
+            { "name": "[So] West Poppo Shop 18" },
+            { "name": "[So] West Poppo Shop 19" },
+            { "name": "[So] West Poppo Shop 20" },
+            { "name": "[So] West Poppo Shop 21" },
+            { "name": "[So] West Poppo Shop 22" },
+            { "name": "[So] West Poppo Shop 23" },
+            { "name": "[So] West Poppo Shop 24" },
+            { "name": "[So] West Poppo Shop 25" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 370, "y": 910 } ]
+    },
+    {
+        "name": "North Poppo Shop",
+        "sections": [
+            { "name": "[So] North Poppo Shop 1" },
+            { "name": "[So] North Poppo Shop 2" },
+            { "name": "[So] North Poppo Shop 3" },
+            { "name": "[So] North Poppo Shop 4" },
+            { "name": "[So] North Poppo Shop 5" },
+            { "name": "[So] North Poppo Shop 6" },
+            { "name": "[So] North Poppo Shop 7" },
+            { "name": "[So] North Poppo Shop 8" },
+            { "name": "[So] North Poppo Shop 9" },
+            { "name": "[So] North Poppo Shop 10" },
+            { "name": "[So] North Poppo Shop 11" },
+            { "name": "[So] North Poppo Shop 12" },
+            { "name": "[So] North Poppo Shop 13" },
+            { "name": "[So] North Poppo Shop 14" },
+            { "name": "[So] North Poppo Shop 15" },
+            { "name": "[So] North Poppo Shop 16" },
+            { "name": "[So] North Poppo Shop 17" },
+            { "name": "[So] North Poppo Shop 18" },
+            { "name": "[So] North Poppo Shop 19" },
+            { "name": "[So] North Poppo Shop 20" },
+            { "name": "[So] North Poppo Shop 21" },
+            { "name": "[So] North Poppo Shop 22" },
+            { "name": "[So] North Poppo Shop 23" },
+            { "name": "[So] North Poppo Shop 24" },
+            { "name": "[So] North Poppo Shop 25" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1885, "y": 280 } ]
+    },
+    {
+        "name": "Kukuru Shop",
+        "sections": [
+            { "name": "[So] Kukuru Shop 1" },
+            { "name": "[So] Kukuru Shop 2" },
+            { "name": "[So] Kukuru Shop 3" },
+            { "name": "[So] Kukuru Shop 4" },
+            { "name": "[So] Kukuru Shop 5" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1840, "y": 380 } ]
+    },
+    {
+        "name": "Tsuruha Shop",
+        "sections": [
+            { "name": "[So] Tsuruha Shop 1" },
+            { "name": "[So] Tsuruha Shop 2" },
+            { "name": "[So] Tsuruha Shop 3" },
+            { "name": "[So] Tsuruha Shop 4" },
+            { "name": "[So] Tsuruha Shop 5" },
+            { "name": "[So] Tsuruha Shop 6" },
+            { "name": "[So] Tsuruha Shop 7" },
+            { "name": "[So] Tsuruha Shop 8" },
+            { "name": "[So] Tsuruha Shop 9" },
+            { "name": "[So] Tsuruha Shop 10" },
+            { "name": "[So] Tsuruha Shop 11" },
+            { "name": "[So] Tsuruha Shop 12" },
+            { "name": "[So] Tsuruha Shop 13" },
+            { "name": "[So] Tsuruha Shop 14" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 770, "y": 290 } ]
+    },
+    {
+        "name": "Hiratai Shop",
+        "sections": [
+            { "name": "[So] Hiratai Shop 1" },
+            { "name": "[So] Hiratai Shop 2" },
+            { "name": "[So] Hiratai Shop 3" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1230, "y": 810 } ]
+    },
+    {
+        "name": "Shigano Shop",
+        "sections": [
+            { "name": "[So] Shigano 1" },
+            { "name": "[So] Shigano 2" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Shichiya Pawn Shop",
+        "sections": [
+            { "name": "[Yo] Shichiya Pawn Shop 1" },
+            { "name": "[Yo] Shichiya Pawn Shop 2" },
+            { "name": "[Yo] Shichiya Pawn Shop 3" },
+            { "name": "[Yo] Shichiya Pawn Shop 4" },
+            { "name": "[Yo] Shichiya Pawn Shop 5" },
+            { "name": "[Yo] Shichiya Pawn Shop 6" },
+            { "name": "[Yo] Shichiya Pawn Shop 7" },
+            { "name": "[Yo] Shichiya Pawn Shop 8" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Love Magic Shop",
+        "sections": [
+            { "name": "[Yo] Love-Magic Shop 1" },
+            { "name": "[Yo] Love-Magic Shop 2" },
+            { "name": "[Yo] Love-Magic Shop 3" },
+            { "name": "[Yo] Love-Magic Shop 4" },
+            { "name": "[Yo] Love-Magic Shop 5" },
+            { "name": "[Yo] Love-Magic Shop 6" },
+            { "name": "[Yo] Love-Magic Shop 7" },
+            { "name": "[Yo] Love-Magic Shop 8" },
+            { "name": "[Yo] Love-Magic Shop 9" },
+            { "name": "[Yo] Love-Magic Shop 10" },
+            { "name": "[Yo] Love-Magic Shop 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Yokohama Shogi",
+        "sections": [
+            { "name": "[Yo] Shogi Point Store 1" },
+            { "name": "[Yo] Shogi Point Store 2" },
+            { "name": "[Yo] Shogi Point Store 3" },
+            { "name": "[Yo] Shogi Point Store 4" },
+            { "name": "[Yo] Shogi Point Store 5" },
+            { "name": "[Yo] Shogi Point Store 6" },
+            { "name": "[Yo] Shogi Point Store 7" },
+            { "name": "[Yo] Shogi Point Store 8" },
+            { "name": "[Yo] Shogi Point Store 9" },
+            { "name": "[Yo] Shogi Point Store 10" },
+            { "name": "[Yo] Shogi Point Store 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Yokohama Gambling Hall",
+        "sections": [
+            { "name": "[Yo] Gambling Hall 1" },
+            { "name": "[Yo] Gambling Hall 2" },
+            { "name": "[Yo] Gambling Hall 3" },
+            { "name": "[Yo] Gambling Hall 4" },
+            { "name": "[Yo] Gambling Hall 5" },
+            { "name": "[Yo] Gambling Hall 6" },
+            { "name": "[Yo] Gambling Hall 7" },
+            { "name": "[Yo] Gambling Hall 8" },
+            { "name": "[Yo] Gambling Hall 9" },
+            { "name": "[Yo] Gambling Hall 10" },
+            { "name": "[Yo] Gambling Hall 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Yokohama Poppo Shop",
+        "sections": [
+            { "name": "[Yo] Poppo Shop 1" },
+            { "name": "[Yo] Poppo Shop 2" },
+            { "name": "[Yo] Poppo Shop 3" },
+            { "name": "[Yo] Poppo Shop 4" },
+            { "name": "[Yo] Poppo Shop 5" },
+            { "name": "[Yo] Poppo Shop 6" },
+            { "name": "[Yo] Poppo Shop 7" },
+            { "name": "[Yo] Poppo Shop 8" },
+            { "name": "[Yo] Poppo Shop 9" },
+            { "name": "[Yo] Poppo Shop 10" },
+            { "name": "[Yo] Poppo Shop 11" },
+            { "name": "[Yo] Poppo Shop 12" },
+            { "name": "[Yo] Poppo Shop 13" },
+            { "name": "[Yo] Poppo Shop 14" },
+            { "name": "[Yo] Poppo Shop 15" },
+            { "name": "[Yo] Poppo Shop 16" },
+            { "name": "[Yo] Poppo Shop 17" },
+            { "name": "[Yo] Poppo Shop 18" },
+            { "name": "[Yo] Poppo Shop 19" },
+            { "name": "[Yo] Poppo Shop 20" },
+            { "name": "[Yo] Poppo Shop 21" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Smile Burger Wagon Shop",
+        "sections": [
+            { "name": "[Yo] Smile Burger Wagon Shop 1" },
+            { "name": "[Yo] Smile Burger Wagon Shop 2" },
+            { "name": "[Yo] Smile Burger Wagon Shop 3" },
+            { "name": "[Yo] Smile Burger Wagon Shop 4" },
+            { "name": "[Yo] Smile Burger Wagon Shop 5" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Ichiban Senbei Shop",
+        "sections": [
+            { "name": "[Yo] Ichiban Senbei Shop 1" },
+            { "name": "[Yo] Ichiban Senbei Shop 2" },
+            { "name": "[Yo] Ichiban Senbei Shop 3" },
+            { "name": "[Yo] Ichiban Senbei Shop 4" },
+            { "name": "[Yo] Ichiban Senbei Shop 5" },
+            { "name": "[Yo] Ichiban Senbei Shop 6" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Colosseum Gambling Hall",
+        "sections": [
+            { "name": "[Co] Gambling Hall 1" },
+            { "name": "[Co] Gambling Hall 2" },
+            { "name": "[Co] Gambling Hall 3" },
+            { "name": "[Co] Gambling Hall 4" },
+            { "name": "[Co] Gambling Hall 5" },
+            { "name": "[Co] Gambling Hall 6" },
+            { "name": "[Co] Gambling Hall 7" },
+            { "name": "[Co] Gambling Hall 8" },
+            { "name": "[Co] Gambling Hall 9" },
+            { "name": "[Co] Gambling Hall 10" },
+            { "name": "[Co] Gambling Hall 11" },
+            { "name": "[Co] Gambling Hall 12" },
+            { "name": "[Co] Gambling Hall 13" },
+            { "name": "[Co] Gambling Hall 14" },
+            { "name": "[Co] Gambling Hall 15" },
+            { "name": "[Co] Gambling Hall 16" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+        {
+        "name": "Colosseum Casino",
+        "sections": [
+            { "name": "[Co] Casino 1" },
+            { "name": "[Co] Casino 2" },
+            { "name": "[Co] Casino 3" },
+            { "name": "[Co] Casino 4" },
+            { "name": "[Co] Casino 5" },
+            { "name": "[Co] Casino 6" },
+            { "name": "[Co] Casino 7" },
+            { "name": "[Co] Casino 8" },
+            { "name": "[Co] Casino 9" },
+            { "name": "[Co] Casino 10" },
+            { "name": "[Co] Casino 11" },
+            { "name": "[Co] Casino 12" },
+            { "name": "[Co] Casino 13" },
+            { "name": "[Co] Casino 14" },
+            { "name": "[Co] Casino 15" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+        {
+        "name": "Boutique Equip Shop",
+        "sections": [
+            { "name": "[Co] Boutique Equip Shop 1" },
+            { "name": "[Co] Boutique Equip Shop 2" },
+            { "name": "[Co] Boutique Equip Shop 3" },
+            { "name": "[Co] Boutique Equip Shop 4" },
+            { "name": "[Co] Boutique Equip Shop 5" },
+            { "name": "[Co] Boutique Equip Shop 6" },
+            { "name": "[Co] Boutique Equip Shop 7" },
+            { "name": "[Co] Boutique Equip Shop 8" },
+            { "name": "[Co] Boutique Equip Shop 9" },
+            { "name": "[Co] Boutique Equip Shop 10" },
+            { "name": "[Co] Boutique Equip Shop 11" },
+            { "name": "[Co] Boutique Equip Shop 12" },
+            { "name": "[Co] Boutique Equip Shop 13" },
+            { "name": "[Co] Boutique Equip Shop 14" },
+            { "name": "[Co] Boutique Equip Shop 15" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+        {
+        "name": "Boutique VIP Shop",
+        "sections": [
+            { "name": "[Co] Boutique VIP Shop 1" },
+            { "name": "[Co] Boutique VIP Shop 2" },
+            { "name": "[Co] Boutique VIP Shop 3" },
+            { "name": "[Co] Boutique VIP Shop 4" },
+            { "name": "[Co] Boutique VIP Shop 5" },
+            { "name": "[Co] Boutique VIP Shop 6" },
+            { "name": "[Co] Boutique VIP Shop 7" },
+            { "name": "[Co] Boutique VIP Shop 8" },
+            { "name": "[Co] Boutique VIP Shop 9" },
+            { "name": "[Co] Boutique VIP Shop 10" },
+            { "name": "[Co] Boutique VIP Shop 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Lounge Shop",
+        "sections": [
+            { "name": "[Co] Lounge Shop 1" },
+            { "name": "[Co] Lounge Shop 2" },
+            { "name": "[Co] Lounge Shop 3" },
+            { "name": "[Co] Lounge Shop 4" },
+            { "name": "[Co] Lounge Shop 5" },
+            { "name": "[Co] Lounge Shop 6" },
+            { "name": "[Co] Lounge Shop 7" },
+            { "name": "[Co] Lounge Shop 8" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Colosseum Lounge Dart Rewards",
+        "sections": [
+            { "name": "[Co] Dart Rival Hammer Head Reward" },
+            { "name": "[Co] Dart Rival MB Reward" },
+            { "name": "[Co] Dart Rival Kanon Reward" },
+            { "name": "[Co] Dart Rival Yurina Reward" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
+    },
+    {
+        "name": "Billiards",
+        "sections": [
+            { "name": "[So] Billiards Point Shop 1" },
+            { "name": "[So] Billiards Point Shop 2" },
+            { "name": "[So] Billiards Point Shop 3" },
+            { "name": "[So] Billiards Point Shop 4" },
+            { "name": "[So] Billiards Point Shop 5" },
+            { "name": "[So] Billiards Point Shop 6" },
+            { "name": "[So] Billiards Point Shop 7" },
+            { "name": "[So] Billiards Point Shop 8" },
+            { "name": "[So] Billiards Point Shop 9" },
+            { "name": "[So] Billiards Point Shop 10" },
+            { "name": "[So] Billiards Point Shop 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 380, "y": 1500 } ]
+    },
+    {
+        "name": "Sotenbori Shogi",
+        "sections": [
+            { "name": "[So] Shogi Point Store 1" },
+            { "name": "[So] Shogi Point Store 2" },
+            { "name": "[So] Shogi Point Store 3" },
+            { "name": "[So] Shogi Point Store 4" },
+            { "name": "[So] Shogi Point Store 5" },
+            { "name": "[So] Shogi Point Store 6" },
+            { "name": "[So] Shogi Point Store 7" },
+            { "name": "[So] Shogi Point Store 8" },
+            { "name": "[So] Shogi Point Store 9" },
+            { "name": "[So] Shogi Point Store 10" },
+            { "name": "[So] Shogi Point Store 11" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 960, "y": 1580 } ]
+    },
+    {
+        "name": "Golf",
+        "sections": [
+            { "name": "[So] Golf Point Store 1" },
+            { "name": "[So] Golf Point Store 2" },
+            { "name": "[So] Golf Point Store 3" },
+            { "name": "[So] Golf Point Store 4" },
+            { "name": "[So] Golf Point Store 5" },
+            { "name": "[So] Golf Point Store 6" },
+            { "name": "[So] Golf Point Store 7" },
+            { "name": "[So] Golf Point Store 8" },
+            { "name": "[So] Golf Point Store 9" },
+            { "name": "[So] Golf Point Store 10" },
+            { "name": "[So] Golf Point Store 11" },
+            { "name": "[So] Golf Point Store 12" },
+            { "name": "[So] Golf Point Store 13" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 930, "y": 270 } ]
+    },
+    {
+        "name": "Sotenbori Gambling Hall",
+        "sections": [
+            { "name": "[So] Gambling Hall 1" },
+            { "name": "[So] Gambling Hall 2" },
+            { "name": "[So] Gambling Hall 3" },
+            { "name": "[So] Gambling Hall 4" },
+            { "name": "[So] Gambling Hall 5" },
+            { "name": "[So] Gambling Hall 6" },
+            { "name": "[So] Gambling Hall 7" },
+            { "name": "[So] Gambling Hall 8" },
+            { "name": "[So] Gambling Hall 9" },
+            { "name": "[So] Gambling Hall 10" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 530, "y": 1440 } ]
+    },
+    {
+        "name": "Stijl Dart Rewards",
+        "sections": [
+            { "name": "[So] Dart Stijl Rival Akame Reward" },
+            { "name": "[So] Dart Stijl Rival Hanawa Reward" },
+            { "name": "[So] Dart Stijl Rival Ran Reward" },
+            { "name": "[So] Dart Stijl Rival Yada Reward" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 640, "y": 480 } ]
+    },
+    {
+        "name": "Shigano Shop",
+        "sections": [
+            { "name": "[So] Shigano 1" }
+        ],
+        "map_locations": [ { "map": "sotenbori", "x": 1430, "y": 1340 } ]
     }
+
 ]

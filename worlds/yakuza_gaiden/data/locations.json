@@ -1197,7 +1197,7 @@
     "region": "MISC"
   },
   "aston_coinlocker_20": {
-    "label": "[So] CoinlockerA3 Northwest of Kukuru ",
+    "label": "[So] CoinlockerA3 Northwest of Kukuru",
     "location": "aston_coinlocker",
     "id": "134",
     "slot": "21",
@@ -3366,7 +3366,7 @@
     "region": "JUNK"
   },
   "treasure_y001": {
-    "label": "[Yo] Wire 1  South of Ichiban Confections within stairway",
+    "label": "[Yo] Wire 1 South of Ichiban Confections within stairway",
     "location": "treasure_y001",
     "id": "375",
     "slot": "115",

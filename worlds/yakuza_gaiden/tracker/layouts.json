@@ -2,7 +2,9 @@
     "tracker_default": {
         "type": "map",
         "maps": [
-            "sotenbori"
+            "sotenbori",
+            "yokohama",
+            "castle"
         ]
     }
 }
