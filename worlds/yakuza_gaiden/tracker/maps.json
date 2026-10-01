@@ -14,10 +14,10 @@
         "img": "images/map/yokohama.png"
     },
     {
-        "name": "castle",
+        "name": "colosseum",
         "location_size": 25,
         "location_border_thickness": 3,
         "location_shape": "rect",
-        "img": "images/map/castle.png"
+        "img": "images/map/colosseum.png"
     }
 ]

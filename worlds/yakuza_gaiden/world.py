@@ -81,6 +81,9 @@ class YakuzaGaiden(World):
 
         items_to_fill = pc_items.copy()
 
+        self.random.shuffle(locations_to_fill)
+        self.random.shuffle(items_to_fill)
+
         partial_state = CollectionState(self.multiworld)
 
         for item in self.multiworld.itempool:
