@@ -12,7 +12,7 @@
         "name": "Wire 4 Across building at Yotsudera Kaikan roof northwest corner", "sections": [ { "name": "[So] Wire 4 Across building at Yotsudera Kaikan roof northwest corner" } ], "map_locations": [ { "map": "sotenbori", "x": 390, "y": 1400 } ]
     },
     {
-        "name": "Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall", "sections": [ { "name": "[So] Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall" } ], "map_locations": [ { "map": "sotenbori", "x": 1480, "y": 1000 } ]
+        "name": "Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall", "sections": [ { "name": "[So] Wire 5 On top of Syofuku-cho sign Bunzaemon Outdoor mall" } ], "map_locations": [ { "map": "sotenbori", "x": 1490, "y": 1000 } ]
     },
     {
         "name": "Wire 6 Above Soten-Wrestling at South Shofukucho", "sections": [ { "name": "[So] Wire 6 Above Soten-Wrestling at South Shofukucho" } ], "map_locations": [ { "map": "sotenbori", "x": 700, "y": 1630 } ]
@@ -573,7 +573,7 @@
         "name": "Taking the Blame", "sections": [ { "name": "[Task] Taking the Blame" } ], "map_locations": [ { "map": "sotenbori", "x": 410, "y": 1460 } ]
     },
     {
-        "name": "Pinin' For Pine Candy", "sections": [ { "name": "[Task] Pinin' For Pine Candy" } ], "map_locations": [ { "map": "sotenbori", "x": 1420, "y": 980 } ]
+        "name": "Pinin' For Pine Candy", "sections": [ { "name": "[Task] Pinin' For Pine Candy" } ], "map_locations": [ { "map": "sotenbori", "x": 1410, "y": 980 } ]
     },
     {
         "name": "That Tantalizing Tauriner!", "sections": [ { "name": "[Task] That Tantalizing Tauriner!" } ], "map_locations": [ { "map": "sotenbori", "x": 1450, "y": 1010 } ]
