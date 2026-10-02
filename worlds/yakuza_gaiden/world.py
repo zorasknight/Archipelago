@@ -2,9 +2,10 @@ from collections.abc import Mapping
 from typing import Any
 from BaseClasses import CollectionState
 from Fill import FillError, fill_restrictive
-
+from .settings import YakuzaGaidenSettings
 from worlds.AutoWorld import World
 from .output import generate_output
+from typing import ClassVar
 
 from . import items, locations, regions, rules, web_world
 from . import options as YakuzaGaiden_options  
@@ -23,6 +24,7 @@ class YakuzaGaiden(World):
 
     options_dataclass = YakuzaGaiden_options.YakuzaGaidenOptions
     options: YakuzaGaiden_options.YakuzaGaidenOptions
+    settings: ClassVar[YakuzaGaidenSettings]
 
     location_name_to_id = locations.LOCATION_NAME_TO_ID
     item_name_to_id = items.ITEM_NAME_TO_ID

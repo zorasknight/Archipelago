@@ -2,6 +2,7 @@ from worlds.LauncherComponents import Component, Type, components, icon_paths, l
 
 from .output import generate_output
 from .world import YakuzaGaiden as YakuzaGaiden
+from .settings import YakuzaGaidenSettings
 
 
 def launch_client():

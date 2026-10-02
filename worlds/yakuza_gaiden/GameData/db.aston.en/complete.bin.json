@@ -118915,7 +118915,7 @@
       "notify_step_player_point_value": 0,
       "story_id": 0,
       "need_time": 0,
-      "reward_akame_point": 1200,
+      "reward_akame_point": 1234,
       "status_now_max": 0,
       "reARMP_isValid": "1",
       "reARMP_rowIndex": 3113

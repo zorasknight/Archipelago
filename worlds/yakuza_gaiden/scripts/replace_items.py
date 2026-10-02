@@ -364,7 +364,7 @@ def update_encounters():
             old_hp = row["hp"]
             row["hp"] = 1
 
-            print(f"Intro fight {group}: hp {old_hp} -> 1")
+            #print(f"Intro fight {group}: hp {old_hp} -> 1")
             log_change(f"Intro fight {group}: hp {old_hp} -> 1")
             changes += 1
 
@@ -379,7 +379,7 @@ def update_encounters():
             old_attack = row["power_ratio"]
             row["power_ratio"] = max(1.0, round(old_attack * attack_multiplier, 2))
 
-            print(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
+            #print(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
             log_change(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
             changes += 1
 
@@ -394,7 +394,7 @@ def update_encounters():
             old_attack = row["power_ratio"]
             row["power_ratio"] = max(1.0, round(old_attack * attack_multiplier, 2))
 
-            print(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
+            #print(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
             log_change(f"{group}: hp {old_hp} -> {row['hp']}, attack {old_attack} -> {row['power_ratio']}")
             changes += 1
 
@@ -858,7 +858,7 @@ def shuffle_healing_items(data):
 # Patch prices in item.bin
 
 def patch_item_bin_prices(updates_by_file):
-
+    print("[RANDO] patch_item_bin_prices is loading adjusted_item.bin.json NOW")
     print("\n[ITEM] Processing item.bin.json")
 
     if not ITEM_PATH.exists():
@@ -866,6 +866,9 @@ def patch_item_bin_prices(updates_by_file):
         print(msg)
         log_error(msg)
         return
+
+    print(f"[DEBUG] ITEM_PATH = {ITEM_PATH}")
+    print(f"[DEBUG] OUTPUT_FOLDER = {OUTPUT_FOLDER}")
 
     with open(ITEM_PATH, encoding="utf-8") as f:
         data = json.load(f)
@@ -911,7 +914,7 @@ def patch_item_bin_prices(updates_by_file):
                 row["purchase_price"] = int(new_price)
 
                 msg = f"[ITEM PRICE] id={item_id} {old_value} -> {new_price}"
-                print(msg)
+                #print(msg)
                 log_change(msg)
 
                 changes += 1
@@ -926,7 +929,7 @@ def patch_item_bin_prices(updates_by_file):
                             row[field] = math.ceil(point_val * (multiplier / 100.0))
 
                     msg = f"[ITEM POINTS] id={item_id} -> {point_val}"
-                    print(msg)
+                    #print(msg)
                     log_change(msg)
 
                 except ValueError:
@@ -973,7 +976,7 @@ def patch_item_bin_prices(updates_by_file):
         row["max_count_base"] = 99
 
         msg = f"[ITEM EQUIPMENT] id={item_id} updated equipment stats"
-        print(msg)
+        #print(msg)
         log_change(msg)
 
     output_path = OUTPUT_FOLDER / "db.aston.en" / "item.bin.json"
@@ -1076,11 +1079,11 @@ def patch_akame_quest_rewards():
             PART_TIME_AKAME_MAX
         )
 
-        print(
-            f"[PART TIME] {inner_key}: "
-            f"money {old_money} -> {row['reward_money']}, "
-            f"points {old_points} -> {row['reward_akame_point']}"
-        )
+        #print(
+        #    f"[PART TIME] {inner_key}: "
+        #    f"money {old_money} -> {row['reward_money']}, "
+        #    f"points {old_points} -> {row['reward_akame_point']}"
+        #)
 
         log_change(
             f"Akame Quest {inner_key}: "
@@ -1158,6 +1161,7 @@ def main(base_dir=None):
     global UPDATES_CSV
     global CHANGE_LOG_PATH
     global ERROR_LOG_PATH
+    global ITEM_PATH
 
     if base_dir is not None:
         BASE_DIR = Path(base_dir)
@@ -1166,6 +1170,7 @@ def main(base_dir=None):
         UPDATES_CSV = BASE_DIR / "updates.csv"
         CHANGE_LOG_PATH = BASE_DIR / "change_log.txt"
         ERROR_LOG_PATH = BASE_DIR / "error_warning_log.txt"
+        ITEM_PATH = INPUT_FOLDER / "db.aston.en" / "adjusted_item.bin.json"
 
     load_config()
 

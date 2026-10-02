@@ -903,7 +903,7 @@ def initializeRebuildFile (ver, revision):
 
 def importTable (data):
     jsonInfo = storeJSONInfo(data)
-    print ("Rebuilding...")
+    #print ("Rebuilding...")
     global rebuildFileTemp
 
     pointerToMainTable = len(rebuildFileTemp)

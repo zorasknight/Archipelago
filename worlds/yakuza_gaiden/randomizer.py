@@ -5,7 +5,7 @@ import importlib
 import importlib.resources
 import importlib.util
 import json
-import Utils
+import settings
 
 
 WORLD_DIR = Path(__file__).resolve().parent
@@ -15,9 +15,6 @@ VERSION_FILE = ".yakuza_gaiden_version"
 SOURCE_GAMEDATA = WORLD_DIR / "GameData"
 SOURCE_ASSETS = WORLD_DIR / "Assets"
 
-CONFIG_PATH = Path(
-    Utils.user_path("YakuzaGaiden", "config.json")
-)
 
 def world_resource(name):
     package = importlib.import_module(__package__)
@@ -60,6 +57,7 @@ def folder_is_valid(folder):
 
     required_folders = [
         folder / "GameData",
+        folder / "GameData_Output",
         folder / "Assets",
         folder / "AP_PATCH",
     ]
@@ -70,33 +68,25 @@ def folder_is_valid(folder):
     return get_folder_version(folder) == get_randomizer_version()
 
 def load_saved_folder():
-    if not CONFIG_PATH.exists():
+    import settings
+
+    all_settings = settings.get_settings()
+
+    options = all_settings["yakuza_gaiden.world_options"]
+
+    folder = options["randomizer_folder"]
+
+    if not folder:
         return None
 
-    try:
-        with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-            config = json.load(f)
+    if str(folder) == ":pick a folder to save:":
+        return None
 
-        folder = config.get("randomizer_folder")
-
-        if folder:
-            return Path(folder)
-
-    except Exception:
-        pass
-
-    return None
+    return Path(str(folder))
 
 
 def save_folder(folder):
-    CONFIG_PATH.parent.mkdir(parents=True, exist_ok=True)
-
-    with open(CONFIG_PATH, "w", encoding="utf-8") as f:
-        json.dump(
-            {"randomizer_folder": str(folder)},
-            f,
-            indent=4,
-        )
+    settings.get_settings()["yakuza_gaiden.world_options"]["randomizer_folder"] = str(folder)
 
 
 def select_folder(log):
@@ -128,6 +118,7 @@ def create_folder_layout(log, output_dir):
     output_dir.mkdir(parents=True, exist_ok=True)
 
     output_gamedata = output_dir / "GameData"
+    output_gamedata_output = output_dir / "GameData_Output"
     output_assets = output_dir / "Assets"
     output_ap_patch = output_dir / "AP_PATCH"
 
@@ -139,12 +130,48 @@ def create_folder_layout(log, output_dir):
     with importlib.resources.as_file(
         world_resource("GameData")
     ) as source_gamedata:
+
         shutil.copytree(
             source_gamedata,
             output_gamedata,
         )
 
-    log("GameData copied.")
+        log("GameData copied.")
+
+        log("Copying db.aston.en files...")
+
+        source_db = source_gamedata / "db.aston.en"
+        output_db = output_gamedata_output / "db.aston.en"
+
+        if output_gamedata_output.exists():
+            shutil.rmtree(output_gamedata_output)
+
+        output_db.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        for source_file in source_db.rglob("*"):
+            if not source_file.is_file():
+                continue
+
+            if source_file.name == "adjusted_item.bin.json":
+                continue
+
+            relative_path = source_file.relative_to(source_db)
+            destination_file = output_db / relative_path
+
+            destination_file.parent.mkdir(
+                parents=True,
+                exist_ok=True,
+            )
+
+            shutil.copy2(
+                source_file,
+                destination_file,
+            )
+
+        log("db.aston.en files copied.")
 
     log("Copying Assets...")
 
