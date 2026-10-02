@@ -1,11 +1,8 @@
-from pathlib import Path
-import subprocess
+import importlib.resources
+import importlib.util
 import time
-from datetime import datetime
 import shutil
-import sys
-
-REARMP = Path(__file__).resolve().parent / "reARMP.py"
+from pathlib import Path
 
 
 def main(base_dir=None):
@@ -17,20 +14,27 @@ def main(base_dir=None):
 
     BIN_OUTPUT.mkdir(parents=True, exist_ok=True)
 
+    rearmp_resource = world_resource("scripts/reARMP.py")
+
+    with importlib.resources.as_file(rearmp_resource) as rearmp_path:
+        spec = importlib.util.spec_from_file_location(
+            "reARMP",
+            rearmp_path,
+        )
+
+        reARMP = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(reARMP)
+
     for json_file in ROOT.rglob("*.bin.json"):
         print(f"Processing: {json_file}")
 
-        subprocess.run(
-            [sys.executable, str(REARMP.resolve()), str(json_file.resolve())],
-            cwd=ROOT,
-            check=True
-        )
+        reARMP.main(json_file, ROOT)
 
         # reARMP output always lands in ROOT
         output_file = ROOT / (json_file.name + ".bin")
 
         # Wait for file to appear
-        timeout = 10
+        timeout = 1
         start = time.time()
 
         while not output_file.exists():

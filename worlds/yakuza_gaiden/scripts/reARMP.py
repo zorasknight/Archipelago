@@ -824,7 +824,9 @@ def rebuildFile ():
         importTable (data)
 
 
-        with open(file_name +'.bin', 'wb') as file:
+        output_file = Path(output_dir) / (file_name + '.bin')
+
+        with open(output_file, 'wb') as file:
             file.write(rebuildFileTemp)
 
 
@@ -1457,33 +1459,45 @@ def importTable (data):
 
 
 
-def showBanner():
-    print(r'''
-                       _____   __  __  _____  
-                /\    |  __ \ |  \/  ||  __ \ 
-  _ __  ___    /  \   | |__) || \  / || |__) |
- | '__|/ _ \  / /\ \  |  _  / | |\/| ||  ___/ 
- | |  |  __/ / ____ \ | | \ \ | |  | || |     
- |_|   \___|/_/    \_\|_|  \_\|_|  |_||_|     ''' + reARMP_version + '\n\n')
-
-showBanner()
-if (len(sys.argv) <= 1):
-    print ("Usage: reARMP <file>")
-    print ("You can also drag & drop!\n")
-    input("Press ENTER to exit... ")
-    sys.exit
-file_path = sys.argv[1:][0]
-#file_name = file_path.split("\\")[-1]
-file_name = Path(file_path).name
-file_extension = file_name.split(".")[-1]
-
-
-def determineFileExtension(file_extension): #Switch case based on the file extension
+def determineFileExtension(file_extension):
     switch = {
-        "bin" : exportFile,
-        "json" : rebuildFile
+        "bin": exportFile,
+        "json": rebuildFile
     }
-    func = switch.get(file_extension.lower(), lambda: "Extension not supported")
+
+    func = switch.get(
+        file_extension.lower(),
+        lambda: "Extension not supported"
+    )
+
     return func()
 
-determineFileExtension(file_extension)
+
+def main(input_file, output_dir_path):
+    global file_path
+    global file_name
+    global file_extension
+    global hexFile
+    global rebuildFileTemp
+    global output_dir
+
+    # Reset state for each file.
+    hexFile = b''
+    rebuildFileTemp = bytearray()
+    output_dir = output_dir_path
+
+    file_path = str(input_file)
+    file_name = Path(file_path).name
+    file_extension = file_name.split(".")[-1]
+
+    determineFileExtension(file_extension)
+
+
+if __name__ == "__main__":
+    if len(sys.argv) <= 1:
+        print("Usage: reARMP <file>")
+        print("You can also drag & drop!")
+        input("Press ENTER to exit...")
+        sys.exit()
+
+    main(sys.argv[1])

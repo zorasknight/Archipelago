@@ -1,6 +1,8 @@
 from pathlib import Path
 import shutil
 import threading
+import importlib
+import importlib.resources
 import importlib.util
 import json
 import Utils
@@ -17,9 +19,15 @@ CONFIG_PATH = Path(
     Utils.user_path("YakuzaGaiden", "config.json")
 )
 
+def world_resource(name):
+    package = importlib.import_module(__package__)
+
+    return importlib.resources.files(package) / name
 
 def get_randomizer_version():
-    with open(ARCHIPELAGO_JSON, "r", encoding="utf-8") as f:
+    resource = world_resource("archipelago.json")
+
+    with resource.open("r", encoding="utf-8") as f:
         manifest = json.load(f)
 
     return manifest["world_version"]
@@ -112,52 +120,57 @@ def select_folder(log):
     return folder
 
 
+
 def create_folder_layout(log, output_dir):
     output_dir = Path(output_dir)
 
     log("Creating randomizer folder layout...")
-
     output_dir.mkdir(parents=True, exist_ok=True)
 
     output_gamedata = output_dir / "GameData"
     output_assets = output_dir / "Assets"
     output_ap_patch = output_dir / "AP_PATCH"
 
-
     log("Copying GameData...")
 
     if output_gamedata.exists():
         shutil.rmtree(output_gamedata)
 
-    shutil.copytree(
-        SOURCE_GAMEDATA,
-        output_gamedata,
-    )
+    with importlib.resources.as_file(
+        world_resource("GameData")
+    ) as source_gamedata:
+        shutil.copytree(
+            source_gamedata,
+            output_gamedata,
+        )
 
     log("GameData copied.")
-
 
     log("Copying Assets...")
 
     if output_assets.exists():
         shutil.rmtree(output_assets)
 
-    shutil.copytree(
-        SOURCE_ASSETS,
-        output_assets,
-    )
+    with importlib.resources.as_file(
+        world_resource("Assets")
+    ) as source_assets:
+        shutil.copytree(
+            source_assets,
+            output_assets,
+        )
 
     log("Assets copied.")
 
-
     log("Creating AP_PATCH folder...")
 
-    output_ap_patch.mkdir(parents=True, exist_ok=True)
+    output_ap_patch.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
-    log("AP_PATCH folder created.")
     save_folder_version(output_dir)
-    log("Randomizer folder ready.")
 
+    log("Randomizer folder ready.")
 
 def run_randomizer(log, output_dir):
     output_dir = Path(output_dir)
@@ -172,17 +185,21 @@ def run_randomizer(log, output_dir):
             log("Starting randomizer...")
 
             def load_script(name):
-                script_path = WORLD_DIR / "scripts" / f"{name}.py"
-
-                spec = importlib.util.spec_from_file_location(
-                    name,
-                    script_path,
+                resource = world_resource(
+                    f"scripts/{name}.py"
                 )
 
-                module = importlib.util.module_from_spec(spec)
-                spec.loader.exec_module(module)
+                with importlib.resources.as_file(resource) as script_path:
+                    spec = importlib.util.spec_from_file_location(
+                        name,
+                        script_path,
+                    )
 
-                return module
+                    module = importlib.util.module_from_spec(spec)
+                    module.world_resource = world_resource
+                    spec.loader.exec_module(module)
+
+                    return module
 
 
             archipelago_item_creation = load_script(
