@@ -5,24 +5,14 @@ import logging
 tracker_loaded = False
 
 try:
-    from worlds.tracker.TrackerClient import (
-        TrackerGameContext as SuperContext,
-        TrackerCommandProcessor as SuperCommandProcessor,
-    )
+    from worlds.tracker.TrackerClient import ( TrackerGameContext as SuperContext, TrackerCommandProcessor as SuperCommandProcessor, )
 
     tracker_loaded = True
 
 except ModuleNotFoundError:
-    from CommonClient import (
-        CommonContext as SuperContext,
-        ClientCommandProcessor as SuperCommandProcessor,
-    )
+    from CommonClient import ( CommonContext as SuperContext, ClientCommandProcessor as SuperCommandProcessor, )
 
-from CommonClient import (
-    server_loop,
-    gui_enabled,
-    get_base_parser,
-)
+from CommonClient import ( server_loop, gui_enabled, get_base_parser, )
 
 
 class YakuzaGaidenContext(SuperContext):
@@ -36,22 +26,15 @@ class YakuzaGaidenContext(SuperContext):
         from kivy.uix.label import Label
 
         class YakuzaGaidenManager(base_manager):
-            logging_pairs = [
-                ("Client", "Archipelago")
-            ]
+            logging_pairs = [ ("Client", "Archipelago") ]
 
             base_title = "Archipelago Yakuza Gaiden Client"
 
             def select_randomizer_folder(self, _button):
                 try:
-                    from .randomizer import (
-                        select_folder,
-                        folder_is_valid,
-                    )
+                    from .randomizer import ( select_folder, folder_is_valid, )
 
-                    folder = select_folder(
-                        self.set_randomizer_status
-                    )
+                    folder = select_folder( self.set_randomizer_status )
 
                     if folder:
                         self.randomizer_folder = folder
@@ -67,9 +50,7 @@ class YakuzaGaidenContext(SuperContext):
                 except Exception as e:
                     self.randomizer_status.text = f"Error: {e}"
 
-                    logging.getLogger("Client").exception(
-                        "Failed to select randomizer folder."
-                    )
+                    logging.getLogger("Client").exception( "Failed to select randomizer folder." )
 
             def set_randomizer_status(self, message):
                 self.randomizer_status.text = message
@@ -77,10 +58,7 @@ class YakuzaGaidenContext(SuperContext):
 
             def create_randomizer_folder(self, _button):
                 try:
-                    from .randomizer import (
-                        create_folder_layout,
-                        folder_is_valid,
-                    )
+                    from .randomizer import ( create_folder_layout, folder_is_valid, )
 
                     folder = self.randomizer_folder
 
@@ -88,10 +66,7 @@ class YakuzaGaidenContext(SuperContext):
                         self.randomizer_status.text = "Please select a folder first."
                         return
 
-                    create_folder_layout(
-                        self.set_randomizer_status,
-                        folder,
-                    )
+                    create_folder_layout( self.set_randomizer_status, folder, )
 
                     if folder_is_valid(folder):
                         self.randomizer_status.text = "Randomizer folder found."
@@ -103,9 +78,7 @@ class YakuzaGaidenContext(SuperContext):
                 except Exception as e:
                     self.randomizer_status.text = f"Error: {e}"
 
-                    logging.getLogger("Client").exception(
-                        "Failed to create randomizer folder."
-                    )
+                    logging.getLogger("Client").exception( "Failed to create randomizer folder." )
 
             def run_randomizer(self, _button):
                 try:
@@ -117,71 +90,32 @@ class YakuzaGaidenContext(SuperContext):
                         self.randomizer_status.text = "Please select a folder first."
                         return
 
-                    run_randomizer(
-                        self.set_randomizer_status,
-                        folder,
-                    )
+                    run_randomizer( self.set_randomizer_status, folder, )
 
                 except Exception as e:
                     self.randomizer_status.text = f"Error: {e}"
 
-                    logging.getLogger("Client").exception(
-                        "Failed to run randomizer."
-                    )
+                    logging.getLogger("Client").exception( "Failed to run randomizer." )
 
             def build(self):
                 root = super().build()
                 self.randomizer_folder = None
 
-                layout = BoxLayout(
-                    orientation="vertical",
-                    padding=10,
-                    spacing=10,
-                )
+                layout = BoxLayout( orientation="vertical", padding=10, spacing=10, )
 
-                folder_row = BoxLayout(
-                    orientation="horizontal",
-                    size_hint_y=None,
-                    height=50,
-                    spacing=10,
-                )
+                folder_row = BoxLayout( orientation="horizontal", size_hint_y=None, height=50, spacing=10, )
 
-                select_button = Button(
-                    text="Select Folder Location",
-                    size_hint_x=None,
-                    width=200,
-                    on_release=lambda button: self.select_randomizer_folder(button),
-                )
+                select_button = Button( text="Select Folder Location", size_hint_x=None, width=200, on_release=lambda button: self.select_randomizer_folder(button), )
 
-                self.randomizer_status = Label(
-                    text="Randomizer folder not created.",
-                    size_hint_y=None,
-                    height=40,
-                )
+                self.randomizer_status = Label( text="Randomizer folder not created.", size_hint_y=None, height=40, )
 
-                self.randomizer_path = Label(
-                    text="No folder selected.",
-                )
+                self.randomizer_path = Label( text="No folder selected.", )
 
-                create_button = Button(
-                    text="Create Randomizer Folder",
-                    size_hint_y=None,
-                    height=50,
-                    on_release=lambda button: self.create_randomizer_folder(button),
-                )
+                create_button = Button( text="Create Randomizer Folder", size_hint_y=None, height=50, on_release=lambda button: self.create_randomizer_folder(button), )
 
-                self.run_button = Button(
-                    text="Run Randomizer",
-                    size_hint_y=None,
-                    height=50,
-                    disabled=True,
-                    on_release=lambda button: self.run_randomizer(button),
-                )
+                self.run_button = Button( text="Run Randomizer", size_hint_y=None, height=50, disabled=True, on_release=lambda button: self.run_randomizer(button), )
 
-                from .randomizer import (
-                    load_saved_folder,
-                    folder_is_valid,
-                )
+                from .randomizer import ( load_saved_folder, folder_is_valid, )
 
                 self.randomizer_folder = load_saved_folder()
 
@@ -203,16 +137,14 @@ class YakuzaGaidenContext(SuperContext):
                 layout.add_widget(create_button)
                 layout.add_widget(self.run_button)
 
-                self.add_client_tab(
-                    "Randomizer",
-                    layout,
-                )
+                self.add_client_tab( "Randomizer", layout, )
 
                 return root
 
         return YakuzaGaidenManager
 
 async def handle_status_client(reader, writer):
+    #handles connection to main Yak client, only one way for now, will it be helpful to have it work the other way?
     try:
         command = await reader.readline()
 
@@ -238,9 +170,7 @@ async def handle_status_client(reader, writer):
             "password": "" if ctx.password in (None, "None") else ctx.password,
         }
 
-        writer.write(
-            (json.dumps(response) + "\n").encode("utf-8")
-        )
+        writer.write( (json.dumps(response) + "\n").encode("utf-8") )
 
         await writer.drain()
 
@@ -250,23 +180,13 @@ async def handle_status_client(reader, writer):
 
 def launch():
     async def main(args):
-        ctx = YakuzaGaidenContext(
-            args.connect,
-            args.password,
-        )
+        ctx = YakuzaGaidenContext( args.connect, args.password, )
 
-        status_server = await asyncio.start_server(
-            handle_status_client,
-            "127.0.0.1",
-            38282,
-        )
+        status_server = await asyncio.start_server( handle_status_client, "127.0.0.1", 38282, )
 
         handle_status_client.ctx = ctx
 
-        ctx.server_task = asyncio.create_task(
-            server_loop(ctx),
-            name="server loop",
-        )
+        ctx.server_task = asyncio.create_task( server_loop(ctx), name="server loop", )
 
         if tracker_loaded:
             ctx.run_generator()
@@ -285,9 +205,7 @@ def launch():
 
         await ctx.shutdown()
 
-    parser = get_base_parser(
-        description="Yakuza Gaiden Client, for text interfacing."
-    )
+    parser = get_base_parser( description="Yakuza Gaiden Client, AP edition." )
 
     args, rest = parser.parse_known_args()
 

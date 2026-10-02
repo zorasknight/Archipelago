@@ -728,10 +728,6 @@ def update_wire(data, updates):
         log_change(msg)
 
 
-    # =====================================================
-    # Progressive Grapple replacements
-    # =====================================================
-
     if PROGRESSIVE_GRAPPLE_ITEMS:
 
         GRAPPLE_RANGES = [
@@ -938,9 +934,6 @@ def patch_item_bin_prices(updates_by_file):
                     print(msg)
                     log_error(msg)
 
-    # --------------------------------------------------
-    # Randomize generated equipment
-    # --------------------------------------------------
 
     stat_rules = {
         "add_ability_attack": (ATTACK_AND_DEFENSE_MIN, ATTACK_AND_DEFENSE_MAX),

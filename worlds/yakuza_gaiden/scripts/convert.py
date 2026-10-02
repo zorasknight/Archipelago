@@ -30,10 +30,9 @@ def main(base_dir=None):
 
         reARMP.main(json_file, ROOT)
 
-        # reARMP output always lands in ROOT
+        # reARMP output no longer lands in root now!
         output_file = ROOT / (json_file.name + ".bin")
 
-        # Wait for file to appear
         timeout = 1
         start = time.time()
 
@@ -44,7 +43,7 @@ def main(base_dir=None):
             time.sleep(0.25)
 
         if output_file.exists():
-            # Preserve folder structure inside Bin_Output
+            
             relative_path = json_file.relative_to(ROOT)
             final_file = BIN_OUTPUT / relative_path.with_suffix("")
 
@@ -58,8 +57,6 @@ def main(base_dir=None):
             print(f"Moved to: {final_file}")
 
     print("Done!")
-
-    # ZIP Output
 
     print("Creating zip archive...")
 

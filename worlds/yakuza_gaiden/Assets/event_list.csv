@@ -8,30 +8,30 @@ Daidoji jump,Story Fight,5,2,55,,688
 Nishitani 1,Dungeon Clear,5,3,21,,689
 patriarch drones,Story Fight,8,10,7,,690
 Nishitani,Dungeon Clear,5,4,44,,691
-Film Assistant Needed,Substory,8,29,10,,692
+Film Assistant Needed,Substory,8,29,10,3,692
 Emergency Request,Substory,8,22,17,,693
-Investigation Request,Substory,8,23,8,,694
-Vanquish the Red Peacocks,Substory,8,40,21,,695
-A Simple Heavy-Lifting Job,Substory,8,34,15,,696
-Ghost of Sotenbori,Substory,8,28,18,,697
-Seeking Advice,Substory,8,33,11,,698
-Recruit Homeless Yamanaka,Substory,8,37,19,,699
-The Strongest Convenence Store Clerk,Substory,8,36,11,,700
-Liberate the Hammer Man,Substory,8,38,16,,701
-Final Showdown Red Peacocks,Substory,8,46,8,,702
-The Golden Samurai,Substory,8,42,5,,703
+Investigation Request,Substory,8,23,8,3,694
+Vanquish the Red Peacocks,Substory,8,40,21,3,695
+A Simple Heavy-Lifting Job,Substory,8,34,15,3,696
+Ghost of Sotenbori,Substory,8,28,18,3,697
+Seeking Advice,Substory,8,33,11,3,698
+Recruit Homeless Yamanaka,Substory,8,37,19,3,699
+The Strongest Convenence Store Clerk,Substory,8,36,11,3,700
+Liberate the Hammer Man,Substory,8,38,16,3,701
+Final Showdown Red Peacocks,Substory,8,46,8,3,702
+The Golden Samurai,Substory,8,42,5,3,703
 Final Akame Boss,Story Fight,8,19,16,,704
-Save the Pro Wrestler,Substory,8,36,10,,705
-The Cat-Lovin' Rapper,Substory,8,37,20,,706
-The Struggling Host,Substory,8,38,17,,707
-Vanquish the White Knights,Substory,8,41,21,,708
+Save the Pro Wrestler,Substory,8,36,10,3,705
+The Cat-Lovin' Rapper,Substory,8,37,20,3,706
+The Struggling Host,Substory,8,38,17,3,707
+Vanquish the White Knights,Substory,8,41,21,3,708
 Gotta Catch 'em Balls!,Substory,8,50,7,,709
-The Golden Scourge,Substory,8,43,5,,710
-End the Destruction,Substory,8,20,21,,711
-Final Showdown the White Knights,Substory,8,47,12,,712
-Golden Gauntlet Throwdown,Substory,8,44,6,,713
-Vanquish the Black Swallowtails,Substory,8,48,21,,714
-Final Showdown the Black Swallowtails,Substory,8,49,11,,715
+The Golden Scourge,Substory,8,43,5,3,710
+End the Destruction,Substory,8,20,21,3,711
+Final Showdown the White Knights,Substory,8,47,12,3,712
+Golden Gauntlet Throwdown,Substory,8,44,6,3,713
+Vanquish the Black Swallowtails,Substory,8,48,21,3,714
+Final Showdown the Black Swallowtails,Substory,8,49,11,3,715
 A Dental Dilemma,Akame Quest,14,19,5,3,716
 My Best Ball,Akame Quest,14,2,6,3,717
 Kickin' the Habit,Akame Quest,14,18,5,3,718

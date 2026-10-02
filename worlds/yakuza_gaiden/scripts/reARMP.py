@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#this was originally written by Ret, I have made changes to fit this into the AP world, but it is not my original code! credit is given in the Readme
 import binascii
 import sys
 import json

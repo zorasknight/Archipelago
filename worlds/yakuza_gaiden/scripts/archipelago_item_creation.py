@@ -5,10 +5,6 @@ from copy import deepcopy
 from pathlib import Path
 import zipfile
 
-# --------------------------------------------------
-# Paths
-# --------------------------------------------------
-
 def get_base_dir():
     if getattr(sys, "frozen", False):
         return Path(sys.executable).parent
@@ -25,10 +21,7 @@ def main(base_dir=None):
     if not patch_files:
         raise FileNotFoundError(f"No patch zip files found in {PATCH_FOLDER}")
 
-    PATCH_ZIP = max(
-        PATCH_FOLDER.glob("*.zip"),
-        key=lambda f: f.stat().st_mtime
-    )
+    PATCH_ZIP = max( PATCH_FOLDER.glob("*.zip"), key=lambda f: f.stat().st_mtime )
 
     PATCH_FILENAME = "patch.csv"
 
@@ -38,10 +31,6 @@ def main(base_dir=None):
     UPDATE_CSV = BASE_DIR / "updates.csv"
     MAPPING_CSV = BASE_DIR/ "Assets" / "item_mapping.csv"
 
-
-    # --------------------------------------------------
-    # Load files
-    # --------------------------------------------------
 
     print("Loading item.bin.json...")
 
@@ -69,17 +58,9 @@ def main(base_dir=None):
             )
 
 
-    # --------------------------------------------------
-    # Build existing item name -> icon/explanation lookup
-    # --------------------------------------------------
-
     name_to_icon = {}
     name_to_explanation = {}
 
-
-    # --------------------------------------------------
-    # AP item quality fallback lookups
-    # --------------------------------------------------
 
     def get_quality_icon(item_quality):
         if item_quality == "useful":
@@ -115,22 +96,12 @@ def main(base_dir=None):
         existing_name = item.get("name")
 
         if existing_name:
-            name_to_icon[existing_name] = item.get(
-                "icon",
-                5944
-            )
+            name_to_icon[existing_name] = item.get( "icon", 5944 )
 
-            name_to_explanation[existing_name] = item.get(
-                "explanation",
-                "Archipelago Generated Item"
-            )
+            name_to_explanation[existing_name] = item.get( "explanation", "Archipelago Generated Item" )
 
 
     print(f"Loaded {len(name_to_icon)} existing item icon mappings")
-
-    # --------------------------------------------------
-    # Find next available row id
-    # --------------------------------------------------
 
     existing_ids = [
         int(k)
@@ -144,19 +115,11 @@ def main(base_dir=None):
     print(f"Starting new rows at {next_row}")
 
 
-    # --------------------------------------------------
-    # Template
-    # --------------------------------------------------
-
     template = deepcopy(item_data["5848"])
 
     template_key = next(iter(template.keys()))
     template_row = template[template_key]
 
-
-    # --------------------------------------------------
-    # Build new items
-    # --------------------------------------------------
 
     updated_rows = []
     mapping_rows = []
@@ -172,10 +135,6 @@ def main(base_dir=None):
 
         is_junk = row.get("junk_check", "").lower() == "true"
 
-        # --------------------------------------------------
-        # Junk checks reuse an existing item.
-        # Do NOT create a new item.bin entry.
-        # --------------------------------------------------
 
         if is_junk:
 
@@ -194,9 +153,6 @@ def main(base_dir=None):
             updated_rows.append(row)
             continue
 
-        # --------------------------------------------------
-        # Normal AP items create a brand new item entry
-        # --------------------------------------------------
 
         row_id = str(next_row)
 
@@ -207,20 +163,14 @@ def main(base_dir=None):
 
         new_entry["name"] = item_name
 
-        new_entry["icon"] = name_to_icon.get(
-            item_name,
-            get_quality_icon(row.get("item_quality", ""))
-        )
+        new_entry["icon"] = name_to_icon.get( item_name, get_quality_icon(row.get("item_quality", "")) )
 
         new_entry["reARMP_rowIndex"] = (next_row - 2)
         new_entry["max_count_base"] = 99
         new_entry["reARMP_isValid"] = "1"
         new_entry["hide_on_pause_menu"] = 1
 
-        new_entry["explanation"] = name_to_explanation.get(
-            item_name,
-            get_quality_explanation(row.get("item_quality", ""))
-        )
+        new_entry["explanation"] = name_to_explanation.get( item_name, get_quality_explanation(row.get("item_quality", "")) )
 
         item_data[row_id] = {
             item_name: new_entry
@@ -247,17 +197,11 @@ def main(base_dir=None):
             {
                 "KEY": row_id,
                 "ITEM": original_item_id,
-                "LOCATION": row.get(
-                    "location_id",
-                    ""
-                )
+                "LOCATION": row.get( "location_id", "" )
             }
         )
 
         next_row += 1
-    # --------------------------------------------------
-    # Update header values
-    # --------------------------------------------------
 
     item_data["ROW_COUNT"] = next_row
 
@@ -267,24 +211,11 @@ def main(base_dir=None):
     )
 
 
-    # --------------------------------------------------
-    # Save adjusted item.bin.json
-    # --------------------------------------------------
-
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(
-            item_data,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
+        json.dump( item_data, f, indent=2, ensure_ascii=False )
 
     print(f"Wrote {OUTPUT_PATH}")
 
-
-    # --------------------------------------------------
-    # Save update.csv
-    # --------------------------------------------------
 
     with open(UPDATE_CSV, "w", newline="", encoding="utf-8") as f:
 
@@ -310,10 +241,6 @@ def main(base_dir=None):
 
     print(f"Wrote {UPDATE_CSV}")
 
-
-    # --------------------------------------------------
-    # Save item_mapping.csv
-    # --------------------------------------------------
 
     with open(MAPPING_CSV, "w", newline="", encoding="utf-8") as f:
 
