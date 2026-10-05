@@ -142,6 +142,7 @@ def load_config():
     global SETTINGS
 
     global SHOP_KEYS
+    global MINIGAME_KEYS
     global SKILL_MONEY_MIN
     global SKILL_MONEY_MAX
     global SKILL_AKAME_MIN
@@ -182,7 +183,7 @@ def load_config():
     SETTINGS = load_ap_settings(BASE_DIR)
 
     SHOP_KEYS = SETTINGS["shop_key"]
-    SHOP_KEYS = SETTINGS["minigame_shop_key"]
+    MINIGAME_KEYS = SETTINGS["minigame_shop_key"]
 
     ENEMY_HP_MULT = SETTINGS["enemy_hp_mult"]
     ENEMY_ATTACK_MULT = SETTINGS["enemy_attack_mult"]
@@ -238,9 +239,6 @@ def load_config():
 
 # Create log files
 
-CHANGE_LOG_PATH = Path("change_log.txt")
-ERROR_LOG_PATH = Path("error_warning_log.txt")
-
 def log_change(msg: str):
     with open(CHANGE_LOG_PATH, "a", encoding="utf-8") as f:
         f.write(msg + "\n")
@@ -260,10 +258,6 @@ def write_options_file():
         json.dump(SETTINGS, f, indent=4)
 
     print(f"[CONFIG] Wrote options to {options_path}")
-
-
-CHANGE_LOG_PATH.write_text("", encoding="utf-8")
-ERROR_LOG_PATH.write_text("", encoding="utf-8")
 
 # Weighted rand
 
@@ -364,7 +358,7 @@ def update_encounters():
             old_hp = row["hp"]
             row["hp"] = 1
 
-            #print(f"Intro fight {group}: hp {old_hp} -> 1")
+            print(f"Intro fight {group}: hp {old_hp} -> 1")
             log_change(f"Intro fight {group}: hp {old_hp} -> 1")
             changes += 1
 
@@ -482,17 +476,9 @@ def update_shop_item_limits(data, updates):
 
     shop_category_8_values = {
         "aston_s_ebisuya": 4,
-        "aston_s_billiards_prize": 5,
         "aston_s_wannpark": 6,
         "aston_y_shichiya": 7,
         "aston_y_lovemagic": 8,
-        "aston_y_shogi": 9,
-        "aston_s_shogi": 10,
-        "aston_s_golf": 11,
-        "aston_s_toba": 12,
-        "aston_y_toba": 13,
-        "aston_c_toba": 14,
-        "aston_c_casino": 15,
         "aston_c_boutique_equip": 16,
         "aston_c_boutique_vip": 17,
         "aston_s_mizorogi_2": 18,
@@ -506,6 +492,17 @@ def update_shop_item_limits(data, updates):
         "aston_s_shigano": 26,
         "aston_y_smilewagon": 27,
         "aston_y_ichibann": 28,
+    }
+
+    minigame_category_8_values = {
+        "aston_s_billiards_prize": 5,
+        "aston_y_shogi": 9,
+        "aston_s_shogi": 10,
+        "aston_s_golf": 11,
+        "aston_s_toba": 12,
+        "aston_y_toba": 13,
+        "aston_c_toba": 14,
+        "aston_c_casino": 15,
     }
 
     affected_tables = {
@@ -557,6 +554,12 @@ def update_shop_item_limits(data, updates):
                     row["6"] = 1
                     row["7"] = 12
                     row["8"] = shop_category_8_values[table_name]
+                
+                if MINIGAME_KEYS and table_name in minigame_category_8_values:
+                    row["6"] = 1
+                    row["7"] = 12
+                    row["8"] = minigame_category_8_values[table_name]
+                    
 # Rewards
 
 def update_reward(data, updates):
@@ -678,10 +681,6 @@ def update_coinlocker(data, updates):
 def update_wire(data, updates):
 
     changes = 0
-
-    # =====================================================
-    # Normal wire updates
-    # =====================================================
 
     for u in updates:
 
@@ -1162,6 +1161,7 @@ def main(base_dir=None):
     global CHANGE_LOG_PATH
     global ERROR_LOG_PATH
     global ITEM_PATH
+    global NPC_PATH
 
     if base_dir is not None:
         BASE_DIR = Path(base_dir)
@@ -1171,6 +1171,7 @@ def main(base_dir=None):
         CHANGE_LOG_PATH = BASE_DIR / "change_log.txt"
         ERROR_LOG_PATH = BASE_DIR / "error_warning_log.txt"
         ITEM_PATH = INPUT_FOLDER / "db.aston.en" / "adjusted_item.bin.json"
+        NPC_PATH = INPUT_FOLDER / "db.aston.en" / "character_npc_soldier_personal_data.bin.json"
 
     load_config()
 

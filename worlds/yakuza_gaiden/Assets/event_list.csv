@@ -15,8 +15,8 @@ Vanquish the Red Peacocks,Substory,8,40,21,3,695
 A Simple Heavy-Lifting Job,Substory,8,34,15,3,696
 Ghost of Sotenbori,Substory,8,28,18,3,697
 Seeking Advice,Substory,8,33,11,3,698
-Recruit Homeless Yamanaka,Substory,8,37,19,3,699
-The Strongest Convenence Store Clerk,Substory,8,36,11,3,700
+Recruit Homeless Yamanaka,Substory,8,24,7,3,699
+The Strongest Convenence Store Clerk,Substory,8,35,9,3,700
 Liberate the Hammer Man,Substory,8,38,16,3,701
 Final Showdown Red Peacocks,Substory,8,46,8,3,702
 The Golden Samurai,Substory,8,42,5,3,703
@@ -68,7 +68,7 @@ Order of Oden,Akame Fetch,14,60,4,3,748
 Challenge to the Informant #1,Akame Trial,14,67,3,2,749
 Real-Deal Okonomiyaki,Akame Fetch,14,53,4,3,750
 Crush the Collector,Akame Combat,14,44,5,3,751
-Never Forget Four Shine,Akame Photo,14,6,5,3,752
+Never Forget Four Shine,Akame Photo,14,6,5,4,752
 Find the Flying Takoyaki!,Akame Photo,14,28,6,3,753
 Calm My Nerves and Find My Car!,Akame Photo,14,27,6,3,754
 In Need of a UFO Catcher,Akame Fetch,14,5,5,3,755
@@ -91,7 +91,7 @@ Find the Terrifying Beings!,Akame Photo,14,29,6,3,771
 Four Golf Bingos!,Akame Trial,14,78,5,3,772
 The Trendy Thug,Akame Combat,14,32,5,3,773
 Turn That Frown Upside Down  Clown,Akame Outfit,14,63,4,3,774
-Where is My Son?,Akame Trial,14,4,5,3,775
+Where is My Son?,Akame Trial,14,4,5,4,775
 Challenge to the Informant #4,Akame Trial,14,70,3,2,776
 A Negative Exposure,Akame Combat,14,34,5,3,777
 Turn Out Your Pockets,Akame Combat,14,37,5,3,778
@@ -105,7 +105,7 @@ How 'Bout Them Kappas,Akame Trial,14,90,5,3,785
 The Hidden One's Revenge,Akame Trial,14,88,5,3,786
 Find the Cute Cafe!,Akame Photo,14,73,6,3,787
 The Hidden One's Last Stand,Akame Trial,14,89,5,3,788
-Please Model for Me!,Akame Outfit,14,7,5,3,789
+Please Model for Me!,Akame Outfit,14,7,5,4,789
 The Outfit from My Memories,Akame Outfit,14,62,4,3,790
 A Taste of Kabuki,Akame Outfit,14,64,4,3,791
 A Stubborn Customer,Akame Combat,14,38,5,3,792
@@ -116,7 +116,7 @@ Chase Off the Nuisances,Akame Combat,14,39,5,3,796
 "Score a 90 on ""Baka Mitai""!",Akame Trial,14,80,5,3,797
 "Score a 90 on ""Hands""!",Akame Trial,14,81,5,3,798
 "Score a 90 on ""Like a Butterfly""!",Akame Trial,14,82,5,3,799
-Solve the Mysterious Note,Akame Trial,14,92,4,3,800
+Solve the Mysterious Note,Akame Trial,14,92,4,5,800
 Itching for Ichiban Senbei,Akame Fetch,14,93,4,3,801
 Eight Golf Bingos!,Akame Trial,14,79,5,3,802
 My Friend Needs to Understand,Akame Outfit,14,66,4,3,803

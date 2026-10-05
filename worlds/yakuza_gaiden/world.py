@@ -38,6 +38,8 @@ class YakuzaGaiden(World):
         "map_page_layouts": "layouts.json",
     }
 
+    ut_can_gen_without_yaml = True
+
     def create_regions(self) -> None:
         regions.create_and_connect_regions(self)
         locations.create_all_locations(self)
@@ -114,61 +116,81 @@ class YakuzaGaiden(World):
             )
 
     def fill_slot_data(self) -> Mapping[str, Any]:
-        return self.options.as_dict(
-            "substory",
-            "akame_tasks",
-            "shop_key",
-            "minigame_shop_key",
-            "pocket_circuit",
-            "minigames",
-            "progressive_skills",
-            "intro_skip",
-            "randomize_enemy_stats",
-            "progressive_grapple_items",
-            "trap_chance",
-            "golden_ball_wincon",
-            "defeat_shishido_wincon",
-            "defeat_pocket_circuit_owner_wincon",
-            "required_golden_ball_count",
-            "max_golden_ball_count", 
-            "shops",
-            "weird_shops",
-            "consumable_shops",
-            "item_cost_min",
-            "item_cost_max",
-            "darts",
-            "pool",
-            "golf",
-            "casino",
-            "shogi",
-            "item_cost_point_min",
-            "item_cost_point_max",
-            "akame_combat",
-            "akame_fetch",
-            "akame_photo",
-            "akame_trial",
-            "akame_outfit",
-            "skill_money_min",
-            "skill_money_max",
-            "skill_point_min",
-            "skill_point_max",
-            "part_time_money_min",
-            "part_time_money_max",
-            "part_time_point_min",
-            "part_time_point_max",
-            "attack_defense_min",
-            "attack_defense_max",
-            "resist_min",
-            "resist_max",
-            "important_grapple_items_yokohama",
-            "important_grapple_items_sotenbori",
-            "important_grapple_items_colosseum",
-            "enemy_hp_mult",
-            "enemy_attack_mult",
-            "pool_modifier", 
-            "golf_modifier", 
-            "casino_modifier", 
-            "shogi_modifier", 
-            "pocket_circuit_modifier", 
-            "akame_shop_modifier",
-        )
+        return {
+            "options": self.options.as_dict(
+                "substory",
+                "akame_tasks",
+                "shop_key",
+                "minigame_shop_key",
+                "pocket_circuit",
+                "minigames",
+                "progressive_skills",
+                "intro_skip",
+                "randomize_enemy_stats",
+                "progressive_grapple_items",
+                "trap_chance",
+                "golden_ball_wincon",
+                "defeat_shishido_wincon",
+                "defeat_pocket_circuit_owner_wincon",
+                "required_golden_ball_count",
+                "max_golden_ball_count", 
+                "shops",
+                "weird_shops",
+                "consumable_shops",
+                "item_cost_min",
+                "item_cost_max",
+                "darts",
+                "pool",
+                "golf",
+                "casino",
+                "shogi",
+                "item_cost_point_min",
+                "item_cost_point_max",
+                "akame_combat",
+                "akame_fetch",
+                "akame_photo",
+                "akame_trial",
+                "akame_outfit",
+                "skill_money_min",
+                "skill_money_max",
+                "skill_point_min",
+                "skill_point_max",
+                "part_time_money_min",
+                "part_time_money_max",
+                "part_time_point_min",
+                "part_time_point_max",
+                "attack_defense_min",
+                "attack_defense_max",
+                "resist_min",
+                "resist_max",
+                "important_grapple_items_yokohama",
+                "important_grapple_items_sotenbori",
+                "important_grapple_items_colosseum",
+                "enemy_hp_mult",
+                "enemy_attack_mult",
+                "pool_modifier", 
+                "golf_modifier", 
+                "casino_modifier", 
+                "shogi_modifier", 
+                "pocket_circuit_modifier", 
+                "akame_shop_modifier",
+            )
+        }
+    
+    @staticmethod
+    def interpret_slot_data(slot_data: Mapping[str, Any]) -> Mapping[str, Any]:
+        return slot_data
+    
+    
+    def generate_early(self) -> None:
+        re_gen_passthrough = getattr(self.multiworld, "re_gen_passthrough", {})
+
+        if re_gen_passthrough and self.game in re_gen_passthrough:
+            slot_data: Mapping[str, Any] = re_gen_passthrough[self.game]
+            slot_options = slot_data.get("options", {})
+
+            for key, value in slot_options.items():
+                option = getattr(self.options, key, None)
+
+                if option is not None:
+                    setattr(self.options, key, option.from_any(value))
