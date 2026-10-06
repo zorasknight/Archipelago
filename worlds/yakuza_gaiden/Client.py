@@ -12,8 +12,7 @@ try:
 except ModuleNotFoundError:
     from CommonClient import ( CommonContext as SuperContext, ClientCommandProcessor as SuperCommandProcessor, )
 
-from CommonClient import ( server_loop, gui_enabled, get_base_parser, )
-
+from CommonClient import ( server_loop, gui_enabled, get_base_parser, handle_url_arg, )
 
 class YakuzaGaidenContext(SuperContext):
     game = "Yakuza Gaiden"
@@ -178,15 +177,25 @@ async def handle_status_client(reader, writer):
         writer.close()
         await writer.wait_closed()
 
-def launch():
+def launch(*launch_args):
     async def main(args):
-        ctx = YakuzaGaidenContext( args.connect, args.password, )
+        ctx = YakuzaGaidenContext(args.connect, args.password)
 
-        status_server = await asyncio.start_server( handle_status_client, "127.0.0.1", 38282, )
+        if getattr(args, "name", None):
+            ctx.auth = args.name
+
+        status_server = await asyncio.start_server(
+            handle_status_client,
+            "127.0.0.1",
+            38282,
+        )
 
         handle_status_client.ctx = ctx
 
-        ctx.server_task = asyncio.create_task( server_loop(ctx), name="server loop", )
+        ctx.server_task = asyncio.create_task(
+            server_loop(ctx),
+            name="server loop",
+        )
 
         if tracker_loaded:
             ctx.run_generator()
@@ -205,8 +214,24 @@ def launch():
 
         await ctx.shutdown()
 
-    parser = get_base_parser( description="Yakuza Gaiden Client, AP edition." )
+    parser = get_base_parser(
+        description="Yakuza Gaiden Client, AP edition."
+    )
 
-    args, rest = parser.parse_known_args()
+    parser.add_argument(
+        "--name",
+        default=None,
+        help="Slot Name to connect as.",
+    )
+
+    parser.add_argument(
+        "url",
+        nargs="?",
+        help="Archipelago connection url",
+    )
+
+    args = handle_url_arg(
+        parser.parse_args(launch_args)
+    )
 
     asyncio.run(main(args))
