@@ -106,11 +106,11 @@ class YakuzaGaidenContext(SuperContext):
 
                 select_button = Button( text="Select Folder Location", size_hint_x=None, width=200, on_release=lambda button: self.select_randomizer_folder(button), )
 
-                self.randomizer_status = Label( text="Randomizer folder not created.", size_hint_y=None, height=40, )
+                self.randomizer_status = Label( text="Randomizer folder not created or invalid.", size_hint_y=None, height=40, )
 
                 self.randomizer_path = Label( text="No folder selected.", )
 
-                create_button = Button( text="Create Randomizer Folder", size_hint_y=None, height=50, on_release=lambda button: self.create_randomizer_folder(button), )
+                create_button = Button( text="Create or Update the Randomizer Folder", size_hint_y=None, height=50, on_release=lambda button: self.create_randomizer_folder(button), )
 
                 self.run_button = Button( text="Run Randomizer", size_hint_y=None, height=50, disabled=True, on_release=lambda button: self.run_randomizer(button), )
 
@@ -125,7 +125,7 @@ class YakuzaGaidenContext(SuperContext):
                         self.randomizer_status.text = "Randomizer folder found."
                         self.run_button.disabled = False
                     else:
-                        self.randomizer_status.text = "Randomizer folder needs to be created."
+                        self.randomizer_status.text = "Randomizer folder needs to be created or updated."
                         self.run_button.disabled = True
 
                 folder_row.add_widget(select_button)

@@ -203,7 +203,7 @@ def run_randomizer(log, output_dir):
     output_dir = Path(output_dir)
 
     if not output_dir.exists():
-        log("Randomizer folder does not exist.")
+        log("Randomizer folder does not exist or is invalid.")
         log("Create the randomizer folder first.")
         return
 

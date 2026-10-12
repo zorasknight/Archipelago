@@ -1,0 +1,9502 @@
+{
+  "entries": [
+    {
+      "fight_id": 6673,
+      "ctrltype": 183,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_npc2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6674,
+      "ctrltype": 188,
+      "chara": 23306,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_npc3",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6675,
+      "ctrltype": 189,
+      "chara": 23310,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_npc4",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6676,
+      "ctrltype": 190,
+      "chara": 23305,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_npc5",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6677,
+      "ctrltype": 191,
+      "chara": 23307,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_npc6",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6986,
+      "ctrltype": 183,
+      "chara": 23334,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_btl04_0400_000_npc",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 6992,
+      "ctrltype": 182,
+      "chara": 23235,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_0700_npc1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7396,
+      "ctrltype": 150,
+      "chara": 23939,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_01",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7397,
+      "ctrltype": 151,
+      "chara": 23877,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_02",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7398,
+      "ctrltype": 152,
+      "chara": 24406,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_tougi_nakama_03",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7399,
+      "ctrltype": 153,
+      "chara": 24408,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_04",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7400,
+      "ctrltype": 154,
+      "chara": 24418,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_05",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7401,
+      "ctrltype": 155,
+      "chara": 24402,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_06",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7402,
+      "ctrltype": 203,
+      "chara": 24403,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_07",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7403,
+      "ctrltype": 204,
+      "chara": 23878,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_08",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7404,
+      "ctrltype": 205,
+      "chara": 24065,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_09",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7405,
+      "ctrltype": 206,
+      "chara": 23882,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_10",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7406,
+      "ctrltype": 207,
+      "chara": 23883,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_tougi_nakama_11",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7407,
+      "ctrltype": 208,
+      "chara": 24416,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_12",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7408,
+      "ctrltype": 209,
+      "chara": 12230,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_13",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7409,
+      "ctrltype": 210,
+      "chara": 24407,
+      "equip_l": 0,
+      "equip_r": 3233,
+      "fight_name": "aston_tougi_nakama_14",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7410,
+      "ctrltype": 211,
+      "chara": 11985,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_tougi_nakama_15",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7411,
+      "ctrltype": 212,
+      "chara": 24417,
+      "equip_l": 0,
+      "equip_r": 3233,
+      "fight_name": "aston_tougi_nakama_16",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7412,
+      "ctrltype": 213,
+      "chara": 24404,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_tougi_nakama_17",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7413,
+      "ctrltype": 214,
+      "chara": 24409,
+      "equip_l": 0,
+      "equip_r": 3234,
+      "fight_name": "aston_tougi_nakama_18",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7414,
+      "ctrltype": 215,
+      "chara": 24419,
+      "equip_l": 0,
+      "equip_r": 1993,
+      "fight_name": "aston_tougi_nakama_19",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7415,
+      "ctrltype": 216,
+      "chara": 23885,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_20",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7416,
+      "ctrltype": 217,
+      "chara": 23889,
+      "equip_l": 0,
+      "equip_r": 3746,
+      "fight_name": "aston_tougi_nakama_21",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7417,
+      "ctrltype": 218,
+      "chara": 24414,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_22",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7418,
+      "ctrltype": 219,
+      "chara": 24410,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_23",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7419,
+      "ctrltype": 220,
+      "chara": 23890,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_24",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7420,
+      "ctrltype": 221,
+      "chara": 24413,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_25",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7421,
+      "ctrltype": 222,
+      "chara": 24412,
+      "equip_l": 0,
+      "equip_r": 1607,
+      "fight_name": "aston_tougi_nakama_26",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7422,
+      "ctrltype": 223,
+      "chara": 23887,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_27",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7423,
+      "ctrltype": 224,
+      "chara": 23879,
+      "equip_l": 0,
+      "equip_r": 3746,
+      "fight_name": "aston_tougi_nakama_28",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7424,
+      "ctrltype": 225,
+      "chara": 23880,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_29",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7425,
+      "ctrltype": 226,
+      "chara": 23888,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_30",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7426,
+      "ctrltype": 227,
+      "chara": 11,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_31",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7427,
+      "ctrltype": 228,
+      "chara": 18,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_32",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7428,
+      "ctrltype": 229,
+      "chara": 103,
+      "equip_l": 0,
+      "equip_r": 2929,
+      "fight_name": "aston_tougi_nakama_33",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7437,
+      "ctrltype": 185,
+      "chara": 11,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_npc2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7468,
+      "ctrltype": 185,
+      "chara": 9409,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_npc1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7469,
+      "ctrltype": 186,
+      "chara": 9413,
+      "equip_l": 0,
+      "equip_r": 2929,
+      "fight_name": "aston_btl05_0300_npc2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7470,
+      "ctrltype": 187,
+      "chara": 23388,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_npc3",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7535,
+      "ctrltype": 194,
+      "chara": 23983,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7536,
+      "ctrltype": 194,
+      "chara": 23984,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7537,
+      "ctrltype": 194,
+      "chara": 23985,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc3",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7538,
+      "ctrltype": 194,
+      "chara": 23986,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc4",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7539,
+      "ctrltype": 195,
+      "chara": 23987,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc5",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7540,
+      "ctrltype": 195,
+      "chara": 23988,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc6",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7541,
+      "ctrltype": 195,
+      "chara": 23989,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc7",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7542,
+      "ctrltype": 196,
+      "chara": 23990,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc8",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7543,
+      "ctrltype": 196,
+      "chara": 23991,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc9",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7544,
+      "ctrltype": 196,
+      "chara": 23992,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0500_000_npc10",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7545,
+      "ctrltype": 113,
+      "chara": 23532,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_npc1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7546,
+      "ctrltype": 183,
+      "chara": 23334,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl04_0300_000_npc2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7547,
+      "ctrltype": 192,
+      "chara": 23418,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl04_0300_000_npc3",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7548,
+      "ctrltype": 193,
+      "chara": 23419,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl04_0300_000_npc4",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7549,
+      "ctrltype": 193,
+      "chara": 23420,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl04_0300_000_npc5",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7550,
+      "ctrltype": 183,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_btl04_0500_000_npc",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7669,
+      "ctrltype": 184,
+      "chara": 23393,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_npc1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7754,
+      "ctrltype": 235,
+      "chara": 3,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_kiryu",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7778,
+      "ctrltype": 250,
+      "chara": 12230,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_npc_1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7779,
+      "ctrltype": 249,
+      "chara": 11985,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_npc_2",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7781,
+      "ctrltype": 236,
+      "chara": 23318,
+      "equip_l": 0,
+      "equip_r": 643,
+      "fight_name": "aston_tougi_nakama_34",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7782,
+      "ctrltype": 237,
+      "chara": 24415,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_35",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7783,
+      "ctrltype": 238,
+      "chara": 11944,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_36",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7784,
+      "ctrltype": 239,
+      "chara": 24405,
+      "equip_l": 0,
+      "equip_r": 1506,
+      "fight_name": "aston_tougi_nakama_37",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7785,
+      "ctrltype": 240,
+      "chara": 23886,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_38",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7786,
+      "ctrltype": 241,
+      "chara": 24411,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_nakama_39",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7787,
+      "ctrltype": 242,
+      "chara": 24558,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_tougi_nakama_40",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7867,
+      "ctrltype": 29,
+      "chara": 24418,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl11_0100_000_1",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 8032,
+      "ctrltype": 46,
+      "chara": 23883,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl15_0200_000_7",
+      "tags": [
+        "ally"
+      ]
+    },
+    {
+      "fight_id": 7161,
+      "ctrltype": 113,
+      "chara": 15613,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_test_btl_npc_watase",
+      "tags": [
+        "ally",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7436,
+      "ctrltype": 184,
+      "chara": 15613,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_npc1",
+      "tags": [
+        "ally",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 6547,
+      "ctrltype": 181,
+      "chara": 23330,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0900_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6548,
+      "ctrltype": 181,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1000_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6549,
+      "ctrltype": 106,
+      "chara": 23249,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6550,
+      "ctrltype": 107,
+      "chara": 23309,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1100_000_2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6551,
+      "ctrltype": 106,
+      "chara": 23304,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1100_000_3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6569,
+      "ctrltype": 82,
+      "chara": 23496,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl02_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6577,
+      "ctrltype": 234,
+      "chara": 25079,
+      "equip_l": 0,
+      "equip_r": 3836,
+      "fight_name": "aston_btl02_0400_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6578,
+      "ctrltype": 231,
+      "chara": 23477,
+      "equip_l": 1305,
+      "equip_r": 641,
+      "fight_name": "aston_btl02_0500_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6579,
+      "ctrltype": 233,
+      "chara": 23318,
+      "equip_l": 0,
+      "equip_r": 643,
+      "fight_name": "aston_btl02_0600_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6597,
+      "ctrltype": 144,
+      "chara": 23314,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6929,
+      "ctrltype": 113,
+      "chara": 9413,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_test_btl_npc_majima",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6930,
+      "ctrltype": 113,
+      "chara": 23388,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_test_btl_npc_saejima",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6931,
+      "ctrltype": 113,
+      "chara": 9409,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_test_btl_npc_daigo",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7024,
+      "ctrltype": 40,
+      "chara": 23941,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl01_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7025,
+      "ctrltype": 33,
+      "chara": 23939,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl01_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7026,
+      "ctrltype": 252,
+      "chara": 23953,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7053,
+      "ctrltype": 158,
+      "chara": 23304,
+      "equip_l": 0,
+      "equip_r": 2724,
+      "fight_name": "aston_lng_btl01_0020_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7054,
+      "ctrltype": 159,
+      "chara": 23309,
+      "equip_l": 0,
+      "equip_r": 4685,
+      "fight_name": "aston_lng_btl01_0030_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7059,
+      "ctrltype": 160,
+      "chara": 23249,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0050_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7060,
+      "ctrltype": 161,
+      "chara": 23308,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0060_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7081,
+      "ctrltype": 36,
+      "chara": 23918,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7097,
+      "ctrltype": 158,
+      "chara": 23304,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1200_000_5",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7098,
+      "ctrltype": 159,
+      "chara": 23309,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1200_000_6",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7103,
+      "ctrltype": 160,
+      "chara": 24325,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1200_000_11",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7104,
+      "ctrltype": 161,
+      "chara": 24326,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1200_000_12",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7490,
+      "ctrltype": 33,
+      "chara": 24251,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl60_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7599,
+      "ctrltype": 253,
+      "chara": 23863,
+      "equip_l": 0,
+      "equip_r": 2554,
+      "fight_name": "aston_tougi_plat1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7600,
+      "ctrltype": 129,
+      "chara": 23864,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_plat2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7601,
+      "ctrltype": 115,
+      "chara": 23865,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_plat3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7602,
+      "ctrltype": 197,
+      "chara": 23866,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_plat4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7603,
+      "ctrltype": 198,
+      "chara": 24249,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_plat5",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7604,
+      "ctrltype": 118,
+      "chara": 23888,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_plat6",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7605,
+      "ctrltype": 199,
+      "chara": 23867,
+      "equip_l": 0,
+      "equip_r": 2555,
+      "fight_name": "aston_tougi_gold1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7606,
+      "ctrltype": 122,
+      "chara": 23868,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_gold2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7607,
+      "ctrltype": 245,
+      "chara": 23869,
+      "equip_l": 0,
+      "equip_r": 3599,
+      "fight_name": "aston_tougi_gold3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7608,
+      "ctrltype": 37,
+      "chara": 23870,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_gold4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7610,
+      "ctrltype": 36,
+      "chara": 24065,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_gold6",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7611,
+      "ctrltype": 243,
+      "chara": 23871,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_silver1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7612,
+      "ctrltype": 200,
+      "chara": 23872,
+      "equip_l": 0,
+      "equip_r": 5982,
+      "fight_name": "aston_tougi_silver2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7613,
+      "ctrltype": 201,
+      "chara": 23873,
+      "equip_l": 0,
+      "equip_r": 3333,
+      "fight_name": "aston_tougi_silver3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7614,
+      "ctrltype": 40,
+      "chara": 23874,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_silver4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7615,
+      "ctrltype": 231,
+      "chara": 23477,
+      "equip_l": 3334,
+      "equip_r": 641,
+      "fight_name": "aston_tougi_silver5",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7616,
+      "ctrltype": 60,
+      "chara": 23879,
+      "equip_l": 0,
+      "equip_r": 3746,
+      "fight_name": "aston_tougi_silver6",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7617,
+      "ctrltype": 60,
+      "chara": 23875,
+      "equip_l": 0,
+      "equip_r": 3746,
+      "fight_name": "aston_tougi_bronze1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7618,
+      "ctrltype": 41,
+      "chara": 23876,
+      "equip_l": 0,
+      "equip_r": 3596,
+      "fight_name": "aston_tougi_bronze2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7619,
+      "ctrltype": 234,
+      "chara": 23244,
+      "equip_l": 0,
+      "equip_r": 2637,
+      "fight_name": "aston_tougi_bronze3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7620,
+      "ctrltype": 38,
+      "chara": 23887,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_bronze4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7622,
+      "ctrltype": 34,
+      "chara": 23882,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_rumble_plat1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7623,
+      "ctrltype": 38,
+      "chara": 23880,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_rumble_gold1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7624,
+      "ctrltype": 3,
+      "chara": 23878,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_rumble_silver1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7625,
+      "ctrltype": 131,
+      "chara": 23885,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_rumble_bronze1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7628,
+      "ctrltype": 247,
+      "chara": 103,
+      "equip_l": 0,
+      "equip_r": 2929,
+      "fight_name": "aston_tougi_special_majima",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7629,
+      "ctrltype": 248,
+      "chara": 18,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_special_saejima",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7630,
+      "ctrltype": 246,
+      "chara": 11,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_special_doujima",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7675,
+      "ctrltype": 251,
+      "chara": 12230,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7678,
+      "ctrltype": 29,
+      "chara": 24258,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7687,
+      "ctrltype": 232,
+      "chara": 23318,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0600_000_4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7756,
+      "ctrltype": 45,
+      "chara": 24647,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "enc_akameboss_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7770,
+      "ctrltype": 143,
+      "chara": 23307,
+      "equip_l": 0,
+      "equip_r": 4337,
+      "fight_name": "aston_lng_btl02_0600_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7780,
+      "ctrltype": 2,
+      "chara": 24558,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl10_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7810,
+      "ctrltype": 39,
+      "chara": 23915,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0100_000_3",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7811,
+      "ctrltype": 34,
+      "chara": 23917,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7812,
+      "ctrltype": 29,
+      "chara": 23929,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0200_000_2",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7813,
+      "ctrltype": 37,
+      "chara": 24358,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7833,
+      "ctrltype": 46,
+      "chara": 24357,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_lng_btl03_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7846,
+      "ctrltype": 29,
+      "chara": 24255,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7847,
+      "ctrltype": 2,
+      "chara": 24422,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_side_btl03_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7848,
+      "ctrltype": 30,
+      "chara": 24550,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0400_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7856,
+      "ctrltype": 82,
+      "chara": 24261,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_side_btl07_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7857,
+      "ctrltype": 29,
+      "chara": 24551,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl08_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7858,
+      "ctrltype": 2,
+      "chara": 24262,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl08_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7861,
+      "ctrltype": 36,
+      "chara": 24253,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7870,
+      "ctrltype": 34,
+      "chara": 23877,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl12_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7875,
+      "ctrltype": 33,
+      "chara": 24561,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0500_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7879,
+      "ctrltype": 35,
+      "chara": 24583,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7883,
+      "ctrltype": 29,
+      "chara": 24575,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7886,
+      "ctrltype": 38,
+      "chara": 24571,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7889,
+      "ctrltype": 36,
+      "chara": 24581,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0400_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7892,
+      "ctrltype": 31,
+      "chara": 23886,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7896,
+      "ctrltype": 39,
+      "chara": 24651,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7900,
+      "ctrltype": 34,
+      "chara": 24655,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7903,
+      "ctrltype": 33,
+      "chara": 24658,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7906,
+      "ctrltype": 46,
+      "chara": 24661,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0400_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7909,
+      "ctrltype": 40,
+      "chara": 24416,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0500_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7941,
+      "ctrltype": 42,
+      "chara": 24628,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7948,
+      "ctrltype": 45,
+      "chara": 24633,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0300_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7954,
+      "ctrltype": 82,
+      "chara": 24410,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 7990,
+      "ctrltype": 254,
+      "chara": 24647,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_side_btl28_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8003,
+      "ctrltype": 35,
+      "chara": 24562,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl14_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8004,
+      "ctrltype": 37,
+      "chara": 24414,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl14_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8025,
+      "ctrltype": 46,
+      "chara": 23883,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl15_0100_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8026,
+      "ctrltype": 29,
+      "chara": 24563,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl15_0200_000_1",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8161,
+      "ctrltype": 44,
+      "chara": 24622,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0400_000_4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8196,
+      "ctrltype": 46,
+      "chara": 24620,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0200_000_4",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8203,
+      "ctrltype": 82,
+      "chara": 24878,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2070_01",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8205,
+      "ctrltype": 36,
+      "chara": 24885,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2090_01",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 8208,
+      "ctrltype": 31,
+      "chara": 24898,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2120_01",
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "fight_id": 6589,
+      "ctrltype": 111,
+      "chara": 23267,
+      "equip_l": 5651,
+      "equip_r": 5308,
+      "fight_name": "aston_btl02_0800_000_1",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7552,
+      "ctrltype": 230,
+      "chara": 23406,
+      "equip_l": 645,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_10",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 6546,
+      "ctrltype": 111,
+      "chara": 23480,
+      "equip_l": 0,
+      "equip_r": 1306,
+      "fight_name": "aston_btl01_0800_000_1",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 6852,
+      "ctrltype": 146,
+      "chara": 23257,
+      "equip_l": 1391,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0200_000_1",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 6928,
+      "ctrltype": 181,
+      "chara": 25089,
+      "equip_l": 0,
+      "equip_r": 645,
+      "fight_name": "aston_btl05_0400_000_1",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7033,
+      "ctrltype": 169,
+      "chara": 23938,
+      "equip_l": 0,
+      "equip_r": 5712,
+      "fight_name": "aston_arena_btl03_0100_000_1",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7035,
+      "ctrltype": 170,
+      "chara": 24327,
+      "equip_l": 5425,
+      "equip_r": 5425,
+      "fight_name": "aston_arena_btl06_0100_000_1",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7038,
+      "ctrltype": 171,
+      "chara": 23940,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl07_0100_000_3",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7039,
+      "ctrltype": 172,
+      "chara": 23944,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl08_0100_000_1",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7155,
+      "ctrltype": 175,
+      "chara": 23548,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_robo_nishiki",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7156,
+      "ctrltype": 176,
+      "chara": 23549,
+      "equip_l": 0,
+      "equip_r": 643,
+      "fight_name": "aston_tougi_robo_ryuji",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7157,
+      "ctrltype": 177,
+      "chara": 23547,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_robo_mine",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7158,
+      "ctrltype": 178,
+      "chara": 23545,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_robo_daigo",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7159,
+      "ctrltype": 179,
+      "chara": 23544,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_robo_aizawa",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7160,
+      "ctrltype": 180,
+      "chara": 23546,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_robo_iwami",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7855,
+      "ctrltype": 244,
+      "chara": 24430,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl10_0200_000_1",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7871,
+      "ctrltype": 31,
+      "chara": 23890,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0100_000_1",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 8131,
+      "ctrltype": 91,
+      "chara": 24446,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_amon_leader",
+      "tags": [
+        "boss",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 6516,
+      "ctrltype": 12,
+      "chara": 23233,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6518,
+      "ctrltype": 106,
+      "chara": 23304,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6519,
+      "ctrltype": 107,
+      "chara": 23414,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6520,
+      "ctrltype": 106,
+      "chara": 23415,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6521,
+      "ctrltype": 107,
+      "chara": 23416,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_0300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6522,
+      "ctrltype": 3,
+      "chara": 23456,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0400_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6523,
+      "ctrltype": 3,
+      "chara": 23452,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl01_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6524,
+      "ctrltype": 3,
+      "chara": 23462,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6525,
+      "ctrltype": 3,
+      "chara": 23448,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl01_0500_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6526,
+      "ctrltype": 35,
+      "chara": 23449,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0500_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6527,
+      "ctrltype": 2,
+      "chara": 23450,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0500_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6528,
+      "ctrltype": 2,
+      "chara": 23451,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl01_0500_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6529,
+      "ctrltype": 7,
+      "chara": 23452,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0500_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6530,
+      "ctrltype": 3,
+      "chara": 23453,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0500_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6531,
+      "ctrltype": 3,
+      "chara": 23454,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0500_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6532,
+      "ctrltype": 2,
+      "chara": 23455,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0500_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6533,
+      "ctrltype": 10,
+      "chara": 23469,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6534,
+      "ctrltype": 10,
+      "chara": 23470,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6535,
+      "ctrltype": 5,
+      "chara": 23421,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6536,
+      "ctrltype": 7,
+      "chara": 23422,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6537,
+      "ctrltype": 3,
+      "chara": 23423,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6538,
+      "ctrltype": 3,
+      "chara": 23418,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0700_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6539,
+      "ctrltype": 5,
+      "chara": 23419,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0700_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6540,
+      "ctrltype": 3,
+      "chara": 23420,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl01_0700_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6541,
+      "ctrltype": 2,
+      "chara": 25039,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0700_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6542,
+      "ctrltype": 3,
+      "chara": 25038,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl01_0700_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6543,
+      "ctrltype": 2,
+      "chara": 23450,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl01_0700_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6544,
+      "ctrltype": 5,
+      "chara": 23451,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0700_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6545,
+      "ctrltype": 2,
+      "chara": 23467,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl01_0700_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6552,
+      "ctrltype": 107,
+      "chara": 23308,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6553,
+      "ctrltype": 145,
+      "chara": 23268,
+      "equip_l": 0,
+      "equip_r": 5003,
+      "fight_name": "aston_btl01_1300_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6554,
+      "ctrltype": 106,
+      "chara": 23427,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6555,
+      "ctrltype": 106,
+      "chara": 23428,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6556,
+      "ctrltype": 106,
+      "chara": 23429,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6557,
+      "ctrltype": 106,
+      "chara": 23430,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_1300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6558,
+      "ctrltype": 107,
+      "chara": 23431,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1300_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6559,
+      "ctrltype": 107,
+      "chara": 23432,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1300_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6560,
+      "ctrltype": 107,
+      "chara": 23433,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1300_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6561,
+      "ctrltype": 3,
+      "chara": 23489,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6562,
+      "ctrltype": 7,
+      "chara": 23660,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6563,
+      "ctrltype": 5,
+      "chara": 23655,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6564,
+      "ctrltype": 49,
+      "chara": 23650,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6565,
+      "ctrltype": 2,
+      "chara": 23645,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6566,
+      "ctrltype": 8,
+      "chara": 23491,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6567,
+      "ctrltype": 9,
+      "chara": 23492,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6568,
+      "ctrltype": 3,
+      "chara": 23493,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6570,
+      "ctrltype": 5,
+      "chara": 23494,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6571,
+      "ctrltype": 3,
+      "chara": 23495,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl02_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6572,
+      "ctrltype": 10,
+      "chara": 23497,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6573,
+      "ctrltype": 10,
+      "chara": 23498,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6574,
+      "ctrltype": 2,
+      "chara": 23499,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl02_0300_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6575,
+      "ctrltype": 2,
+      "chara": 23500,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl02_0300_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6576,
+      "ctrltype": 2,
+      "chara": 23501,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl02_0300_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6582,
+      "ctrltype": 51,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl02_0700_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6583,
+      "ctrltype": 2,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl02_0700_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6584,
+      "ctrltype": 8,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6585,
+      "ctrltype": 49,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6586,
+      "ctrltype": 3,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl02_0700_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6587,
+      "ctrltype": 3,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl02_0700_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6588,
+      "ctrltype": 2,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6590,
+      "ctrltype": 3,
+      "chara": 23994,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0800_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6591,
+      "ctrltype": 5,
+      "chara": 23751,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0800_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6592,
+      "ctrltype": 2,
+      "chara": 23995,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0800_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6599,
+      "ctrltype": 106,
+      "chara": 25090,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6600,
+      "ctrltype": 106,
+      "chara": 23439,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6601,
+      "ctrltype": 106,
+      "chara": 25091,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6602,
+      "ctrltype": 106,
+      "chara": 23441,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6603,
+      "ctrltype": 107,
+      "chara": 23442,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6604,
+      "ctrltype": 107,
+      "chara": 23443,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6614,
+      "ctrltype": 4,
+      "chara": 23463,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0400_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6615,
+      "ctrltype": 4,
+      "chara": 23464,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0400_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6621,
+      "ctrltype": 3,
+      "chara": 23456,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0500_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6622,
+      "ctrltype": 2,
+      "chara": 23457,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl01_0500_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6844,
+      "ctrltype": 31,
+      "chara": 23322,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6845,
+      "ctrltype": 12,
+      "chara": 23923,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6846,
+      "ctrltype": 11,
+      "chara": 23924,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6847,
+      "ctrltype": 3,
+      "chara": 23925,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_btl03_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6848,
+      "ctrltype": 7,
+      "chara": 23926,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6849,
+      "ctrltype": 5,
+      "chara": 23927,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6850,
+      "ctrltype": 51,
+      "chara": 23928,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6851,
+      "ctrltype": 51,
+      "chara": 23929,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6853,
+      "ctrltype": 10,
+      "chara": 23800,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6854,
+      "ctrltype": 3,
+      "chara": 23787,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6855,
+      "ctrltype": 51,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6856,
+      "ctrltype": 5,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6857,
+      "ctrltype": 2,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0050_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6858,
+      "ctrltype": 50,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6859,
+      "ctrltype": 6,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0050_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6860,
+      "ctrltype": 2,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0050_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6861,
+      "ctrltype": 8,
+      "chara": 24266,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6862,
+      "ctrltype": 3,
+      "chara": 23786,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6863,
+      "ctrltype": 45,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6864,
+      "ctrltype": 51,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6865,
+      "ctrltype": 51,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6866,
+      "ctrltype": 2,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6867,
+      "ctrltype": 8,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6868,
+      "ctrltype": 8,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6869,
+      "ctrltype": 3,
+      "chara": 23794,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0200_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6870,
+      "ctrltype": 31,
+      "chara": 23795,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6872,
+      "ctrltype": 2,
+      "chara": 23923,
+      "equip_l": 0,
+      "equip_r": 5145,
+      "fight_name": "aston_btl04_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6873,
+      "ctrltype": 6,
+      "chara": 23928,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6874,
+      "ctrltype": 3,
+      "chara": 23929,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6875,
+      "ctrltype": 12,
+      "chara": 23919,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6876,
+      "ctrltype": 8,
+      "chara": 23930,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6877,
+      "ctrltype": 8,
+      "chara": 23931,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6878,
+      "ctrltype": 10,
+      "chara": 23920,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6879,
+      "ctrltype": 29,
+      "chara": 23246,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6880,
+      "ctrltype": 82,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6881,
+      "ctrltype": 6,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6882,
+      "ctrltype": 6,
+      "chara": 23800,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6883,
+      "ctrltype": 82,
+      "chara": 23813,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0400_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6885,
+      "ctrltype": 6,
+      "chara": 23787,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6886,
+      "ctrltype": 2,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0400_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6887,
+      "ctrltype": 10,
+      "chara": 23799,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6888,
+      "ctrltype": 11,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6889,
+      "ctrltype": 9,
+      "chara": 23787,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6890,
+      "ctrltype": 3,
+      "chara": 23807,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl04_0500_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6891,
+      "ctrltype": 3,
+      "chara": 23808,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl04_0500_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6892,
+      "ctrltype": 3,
+      "chara": 23809,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0500_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6893,
+      "ctrltype": 3,
+      "chara": 23810,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6894,
+      "ctrltype": 5,
+      "chara": 23811,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6896,
+      "ctrltype": 2,
+      "chara": 24091,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6897,
+      "ctrltype": 8,
+      "chara": 24090,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6898,
+      "ctrltype": 11,
+      "chara": 23815,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6899,
+      "ctrltype": 2,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl05_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6900,
+      "ctrltype": 2,
+      "chara": 23804,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl05_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6901,
+      "ctrltype": 2,
+      "chara": 23805,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6902,
+      "ctrltype": 9,
+      "chara": 23751,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6903,
+      "ctrltype": 2,
+      "chara": 23752,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6904,
+      "ctrltype": 6,
+      "chara": 24333,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6905,
+      "ctrltype": 5,
+      "chara": 24334,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6906,
+      "ctrltype": 5,
+      "chara": 24335,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6907,
+      "ctrltype": 2,
+      "chara": 23372,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6908,
+      "ctrltype": 2,
+      "chara": 24336,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6909,
+      "ctrltype": 51,
+      "chara": 24337,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6910,
+      "ctrltype": 2,
+      "chara": 24338,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0200_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6911,
+      "ctrltype": 12,
+      "chara": 24339,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6912,
+      "ctrltype": 31,
+      "chara": 24347,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6913,
+      "ctrltype": 10,
+      "chara": 24348,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6914,
+      "ctrltype": 9,
+      "chara": 24349,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6915,
+      "ctrltype": 6,
+      "chara": 24350,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6916,
+      "ctrltype": 6,
+      "chara": 24351,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6917,
+      "ctrltype": 51,
+      "chara": 24352,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6918,
+      "ctrltype": 51,
+      "chara": 24353,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6919,
+      "ctrltype": 12,
+      "chara": 24354,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6920,
+      "ctrltype": 5,
+      "chara": 24333,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6921,
+      "ctrltype": 82,
+      "chara": 23372,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6922,
+      "ctrltype": 8,
+      "chara": 24334,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6923,
+      "ctrltype": 8,
+      "chara": 24335,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6924,
+      "ctrltype": 5,
+      "chara": 24336,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6925,
+      "ctrltype": 8,
+      "chara": 24337,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6926,
+      "ctrltype": 51,
+      "chara": 24338,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6927,
+      "ctrltype": 51,
+      "chara": 24339,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6932,
+      "ctrltype": 2,
+      "chara": 23796,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0200_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6933,
+      "ctrltype": 2,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0200_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6934,
+      "ctrltype": 51,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6935,
+      "ctrltype": 8,
+      "chara": 23799,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6936,
+      "ctrltype": 3,
+      "chara": 23800,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6937,
+      "ctrltype": 3,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6938,
+      "ctrltype": 51,
+      "chara": 23802,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0200_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6939,
+      "ctrltype": 43,
+      "chara": 23828,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6940,
+      "ctrltype": 51,
+      "chara": 23803,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0200_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6941,
+      "ctrltype": 2,
+      "chara": 23804,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0200_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6942,
+      "ctrltype": 2,
+      "chara": 23805,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl04_0200_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6943,
+      "ctrltype": 3,
+      "chara": 23806,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6944,
+      "ctrltype": 3,
+      "chara": 23829,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0200_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6945,
+      "ctrltype": 51,
+      "chara": 23807,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0200_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6946,
+      "ctrltype": 51,
+      "chara": 23808,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0200_000_23",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6947,
+      "ctrltype": 51,
+      "chara": 23809,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0200_000_24",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6948,
+      "ctrltype": 3,
+      "chara": 23932,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0300_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6949,
+      "ctrltype": 17,
+      "chara": 23915,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6950,
+      "ctrltype": 82,
+      "chara": 23935,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6951,
+      "ctrltype": 9,
+      "chara": 23921,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6952,
+      "ctrltype": 45,
+      "chara": 23936,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0300_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6953,
+      "ctrltype": 8,
+      "chara": 23927,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6954,
+      "ctrltype": 51,
+      "chara": 23926,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6955,
+      "ctrltype": 51,
+      "chara": 23933,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6956,
+      "ctrltype": 9,
+      "chara": 23922,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6957,
+      "ctrltype": 9,
+      "chara": 23937,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6958,
+      "ctrltype": 17,
+      "chara": 23916,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6959,
+      "ctrltype": 2,
+      "chara": 23934,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6960,
+      "ctrltype": 9,
+      "chara": 23933,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6961,
+      "ctrltype": 3,
+      "chara": 23934,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6962,
+      "ctrltype": 8,
+      "chara": 23920,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_23",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6963,
+      "ctrltype": 51,
+      "chara": 23925,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0300_000_24",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6964,
+      "ctrltype": 5,
+      "chara": 23928,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_25",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6965,
+      "ctrltype": 33,
+      "chara": 23917,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_26",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6966,
+      "ctrltype": 51,
+      "chara": 23932,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0300_000_27",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6967,
+      "ctrltype": 9,
+      "chara": 23935,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_28",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6968,
+      "ctrltype": 6,
+      "chara": 23923,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_29",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6969,
+      "ctrltype": 9,
+      "chara": 23936,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0300_000_30",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6970,
+      "ctrltype": 9,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6971,
+      "ctrltype": 17,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6972,
+      "ctrltype": 18,
+      "chara": 23826,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6973,
+      "ctrltype": 9,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6974,
+      "ctrltype": 17,
+      "chara": 23828,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6975,
+      "ctrltype": 2,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl04_0400_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6977,
+      "ctrltype": 2,
+      "chara": 23794,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl04_0400_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6978,
+      "ctrltype": 9,
+      "chara": 23795,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6979,
+      "ctrltype": 51,
+      "chara": 23796,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl04_0400_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6980,
+      "ctrltype": 6,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6981,
+      "ctrltype": 9,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6982,
+      "ctrltype": 51,
+      "chara": 23799,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6983,
+      "ctrltype": 51,
+      "chara": 23800,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6984,
+      "ctrltype": 51,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_23",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6985,
+      "ctrltype": 51,
+      "chara": 23802,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0400_000_24",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6987,
+      "ctrltype": 49,
+      "chara": 23930,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6988,
+      "ctrltype": 3,
+      "chara": 23931,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_btl03_0100_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6989,
+      "ctrltype": 7,
+      "chara": 23932,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6990,
+      "ctrltype": 5,
+      "chara": 23933,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6991,
+      "ctrltype": 49,
+      "chara": 23934,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl03_0100_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7027,
+      "ctrltype": 49,
+      "chara": 23496,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7028,
+      "ctrltype": 2,
+      "chara": 23494,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7029,
+      "ctrltype": 2,
+      "chara": 23495,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7030,
+      "ctrltype": 7,
+      "chara": 23497,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7031,
+      "ctrltype": 7,
+      "chara": 23498,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl02_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7032,
+      "ctrltype": 2,
+      "chara": 23499,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_arena_btl02_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7044,
+      "ctrltype": 4,
+      "chara": 23497,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl09_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7045,
+      "ctrltype": 4,
+      "chara": 23498,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl09_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7046,
+      "ctrltype": 10,
+      "chara": 23499,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_arena_btl09_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7047,
+      "ctrltype": 2,
+      "chara": 23500,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_arena_btl09_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7048,
+      "ctrltype": 2,
+      "chara": 23501,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_arena_btl09_0100_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7051,
+      "ctrltype": 107,
+      "chara": 23429,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_lng_btl01_0010_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7052,
+      "ctrltype": 2,
+      "chara": 23430,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_lng_btl01_0010_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7055,
+      "ctrltype": 106,
+      "chara": 23431,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0040_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7058,
+      "ctrltype": 2,
+      "chara": 23434,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_lng_btl01_0040_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7082,
+      "ctrltype": 49,
+      "chara": 23924,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7083,
+      "ctrltype": 3,
+      "chara": 23925,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7084,
+      "ctrltype": 3,
+      "chara": 23926,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7085,
+      "ctrltype": 3,
+      "chara": 23927,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7086,
+      "ctrltype": 10,
+      "chara": 23929,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7117,
+      "ctrltype": 5,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7118,
+      "ctrltype": 140,
+      "chara": 23306,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7119,
+      "ctrltype": 19,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_btl02_0700_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7123,
+      "ctrltype": 10,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7125,
+      "ctrltype": 7,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7126,
+      "ctrltype": 2,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl02_0700_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7127,
+      "ctrltype": 3,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl02_0700_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7128,
+      "ctrltype": 2,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 4966,
+      "fight_name": "aston_btl02_0700_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7129,
+      "ctrltype": 141,
+      "chara": 23310,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7130,
+      "ctrltype": 12,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7131,
+      "ctrltype": 17,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7132,
+      "ctrltype": 50,
+      "chara": 0,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0700_000_23",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7140,
+      "ctrltype": 142,
+      "chara": 23305,
+      "equip_l": 0,
+      "equip_r": 3189,
+      "fight_name": "aston_btl02_0700_000_31",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7141,
+      "ctrltype": 143,
+      "chara": 23307,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl02_0700_000_32",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7162,
+      "ctrltype": 107,
+      "chara": 23435,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1300_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7163,
+      "ctrltype": 107,
+      "chara": 23436,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl01_1300_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7429,
+      "ctrltype": 2,
+      "chara": 24340,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0200_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7430,
+      "ctrltype": 2,
+      "chara": 24341,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0200_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7431,
+      "ctrltype": 8,
+      "chara": 24342,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7432,
+      "ctrltype": 8,
+      "chara": 24343,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7433,
+      "ctrltype": 51,
+      "chara": 24344,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0200_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7434,
+      "ctrltype": 51,
+      "chara": 24345,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0200_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7435,
+      "ctrltype": 2,
+      "chara": 24346,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0200_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7439,
+      "ctrltype": 8,
+      "chara": 24355,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7440,
+      "ctrltype": 2,
+      "chara": 24356,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0250_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7441,
+      "ctrltype": 2,
+      "chara": 24333,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0250_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7442,
+      "ctrltype": 51,
+      "chara": 24334,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0250_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7443,
+      "ctrltype": 51,
+      "chara": 24335,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0250_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7444,
+      "ctrltype": 2,
+      "chara": 24336,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0250_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7445,
+      "ctrltype": 2,
+      "chara": 24337,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0250_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7446,
+      "ctrltype": 51,
+      "chara": 24340,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7448,
+      "ctrltype": 2,
+      "chara": 24342,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0300_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7449,
+      "ctrltype": 2,
+      "chara": 24343,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0300_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7450,
+      "ctrltype": 2,
+      "chara": 24344,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0300_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7451,
+      "ctrltype": 2,
+      "chara": 24345,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0300_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7452,
+      "ctrltype": 45,
+      "chara": 24346,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0300_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7453,
+      "ctrltype": 2,
+      "chara": 24347,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0300_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7454,
+      "ctrltype": 2,
+      "chara": 24348,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0300_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7455,
+      "ctrltype": 51,
+      "chara": 24349,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7456,
+      "ctrltype": 51,
+      "chara": 24355,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0300_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7457,
+      "ctrltype": 51,
+      "chara": 24351,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0300_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7458,
+      "ctrltype": 51,
+      "chara": 24352,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_btl05_0300_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7459,
+      "ctrltype": 32,
+      "chara": 24353,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7461,
+      "ctrltype": 36,
+      "chara": 24350,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_24",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7462,
+      "ctrltype": 7,
+      "chara": 24356,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_25",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7463,
+      "ctrltype": 7,
+      "chara": 24472,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_26",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7464,
+      "ctrltype": 19,
+      "chara": 23711,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_27",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7465,
+      "ctrltype": 18,
+      "chara": 23712,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_28",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7466,
+      "ctrltype": 17,
+      "chara": 23713,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_29",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7467,
+      "ctrltype": 17,
+      "chara": 23714,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_30",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7491,
+      "ctrltype": 18,
+      "chara": 23663,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl60_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7492,
+      "ctrltype": 10,
+      "chara": 23669,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl60_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7493,
+      "ctrltype": 5,
+      "chara": 23681,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl60_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7494,
+      "ctrltype": 5,
+      "chara": 23700,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl60_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7563,
+      "ctrltype": 2,
+      "chara": 23794,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_lng_btl04_0200_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7631,
+      "ctrltype": 2,
+      "chara": 23786,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl05_0100_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7632,
+      "ctrltype": 2,
+      "chara": 23787,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl05_0100_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7633,
+      "ctrltype": 2,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl05_0100_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7634,
+      "ctrltype": 2,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl05_0100_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7635,
+      "ctrltype": 2,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0100_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7636,
+      "ctrltype": 3,
+      "chara": 23753,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7637,
+      "ctrltype": 4,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7638,
+      "ctrltype": 10,
+      "chara": 23754,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7639,
+      "ctrltype": 2,
+      "chara": 23755,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0100_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7640,
+      "ctrltype": 8,
+      "chara": 23756,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7641,
+      "ctrltype": 2,
+      "chara": 23757,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0100_000_21",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7642,
+      "ctrltype": 5,
+      "chara": 23758,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_22",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7643,
+      "ctrltype": 6,
+      "chara": 23759,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_23",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7644,
+      "ctrltype": 8,
+      "chara": 23754,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_24",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7645,
+      "ctrltype": 12,
+      "chara": 23306,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_25",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7646,
+      "ctrltype": 9,
+      "chara": 23756,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_26",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7647,
+      "ctrltype": 7,
+      "chara": 23310,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_27",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7648,
+      "ctrltype": 4,
+      "chara": 23758,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_28",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7649,
+      "ctrltype": 10,
+      "chara": 24091,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_29",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7650,
+      "ctrltype": 3,
+      "chara": 23305,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_30",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7651,
+      "ctrltype": 2,
+      "chara": 23815,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl05_0100_000_31",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7652,
+      "ctrltype": 2,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 4481,
+      "fight_name": "aston_btl05_0100_000_32",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7653,
+      "ctrltype": 2,
+      "chara": 23804,
+      "equip_l": 0,
+      "equip_r": 1964,
+      "fight_name": "aston_btl05_0100_000_33",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7660,
+      "ctrltype": 5,
+      "chara": 23806,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_40",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7661,
+      "ctrltype": 3,
+      "chara": 23807,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_41",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7665,
+      "ctrltype": 3,
+      "chara": 23307,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_45",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7676,
+      "ctrltype": 8,
+      "chara": 24257,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7679,
+      "ctrltype": 3,
+      "chara": 23928,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_lng_btl03_0150_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7680,
+      "ctrltype": 3,
+      "chara": 23923,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_lng_btl03_0150_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7681,
+      "ctrltype": 3,
+      "chara": 23937,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7682,
+      "ctrltype": 3,
+      "chara": 23936,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7683,
+      "ctrltype": 2,
+      "chara": 23922,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7684,
+      "ctrltype": 2,
+      "chara": 23921,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7685,
+      "ctrltype": 51,
+      "chara": 23935,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_lng_btl03_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7686,
+      "ctrltype": 51,
+      "chara": 23934,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_lng_btl03_0200_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7688,
+      "ctrltype": 107,
+      "chara": 23444,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7689,
+      "ctrltype": 107,
+      "chara": 25092,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_btl02_0900_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7712,
+      "ctrltype": 5,
+      "chara": 23812,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7713,
+      "ctrltype": 7,
+      "chara": 23813,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7714,
+      "ctrltype": 9,
+      "chara": 23814,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7715,
+      "ctrltype": 5,
+      "chara": 24088,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7716,
+      "ctrltype": 2,
+      "chara": 24089,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl04_0500_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7717,
+      "ctrltype": 2,
+      "chara": 24090,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_btl04_0500_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7718,
+      "ctrltype": 2,
+      "chara": 24091,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl04_0500_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7720,
+      "ctrltype": 2,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl04_0500_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7721,
+      "ctrltype": 2,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7722,
+      "ctrltype": 2,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7723,
+      "ctrltype": 2,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0500_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7755,
+      "ctrltype": 51,
+      "chara": 23424,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0600_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7809,
+      "ctrltype": 3,
+      "chara": 23930,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7814,
+      "ctrltype": 3,
+      "chara": 24521,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7815,
+      "ctrltype": 2,
+      "chara": 24522,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7816,
+      "ctrltype": 3,
+      "chara": 24523,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7817,
+      "ctrltype": 2,
+      "chara": 24524,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7818,
+      "ctrltype": 50,
+      "chara": 24525,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7819,
+      "ctrltype": 49,
+      "chara": 24526,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7820,
+      "ctrltype": 2,
+      "chara": 24527,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7821,
+      "ctrltype": 2,
+      "chara": 24528,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7822,
+      "ctrltype": 2,
+      "chara": 24529,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7823,
+      "ctrltype": 50,
+      "chara": 24520,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7824,
+      "ctrltype": 7,
+      "chara": 24511,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7825,
+      "ctrltype": 50,
+      "chara": 24512,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7826,
+      "ctrltype": 50,
+      "chara": 24513,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7827,
+      "ctrltype": 7,
+      "chara": 24514,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7828,
+      "ctrltype": 2,
+      "chara": 24515,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7829,
+      "ctrltype": 2,
+      "chara": 24516,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_17",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7830,
+      "ctrltype": 7,
+      "chara": 24517,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_18",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7831,
+      "ctrltype": 2,
+      "chara": 24518,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_19",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7832,
+      "ctrltype": 50,
+      "chara": 24519,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl05_0300_000_20",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7845,
+      "ctrltype": 11,
+      "chara": 24541,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7849,
+      "ctrltype": 2,
+      "chara": 24544,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_side_btl03_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7850,
+      "ctrltype": 6,
+      "chara": 24545,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7851,
+      "ctrltype": 6,
+      "chara": 24546,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0400_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7852,
+      "ctrltype": 51,
+      "chara": 24547,
+      "equip_l": 0,
+      "equip_r": 1558,
+      "fight_name": "aston_side_btl03_0400_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7853,
+      "ctrltype": 51,
+      "chara": 24548,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0400_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7859,
+      "ctrltype": 10,
+      "chara": 24539,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7860,
+      "ctrltype": 9,
+      "chara": 24540,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7862,
+      "ctrltype": 4,
+      "chara": 24534,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7863,
+      "ctrltype": 4,
+      "chara": 24535,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7864,
+      "ctrltype": 2,
+      "chara": 24536,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_side_btl02_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7865,
+      "ctrltype": 51,
+      "chara": 24537,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl02_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7866,
+      "ctrltype": 2,
+      "chara": 24538,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_side_btl02_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7868,
+      "ctrltype": 59,
+      "chara": 24559,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl11_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7872,
+      "ctrltype": 3,
+      "chara": 23682,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7873,
+      "ctrltype": 49,
+      "chara": 23630,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0300_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7874,
+      "ctrltype": 2,
+      "chara": 23628,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0400_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7880,
+      "ctrltype": 8,
+      "chara": 24572,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7881,
+      "ctrltype": 12,
+      "chara": 24573,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7882,
+      "ctrltype": 12,
+      "chara": 24574,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7884,
+      "ctrltype": 11,
+      "chara": 24576,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7885,
+      "ctrltype": 10,
+      "chara": 24577,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7887,
+      "ctrltype": 7,
+      "chara": 24574,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7888,
+      "ctrltype": 6,
+      "chara": 24577,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7890,
+      "ctrltype": 12,
+      "chara": 24588,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7891,
+      "ctrltype": 6,
+      "chara": 24584,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7893,
+      "ctrltype": 49,
+      "chara": 24590,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7894,
+      "ctrltype": 49,
+      "chara": 24583,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7895,
+      "ctrltype": 9,
+      "chara": 24584,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7897,
+      "ctrltype": 18,
+      "chara": 24652,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7898,
+      "ctrltype": 18,
+      "chara": 24653,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7899,
+      "ctrltype": 18,
+      "chara": 24654,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7901,
+      "ctrltype": 17,
+      "chara": 24656,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7902,
+      "ctrltype": 19,
+      "chara": 24657,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7904,
+      "ctrltype": 19,
+      "chara": 24659,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7905,
+      "ctrltype": 17,
+      "chara": 24660,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7907,
+      "ctrltype": 19,
+      "chara": 24662,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7908,
+      "ctrltype": 19,
+      "chara": 24663,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7910,
+      "ctrltype": 17,
+      "chara": 24661,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0500_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7912,
+      "ctrltype": 18,
+      "chara": 24663,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0500_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7914,
+      "ctrltype": 2,
+      "chara": 24572,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7915,
+      "ctrltype": 2,
+      "chara": 24573,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7916,
+      "ctrltype": 10,
+      "chara": 24574,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7917,
+      "ctrltype": 8,
+      "chara": 24575,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7918,
+      "ctrltype": 10,
+      "chara": 24576,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7919,
+      "ctrltype": 8,
+      "chara": 24577,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7920,
+      "ctrltype": 11,
+      "chara": 24578,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7921,
+      "ctrltype": 11,
+      "chara": 24579,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7922,
+      "ctrltype": 12,
+      "chara": 24580,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7923,
+      "ctrltype": 12,
+      "chara": 24581,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7924,
+      "ctrltype": 6,
+      "chara": 24582,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7925,
+      "ctrltype": 6,
+      "chara": 24583,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7926,
+      "ctrltype": 5,
+      "chara": 24584,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7927,
+      "ctrltype": 5,
+      "chara": 24585,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7928,
+      "ctrltype": 9,
+      "chara": 24586,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl21_0100_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7942,
+      "ctrltype": 7,
+      "chara": 24629,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7943,
+      "ctrltype": 7,
+      "chara": 24630,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7944,
+      "ctrltype": 2,
+      "chara": 24616,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7945,
+      "ctrltype": 2,
+      "chara": 24618,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7946,
+      "ctrltype": 2,
+      "chara": 24631,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7947,
+      "ctrltype": 2,
+      "chara": 24632,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7949,
+      "ctrltype": 2,
+      "chara": 24634,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0300_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7950,
+      "ctrltype": 2,
+      "chara": 24619,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7951,
+      "ctrltype": 6,
+      "chara": 24631,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0400_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7952,
+      "ctrltype": 6,
+      "chara": 24632,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7953,
+      "ctrltype": 51,
+      "chara": 24621,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7955,
+      "ctrltype": 2,
+      "chara": 24624,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7956,
+      "ctrltype": 2,
+      "chara": 24625,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7957,
+      "ctrltype": 2,
+      "chara": 24626,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7961,
+      "ctrltype": 51,
+      "chara": 24635,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7962,
+      "ctrltype": 51,
+      "chara": 24623,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7963,
+      "ctrltype": 51,
+      "chara": 24631,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7964,
+      "ctrltype": 2,
+      "chara": 24574,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7965,
+      "ctrltype": 6,
+      "chara": 24571,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7966,
+      "ctrltype": 6,
+      "chara": 24579,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7967,
+      "ctrltype": 8,
+      "chara": 24586,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7968,
+      "ctrltype": 8,
+      "chara": 24590,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7969,
+      "ctrltype": 17,
+      "chara": 24652,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7970,
+      "ctrltype": 57,
+      "chara": 24669,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7971,
+      "ctrltype": 57,
+      "chara": 24667,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7972,
+      "ctrltype": 17,
+      "chara": 24657,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7973,
+      "ctrltype": 57,
+      "chara": 24668,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl25_0100_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7975,
+      "ctrltype": 17,
+      "chara": 24651,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7976,
+      "ctrltype": 19,
+      "chara": 24652,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7978,
+      "ctrltype": 17,
+      "chara": 24654,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7979,
+      "ctrltype": 17,
+      "chara": 24655,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7980,
+      "ctrltype": 19,
+      "chara": 24656,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7981,
+      "ctrltype": 18,
+      "chara": 24657,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7982,
+      "ctrltype": 19,
+      "chara": 24661,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl23_0100_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7983,
+      "ctrltype": 19,
+      "chara": 24662,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl23_0100_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7984,
+      "ctrltype": 19,
+      "chara": 24663,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl23_0100_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7985,
+      "ctrltype": 17,
+      "chara": 24666,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7986,
+      "ctrltype": 18,
+      "chara": 24667,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7987,
+      "ctrltype": 18,
+      "chara": 24668,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7988,
+      "ctrltype": 18,
+      "chara": 24669,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7989,
+      "ctrltype": 18,
+      "chara": 24670,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl23_0100_000_16",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8005,
+      "ctrltype": 8,
+      "chara": 23760,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_49",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8006,
+      "ctrltype": 11,
+      "chara": 23761,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_50",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8007,
+      "ctrltype": 9,
+      "chara": 23762,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_51",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8008,
+      "ctrltype": 3,
+      "chara": 23763,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_52",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8009,
+      "ctrltype": 4,
+      "chara": 23764,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_53",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8010,
+      "ctrltype": 10,
+      "chara": 23765,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_54",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8011,
+      "ctrltype": 5,
+      "chara": 23766,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_55",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8012,
+      "ctrltype": 7,
+      "chara": 23767,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_56",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8013,
+      "ctrltype": 6,
+      "chara": 23768,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_57",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8014,
+      "ctrltype": 4,
+      "chara": 23769,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_58",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8017,
+      "ctrltype": 2,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 1595,
+      "fight_name": "aston_btl05_0100_000_61",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8019,
+      "ctrltype": 2,
+      "chara": 23795,
+      "equip_l": 0,
+      "equip_r": 1556,
+      "fight_name": "aston_btl05_0100_000_63",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8021,
+      "ctrltype": 11,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_65",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8024,
+      "ctrltype": 2,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 5761,
+      "fight_name": "aston_btl05_0100_000_68",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8027,
+      "ctrltype": 2,
+      "chara": 24564,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_side_btl15_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8028,
+      "ctrltype": 2,
+      "chara": 24565,
+      "equip_l": 0,
+      "equip_r": 1965,
+      "fight_name": "aston_side_btl15_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8029,
+      "ctrltype": 7,
+      "chara": 24566,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl15_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8030,
+      "ctrltype": 7,
+      "chara": 24567,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl15_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8031,
+      "ctrltype": 12,
+      "chara": 24568,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl15_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8033,
+      "ctrltype": 8,
+      "chara": 24542,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8034,
+      "ctrltype": 12,
+      "chara": 24543,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl03_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8035,
+      "ctrltype": 11,
+      "chara": 24497,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8036,
+      "ctrltype": 51,
+      "chara": 24498,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8037,
+      "ctrltype": 51,
+      "chara": 24499,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8038,
+      "ctrltype": 10,
+      "chara": 24270,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8039,
+      "ctrltype": 2,
+      "chara": 24271,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_side_btl04_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8040,
+      "ctrltype": 2,
+      "chara": 24272,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_side_btl04_0400_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8041,
+      "ctrltype": 12,
+      "chara": 24273,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8042,
+      "ctrltype": 10,
+      "chara": 24274,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8043,
+      "ctrltype": 10,
+      "chara": 24275,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl04_0400_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8044,
+      "ctrltype": 19,
+      "chara": 24276,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl04_0400_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8045,
+      "ctrltype": 19,
+      "chara": 24277,
+      "equip_l": 0,
+      "equip_r": 6086,
+      "fight_name": "aston_side_btl04_0400_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8046,
+      "ctrltype": 35,
+      "chara": 23817,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8047,
+      "ctrltype": 2,
+      "chara": 23786,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8049,
+      "ctrltype": 10,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8050,
+      "ctrltype": 10,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8053,
+      "ctrltype": 6,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8054,
+      "ctrltype": 6,
+      "chara": 23794,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8055,
+      "ctrltype": 7,
+      "chara": 23795,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8056,
+      "ctrltype": 51,
+      "chara": 23796,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8057,
+      "ctrltype": 51,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle01_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8058,
+      "ctrltype": 29,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8059,
+      "ctrltype": 17,
+      "chara": 23826,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8060,
+      "ctrltype": 17,
+      "chara": 23829,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8061,
+      "ctrltype": 10,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8062,
+      "ctrltype": 31,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8063,
+      "ctrltype": 6,
+      "chara": 23799,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_06",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8064,
+      "ctrltype": 11,
+      "chara": 23800,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_07",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8065,
+      "ctrltype": 8,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8066,
+      "ctrltype": 11,
+      "chara": 23802,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8067,
+      "ctrltype": 32,
+      "chara": 23803,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle02_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8068,
+      "ctrltype": 35,
+      "chara": 23819,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8069,
+      "ctrltype": 8,
+      "chara": 23804,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8070,
+      "ctrltype": 3,
+      "chara": 23805,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8073,
+      "ctrltype": 6,
+      "chara": 23807,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_06",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8074,
+      "ctrltype": 51,
+      "chara": 23808,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_07",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8075,
+      "ctrltype": 6,
+      "chara": 23809,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8076,
+      "ctrltype": 51,
+      "chara": 23810,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8077,
+      "ctrltype": 51,
+      "chara": 23811,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8078,
+      "ctrltype": 51,
+      "chara": 23812,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8079,
+      "ctrltype": 6,
+      "chara": 23813,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8080,
+      "ctrltype": 51,
+      "chara": 23814,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8081,
+      "ctrltype": 19,
+      "chara": 23830,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8082,
+      "ctrltype": 3,
+      "chara": 23815,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle03_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8083,
+      "ctrltype": 39,
+      "chara": 23827,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8084,
+      "ctrltype": 33,
+      "chara": 23829,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8085,
+      "ctrltype": 7,
+      "chara": 23821,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8086,
+      "ctrltype": 7,
+      "chara": 23822,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8087,
+      "ctrltype": 5,
+      "chara": 23786,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8088,
+      "ctrltype": 40,
+      "chara": 23826,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_06",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8089,
+      "ctrltype": 12,
+      "chara": 23824,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_07",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8090,
+      "ctrltype": 12,
+      "chara": 23823,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8091,
+      "ctrltype": 5,
+      "chara": 23787,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8092,
+      "ctrltype": 5,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle04_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8093,
+      "ctrltype": 36,
+      "chara": 23820,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8094,
+      "ctrltype": 3,
+      "chara": 23788,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8095,
+      "ctrltype": 3,
+      "chara": 23789,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8096,
+      "ctrltype": 3,
+      "chara": 23790,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8097,
+      "ctrltype": 18,
+      "chara": 23827,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8098,
+      "ctrltype": 3,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_06",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8099,
+      "ctrltype": 3,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_07",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8100,
+      "ctrltype": 51,
+      "chara": 23793,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8101,
+      "ctrltype": 8,
+      "chara": 23821,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8102,
+      "ctrltype": 51,
+      "chara": 23794,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8103,
+      "ctrltype": 51,
+      "chara": 23795,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle05_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8107,
+      "ctrltype": 38,
+      "chara": 23791,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8108,
+      "ctrltype": 51,
+      "chara": 23792,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8115,
+      "ctrltype": 11,
+      "chara": 23821,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8116,
+      "ctrltype": 11,
+      "chara": 23822,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8117,
+      "ctrltype": 12,
+      "chara": 23797,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8118,
+      "ctrltype": 8,
+      "chara": 23798,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle06_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8119,
+      "ctrltype": 34,
+      "chara": 23828,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8122,
+      "ctrltype": 12,
+      "chara": 23801,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8123,
+      "ctrltype": 9,
+      "chara": 23802,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8124,
+      "ctrltype": 10,
+      "chara": 23803,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_06",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8125,
+      "ctrltype": 12,
+      "chara": 23804,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_07",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8126,
+      "ctrltype": 12,
+      "chara": 23805,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_08",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8127,
+      "ctrltype": 46,
+      "chara": 23829,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_09",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8128,
+      "ctrltype": 46,
+      "chara": 23830,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_t04_0130_battle07_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8142,
+      "ctrltype": 49,
+      "chara": 23697,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8143,
+      "ctrltype": 19,
+      "chara": 23616,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8145,
+      "ctrltype": 49,
+      "chara": 23652,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0300_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8146,
+      "ctrltype": 2,
+      "chara": 23643,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_side_btl13_0400_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8147,
+      "ctrltype": 50,
+      "chara": 23658,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl13_0400_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8148,
+      "ctrltype": 10,
+      "chara": 24578,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8149,
+      "ctrltype": 6,
+      "chara": 24578,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8150,
+      "ctrltype": 2,
+      "chara": 24576,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0400_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8151,
+      "ctrltype": 51,
+      "chara": 24577,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0400_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8153,
+      "ctrltype": 4,
+      "chara": 24585,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8154,
+      "ctrltype": 12,
+      "chara": 24586,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8155,
+      "ctrltype": 4,
+      "chara": 24571,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8156,
+      "ctrltype": 49,
+      "chara": 24572,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl20_0500_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8158,
+      "ctrltype": 18,
+      "chara": 24665,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl22_0500_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8159,
+      "ctrltype": 2,
+      "chara": 24617,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8160,
+      "ctrltype": 2,
+      "chara": 24620,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0300_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8163,
+      "ctrltype": 2,
+      "chara": 24627,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8164,
+      "ctrltype": 51,
+      "chara": 24633,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8165,
+      "ctrltype": 51,
+      "chara": 24634,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_side_btl24_0500_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8166,
+      "ctrltype": 2,
+      "chara": 23435,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_lng_btl01_0015_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8168,
+      "ctrltype": 107,
+      "chara": 23437,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_lng_btl01_0015_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8169,
+      "ctrltype": 2,
+      "chara": 23438,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_lng_btl01_0015_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8170,
+      "ctrltype": 107,
+      "chara": 23439,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_lng_btl01_0015_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8171,
+      "ctrltype": 58,
+      "chara": 23440,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0015_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8197,
+      "ctrltype": 2,
+      "chara": 24685,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2010_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8198,
+      "ctrltype": 2,
+      "chara": 24855,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2020_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8199,
+      "ctrltype": 7,
+      "chara": 24860,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2030_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8200,
+      "ctrltype": 2,
+      "chara": 24864,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2040_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8201,
+      "ctrltype": 4,
+      "chara": 24869,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2050_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8202,
+      "ctrltype": 2,
+      "chara": 24873,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2060_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8204,
+      "ctrltype": 6,
+      "chara": 24881,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2080_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8206,
+      "ctrltype": 2,
+      "chara": 24890,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2100_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8207,
+      "ctrltype": 3,
+      "chara": 24893,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2110_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8209,
+      "ctrltype": 2,
+      "chara": 24899,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2130_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8210,
+      "ctrltype": 10,
+      "chara": 24902,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2140_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8211,
+      "ctrltype": 49,
+      "chara": 24905,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2150_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8212,
+      "ctrltype": 8,
+      "chara": 24909,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2160_01",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8213,
+      "ctrltype": 7,
+      "chara": 24686,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2010_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8214,
+      "ctrltype": 2,
+      "chara": 24856,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2020_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8215,
+      "ctrltype": 8,
+      "chara": 24857,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2020_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8216,
+      "ctrltype": 7,
+      "chara": 24861,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2030_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8217,
+      "ctrltype": 2,
+      "chara": 24862,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2030_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8218,
+      "ctrltype": 2,
+      "chara": 24865,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2040_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8219,
+      "ctrltype": 10,
+      "chara": 24866,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2040_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8220,
+      "ctrltype": 7,
+      "chara": 24867,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2040_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8221,
+      "ctrltype": 12,
+      "chara": 24868,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2040_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8222,
+      "ctrltype": 5,
+      "chara": 24870,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2050_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8223,
+      "ctrltype": 7,
+      "chara": 24871,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2050_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8224,
+      "ctrltype": 8,
+      "chara": 24874,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2060_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8225,
+      "ctrltype": 12,
+      "chara": 24875,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2060_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8226,
+      "ctrltype": 2,
+      "chara": 24876,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2060_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8227,
+      "ctrltype": 51,
+      "chara": 24882,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2080_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8228,
+      "ctrltype": 12,
+      "chara": 24883,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2080_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8229,
+      "ctrltype": 2,
+      "chara": 24886,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2090_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8230,
+      "ctrltype": 2,
+      "chara": 24887,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2090_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8231,
+      "ctrltype": 49,
+      "chara": 24888,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2090_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8232,
+      "ctrltype": 6,
+      "chara": 24889,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2090_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8233,
+      "ctrltype": 50,
+      "chara": 24891,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2100_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8234,
+      "ctrltype": 50,
+      "chara": 24892,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2100_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8235,
+      "ctrltype": 3,
+      "chara": 24894,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2110_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8236,
+      "ctrltype": 11,
+      "chara": 24895,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2110_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8237,
+      "ctrltype": 51,
+      "chara": 24900,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2130_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8238,
+      "ctrltype": 8,
+      "chara": 24901,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2130_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8239,
+      "ctrltype": 2,
+      "chara": 24903,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2140_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8240,
+      "ctrltype": 9,
+      "chara": 24904,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2140_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8241,
+      "ctrltype": 49,
+      "chara": 24906,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2150_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8242,
+      "ctrltype": 49,
+      "chara": 24907,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2150_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8243,
+      "ctrltype": 51,
+      "chara": 24910,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2160_02",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8244,
+      "ctrltype": 51,
+      "chara": 24911,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2160_03",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8245,
+      "ctrltype": 2,
+      "chara": 24912,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2160_04",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8246,
+      "ctrltype": 2,
+      "chara": 24913,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_quest2160_05",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8261,
+      "ctrltype": 11,
+      "chara": 24333,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8263,
+      "ctrltype": 12,
+      "chara": 24335,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8264,
+      "ctrltype": 10,
+      "chara": 24336,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8273,
+      "ctrltype": 50,
+      "chara": 24337,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8275,
+      "ctrltype": 50,
+      "chara": 24339,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8276,
+      "ctrltype": 7,
+      "chara": 24340,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0100_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8294,
+      "ctrltype": 50,
+      "chara": 24341,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8295,
+      "ctrltype": 51,
+      "chara": 24342,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8296,
+      "ctrltype": 50,
+      "chara": 24343,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8297,
+      "ctrltype": 7,
+      "chara": 24344,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8298,
+      "ctrltype": 50,
+      "chara": 24345,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8299,
+      "ctrltype": 51,
+      "chara": 24346,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_6",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8300,
+      "ctrltype": 7,
+      "chara": 24347,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8301,
+      "ctrltype": 51,
+      "chara": 24348,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_8",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8302,
+      "ctrltype": 7,
+      "chara": 24349,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8303,
+      "ctrltype": 7,
+      "chara": 24350,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8304,
+      "ctrltype": 7,
+      "chara": 24351,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8305,
+      "ctrltype": 7,
+      "chara": 24352,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8306,
+      "ctrltype": 2,
+      "chara": 24353,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_13",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8307,
+      "ctrltype": 5,
+      "chara": 24354,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_14",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8308,
+      "ctrltype": 5,
+      "chara": 24355,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tgs_btl01_0200_000_15",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8321,
+      "ctrltype": 2,
+      "chara": 23441,
+      "equip_l": 0,
+      "equip_r": 338,
+      "fight_name": "aston_lng_btl01_0015_000_7",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8323,
+      "ctrltype": 59,
+      "chara": 23443,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0015_000_9",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8324,
+      "ctrltype": 2,
+      "chara": 23444,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_lng_btl01_0015_000_10",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8325,
+      "ctrltype": 107,
+      "chara": 23445,
+      "equip_l": 0,
+      "equip_r": 3062,
+      "fight_name": "aston_lng_btl01_0015_000_11",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 8326,
+      "ctrltype": 57,
+      "chara": 23446,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl01_0015_000_12",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6509,
+      "ctrltype": 5,
+      "chara": 23241,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0100_000_1",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6510,
+      "ctrltype": 3,
+      "chara": 23234,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0100_000_2",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6511,
+      "ctrltype": 51,
+      "chara": 23481,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0100_000_3",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6512,
+      "ctrltype": 50,
+      "chara": 23482,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0100_000_4",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 6513,
+      "ctrltype": 2,
+      "chara": 23483,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl01_0100_000_5",
+      "tags": [
+        "enemy"
+      ]
+    },
+    {
+      "fight_id": 7460,
+      "ctrltype": 40,
+      "chara": 24354,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0300_000_23",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7834,
+      "ctrltype": 9,
+      "chara": 24359,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_2",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7835,
+      "ctrltype": 8,
+      "chara": 24363,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_3",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7836,
+      "ctrltype": 7,
+      "chara": 24364,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_4",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7837,
+      "ctrltype": 7,
+      "chara": 24360,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_5",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7838,
+      "ctrltype": 3,
+      "chara": 24364,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_6",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7839,
+      "ctrltype": 3,
+      "chara": 24361,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_7",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7840,
+      "ctrltype": 51,
+      "chara": 24366,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_8",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7841,
+      "ctrltype": 3,
+      "chara": 24365,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_9",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7842,
+      "ctrltype": 51,
+      "chara": 24367,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_lng_btl03_0300_000_10",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 6580,
+      "ctrltype": 85,
+      "chara": 23320,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl02_0600_000_2",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7147,
+      "ctrltype": 166,
+      "chara": 23536,
+      "equip_l": 0,
+      "equip_r": 5713,
+      "fight_name": "aston_tougi_oni_red",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7148,
+      "ctrltype": 168,
+      "chara": 23537,
+      "equip_l": 0,
+      "equip_r": 1695,
+      "fight_name": "aston_tougi_oni_black",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7149,
+      "ctrltype": 173,
+      "chara": 23539,
+      "equip_l": 0,
+      "equip_r": 3293,
+      "fight_name": "aston_tougi_oni_gozu",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7150,
+      "ctrltype": 174,
+      "chara": 23540,
+      "equip_l": 0,
+      "equip_r": 2725,
+      "fight_name": "aston_tougi_oni_mezu",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7152,
+      "ctrltype": 170,
+      "chara": 24327,
+      "equip_l": 0,
+      "equip_r": 5425,
+      "fight_name": "aston_tougi_samejima",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7626,
+      "ctrltype": 202,
+      "chara": 24672,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_special_event1",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    },
+    {
+      "fight_id": 7627,
+      "ctrltype": 202,
+      "chara": 24671,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_tougi_special_event2",
+      "tags": [
+        "enemy",
+        "special"
+      ]
+    }
+  ]
+}
