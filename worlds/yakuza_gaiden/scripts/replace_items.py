@@ -63,6 +63,87 @@ def load_ap_settings(base_dir=None):
                 f.read().decode("utf-8")
             )
 
+
+def load_enemy_randomizer():
+    with open(RANDOMIZER_PATH, "r", encoding="utf-8") as f:
+        entries = json.load(f)["entries"]
+
+    entries_by_fight_id = {}
+    pools = {
+        "enemy": [],
+        "boss": [],
+        "ally": [],
+    }
+
+    for entry in entries:
+        fight_id = int(entry["fight_id"])
+        tags = {
+            tag.strip().lower()
+            for tag in entry.get("tags", [])
+        }
+
+        entry["_tags"] = tags
+        entries_by_fight_id[fight_id] = entry
+
+        if "na" in tags:
+            continue
+
+        for category in pools:
+            if category in tags:
+                pools[category].append(entry)
+
+    return entries_by_fight_id, pools
+
+
+
+
+def randomize_encounter(row, fight_id, entries_by_fight_id, pools):
+    original = entries_by_fight_id.get(fight_id)
+
+    if original is None:
+        category = "enemy"
+        tags = {"enemy"}
+    else:
+        tags = original["_tags"]
+
+        if "na" in tags:
+            return False
+
+        if "ally" in tags:
+            category = "ally"
+        elif "boss" in tags:
+            category = "boss"
+        elif "enemy" in tags:
+            category = "enemy"
+        else:
+            return False
+
+    if category == "ally" and not ENEMY_RANDOMIZER:
+        return False
+    if category == "boss" and not BOSS_RANDOMIZER:
+        return False
+    if category == "enemy" and not  ENEMY_RANDOMIZER:
+        return False
+
+    candidates = pools[category]
+
+    if not candidates:
+        return False
+
+    alternatives = [
+        candidate for candidate in candidates
+        if candidate["fight_id"] != fight_id
+    ]
+
+    replacement = random.choice(alternatives or candidates)
+
+    for field in ("ctrltype", "chara", "equip_l", "equip_r"):
+        row[field] = replacement[field]
+
+    return True
+
+
+
 SETTINGS = {}
 
 def init_seed(seed=None):
@@ -178,6 +259,10 @@ def load_config():
     global AKAME_PHOTO
     global AKAME_TRIAL
     global AKAME_OUTFIT
+    global ENEMY_RANDOMIZER
+    global BOSS_RANDOMIZER
+    global BOSS_RISK
+    global SPECIAL_RISK
 
 
     SETTINGS = load_ap_settings(BASE_DIR)
@@ -236,6 +321,11 @@ def load_config():
     MAX_GOLDEN_BALL_COUNT = SETTINGS["max_golden_ball_count"]
     REQUIRED_GOLDEN_BALL_COUNT = SETTINGS["required_golden_ball_count"]
     PROGRESSIVE_GRAPPLE_ITEMS = SETTINGS["progressive_grapple_items"]
+
+    ENEMY_RANDOMIZER = SETTINGS["enemy_randomizer"]
+    BOSS_RANDOMIZER = SETTINGS["boss_randomizer"]
+    BOSS_RISK = SETTINGS["boss_risk"]
+    SPECIAL_RISK = SETTINGS["special_risk"]
 
 # Create log files
 
@@ -315,6 +405,9 @@ def update_encounters():
 
     print("\n[NPC] Processing character_npc_soldier_personal_data.bin.json")
 
+    entries_by_fight_id, pools = load_enemy_randomizer()
+    randomized = 0
+
     if not NPC_PATH.exists():
         print(f"[NPC] Missing file: {NPC_PATH}")
         return
@@ -352,6 +445,14 @@ def update_encounters():
             continue
 
         group = int(row_key)
+
+        if randomize_encounter(
+            row,
+            group,
+            entries_by_fight_id,
+            pools,
+        ):
+            randomized += 1
 
         # Intro skip
         if INTRO_SKIP and group in INTRO_FIGHTS:
@@ -1162,6 +1263,7 @@ def main(base_dir=None):
     global ERROR_LOG_PATH
     global ITEM_PATH
     global NPC_PATH
+    global RANDOMIZER_PATH
 
     if base_dir is not None:
         BASE_DIR = Path(base_dir)
@@ -1172,6 +1274,7 @@ def main(base_dir=None):
         ERROR_LOG_PATH = BASE_DIR / "error_warning_log.txt"
         ITEM_PATH = INPUT_FOLDER / "db.aston.en" / "adjusted_item.bin.json"
         NPC_PATH = INPUT_FOLDER / "db.aston.en" / "character_npc_soldier_personal_data.bin.json"
+        RANDOMIZER_PATH = BASE_DIR / "yakuza_gaiden" / "data" / "enemy_randomizer.json"
 
     load_config()
 

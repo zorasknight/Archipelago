@@ -83,7 +83,12 @@ OPTION_EXPORT_MAP = {
     "progressive_grapple_items": "progressive_grapple_items",
     "important_grapple_items_yokohama": "important_grapple_items_yokohama",
     "important_grapple_items_sotenbori": "important_grapple_items_sotenbori",
-    "important_grapple_items_colosseum": "important_grapple_items_colosseum"
+    "important_grapple_items_colosseum": "important_grapple_items_colosseum",
+    
+    "enemy_randomizer": "enemy_randomizer",
+    "boss_randomizer": "boss_randomizer",
+    "boss_risk": "boss_risk",
+    "special_risk": "special_risk"
 }
 
 LOCATION_NAME_TO_DATA = {

@@ -240,6 +240,24 @@ class Shogi(Toggle):
     display_name = "Enable Shogi Point Shop Rando"
     default = True
 
+class EnemyRandomizer(Toggle):
+    """
+    Enables Enemy Randomization for non-boss encounters.
+    Risk of bosses mixed into the enemy pool is from a sepperate option, though requires this to be on.
+    """
+
+    display_name = "Enemy Randomization"
+    default = False
+
+class BossRandomizer(Toggle):
+    """
+    Enables Enemy Randomization for Boss encounters.
+    Currently this will only mix Boss tier encounters with each other. Some Bosses cannot be randomized!
+    """
+
+    display_name = "Boss Randomization"
+    default = False
+
 
 class MaxGoldenBallCount(Range):
     """
@@ -661,6 +679,30 @@ class TrapChance(Range):
     range_end = 100
     default = 10
 
+class BossRisk(Range):
+    """
+    Percent chance for a basic enemy to be replaced by a boss tier enemy.
+    This only functions if "Enemy Randomization" is on.
+    """
+
+    display_name = "Boss Risk"
+
+    range_start = 0
+    range_end = 100
+    default = 0
+
+class SpecialRisk(Range):
+    """
+    Percent chance for a basic enemy or boss to be replaced by a strange or unique enemy.
+    these enemies are usually considered too difficult or unique to be mixed into the pool normally.
+    """
+
+    display_name = "Special Risk"
+
+    range_start = 0
+    range_end = 100
+    default = 0
+
 @dataclass
 class YakuzaGaidenOptions(PerGameCommonOptions):
     substory: Substory
@@ -719,6 +761,10 @@ class YakuzaGaidenOptions(PerGameCommonOptions):
     shogi_modifier: ShogiModifier
     pocket_circuit_modifier: PocketCircuitModifier
     akame_shop_modifier: AkameShopModifier
+    enemy_randomizer: EnemyRandomizer
+    boss_randomizer: BossRandomizer
+    boss_risk: BossRisk
+    special_risk: SpecialRisk
 
 option_groups = [
     OptionGroup(
@@ -759,7 +805,7 @@ option_groups = [
     ),
     OptionGroup(
         "Enemy Options",
-        [EnemyHPMult, EnemyAttackMult],
+        [EnemyRandomizer, BossRandomizer, BossRisk, SpecialRisk, EnemyHPMult, EnemyAttackMult],
     ),
     OptionGroup(
         "Point Modifiers",
