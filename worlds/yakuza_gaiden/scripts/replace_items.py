@@ -64,6 +64,7 @@ def load_ap_settings(base_dir=None):
             )
 
 
+
 def load_enemy_randomizer():
     with open(RANDOMIZER_PATH, "r", encoding="utf-8") as f:
         entries = json.load(f)["entries"]
@@ -73,6 +74,8 @@ def load_enemy_randomizer():
         "enemy": [],
         "boss": [],
         "ally": [],
+        "special_enemy": [],
+        "special_boss": [],
     }
 
     for entry in entries:
@@ -88,13 +91,20 @@ def load_enemy_randomizer():
         if "na" in tags:
             continue
 
-        for category in pools:
-            if category in tags:
-                pools[category].append(entry)
+        if "enemy" in tags:
+            pools["enemy"].append(entry)
+            if "special" in tags:
+                pools["special_enemy"].append(entry)
+
+        if "boss" in tags:
+            pools["boss"].append(entry)
+            if "special" in tags:
+                pools["special_boss"].append(entry)
+
+        if "ally" in tags:
+            pools["ally"].append(entry)
 
     return entries_by_fight_id, pools
-
-
 
 
 def randomize_encounter(row, fight_id, entries_by_fight_id, pools):
@@ -116,23 +126,60 @@ def randomize_encounter(row, fight_id, entries_by_fight_id, pools):
         elif "enemy" in tags:
             category = "enemy"
         else:
-            return False
+            category = "enemy"
 
-    if category == "ally" and not ENEMY_RANDOMIZER:
+    if category in ("ally", "enemy") and not ENEMY_RANDOMIZER:
         return False
     if category == "boss" and not BOSS_RANDOMIZER:
         return False
-    if category == "enemy" and not  ENEMY_RANDOMIZER:
-        return False
 
-    candidates = pools[category]
+    special_chance = max(0, min(100, SPECIAL_RISK))
+
+    if category == "boss":
+        candidates = [
+            entry for entry in pools["boss"]
+            if "special" not in entry["_tags"]
+        ]
+    else:
+        candidates = [
+            entry for entry in pools[category]
+            if "special" not in entry["_tags"]
+        ]
+
+        boss_chance = max(0, min(100, BOSS_RISK))
+        use_boss = (
+            boss_chance > 0
+            and random.random() * 100 < boss_chance
+        )
+
+        if use_boss:
+            candidates = [
+                entry for entry in pools["boss"]
+                if "special" not in entry["_tags"]
+            ]
+
+    use_special = (
+        special_chance > 0
+        and random.random() * 100 < special_chance
+    )
+
+    if use_special:
+        if category == "boss":
+            special_pool = pools["special_boss"]
+        elif use_boss:
+            special_pool = pools["special_boss"]
+        else:
+            special_pool = pools["special_enemy"]
+
+        if special_pool:
+            candidates = special_pool
 
     if not candidates:
         return False
 
     alternatives = [
         candidate for candidate in candidates
-        if candidate["fight_id"] != fight_id
+        if int(candidate["fight_id"]) != fight_id
     ]
 
     replacement = random.choice(alternatives or candidates)
@@ -141,7 +188,6 @@ def randomize_encounter(row, fight_id, entries_by_fight_id, pools):
         row[field] = replacement[field]
 
     return True
-
 
 
 SETTINGS = {}
@@ -1274,7 +1320,7 @@ def main(base_dir=None):
         ERROR_LOG_PATH = BASE_DIR / "error_warning_log.txt"
         ITEM_PATH = INPUT_FOLDER / "db.aston.en" / "adjusted_item.bin.json"
         NPC_PATH = INPUT_FOLDER / "db.aston.en" / "character_npc_soldier_personal_data.bin.json"
-        RANDOMIZER_PATH = BASE_DIR / "yakuza_gaiden" / "data" / "enemy_randomizer.json"
+        RANDOMIZER_PATH = BASE_DIR / "Assets" / "enemy_randomizer.json"
 
     load_config()
 

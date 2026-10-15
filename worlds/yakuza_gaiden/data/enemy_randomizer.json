@@ -1,5 +1,5 @@
 {
-  "enemies": [
+  "entries": [
     {
       "fight_id": 6673,
       "ctrltype": 183,
@@ -804,18 +804,6 @@
       ]
     },
     {
-      "fight_id": 7161,
-      "ctrltype": 113,
-      "chara": 15613,
-      "equip_l": 0,
-      "equip_r": 0,
-      "fight_name": "aston_test_btl_npc_watase",
-      "tags": [
-        "ally",
-        "na"
-      ]
-    },
-    {
       "fight_id": 7436,
       "ctrltype": 184,
       "chara": 15613,
@@ -933,39 +921,6 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_1",
-      "tags": [
-        "boss"
-      ]
-    },
-    {
-      "fight_id": 6929,
-      "ctrltype": 113,
-      "chara": 9413,
-      "equip_l": 0,
-      "equip_r": 0,
-      "fight_name": "aston_test_btl_npc_majima",
-      "tags": [
-        "boss"
-      ]
-    },
-    {
-      "fight_id": 6930,
-      "ctrltype": 113,
-      "chara": 23388,
-      "equip_l": 0,
-      "equip_r": 0,
-      "fight_name": "aston_test_btl_npc_saejima",
-      "tags": [
-        "boss"
-      ]
-    },
-    {
-      "fight_id": 6931,
-      "ctrltype": 113,
-      "chara": 9409,
-      "equip_l": 0,
-      "equip_r": 0,
-      "fight_name": "aston_test_btl_npc_daigo",
       "tags": [
         "boss"
       ]
