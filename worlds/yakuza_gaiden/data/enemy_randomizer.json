@@ -7,6 +7,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_npc2",
+      "human_name": "Kosei Shishido",
       "tags": [
         "ally"
       ]
@@ -18,6 +19,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_npc3",
+      "human_name": "Sakuma",
       "tags": [
         "ally"
       ]
@@ -29,6 +31,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_npc4",
+      "human_name": "Yao",
       "tags": [
         "ally"
       ]
@@ -40,6 +43,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_npc5",
+      "human_name": "Kubota",
       "tags": [
         "ally"
       ]
@@ -51,6 +55,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_npc6",
+      "human_name": "Ukita",
       "tags": [
         "ally"
       ]
@@ -62,6 +67,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_btl04_0400_000_npc",
+      "human_name": "Kosei Shishido",
       "tags": [
         "ally"
       ]
@@ -73,6 +79,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_0700_npc1",
+      "human_name": "Kihei Hanawa",
       "tags": [
         "ally"
       ]
@@ -84,6 +91,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_01",
+      "human_name": "Hammerhead",
       "tags": [
         "ally"
       ]
@@ -95,6 +103,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_02",
+      "human_name": "Excellent Sujiya",
       "tags": [
         "ally"
       ]
@@ -106,6 +115,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_tougi_nakama_03",
+      "human_name": "Patriarch Gondawara",
       "tags": [
         "ally"
       ]
@@ -117,6 +127,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_04",
+      "human_name": "Sheep Man",
       "tags": [
         "ally"
       ]
@@ -128,6 +139,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_05",
+      "human_name": "Ryusei Tobashira",
       "tags": [
         "ally"
       ]
@@ -139,6 +151,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_06",
+      "human_name": "Munan Akamatsu",
       "tags": [
         "ally"
       ]
@@ -150,6 +163,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_07",
+      "human_name": "Akimoto-kun",
       "tags": [
         "ally"
       ]
@@ -161,6 +175,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_08",
+      "human_name": "Scorpion Nakamura",
       "tags": [
         "ally"
       ]
@@ -172,6 +187,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_09",
+      "human_name": "Yasuo Sodachi",
       "tags": [
         "ally"
       ]
@@ -183,6 +199,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_10",
+      "human_name": "Nightmare",
       "tags": [
         "ally"
       ]
@@ -194,6 +211,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_tougi_nakama_11",
+      "human_name": "Yuji Nunokawa",
       "tags": [
         "ally"
       ]
@@ -205,6 +223,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_12",
+      "human_name": "Koji Shiranita",
       "tags": [
         "ally"
       ]
@@ -216,6 +235,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_13",
+      "human_name": "Masaharu Kaito",
       "tags": [
         "ally"
       ]
@@ -227,6 +247,7 @@
       "equip_l": 0,
       "equip_r": 3233,
       "fight_name": "aston_tougi_nakama_14",
+      "human_name": "Super Guard Machine",
       "tags": [
         "ally"
       ]
@@ -238,6 +259,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_tougi_nakama_15",
+      "human_name": "Toru Higashi",
       "tags": [
         "ally"
       ]
@@ -249,6 +271,7 @@
       "equip_l": 0,
       "equip_r": 3233,
       "fight_name": "aston_tougi_nakama_16",
+      "human_name": "Mamoru Tateno",
       "tags": [
         "ally"
       ]
@@ -260,6 +283,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_tougi_nakama_17",
+      "human_name": "Phoeniki",
       "tags": [
         "ally"
       ]
@@ -271,6 +295,7 @@
       "equip_l": 0,
       "equip_r": 3234,
       "fight_name": "aston_tougi_nakama_18",
+      "human_name": "Kamiyama",
       "tags": [
         "ally"
       ]
@@ -282,6 +307,7 @@
       "equip_l": 0,
       "equip_r": 1993,
       "fight_name": "aston_tougi_nakama_19",
+      "human_name": "Yappi-kun",
       "tags": [
         "ally"
       ]
@@ -293,6 +319,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_20",
+      "human_name": "Yoshihito Onizuka",
       "tags": [
         "ally"
       ]
@@ -304,6 +331,7 @@
       "equip_l": 0,
       "equip_r": 3746,
       "fight_name": "aston_tougi_nakama_21",
+      "human_name": "Hamako Ishikawa",
       "tags": [
         "ally"
       ]
@@ -315,6 +343,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_22",
+      "human_name": "Renji",
       "tags": [
         "ally"
       ]
@@ -326,6 +355,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_23",
+      "human_name": "Keita Kuroyanagi",
       "tags": [
         "ally"
       ]
@@ -337,6 +367,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_24",
+      "human_name": "KATSUWO",
       "tags": [
         "ally"
       ]
@@ -348,6 +379,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_25",
+      "human_name": "Chicken Man",
       "tags": [
         "ally"
       ]
@@ -359,6 +391,7 @@
       "equip_l": 0,
       "equip_r": 1607,
       "fight_name": "aston_tougi_nakama_26",
+      "human_name": "Hattori the Ninja",
       "tags": [
         "ally"
       ]
@@ -370,6 +403,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_27",
+      "human_name": "Zhang Wei",
       "tags": [
         "ally"
       ]
@@ -381,6 +415,7 @@
       "equip_l": 0,
       "equip_r": 3746,
       "fight_name": "aston_tougi_nakama_28",
+      "human_name": "Brave",
       "tags": [
         "ally"
       ]
@@ -392,6 +427,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_29",
+      "human_name": "Kung Fu Master Suzuki",
       "tags": [
         "ally"
       ]
@@ -403,6 +439,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_30",
+      "human_name": "Wang Wei",
       "tags": [
         "ally"
       ]
@@ -414,6 +451,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_31",
+      "human_name": "Daigo Dojima",
       "tags": [
         "ally"
       ]
@@ -425,6 +463,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_32",
+      "human_name": "Taiga Saejima",
       "tags": [
         "ally"
       ]
@@ -436,6 +475,7 @@
       "equip_l": 0,
       "equip_r": 2929,
       "fight_name": "aston_tougi_nakama_33",
+      "human_name": "Goro Majima",
       "tags": [
         "ally"
       ]
@@ -447,6 +487,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_npc2",
+      "human_name": "Daigo Dojima",
       "tags": [
         "ally"
       ]
@@ -458,6 +499,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_npc1",
+      "human_name": "Daigo Dojima",
       "tags": [
         "ally"
       ]
@@ -469,6 +511,7 @@
       "equip_l": 0,
       "equip_r": 2929,
       "fight_name": "aston_btl05_0300_npc2",
+      "human_name": "Goro Majima",
       "tags": [
         "ally"
       ]
@@ -480,6 +523,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_npc3",
+      "human_name": "Taiga Saejima",
       "tags": [
         "ally"
       ]
@@ -491,6 +535,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc1",
+      "human_name": "Ochi",
       "tags": [
         "ally"
       ]
@@ -502,6 +547,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc2",
+      "human_name": "Ishiyama",
       "tags": [
         "ally"
       ]
@@ -513,6 +559,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc3",
+      "human_name": "Ikeda",
       "tags": [
         "ally"
       ]
@@ -524,6 +571,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc4",
+      "human_name": "Miyashita",
       "tags": [
         "ally"
       ]
@@ -535,6 +583,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc5",
+      "human_name": "Uehara",
       "tags": [
         "ally"
       ]
@@ -546,6 +595,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc6",
+      "human_name": "Suda",
       "tags": [
         "ally"
       ]
@@ -557,6 +607,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc7",
+      "human_name": "Watabe",
       "tags": [
         "ally"
       ]
@@ -568,6 +619,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc8",
+      "human_name": "Hatanaka",
       "tags": [
         "ally"
       ]
@@ -579,6 +631,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc9",
+      "human_name": "Aoyagi",
       "tags": [
         "ally"
       ]
@@ -590,6 +643,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0500_000_npc10",
+      "human_name": "Mochizuki",
       "tags": [
         "ally"
       ]
@@ -601,6 +655,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_npc1",
+      "human_name": "Yuki Tsuruno",
       "tags": [
         "ally"
       ]
@@ -612,6 +667,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl04_0300_000_npc2",
+      "human_name": "Kosei Shishido",
       "tags": [
         "ally"
       ]
@@ -623,6 +679,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl04_0300_000_npc3",
+      "human_name": "Nakajima",
       "tags": [
         "ally"
       ]
@@ -634,6 +691,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl04_0300_000_npc4",
+      "human_name": "Sakaguchi",
       "tags": [
         "ally"
       ]
@@ -645,6 +703,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl04_0300_000_npc5",
+      "human_name": "Kawakami",
       "tags": [
         "ally"
       ]
@@ -656,6 +715,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_btl04_0500_000_npc",
+      "human_name": "Kosei Shishido",
       "tags": [
         "ally"
       ]
@@ -667,6 +727,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_npc1",
+      "human_name": "Masaru Watase",
       "tags": [
         "ally"
       ]
@@ -678,6 +739,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_kiryu",
+      "human_name": "Joryu",
       "tags": [
         "ally"
       ]
@@ -689,6 +751,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_npc_1",
+      "human_name": "Masaharu Kaito",
       "tags": [
         "ally"
       ]
@@ -700,6 +763,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_npc_2",
+      "human_name": "Toru Higashi",
       "tags": [
         "ally"
       ]
@@ -711,6 +775,7 @@
       "equip_l": 0,
       "equip_r": 643,
       "fight_name": "aston_tougi_nakama_34",
+      "human_name": "Lil' Ryuji Goda",
       "tags": [
         "ally"
       ]
@@ -722,6 +787,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_35",
+      "human_name": "Businessman Taro",
       "tags": [
         "ally"
       ]
@@ -733,6 +799,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_36",
+      "human_name": "Fumiya Sugiura",
       "tags": [
         "ally"
       ]
@@ -744,6 +811,7 @@
       "equip_l": 0,
       "equip_r": 1506,
       "fight_name": "aston_tougi_nakama_37",
+      "human_name": "Gary Buster Holmes",
       "tags": [
         "ally"
       ]
@@ -755,6 +823,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_38",
+      "human_name": "Akira Guren",
       "tags": [
         "ally"
       ]
@@ -766,6 +835,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_nakama_39",
+      "human_name": "Mr. Masochist",
       "tags": [
         "ally"
       ]
@@ -777,6 +847,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_tougi_nakama_40",
+      "human_name": "Homeless Yamanaka",
       "tags": [
         "ally"
       ]
@@ -788,6 +859,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl11_0100_000_1",
+      "human_name": "Ryusei Tobashira",
       "tags": [
         "ally"
       ]
@@ -799,6 +871,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl15_0200_000_7",
+      "human_name": "Yuji Nunokawa",
       "tags": [
         "ally"
       ]
@@ -810,6 +883,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_npc1",
+      "human_name": "Masaru Watase",
       "tags": [
         "ally",
         "na"
@@ -822,6 +896,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0900_000_1",
+      "human_name": "Man in a Hannya Mask",
       "tags": [
         "boss"
       ]
@@ -833,6 +908,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1000_000_1",
+      "human_name": "Man in a Hannya Mask",
       "tags": [
         "boss"
       ]
@@ -844,6 +920,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1100_000_1",
+      "human_name": "Agent Mushin",
       "tags": [
         "boss"
       ]
@@ -855,6 +932,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1100_000_2",
+      "human_name": "Agent Enzen",
       "tags": [
         "boss"
       ]
@@ -866,6 +944,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1100_000_3",
+      "human_name": "Agent Raita",
       "tags": [
         "boss"
       ]
@@ -877,6 +956,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl02_0300_000_1",
+      "human_name": "Kaneda",
       "tags": [
         "boss"
       ]
@@ -888,6 +968,7 @@
       "equip_l": 0,
       "equip_r": 3836,
       "fight_name": "aston_btl02_0400_000_1",
+      "human_name": "Masaru Watase-ish Man",
       "tags": [
         "boss"
       ]
@@ -899,6 +980,7 @@
       "equip_l": 1305,
       "equip_r": 641,
       "fight_name": "aston_btl02_0500_000_1",
+      "human_name": "Kazuma Kiryu-esque Man",
       "tags": [
         "boss"
       ]
@@ -910,6 +992,7 @@
       "equip_l": 0,
       "equip_r": 643,
       "fight_name": "aston_btl02_0600_000_1",
+      "human_name": "Ryuji Goda?",
       "tags": [
         "boss"
       ]
@@ -921,6 +1004,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_1",
+      "human_name": "Kihei Hanawa",
       "tags": [
         "boss"
       ]
@@ -932,6 +1016,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl01_0100_000_1",
+      "human_name": "Black Market Weapons Dealer",
       "tags": [
         "boss"
       ]
@@ -943,6 +1028,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl01_0200_000_1",
+      "human_name": "Hammerhead",
       "tags": [
         "boss"
       ]
@@ -954,6 +1040,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_1",
+      "human_name": "Patriarch Aotsuki",
       "tags": [
         "boss"
       ]
@@ -965,6 +1052,7 @@
       "equip_l": 0,
       "equip_r": 2724,
       "fight_name": "aston_lng_btl01_0020_000_1",
+      "human_name": "Agent Raita",
       "tags": [
         "boss"
       ]
@@ -976,6 +1064,7 @@
       "equip_l": 0,
       "equip_r": 4685,
       "fight_name": "aston_lng_btl01_0030_000_1",
+      "human_name": "Agent Enzen",
       "tags": [
         "boss"
       ]
@@ -987,6 +1076,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0050_000_1",
+      "human_name": "Agent Mushin",
       "tags": [
         "boss"
       ]
@@ -998,6 +1088,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0060_000_1",
+      "human_name": "Agent Saigou",
       "tags": [
         "boss"
       ]
@@ -1009,6 +1100,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0100_000_1",
+      "human_name": "Ito",
       "tags": [
         "boss"
       ]
@@ -1020,6 +1112,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1200_000_5",
+      "human_name": "Agent Raita",
       "tags": [
         "boss"
       ]
@@ -1031,6 +1124,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1200_000_6",
+      "human_name": "Agent Enzen",
       "tags": [
         "boss"
       ]
@@ -1042,6 +1136,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1200_000_11",
+      "human_name": "Agent Mushin",
       "tags": [
         "boss"
       ]
@@ -1053,6 +1148,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1200_000_12",
+      "human_name": "Agent Saigou",
       "tags": [
         "boss"
       ]
@@ -1064,6 +1160,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl60_0100_000_1",
+      "human_name": "Irie",
       "tags": [
         "boss"
       ]
@@ -1075,6 +1172,7 @@
       "equip_l": 0,
       "equip_r": 2554,
       "fight_name": "aston_tougi_plat1",
+      "human_name": "Black Chapel",
       "tags": [
         "boss"
       ]
@@ -1086,6 +1184,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_plat2",
+      "human_name": "Yasu the Tornado",
       "tags": [
         "boss"
       ]
@@ -1097,6 +1196,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_plat3",
+      "human_name": "Hound",
       "tags": [
         "boss"
       ]
@@ -1108,6 +1208,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_plat4",
+      "human_name": "Akira Yamaoka",
       "tags": [
         "boss"
       ]
@@ -1119,6 +1220,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_plat5",
+      "human_name": "Hannya Kurogawa",
       "tags": [
         "boss"
       ]
@@ -1130,6 +1232,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_plat6",
+      "human_name": "Wang Wei",
       "tags": [
         "boss"
       ]
@@ -1141,6 +1244,7 @@
       "equip_l": 0,
       "equip_r": 2555,
       "fight_name": "aston_tougi_gold1",
+      "human_name": "Crow",
       "tags": [
         "boss"
       ]
@@ -1152,6 +1256,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_gold2",
+      "human_name": "Danger Yamai",
       "tags": [
         "boss"
       ]
@@ -1163,6 +1268,7 @@
       "equip_l": 0,
       "equip_r": 3599,
       "fight_name": "aston_tougi_gold3",
+      "human_name": "Kondo the Killer",
       "tags": [
         "boss"
       ]
@@ -1174,6 +1280,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_gold4",
+      "human_name": "Nicole Naito",
       "tags": [
         "boss"
       ]
@@ -1185,6 +1292,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_gold6",
+      "human_name": "Yasuo Sodachi",
       "tags": [
         "boss"
       ]
@@ -1196,6 +1304,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_silver1",
+      "human_name": "Hangman",
       "tags": [
         "boss"
       ]
@@ -1207,6 +1316,7 @@
       "equip_l": 0,
       "equip_r": 5982,
       "fight_name": "aston_tougi_silver2",
+      "human_name": "Satake of Chains",
       "tags": [
         "boss"
       ]
@@ -1218,6 +1328,7 @@
       "equip_l": 0,
       "equip_r": 3333,
       "fight_name": "aston_tougi_silver3",
+      "human_name": "Yoshikage",
       "tags": [
         "boss"
       ]
@@ -1229,6 +1340,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_silver4",
+      "human_name": "Oota the Bear Killer",
       "tags": [
         "boss"
       ]
@@ -1240,6 +1352,7 @@
       "equip_l": 3334,
       "equip_r": 641,
       "fight_name": "aston_tougi_silver5",
+      "human_name": "Kazuma Kiryu-esque Man",
       "tags": [
         "boss"
       ]
@@ -1251,6 +1364,7 @@
       "equip_l": 0,
       "equip_r": 3746,
       "fight_name": "aston_tougi_silver6",
+      "human_name": "Brave",
       "tags": [
         "boss"
       ]
@@ -1262,6 +1376,7 @@
       "equip_l": 0,
       "equip_r": 3746,
       "fight_name": "aston_tougi_bronze1",
+      "human_name": "Tsurugi Sagayama",
       "tags": [
         "boss"
       ]
@@ -1273,6 +1388,7 @@
       "equip_l": 0,
       "equip_r": 3596,
       "fight_name": "aston_tougi_bronze2",
+      "human_name": "Chef Sugimoto",
       "tags": [
         "boss"
       ]
@@ -1284,6 +1400,7 @@
       "equip_l": 0,
       "equip_r": 2637,
       "fight_name": "aston_tougi_bronze3",
+      "human_name": "Masaru Watase-esque Man",
       "tags": [
         "boss"
       ]
@@ -1295,6 +1412,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_bronze4",
+      "human_name": "Zhang Wei",
       "tags": [
         "boss"
       ]
@@ -1306,6 +1424,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_rumble_plat1",
+      "human_name": "Nightmare",
       "tags": [
         "boss"
       ]
@@ -1317,6 +1436,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_rumble_gold1",
+      "human_name": "Kung Fu Master Suzuki",
       "tags": [
         "boss"
       ]
@@ -1328,6 +1448,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_rumble_silver1",
+      "human_name": "Scorpion Nakamura",
       "tags": [
         "boss"
       ]
@@ -1339,6 +1460,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_rumble_bronze1",
+      "human_name": "Yoshihito Onizuka",
       "tags": [
         "boss"
       ]
@@ -1350,6 +1472,7 @@
       "equip_l": 0,
       "equip_r": 2929,
       "fight_name": "aston_tougi_special_majima",
+      "human_name": "Goro Majima",
       "tags": [
         "boss"
       ]
@@ -1361,6 +1484,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_special_saejima",
+      "human_name": "Taiga Saejima",
       "tags": [
         "boss"
       ]
@@ -1372,6 +1496,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_special_doujima",
+      "human_name": "Daigo Dojima",
       "tags": [
         "boss"
       ]
@@ -1383,6 +1508,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0100_000_1",
+      "human_name": "Mysterious Man",
       "tags": [
         "boss"
       ]
@@ -1394,6 +1520,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_000_1",
+      "human_name": "Kaneshiro",
       "tags": [
         "boss"
       ]
@@ -1405,6 +1532,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0600_000_4",
+      "human_name": "Ryuji Goda?",
       "tags": [
         "boss"
       ]
@@ -1416,6 +1544,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "enc_akameboss_1",
+      "human_name": "Golden Samurai",
       "tags": [
         "boss"
       ]
@@ -1427,6 +1556,7 @@
       "equip_l": 0,
       "equip_r": 4337,
       "fight_name": "aston_lng_btl02_0600_000_1",
+      "human_name": "Ukita",
       "tags": [
         "boss"
       ]
@@ -1438,6 +1568,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl10_0100_000_1",
+      "human_name": "Homeless Yamanaka",
       "tags": [
         "boss"
       ]
@@ -1449,6 +1580,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0100_000_3",
+      "human_name": "Amano",
       "tags": [
         "boss"
       ]
@@ -1460,6 +1592,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0200_000_1",
+      "human_name": "Tagami",
       "tags": [
         "boss"
       ]
@@ -1471,6 +1604,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0200_000_2",
+      "human_name": "Watabe",
       "tags": [
         "boss"
       ]
@@ -1482,6 +1616,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_1",
+      "human_name": "Fukunaga",
       "tags": [
         "boss"
       ]
@@ -1493,6 +1628,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_lng_btl03_0300_000_1",
+      "human_name": "Fukunaga",
       "tags": [
         "boss"
       ]
@@ -1504,6 +1640,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0200_000_1",
+      "human_name": "Self-proclaimed Ryuji Goda",
       "tags": [
         "boss"
       ]
@@ -1515,6 +1652,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_side_btl03_0300_000_1",
+      "human_name": "Self-proclaimed Ryuji Goda",
       "tags": [
         "boss"
       ]
@@ -1526,6 +1664,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0400_000_1",
+      "human_name": "Self-Proclaimed Third Go-Ryu Clan Patriarch",
       "tags": [
         "boss"
       ]
@@ -1537,6 +1676,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_side_btl07_0100_000_1",
+      "human_name": "Morimoto",
       "tags": [
         "boss"
       ]
@@ -1548,6 +1688,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl08_0100_000_1",
+      "human_name": "Otomo",
       "tags": [
         "boss"
       ]
@@ -1559,6 +1700,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl08_0200_000_1",
+      "human_name": "Kusano",
       "tags": [
         "boss"
       ]
@@ -1570,6 +1712,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0200_000_1",
+      "human_name": "Matsumura",
       "tags": [
         "boss"
       ]
@@ -1581,6 +1724,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl12_0100_000_1",
+      "human_name": "Excellent Sujiya",
       "tags": [
         "boss"
       ]
@@ -1592,6 +1736,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0500_000_1",
+      "human_name": "Tanimoto",
       "tags": [
         "boss"
       ]
@@ -1603,6 +1748,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0100_000_1",
+      "human_name": "Kusano",
       "tags": [
         "boss"
       ]
@@ -1614,6 +1760,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0200_000_1",
+      "human_name": "Oshiro",
       "tags": [
         "boss"
       ]
@@ -1625,6 +1772,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0300_000_1",
+      "human_name": "Yamaguchi",
       "tags": [
         "boss"
       ]
@@ -1636,6 +1784,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0400_000_1",
+      "human_name": "Yamada",
       "tags": [
         "boss"
       ]
@@ -1647,6 +1796,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_1",
+      "human_name": "Akira Guren",
       "tags": [
         "boss"
       ]
@@ -1658,6 +1808,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0100_000_1",
+      "human_name": "Ishida",
       "tags": [
         "boss"
       ]
@@ -1669,6 +1820,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0200_000_1",
+      "human_name": "Machida",
       "tags": [
         "boss"
       ]
@@ -1680,6 +1832,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0300_000_1",
+      "human_name": "Hino",
       "tags": [
         "boss"
       ]
@@ -1691,6 +1844,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0400_000_1",
+      "human_name": "Horiuchi",
       "tags": [
         "boss"
       ]
@@ -1702,6 +1856,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0500_000_1",
+      "human_name": "Koji Shiranita",
       "tags": [
         "boss"
       ]
@@ -1713,6 +1868,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0100_000_1",
+      "human_name": "Nagai",
       "tags": [
         "boss"
       ]
@@ -1724,6 +1880,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0300_000_1",
+      "human_name": "Ohara",
       "tags": [
         "boss"
       ]
@@ -1735,6 +1892,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_1",
+      "human_name": "Keita Kuroyanagi",
       "tags": [
         "boss"
       ]
@@ -1746,6 +1904,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_side_btl28_0100_000_1",
+      "human_name": "Golden Samurai",
       "tags": [
         "boss"
       ]
@@ -1757,6 +1916,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl14_0100_000_1",
+      "human_name": "Itsuki",
       "tags": [
         "boss"
       ]
@@ -1768,6 +1928,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl14_0200_000_1",
+      "human_name": "Renji",
       "tags": [
         "boss"
       ]
@@ -1779,6 +1940,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl15_0100_000_1",
+      "human_name": "Yuji Nunokawa",
       "tags": [
         "boss"
       ]
@@ -1790,6 +1952,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl15_0200_000_1",
+      "human_name": "Nagashima",
       "tags": [
         "boss"
       ]
@@ -1801,6 +1964,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0400_000_4",
+      "human_name": "Nagasawa",
       "tags": [
         "boss"
       ]
@@ -1812,6 +1976,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0200_000_4",
+      "human_name": "Mori",
       "tags": [
         "boss"
       ]
@@ -1823,6 +1988,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2070_01",
+      "human_name": "Aoyagi",
       "tags": [
         "boss"
       ]
@@ -1834,6 +2000,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2090_01",
+      "human_name": "Fukumoto",
       "tags": [
         "boss"
       ]
@@ -1845,6 +2012,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2120_01",
+      "human_name": "Minagawa",
       "tags": [
         "boss"
       ]
@@ -1856,6 +2024,7 @@
       "equip_l": 5651,
       "equip_r": 5308,
       "fight_name": "aston_btl02_0800_000_1",
+      "human_name": "Yuki Tsuruno",
       "tags": [
         "boss",
         "na"
@@ -1868,6 +2037,7 @@
       "equip_l": 645,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_10",
+      "human_name": "Homare Nishitani",
       "tags": [
         "boss",
         "na"
@@ -1880,6 +2050,7 @@
       "equip_l": 0,
       "equip_r": 1306,
       "fight_name": "aston_btl01_0800_000_1",
+      "human_name": "Man in a Suit",
       "tags": [
         "boss",
         "na"
@@ -1892,6 +2063,7 @@
       "equip_l": 1391,
       "equip_r": 0,
       "fight_name": "aston_btl03_0200_000_1",
+      "human_name": "Homare Nishitani",
       "tags": [
         "boss",
         "na"
@@ -1904,6 +2076,7 @@
       "equip_l": 0,
       "equip_r": 645,
       "fight_name": "aston_btl05_0400_000_1",
+      "human_name": "Kosei Shishido",
       "tags": [
         "boss",
         "na"
@@ -1916,6 +2089,7 @@
       "equip_l": 0,
       "equip_r": 5712,
       "fight_name": "aston_arena_btl03_0100_000_1",
+      "human_name": "Dan Brody",
       "tags": [
         "boss",
         "special"
@@ -1928,6 +2102,7 @@
       "equip_l": 5425,
       "equip_r": 5425,
       "fight_name": "aston_arena_btl06_0100_000_1",
+      "human_name": "Kunimitsu Samejima",
       "tags": [
         "boss",
         "special"
@@ -1940,6 +2115,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl07_0100_000_3",
+      "human_name": "JUSTICE",
       "tags": [
         "boss",
         "special"
@@ -1952,6 +2128,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl08_0100_000_1",
+      "human_name": "Kiyoshi Ugajin",
       "tags": [
         "boss",
         "special"
@@ -1964,9 +2141,11 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_robo_nishiki",
+      "human_name": "M-NSK",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -1976,9 +2155,11 @@
       "equip_l": 0,
       "equip_r": 643,
       "fight_name": "aston_tougi_robo_ryuji",
+      "human_name": "M-RYJ",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -1988,9 +2169,11 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_robo_mine",
+      "human_name": "M-MIN",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -2000,9 +2183,11 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_robo_daigo",
+      "human_name": "M-DIG",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -2012,9 +2197,11 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_robo_aizawa",
+      "human_name": "M-AIZ",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -2024,9 +2211,11 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_robo_iwami",
+      "human_name": "M-IWM",
       "tags": [
         "boss",
-        "special"
+        "special",
+        "na"
       ]
     },
     {
@@ -2036,6 +2225,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl10_0200_000_1",
+      "human_name": "Gai Amon",
       "tags": [
         "boss",
         "special"
@@ -2048,6 +2238,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0100_000_1",
+      "human_name": "KATSUWO",
       "tags": [
         "boss",
         "special"
@@ -2060,6 +2251,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_amon_leader",
+      "human_name": "Tetsu Amon",
       "tags": [
         "boss",
         "special"
@@ -2072,6 +2264,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0200_000_1",
+      "human_name": "Agent Jo-an",
       "tags": [
         "enemy"
       ]
@@ -2083,6 +2276,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_0300_000_2",
+      "human_name": "Agent Raita",
       "tags": [
         "enemy"
       ]
@@ -2094,6 +2288,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0300_000_3",
+      "human_name": "Agent A",
       "tags": [
         "enemy"
       ]
@@ -2105,6 +2300,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0300_000_4",
+      "human_name": "Agent B",
       "tags": [
         "enemy"
       ]
@@ -2116,6 +2312,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_0300_000_5",
+      "human_name": "Agent C",
       "tags": [
         "enemy"
       ]
@@ -2127,6 +2324,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0400_000_1",
+      "human_name": "Masked Man A",
       "tags": [
         "enemy"
       ]
@@ -2138,6 +2336,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl01_0400_000_2",
+      "human_name": "Masked Man B",
       "tags": [
         "enemy"
       ]
@@ -2149,6 +2348,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0400_000_3",
+      "human_name": "Masked Man C",
       "tags": [
         "enemy"
       ]
@@ -2160,6 +2360,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl01_0500_000_1",
+      "human_name": "Masked Man B",
       "tags": [
         "enemy"
       ]
@@ -2171,6 +2372,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0500_000_2",
+      "human_name": "Masked Man A",
       "tags": [
         "enemy"
       ]
@@ -2182,6 +2384,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0500_000_3",
+      "human_name": "Masked Man C",
       "tags": [
         "enemy"
       ]
@@ -2193,6 +2396,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl01_0500_000_4",
+      "human_name": "Masked Man D",
       "tags": [
         "enemy"
       ]
@@ -2204,6 +2408,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0500_000_5",
+      "human_name": "Masked Man E",
       "tags": [
         "enemy"
       ]
@@ -2215,6 +2420,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0500_000_6",
+      "human_name": "Masked Man G",
       "tags": [
         "enemy"
       ]
@@ -2226,6 +2432,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0500_000_7",
+      "human_name": "Masked Man F",
       "tags": [
         "enemy"
       ]
@@ -2237,6 +2444,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0500_000_8",
+      "human_name": "Masked Man H",
       "tags": [
         "enemy"
       ]
@@ -2248,6 +2456,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_1",
+      "human_name": "Ogino",
       "tags": [
         "enemy"
       ]
@@ -2259,6 +2468,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_2",
+      "human_name": "Yoshinaga",
       "tags": [
         "enemy"
       ]
@@ -2270,6 +2480,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_3",
+      "human_name": "Miyamoto",
       "tags": [
         "enemy"
       ]
@@ -2281,6 +2492,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_4",
+      "human_name": "Miyoshi",
       "tags": [
         "enemy"
       ]
@@ -2292,6 +2504,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_5",
+      "human_name": "Mori",
       "tags": [
         "enemy"
       ]
@@ -2303,6 +2516,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0700_000_1",
+      "human_name": "Masked Man A",
       "tags": [
         "enemy"
       ]
@@ -2314,6 +2528,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0700_000_2",
+      "human_name": "Masked Man B",
       "tags": [
         "enemy"
       ]
@@ -2325,6 +2540,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl01_0700_000_3",
+      "human_name": "Masked Man C",
       "tags": [
         "enemy"
       ]
@@ -2336,6 +2552,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0700_000_4",
+      "human_name": "Masked Man D",
       "tags": [
         "enemy"
       ]
@@ -2347,6 +2564,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl01_0700_000_5",
+      "human_name": "Masked Man E",
       "tags": [
         "enemy"
       ]
@@ -2358,6 +2576,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl01_0700_000_6",
+      "human_name": "Masked Man F",
       "tags": [
         "enemy"
       ]
@@ -2369,6 +2588,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0700_000_7",
+      "human_name": "Masked Man G",
       "tags": [
         "enemy"
       ]
@@ -2380,6 +2600,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl01_0700_000_8",
+      "human_name": "Masked Man H",
       "tags": [
         "enemy"
       ]
@@ -2391,6 +2612,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1100_000_4",
+      "human_name": "Agent Saigou",
       "tags": [
         "enemy"
       ]
@@ -2402,6 +2624,7 @@
       "equip_l": 0,
       "equip_r": 5003,
       "fight_name": "aston_btl01_1300_000_1",
+      "human_name": "Yoshimura",
       "tags": [
         "enemy"
       ]
@@ -2413,6 +2636,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1300_000_2",
+      "human_name": "Agent I",
       "tags": [
         "enemy"
       ]
@@ -2424,6 +2648,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1300_000_3",
+      "human_name": "Agent J",
       "tags": [
         "enemy"
       ]
@@ -2435,6 +2660,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1300_000_4",
+      "human_name": "Agent K",
       "tags": [
         "enemy"
       ]
@@ -2446,6 +2672,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_1300_000_5",
+      "human_name": "Agent L",
       "tags": [
         "enemy"
       ]
@@ -2457,6 +2684,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1300_000_6",
+      "human_name": "Agent M",
       "tags": [
         "enemy"
       ]
@@ -2468,6 +2696,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1300_000_7",
+      "human_name": "Agent N",
       "tags": [
         "enemy"
       ]
@@ -2479,6 +2708,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1300_000_8",
+      "human_name": "Agent O",
       "tags": [
         "enemy"
       ]
@@ -2490,6 +2720,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0100_000_1",
+      "human_name": "Akita",
       "tags": [
         "enemy"
       ]
@@ -2501,6 +2732,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0100_000_2",
+      "human_name": "Mizutani",
       "tags": [
         "enemy"
       ]
@@ -2512,6 +2744,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0100_000_3",
+      "human_name": "Suga",
       "tags": [
         "enemy"
       ]
@@ -2523,6 +2756,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0100_000_4",
+      "human_name": "Honda",
       "tags": [
         "enemy"
       ]
@@ -2534,6 +2768,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0100_000_5",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -2545,6 +2780,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0200_000_1",
+      "human_name": "Sonoda",
       "tags": [
         "enemy"
       ]
@@ -2556,6 +2792,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0200_000_2",
+      "human_name": "Oka",
       "tags": [
         "enemy"
       ]
@@ -2567,6 +2804,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0200_000_3",
+      "human_name": "Maruyama",
       "tags": [
         "enemy"
       ]
@@ -2578,6 +2816,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0300_000_2",
+      "human_name": "Mizoguchi",
       "tags": [
         "enemy"
       ]
@@ -2589,6 +2828,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl02_0300_000_3",
+      "human_name": "Sakuma",
       "tags": [
         "enemy"
       ]
@@ -2600,6 +2840,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0300_000_4",
+      "human_name": "Sakurai",
       "tags": [
         "enemy"
       ]
@@ -2611,6 +2852,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0300_000_5",
+      "human_name": "Matsuda",
       "tags": [
         "enemy"
       ]
@@ -2622,6 +2864,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl02_0300_000_6",
+      "human_name": "Kamiyama",
       "tags": [
         "enemy"
       ]
@@ -2633,6 +2876,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl02_0300_000_7",
+      "human_name": "Nishi",
       "tags": [
         "enemy"
       ]
@@ -2644,6 +2888,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl02_0300_000_8",
+      "human_name": "Ohara",
       "tags": [
         "enemy"
       ]
@@ -2655,6 +2900,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl02_0700_000_1",
+      "human_name": "Inagaki",
       "tags": [
         "enemy"
       ]
@@ -2666,6 +2912,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl02_0700_000_2",
+      "human_name": "Murakami",
       "tags": [
         "enemy"
       ]
@@ -2677,6 +2924,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_3",
+      "human_name": "Oi",
       "tags": [
         "enemy"
       ]
@@ -2688,6 +2936,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_4",
+      "human_name": "Maeda",
       "tags": [
         "enemy"
       ]
@@ -2699,6 +2948,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl02_0700_000_5",
+      "human_name": "Uchida",
       "tags": [
         "enemy"
       ]
@@ -2710,6 +2960,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl02_0700_000_6",
+      "human_name": "Iguchi",
       "tags": [
         "enemy"
       ]
@@ -2721,6 +2972,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_7",
+      "human_name": "Okuda",
       "tags": [
         "enemy"
       ]
@@ -2732,6 +2984,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0800_000_2",
+      "human_name": "Yasui",
       "tags": [
         "enemy"
       ]
@@ -2743,6 +2996,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0800_000_3",
+      "human_name": "Endo",
       "tags": [
         "enemy"
       ]
@@ -2754,6 +3008,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0800_000_4",
+      "human_name": "Okazaki",
       "tags": [
         "enemy"
       ]
@@ -2765,6 +3020,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_3",
+      "human_name": "Agent A",
       "tags": [
         "enemy"
       ]
@@ -2776,6 +3032,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_4",
+      "human_name": "Agent B",
       "tags": [
         "enemy"
       ]
@@ -2787,6 +3044,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_5",
+      "human_name": "Agent C",
       "tags": [
         "enemy"
       ]
@@ -2798,6 +3056,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_6",
+      "human_name": "Agent D",
       "tags": [
         "enemy"
       ]
@@ -2809,6 +3068,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_7",
+      "human_name": "Agent E",
       "tags": [
         "enemy"
       ]
@@ -2820,6 +3080,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_8",
+      "human_name": "Agent F",
       "tags": [
         "enemy"
       ]
@@ -2831,6 +3092,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0400_000_4",
+      "human_name": "Masked Man D",
       "tags": [
         "enemy"
       ]
@@ -2842,6 +3104,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0400_000_5",
+      "human_name": "Masked Man E",
       "tags": [
         "enemy"
       ]
@@ -2853,6 +3116,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0500_000_9",
+      "human_name": "Masked Man I",
       "tags": [
         "enemy"
       ]
@@ -2864,6 +3128,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl01_0500_000_10",
+      "human_name": "Masked Man J",
       "tags": [
         "enemy"
       ]
@@ -2875,6 +3140,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_1",
+      "human_name": "Kitahara",
       "tags": [
         "enemy"
       ]
@@ -2886,6 +3152,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_2",
+      "human_name": "Kumagai",
       "tags": [
         "enemy"
       ]
@@ -2897,6 +3164,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_3",
+      "human_name": "Haraguchi",
       "tags": [
         "enemy"
       ]
@@ -2908,6 +3176,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_btl03_0100_000_4",
+      "human_name": "Konno",
       "tags": [
         "enemy"
       ]
@@ -2919,6 +3188,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_5",
+      "human_name": "Saito",
       "tags": [
         "enemy"
       ]
@@ -2930,6 +3200,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_6",
+      "human_name": "Shinozaki",
       "tags": [
         "enemy"
       ]
@@ -2941,6 +3212,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_7",
+      "human_name": "Matsuzaki",
       "tags": [
         "enemy"
       ]
@@ -2952,6 +3224,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_8",
+      "human_name": "Uemura",
       "tags": [
         "enemy"
       ]
@@ -2963,6 +3236,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_1",
+      "human_name": "Iwashita",
       "tags": [
         "enemy"
       ]
@@ -2974,6 +3248,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_2",
+      "human_name": "Hashimoto",
       "tags": [
         "enemy"
       ]
@@ -2985,6 +3260,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_3",
+      "human_name": "Araki",
       "tags": [
         "enemy"
       ]
@@ -2996,6 +3272,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_4",
+      "human_name": "Takagi",
       "tags": [
         "enemy"
       ]
@@ -3007,6 +3284,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0050_000_5",
+      "human_name": "Hosoda",
       "tags": [
         "enemy"
       ]
@@ -3018,6 +3296,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_6",
+      "human_name": "Mishima",
       "tags": [
         "enemy"
       ]
@@ -3029,6 +3308,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0050_000_7",
+      "human_name": "Komatsu",
       "tags": [
         "enemy"
       ]
@@ -3040,6 +3320,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0050_000_8",
+      "human_name": "Matsuura",
       "tags": [
         "enemy"
       ]
@@ -3051,6 +3332,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0100_000_1",
+      "human_name": "Ide",
       "tags": [
         "enemy"
       ]
@@ -3062,6 +3344,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0100_000_2",
+      "human_name": "Tsunoda",
       "tags": [
         "enemy"
       ]
@@ -3073,6 +3356,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0200_000_1",
+      "human_name": "Mishima",
       "tags": [
         "enemy"
       ]
@@ -3084,6 +3368,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_2",
+      "human_name": "Yamane",
       "tags": [
         "enemy"
       ]
@@ -3095,6 +3380,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_3",
+      "human_name": "Kodama",
       "tags": [
         "enemy"
       ]
@@ -3106,6 +3392,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0200_000_4",
+      "human_name": "Kobayashi",
       "tags": [
         "enemy"
       ]
@@ -3117,6 +3404,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_5",
+      "human_name": "Aihara",
       "tags": [
         "enemy"
       ]
@@ -3128,6 +3416,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_6",
+      "human_name": "Tagami",
       "tags": [
         "enemy"
       ]
@@ -3139,6 +3428,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0200_000_7",
+      "human_name": "Tsutsumi",
       "tags": [
         "enemy"
       ]
@@ -3150,6 +3440,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_8",
+      "human_name": "Hidaka",
       "tags": [
         "enemy"
       ]
@@ -3161,6 +3452,7 @@
       "equip_l": 0,
       "equip_r": 5145,
       "fight_name": "aston_btl04_0300_000_2",
+      "human_name": "Ito",
       "tags": [
         "enemy"
       ]
@@ -3172,6 +3464,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_3",
+      "human_name": "Nagai",
       "tags": [
         "enemy"
       ]
@@ -3183,6 +3476,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_4",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -3194,6 +3488,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_5",
+      "human_name": "Yoshioka",
       "tags": [
         "enemy"
       ]
@@ -3205,6 +3500,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_6",
+      "human_name": "Miyagi",
       "tags": [
         "enemy"
       ]
@@ -3216,6 +3512,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_7",
+      "human_name": "Kuriyama",
       "tags": [
         "enemy"
       ]
@@ -3227,6 +3524,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_8",
+      "human_name": "Takase",
       "tags": [
         "enemy"
       ]
@@ -3238,6 +3536,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_1",
+      "human_name": "Shimizu",
       "tags": [
         "enemy"
       ]
@@ -3249,6 +3548,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0400_000_2",
+      "human_name": "Enomoto",
       "tags": [
         "enemy"
       ]
@@ -3260,6 +3560,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_3",
+      "human_name": "Shioda",
       "tags": [
         "enemy"
       ]
@@ -3271,6 +3572,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_4",
+      "human_name": "Seki",
       "tags": [
         "enemy"
       ]
@@ -3282,6 +3584,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0400_000_5",
+      "human_name": "Miwa",
       "tags": [
         "enemy"
       ]
@@ -3293,6 +3596,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_7",
+      "human_name": "Sugiyama",
       "tags": [
         "enemy"
       ]
@@ -3304,6 +3608,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0400_000_8",
+      "human_name": "Nakahara",
       "tags": [
         "enemy"
       ]
@@ -3315,6 +3620,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_1",
+      "human_name": "Yasui",
       "tags": [
         "enemy"
       ]
@@ -3326,6 +3632,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_2",
+      "human_name": "Kurita",
       "tags": [
         "enemy"
       ]
@@ -3337,6 +3644,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_3",
+      "human_name": "Higa",
       "tags": [
         "enemy"
       ]
@@ -3348,6 +3656,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl04_0500_000_4",
+      "human_name": "Horiguchi",
       "tags": [
         "enemy"
       ]
@@ -3359,6 +3668,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl04_0500_000_5",
+      "human_name": "Yajima",
       "tags": [
         "enemy"
       ]
@@ -3370,6 +3680,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0500_000_6",
+      "human_name": "Nozaki",
       "tags": [
         "enemy"
       ]
@@ -3381,6 +3692,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_7",
+      "human_name": "Hori",
       "tags": [
         "enemy"
       ]
@@ -3392,6 +3704,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_8",
+      "human_name": "Iguchi",
       "tags": [
         "enemy"
       ]
@@ -3403,6 +3716,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0100_000_1",
+      "human_name": "Kuwabara",
       "tags": [
         "enemy"
       ]
@@ -3414,6 +3728,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_2",
+      "human_name": "Takayama",
       "tags": [
         "enemy"
       ]
@@ -3425,6 +3740,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_3",
+      "human_name": "Hosoda",
       "tags": [
         "enemy"
       ]
@@ -3436,6 +3752,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl05_0100_000_4",
+      "human_name": "Sakakibara",
       "tags": [
         "enemy"
       ]
@@ -3447,6 +3764,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl05_0100_000_5",
+      "human_name": "Kosaka",
       "tags": [
         "enemy"
       ]
@@ -3458,6 +3776,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0100_000_6",
+      "human_name": "Ogata",
       "tags": [
         "enemy"
       ]
@@ -3469,6 +3788,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_7",
+      "human_name": "Wakabayashi",
       "tags": [
         "enemy"
       ]
@@ -3480,6 +3800,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0100_000_8",
+      "human_name": "Tezuka",
       "tags": [
         "enemy"
       ]
@@ -3491,6 +3812,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_1",
+      "human_name": "Inagaki",
       "tags": [
         "enemy"
       ]
@@ -3502,6 +3824,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_2",
+      "human_name": "Ogihara",
       "tags": [
         "enemy"
       ]
@@ -3513,6 +3836,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_3",
+      "human_name": "Minagawa",
       "tags": [
         "enemy"
       ]
@@ -3524,6 +3848,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0200_000_4",
+      "human_name": "Okawa",
       "tags": [
         "enemy"
       ]
@@ -3535,6 +3860,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_5",
+      "human_name": "Inada",
       "tags": [
         "enemy"
       ]
@@ -3546,6 +3872,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_6",
+      "human_name": "Ishihara",
       "tags": [
         "enemy"
       ]
@@ -3557,6 +3884,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0200_000_7",
+      "human_name": "Chiba",
       "tags": [
         "enemy"
       ]
@@ -3568,6 +3896,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_8",
+      "human_name": "Osaki",
       "tags": [
         "enemy"
       ]
@@ -3579,6 +3908,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_1",
+      "human_name": "Koizumi",
       "tags": [
         "enemy"
       ]
@@ -3590,6 +3920,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_2",
+      "human_name": "Abe",
       "tags": [
         "enemy"
       ]
@@ -3601,6 +3932,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_3",
+      "human_name": "Usui",
       "tags": [
         "enemy"
       ]
@@ -3612,6 +3944,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_4",
+      "human_name": "Ogino",
       "tags": [
         "enemy"
       ]
@@ -3623,6 +3956,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_5",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -3634,6 +3968,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_6",
+      "human_name": "Yoshida",
       "tags": [
         "enemy"
       ]
@@ -3645,6 +3980,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_7",
+      "human_name": "Miyauchi",
       "tags": [
         "enemy"
       ]
@@ -3656,6 +3992,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_8",
+      "human_name": "Arai",
       "tags": [
         "enemy"
       ]
@@ -3667,6 +4004,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_1",
+      "human_name": "Ogihara",
       "tags": [
         "enemy"
       ]
@@ -3678,6 +4016,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0300_000_2",
+      "human_name": "Okawa",
       "tags": [
         "enemy"
       ]
@@ -3689,6 +4028,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_3",
+      "human_name": "Ochi",
       "tags": [
         "enemy"
       ]
@@ -3700,6 +4040,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_4",
+      "human_name": "Yokoda",
       "tags": [
         "enemy"
       ]
@@ -3711,6 +4052,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_5",
+      "human_name": "Okano",
       "tags": [
         "enemy"
       ]
@@ -3722,6 +4064,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_6",
+      "human_name": "Tsunoda",
       "tags": [
         "enemy"
       ]
@@ -3733,6 +4076,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_7",
+      "human_name": "Iwashita",
       "tags": [
         "enemy"
       ]
@@ -3744,6 +4088,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_8",
+      "human_name": "Miyahara",
       "tags": [
         "enemy"
       ]
@@ -3755,6 +4100,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0200_000_9",
+      "human_name": "Fukuda",
       "tags": [
         "enemy"
       ]
@@ -3766,6 +4112,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0200_000_10",
+      "human_name": "Horiuchi",
       "tags": [
         "enemy"
       ]
@@ -3777,6 +4124,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_11",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -3788,6 +4136,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_12",
+      "human_name": "Matsuoka",
       "tags": [
         "enemy"
       ]
@@ -3799,6 +4148,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_13",
+      "human_name": "Shoji",
       "tags": [
         "enemy"
       ]
@@ -3810,6 +4160,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_14",
+      "human_name": "Kotani",
       "tags": [
         "enemy"
       ]
@@ -3821,6 +4172,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0200_000_15",
+      "human_name": "Shinoda",
       "tags": [
         "enemy"
       ]
@@ -3832,6 +4184,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_16",
+      "human_name": "Yamamoto",
       "tags": [
         "enemy"
       ]
@@ -3843,6 +4196,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0200_000_17",
+      "human_name": "Nagano",
       "tags": [
         "enemy"
       ]
@@ -3854,6 +4208,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0200_000_18",
+      "human_name": "Toyama",
       "tags": [
         "enemy"
       ]
@@ -3865,6 +4220,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl04_0200_000_19",
+      "human_name": "Okada",
       "tags": [
         "enemy"
       ]
@@ -3876,6 +4232,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_20",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -3887,6 +4244,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0200_000_21",
+      "human_name": "Kishi",
       "tags": [
         "enemy"
       ]
@@ -3898,6 +4256,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0200_000_22",
+      "human_name": "Kikuchi",
       "tags": [
         "enemy"
       ]
@@ -3909,6 +4268,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0200_000_23",
+      "human_name": "Miyazaki",
       "tags": [
         "enemy"
       ]
@@ -3920,6 +4280,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0200_000_24",
+      "human_name": "Kumagai",
       "tags": [
         "enemy"
       ]
@@ -3931,6 +4292,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0300_000_9",
+      "human_name": "Sakuma",
       "tags": [
         "enemy"
       ]
@@ -3942,6 +4304,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_10",
+      "human_name": "Yamamura",
       "tags": [
         "enemy"
       ]
@@ -3953,6 +4316,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_11",
+      "human_name": "Komatsu",
       "tags": [
         "enemy"
       ]
@@ -3964,6 +4328,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_12",
+      "human_name": "Numata",
       "tags": [
         "enemy"
       ]
@@ -3975,6 +4340,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0300_000_13",
+      "human_name": "Murayama",
       "tags": [
         "enemy"
       ]
@@ -3986,6 +4352,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_14",
+      "human_name": "Oishi",
       "tags": [
         "enemy"
       ]
@@ -3997,6 +4364,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_15",
+      "human_name": "Tanigawa",
       "tags": [
         "enemy"
       ]
@@ -4008,6 +4376,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_16",
+      "human_name": "Komiya",
       "tags": [
         "enemy"
       ]
@@ -4019,6 +4388,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_17",
+      "human_name": "Machida",
       "tags": [
         "enemy"
       ]
@@ -4030,6 +4400,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_18",
+      "human_name": "Nagano",
       "tags": [
         "enemy"
       ]
@@ -4041,6 +4412,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_19",
+      "human_name": "Tanabe",
       "tags": [
         "enemy"
       ]
@@ -4052,6 +4424,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_20",
+      "human_name": "Shimazaki",
       "tags": [
         "enemy"
       ]
@@ -4063,6 +4436,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_21",
+      "human_name": "Tokuda",
       "tags": [
         "enemy"
       ]
@@ -4074,6 +4448,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_22",
+      "human_name": "Tsutsui",
       "tags": [
         "enemy"
       ]
@@ -4085,6 +4460,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_23",
+      "human_name": "Minami",
       "tags": [
         "enemy"
       ]
@@ -4096,6 +4472,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0300_000_24",
+      "human_name": "Iizuka",
       "tags": [
         "enemy"
       ]
@@ -4107,6 +4484,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_25",
+      "human_name": "Fukui",
       "tags": [
         "enemy"
       ]
@@ -4118,6 +4496,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_26",
+      "human_name": "Katagiri",
       "tags": [
         "enemy"
       ]
@@ -4129,6 +4508,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0300_000_27",
+      "human_name": "Hotta",
       "tags": [
         "enemy"
       ]
@@ -4140,6 +4520,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_28",
+      "human_name": "Yano",
       "tags": [
         "enemy"
       ]
@@ -4151,6 +4532,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_29",
+      "human_name": "Yoneyama",
       "tags": [
         "enemy"
       ]
@@ -4162,6 +4544,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0300_000_30",
+      "human_name": "Hirai",
       "tags": [
         "enemy"
       ]
@@ -4173,6 +4556,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_9",
+      "human_name": "Fujii",
       "tags": [
         "enemy"
       ]
@@ -4184,6 +4568,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_10",
+      "human_name": "Hamano",
       "tags": [
         "enemy"
       ]
@@ -4195,6 +4580,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_11",
+      "human_name": "Muto",
       "tags": [
         "enemy"
       ]
@@ -4206,6 +4592,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_12",
+      "human_name": "Hozaka",
       "tags": [
         "enemy"
       ]
@@ -4217,6 +4604,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_13",
+      "human_name": "Okada",
       "tags": [
         "enemy"
       ]
@@ -4228,6 +4616,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl04_0400_000_14",
+      "human_name": "Kawata",
       "tags": [
         "enemy"
       ]
@@ -4239,6 +4628,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl04_0400_000_16",
+      "human_name": "Shimoda",
       "tags": [
         "enemy"
       ]
@@ -4250,6 +4640,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_17",
+      "human_name": "Sekiguchi",
       "tags": [
         "enemy"
       ]
@@ -4261,6 +4652,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl04_0400_000_18",
+      "human_name": "Yoshinaga",
       "tags": [
         "enemy"
       ]
@@ -4272,6 +4664,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_19",
+      "human_name": "Kumagai",
       "tags": [
         "enemy"
       ]
@@ -4283,6 +4676,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_20",
+      "human_name": "Takano",
       "tags": [
         "enemy"
       ]
@@ -4294,6 +4688,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_21",
+      "human_name": "Miyoshi",
       "tags": [
         "enemy"
       ]
@@ -4305,6 +4700,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_22",
+      "human_name": "Otsuka",
       "tags": [
         "enemy"
       ]
@@ -4316,6 +4712,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_23",
+      "human_name": "Yagi",
       "tags": [
         "enemy"
       ]
@@ -4327,6 +4724,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0400_000_24",
+      "human_name": "Noguchi",
       "tags": [
         "enemy"
       ]
@@ -4338,6 +4736,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_9",
+      "human_name": "Nagai",
       "tags": [
         "enemy"
       ]
@@ -4349,6 +4748,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_btl03_0100_000_10",
+      "human_name": "Fujikawa",
       "tags": [
         "enemy"
       ]
@@ -4360,6 +4760,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_11",
+      "human_name": "Fukuda",
       "tags": [
         "enemy"
       ]
@@ -4371,6 +4772,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_12",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -4382,6 +4784,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl03_0100_000_13",
+      "human_name": "Nozawa",
       "tags": [
         "enemy"
       ]
@@ -4393,6 +4796,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_2",
+      "human_name": "Kaneda",
       "tags": [
         "enemy"
       ]
@@ -4404,6 +4808,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_3",
+      "human_name": "Onodera",
       "tags": [
         "enemy"
       ]
@@ -4415,6 +4820,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_4",
+      "human_name": "Takeshita",
       "tags": [
         "enemy"
       ]
@@ -4426,6 +4832,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_5",
+      "human_name": "Fukushima",
       "tags": [
         "enemy"
       ]
@@ -4437,6 +4844,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl02_0100_000_6",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -4448,6 +4856,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_arena_btl02_0100_000_7",
+      "human_name": "Honda",
       "tags": [
         "enemy"
       ]
@@ -4459,6 +4868,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl09_0100_000_5",
+      "human_name": "Fukushima",
       "tags": [
         "enemy"
       ]
@@ -4470,6 +4880,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl09_0100_000_6",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -4481,6 +4892,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_arena_btl09_0100_000_7",
+      "human_name": "Honda",
       "tags": [
         "enemy"
       ]
@@ -4492,6 +4904,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_arena_btl09_0100_000_8",
+      "human_name": "Okamoto",
       "tags": [
         "enemy"
       ]
@@ -4503,6 +4916,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_arena_btl09_0100_000_9",
+      "human_name": "Tsunoda",
       "tags": [
         "enemy"
       ]
@@ -4514,6 +4928,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_lng_btl01_0010_000_3",
+      "human_name": "Agent C",
       "tags": [
         "enemy"
       ]
@@ -4525,6 +4940,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_lng_btl01_0010_000_4",
+      "human_name": "Agent D",
       "tags": [
         "enemy"
       ]
@@ -4536,6 +4952,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0040_000_1",
+      "human_name": "Agent Q",
       "tags": [
         "enemy"
       ]
@@ -4547,6 +4964,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_lng_btl01_0040_000_4",
+      "human_name": "Agent U",
       "tags": [
         "enemy"
       ]
@@ -4558,6 +4976,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0100_000_2",
+      "human_name": "Inaba",
       "tags": [
         "enemy"
       ]
@@ -4569,6 +4988,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0100_000_3",
+      "human_name": "Kubo",
       "tags": [
         "enemy"
       ]
@@ -4580,6 +5000,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0100_000_4",
+      "human_name": "Shibuya",
       "tags": [
         "enemy"
       ]
@@ -4591,6 +5012,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0100_000_5",
+      "human_name": "Shinoda",
       "tags": [
         "enemy"
       ]
@@ -4602,6 +5024,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0200_000_1",
+      "human_name": "Hiramatsu",
       "tags": [
         "enemy"
       ]
@@ -4613,6 +5036,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_8",
+      "human_name": "Kamata",
       "tags": [
         "enemy"
       ]
@@ -4624,6 +5048,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_9",
+      "human_name": "Sakuma",
       "tags": [
         "enemy"
       ]
@@ -4635,6 +5060,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_btl02_0700_000_10",
+      "human_name": "Yoshida",
       "tags": [
         "enemy"
       ]
@@ -4646,6 +5072,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_14",
+      "human_name": "Shinozaki",
       "tags": [
         "enemy"
       ]
@@ -4657,6 +5084,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_16",
+      "human_name": "Uemura",
       "tags": [
         "enemy"
       ]
@@ -4668,6 +5096,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl02_0700_000_17",
+      "human_name": "Ishida",
       "tags": [
         "enemy"
       ]
@@ -4679,6 +5108,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl02_0700_000_18",
+      "human_name": "Nishimoto",
       "tags": [
         "enemy"
       ]
@@ -4690,6 +5120,7 @@
       "equip_l": 0,
       "equip_r": 4966,
       "fight_name": "aston_btl02_0700_000_19",
+      "human_name": "Aihara",
       "tags": [
         "enemy"
       ]
@@ -4701,6 +5132,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_20",
+      "human_name": "Yao",
       "tags": [
         "enemy"
       ]
@@ -4712,6 +5144,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_21",
+      "human_name": "Ouchi",
       "tags": [
         "enemy"
       ]
@@ -4723,6 +5156,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_22",
+      "human_name": "Oki",
       "tags": [
         "enemy"
       ]
@@ -4734,6 +5168,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0700_000_23",
+      "human_name": "Takeda",
       "tags": [
         "enemy"
       ]
@@ -4745,6 +5180,7 @@
       "equip_l": 0,
       "equip_r": 3189,
       "fight_name": "aston_btl02_0700_000_31",
+      "human_name": "Kubota",
       "tags": [
         "enemy"
       ]
@@ -4756,6 +5192,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl02_0700_000_32",
+      "human_name": "Ukita",
       "tags": [
         "enemy"
       ]
@@ -4767,6 +5204,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1300_000_9",
+      "human_name": "Agent P",
       "tags": [
         "enemy"
       ]
@@ -4778,6 +5216,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl01_1300_000_10",
+      "human_name": "Agent Q",
       "tags": [
         "enemy"
       ]
@@ -4789,6 +5228,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0200_000_9",
+      "human_name": "Takeuchi",
       "tags": [
         "enemy"
       ]
@@ -4800,6 +5240,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0200_000_10",
+      "human_name": "Tahara",
       "tags": [
         "enemy"
       ]
@@ -4811,6 +5252,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_11",
+      "human_name": "Tokuda",
       "tags": [
         "enemy"
       ]
@@ -4822,6 +5264,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_12",
+      "human_name": "Fukumoto",
       "tags": [
         "enemy"
       ]
@@ -4833,6 +5276,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0200_000_13",
+      "human_name": "Horiuchi",
       "tags": [
         "enemy"
       ]
@@ -4844,6 +5288,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0200_000_14",
+      "human_name": "Yanagisawa",
       "tags": [
         "enemy"
       ]
@@ -4855,6 +5300,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0200_000_15",
+      "human_name": "Onodera",
       "tags": [
         "enemy"
       ]
@@ -4866,6 +5312,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_9",
+      "human_name": "Kudo",
       "tags": [
         "enemy"
       ]
@@ -4877,6 +5324,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0250_000_10",
+      "human_name": "Sakata",
       "tags": [
         "enemy"
       ]
@@ -4888,6 +5336,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0250_000_11",
+      "human_name": "Ogura",
       "tags": [
         "enemy"
       ]
@@ -4899,6 +5348,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0250_000_12",
+      "human_name": "Morita",
       "tags": [
         "enemy"
       ]
@@ -4910,6 +5360,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0250_000_13",
+      "human_name": "Narita",
       "tags": [
         "enemy"
       ]
@@ -4921,6 +5372,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0250_000_14",
+      "human_name": "Ishii",
       "tags": [
         "enemy"
       ]
@@ -4932,6 +5384,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0250_000_15",
+      "human_name": "Kawasaki",
       "tags": [
         "enemy"
       ]
@@ -4943,6 +5396,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_9",
+      "human_name": "Miyagi",
       "tags": [
         "enemy"
       ]
@@ -4954,6 +5408,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0300_000_11",
+      "human_name": "Miwa",
       "tags": [
         "enemy"
       ]
@@ -4965,6 +5420,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0300_000_12",
+      "human_name": "Mitani",
       "tags": [
         "enemy"
       ]
@@ -4976,6 +5432,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0300_000_13",
+      "human_name": "Kodama",
       "tags": [
         "enemy"
       ]
@@ -4987,6 +5444,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0300_000_14",
+      "human_name": "Konishi",
       "tags": [
         "enemy"
       ]
@@ -4998,6 +5456,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0300_000_15",
+      "human_name": "Ogawa",
       "tags": [
         "enemy"
       ]
@@ -5009,6 +5468,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0300_000_16",
+      "human_name": "Nitta",
       "tags": [
         "enemy"
       ]
@@ -5020,6 +5480,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0300_000_17",
+      "human_name": "Sugiyama",
       "tags": [
         "enemy"
       ]
@@ -5031,6 +5492,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_18",
+      "human_name": "Suda",
       "tags": [
         "enemy"
       ]
@@ -5042,6 +5504,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0300_000_19",
+      "human_name": "Suga",
       "tags": [
         "enemy"
       ]
@@ -5053,6 +5516,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0300_000_20",
+      "human_name": "Nishimoto",
       "tags": [
         "enemy"
       ]
@@ -5064,6 +5528,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_btl05_0300_000_21",
+      "human_name": "Ota",
       "tags": [
         "enemy"
       ]
@@ -5075,6 +5540,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_22",
+      "human_name": "Otsuki",
       "tags": [
         "enemy"
       ]
@@ -5086,6 +5552,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_24",
+      "human_name": "Nakano",
       "tags": [
         "enemy"
       ]
@@ -5097,6 +5564,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_25",
+      "human_name": "Tsutsui",
       "tags": [
         "enemy"
       ]
@@ -5108,6 +5576,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_26",
+      "human_name": "Ninomiya",
       "tags": [
         "enemy"
       ]
@@ -5119,6 +5588,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_27",
+      "human_name": "Fujimura",
       "tags": [
         "enemy"
       ]
@@ -5130,6 +5600,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_28",
+      "human_name": "Shimada",
       "tags": [
         "enemy"
       ]
@@ -5141,6 +5612,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_29",
+      "human_name": "Fujisawa",
       "tags": [
         "enemy"
       ]
@@ -5152,6 +5624,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_30",
+      "human_name": "Amano",
       "tags": [
         "enemy"
       ]
@@ -5163,6 +5636,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl60_0100_000_2",
+      "human_name": "Ouchi",
       "tags": [
         "enemy"
       ]
@@ -5174,6 +5648,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl60_0100_000_3",
+      "human_name": "Tanigawa",
       "tags": [
         "enemy"
       ]
@@ -5185,6 +5660,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl60_0100_000_4",
+      "human_name": "Takeda",
       "tags": [
         "enemy"
       ]
@@ -5196,6 +5672,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl60_0100_000_5",
+      "human_name": "Tsuji",
       "tags": [
         "enemy"
       ]
@@ -5207,6 +5684,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_lng_btl04_0200_000_11",
+      "human_name": "Shimizu",
       "tags": [
         "enemy"
       ]
@@ -5218,6 +5696,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl05_0100_000_11",
+      "human_name": "Matsui",
       "tags": [
         "enemy"
       ]
@@ -5229,6 +5708,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl05_0100_000_12",
+      "human_name": "Moriyama",
       "tags": [
         "enemy"
       ]
@@ -5240,6 +5720,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl05_0100_000_13",
+      "human_name": "Ueda",
       "tags": [
         "enemy"
       ]
@@ -5251,6 +5732,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl05_0100_000_14",
+      "human_name": "Seto",
       "tags": [
         "enemy"
       ]
@@ -5262,6 +5744,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0100_000_15",
+      "human_name": "Nishikawa",
       "tags": [
         "enemy"
       ]
@@ -5273,6 +5756,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_16",
+      "human_name": "Shimamura",
       "tags": [
         "enemy"
       ]
@@ -5284,6 +5768,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_17",
+      "human_name": "Irie",
       "tags": [
         "enemy"
       ]
@@ -5295,6 +5780,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_18",
+      "human_name": "Hiramatsu",
       "tags": [
         "enemy"
       ]
@@ -5306,6 +5792,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0100_000_19",
+      "human_name": "Nozaki",
       "tags": [
         "enemy"
       ]
@@ -5317,6 +5804,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_20",
+      "human_name": "Makino",
       "tags": [
         "enemy"
       ]
@@ -5328,6 +5816,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0100_000_21",
+      "human_name": "Kinoshita",
       "tags": [
         "enemy"
       ]
@@ -5339,6 +5828,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_22",
+      "human_name": "Mogi",
       "tags": [
         "enemy"
       ]
@@ -5350,6 +5840,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_23",
+      "human_name": "Hoshi",
       "tags": [
         "enemy"
       ]
@@ -5361,6 +5852,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_24",
+      "human_name": "Hiramatsu",
       "tags": [
         "enemy"
       ]
@@ -5372,6 +5864,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_25",
+      "human_name": "Sakuma",
       "tags": [
         "enemy"
       ]
@@ -5383,6 +5876,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_26",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -5394,6 +5888,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_27",
+      "human_name": "Yao",
       "tags": [
         "enemy"
       ]
@@ -5405,6 +5900,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_28",
+      "human_name": "Mogi",
       "tags": [
         "enemy"
       ]
@@ -5416,6 +5912,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_29",
+      "human_name": "Kuwabara",
       "tags": [
         "enemy"
       ]
@@ -5427,6 +5924,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_30",
+      "human_name": "Kubota",
       "tags": [
         "enemy"
       ]
@@ -5438,6 +5936,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl05_0100_000_31",
+      "human_name": "Hosoda",
       "tags": [
         "enemy"
       ]
@@ -5449,6 +5948,7 @@
       "equip_l": 0,
       "equip_r": 4481,
       "fight_name": "aston_btl05_0100_000_32",
+      "human_name": "Sakakibara",
       "tags": [
         "enemy"
       ]
@@ -5460,6 +5960,7 @@
       "equip_l": 0,
       "equip_r": 1964,
       "fight_name": "aston_btl05_0100_000_33",
+      "human_name": "Kosaka",
       "tags": [
         "enemy"
       ]
@@ -5471,6 +5972,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_40",
+      "human_name": "Nagata",
       "tags": [
         "enemy"
       ]
@@ -5482,6 +5984,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_41",
+      "human_name": "Kano",
       "tags": [
         "enemy"
       ]
@@ -5493,6 +5996,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_45",
+      "human_name": "Ukita",
       "tags": [
         "enemy"
       ]
@@ -5504,6 +6008,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0200_000_1",
+      "human_name": "Yoneya",
       "tags": [
         "enemy"
       ]
@@ -5515,6 +6020,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_lng_btl03_0150_000_1",
+      "human_name": "Konishi",
       "tags": [
         "enemy"
       ]
@@ -5526,6 +6032,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_lng_btl03_0150_000_2",
+      "human_name": "Kawase",
       "tags": [
         "enemy"
       ]
@@ -5537,6 +6044,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0200_000_2",
+      "human_name": "Honda",
       "tags": [
         "enemy"
       ]
@@ -5548,6 +6056,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0200_000_3",
+      "human_name": "Kihara",
       "tags": [
         "enemy"
       ]
@@ -5559,6 +6068,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0200_000_4",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -5570,6 +6080,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0200_000_5",
+      "human_name": "Yano",
       "tags": [
         "enemy"
       ]
@@ -5581,6 +6092,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_lng_btl03_0200_000_6",
+      "human_name": "Saito",
       "tags": [
         "enemy"
       ]
@@ -5592,6 +6104,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_lng_btl03_0200_000_7",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -5603,6 +6116,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_9",
+      "human_name": "Agent G",
       "tags": [
         "enemy"
       ]
@@ -5614,6 +6128,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_btl02_0900_000_10",
+      "human_name": "Agent H",
       "tags": [
         "enemy"
       ]
@@ -5625,6 +6140,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_9",
+      "human_name": "Abe",
       "tags": [
         "enemy"
       ]
@@ -5636,6 +6152,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_10",
+      "human_name": "Okumura",
       "tags": [
         "enemy"
       ]
@@ -5647,6 +6164,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_11",
+      "human_name": "Ogihara",
       "tags": [
         "enemy"
       ]
@@ -5658,6 +6176,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_12",
+      "human_name": "Iwata",
       "tags": [
         "enemy"
       ]
@@ -5669,6 +6188,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl04_0500_000_13",
+      "human_name": "Shintani",
       "tags": [
         "enemy"
       ]
@@ -5680,6 +6200,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_btl04_0500_000_14",
+      "human_name": "Morioka",
       "tags": [
         "enemy"
       ]
@@ -5691,6 +6212,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl04_0500_000_15",
+      "human_name": "Nishino",
       "tags": [
         "enemy"
       ]
@@ -5702,6 +6224,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl04_0500_000_17",
+      "human_name": "Chiba",
       "tags": [
         "enemy"
       ]
@@ -5713,6 +6236,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_18",
+      "human_name": "Nishino",
       "tags": [
         "enemy"
       ]
@@ -5724,6 +6248,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_19",
+      "human_name": "Maekawa",
       "tags": [
         "enemy"
       ]
@@ -5735,6 +6260,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl04_0500_000_20",
+      "human_name": "Aihara",
       "tags": [
         "enemy"
       ]
@@ -5746,6 +6272,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0600_000_6",
+      "human_name": "Matsuno",
       "tags": [
         "enemy"
       ]
@@ -5757,6 +6284,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0100_000_2",
+      "human_name": "Izumi",
       "tags": [
         "enemy"
       ]
@@ -5768,6 +6296,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_2",
+      "human_name": "Tsujimoto",
       "tags": [
         "enemy"
       ]
@@ -5779,6 +6308,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_3",
+      "human_name": "Tsukada",
       "tags": [
         "enemy"
       ]
@@ -5790,6 +6320,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_4",
+      "human_name": "Utsumi",
       "tags": [
         "enemy"
       ]
@@ -5801,6 +6332,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_5",
+      "human_name": "Hidaka",
       "tags": [
         "enemy"
       ]
@@ -5812,6 +6344,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_6",
+      "human_name": "Irie",
       "tags": [
         "enemy"
       ]
@@ -5823,6 +6356,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_7",
+      "human_name": "Hagiwara",
       "tags": [
         "enemy"
       ]
@@ -5834,6 +6368,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_8",
+      "human_name": "Umeda",
       "tags": [
         "enemy"
       ]
@@ -5845,6 +6380,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_9",
+      "human_name": "Yagi",
       "tags": [
         "enemy"
       ]
@@ -5856,6 +6392,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_10",
+      "human_name": "Iizuka",
       "tags": [
         "enemy"
       ]
@@ -5867,6 +6404,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_11",
+      "human_name": "Higa",
       "tags": [
         "enemy"
       ]
@@ -5878,6 +6416,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_12",
+      "human_name": "Hamada",
       "tags": [
         "enemy"
       ]
@@ -5889,6 +6428,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_13",
+      "human_name": "Tomida",
       "tags": [
         "enemy"
       ]
@@ -5900,6 +6440,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_14",
+      "human_name": "Takei",
       "tags": [
         "enemy"
       ]
@@ -5911,6 +6452,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_15",
+      "human_name": "Hattori",
       "tags": [
         "enemy"
       ]
@@ -5922,6 +6464,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_16",
+      "human_name": "Hiraoka",
       "tags": [
         "enemy"
       ]
@@ -5933,6 +6476,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_17",
+      "human_name": "Hozaka",
       "tags": [
         "enemy"
       ]
@@ -5944,6 +6488,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_18",
+      "human_name": "Katayama",
       "tags": [
         "enemy"
       ]
@@ -5955,6 +6500,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_19",
+      "human_name": "Toyoda",
       "tags": [
         "enemy"
       ]
@@ -5966,6 +6512,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl05_0300_000_20",
+      "human_name": "Kitahara",
       "tags": [
         "enemy"
       ]
@@ -5977,6 +6524,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0100_000_1",
+      "human_name": "Sugano",
       "tags": [
         "enemy"
       ]
@@ -5988,6 +6536,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_side_btl03_0400_000_2",
+      "human_name": "Shinoda",
       "tags": [
         "enemy"
       ]
@@ -5999,6 +6548,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0400_000_3",
+      "human_name": "Ogura",
       "tags": [
         "enemy"
       ]
@@ -6010,6 +6560,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0400_000_4",
+      "human_name": "Nitta",
       "tags": [
         "enemy"
       ]
@@ -6021,6 +6572,7 @@
       "equip_l": 0,
       "equip_r": 1558,
       "fight_name": "aston_side_btl03_0400_000_5",
+      "human_name": "Nishiyama",
       "tags": [
         "enemy"
       ]
@@ -6032,6 +6584,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0400_000_6",
+      "human_name": "Kawano",
       "tags": [
         "enemy"
       ]
@@ -6043,6 +6596,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0100_000_1",
+      "human_name": "Nakazawa",
       "tags": [
         "enemy"
       ]
@@ -6054,6 +6608,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0100_000_2",
+      "human_name": "Tabata",
       "tags": [
         "enemy"
       ]
@@ -6065,6 +6620,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0200_000_2",
+      "human_name": "Yokoi",
       "tags": [
         "enemy"
       ]
@@ -6076,6 +6632,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0200_000_3",
+      "human_name": "Okano",
       "tags": [
         "enemy"
       ]
@@ -6087,6 +6644,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_side_btl02_0200_000_4",
+      "human_name": "Kawata",
       "tags": [
         "enemy"
       ]
@@ -6098,6 +6656,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl02_0200_000_5",
+      "human_name": "Oikawa",
       "tags": [
         "enemy"
       ]
@@ -6109,6 +6668,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_side_btl02_0200_000_6",
+      "human_name": "Konno",
       "tags": [
         "enemy"
       ]
@@ -6120,6 +6680,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl11_0100_000_2",
+      "human_name": "Yamazaki",
       "tags": [
         "enemy"
       ]
@@ -6131,6 +6692,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0200_000_1",
+      "human_name": "Okuyama",
       "tags": [
         "enemy"
       ]
@@ -6142,6 +6704,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0300_000_1",
+      "human_name": "Shimada",
       "tags": [
         "enemy"
       ]
@@ -6153,6 +6716,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0400_000_1",
+      "human_name": "Maruyama",
       "tags": [
         "enemy"
       ]
@@ -6164,6 +6728,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0100_000_2",
+      "human_name": "Murakami",
       "tags": [
         "enemy"
       ]
@@ -6175,6 +6740,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0100_000_3",
+      "human_name": "Oba",
       "tags": [
         "enemy"
       ]
@@ -6186,6 +6752,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0100_000_4",
+      "human_name": "Tada",
       "tags": [
         "enemy"
       ]
@@ -6197,6 +6764,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0200_000_2",
+      "human_name": "Fujii",
       "tags": [
         "enemy"
       ]
@@ -6208,6 +6776,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0200_000_3",
+      "human_name": "Fukunaga",
       "tags": [
         "enemy"
       ]
@@ -6219,6 +6788,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0300_000_2",
+      "human_name": "Miki",
       "tags": [
         "enemy"
       ]
@@ -6230,6 +6800,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0300_000_3",
+      "human_name": "Yamakawa",
       "tags": [
         "enemy"
       ]
@@ -6241,6 +6812,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0400_000_2",
+      "human_name": "Kaneko",
       "tags": [
         "enemy"
       ]
@@ -6252,6 +6824,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0400_000_3",
+      "human_name": "Miyamoto",
       "tags": [
         "enemy"
       ]
@@ -6263,6 +6836,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_2",
+      "human_name": "Ueki",
       "tags": [
         "enemy"
       ]
@@ -6274,6 +6848,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_3",
+      "human_name": "Ishikawa",
       "tags": [
         "enemy"
       ]
@@ -6285,6 +6860,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_4",
+      "human_name": "Komiya",
       "tags": [
         "enemy"
       ]
@@ -6296,6 +6872,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0100_000_2",
+      "human_name": "Kawabata",
       "tags": [
         "enemy"
       ]
@@ -6307,6 +6884,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0100_000_3",
+      "human_name": "Omura",
       "tags": [
         "enemy"
       ]
@@ -6318,6 +6896,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0100_000_4",
+      "human_name": "Takemoto",
       "tags": [
         "enemy"
       ]
@@ -6329,6 +6908,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0200_000_2",
+      "human_name": "Tajima",
       "tags": [
         "enemy"
       ]
@@ -6340,6 +6920,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0200_000_3",
+      "human_name": "Fujimura",
       "tags": [
         "enemy"
       ]
@@ -6351,6 +6932,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0300_000_2",
+      "human_name": "Hamada",
       "tags": [
         "enemy"
       ]
@@ -6362,6 +6944,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0300_000_3",
+      "human_name": "Katagiri",
       "tags": [
         "enemy"
       ]
@@ -6373,6 +6956,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0400_000_2",
+      "human_name": "Yajima",
       "tags": [
         "enemy"
       ]
@@ -6384,6 +6968,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0400_000_3",
+      "human_name": "Nozaki",
       "tags": [
         "enemy"
       ]
@@ -6395,6 +6980,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0500_000_2",
+      "human_name": "Nakazawa",
       "tags": [
         "enemy"
       ]
@@ -6406,6 +6992,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0500_000_4",
+      "human_name": "Ikegami",
       "tags": [
         "enemy"
       ]
@@ -6417,6 +7004,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_2",
+      "human_name": "Inoue",
       "tags": [
         "enemy"
       ]
@@ -6428,6 +7016,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_3",
+      "human_name": "Nagano",
       "tags": [
         "enemy"
       ]
@@ -6439,6 +7028,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_4",
+      "human_name": "Kato",
       "tags": [
         "enemy"
       ]
@@ -6450,6 +7040,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_5",
+      "human_name": "Okada",
       "tags": [
         "enemy"
       ]
@@ -6461,6 +7052,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_6",
+      "human_name": "Minagawa",
       "tags": [
         "enemy"
       ]
@@ -6472,6 +7064,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_7",
+      "human_name": "Kaneshiro",
       "tags": [
         "enemy"
       ]
@@ -6483,6 +7076,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_8",
+      "human_name": "Araki",
       "tags": [
         "enemy"
       ]
@@ -6494,6 +7088,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_9",
+      "human_name": "Kawata",
       "tags": [
         "enemy"
       ]
@@ -6505,6 +7100,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_10",
+      "human_name": "Miyoshi",
       "tags": [
         "enemy"
       ]
@@ -6516,6 +7112,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_11",
+      "human_name": "Yoshikawa",
       "tags": [
         "enemy"
       ]
@@ -6527,6 +7124,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_12",
+      "human_name": "Hosotani",
       "tags": [
         "enemy"
       ]
@@ -6538,6 +7136,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_13",
+      "human_name": "Ohara",
       "tags": [
         "enemy"
       ]
@@ -6549,6 +7148,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_14",
+      "human_name": "Matsuura",
       "tags": [
         "enemy"
       ]
@@ -6560,6 +7160,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_15",
+      "human_name": "Shintani",
       "tags": [
         "enemy"
       ]
@@ -6571,6 +7172,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl21_0100_000_16",
+      "human_name": "Sugawara",
       "tags": [
         "enemy"
       ]
@@ -6582,6 +7184,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0100_000_2",
+      "human_name": "Kawauchi",
       "tags": [
         "enemy"
       ]
@@ -6593,6 +7196,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0100_000_3",
+      "human_name": "Kasai",
       "tags": [
         "enemy"
       ]
@@ -6604,6 +7208,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0100_000_4",
+      "human_name": "Kumagai",
       "tags": [
         "enemy"
       ]
@@ -6615,6 +7220,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0200_000_1",
+      "human_name": "Nemoto",
       "tags": [
         "enemy"
       ]
@@ -6626,6 +7232,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0200_000_2",
+      "human_name": "Hosotani",
       "tags": [
         "enemy"
       ]
@@ -6637,6 +7244,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0200_000_3",
+      "human_name": "Miki",
       "tags": [
         "enemy"
       ]
@@ -6648,6 +7256,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0300_000_2",
+      "human_name": "Matsuoka",
       "tags": [
         "enemy"
       ]
@@ -6659,6 +7268,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0300_000_3",
+      "human_name": "Morikawa",
       "tags": [
         "enemy"
       ]
@@ -6670,6 +7280,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0400_000_1",
+      "human_name": "Kawasaki",
       "tags": [
         "enemy"
       ]
@@ -6681,6 +7292,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0400_000_2",
+      "human_name": "Soma",
       "tags": [
         "enemy"
       ]
@@ -6692,6 +7304,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0400_000_3",
+      "human_name": "Taniguchi",
       "tags": [
         "enemy"
       ]
@@ -6703,6 +7316,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_2",
+      "human_name": "Tsunoda",
       "tags": [
         "enemy"
       ]
@@ -6714,6 +7328,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_3",
+      "human_name": "Kondo",
       "tags": [
         "enemy"
       ]
@@ -6725,6 +7340,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_4",
+      "human_name": "Kuroki",
       "tags": [
         "enemy"
       ]
@@ -6736,6 +7352,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_4",
+      "human_name": "Yoshii",
       "tags": [
         "enemy"
       ]
@@ -6747,6 +7364,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_5",
+      "human_name": "Kai",
       "tags": [
         "enemy"
       ]
@@ -6758,6 +7376,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_6",
+      "human_name": "Negishi",
       "tags": [
         "enemy"
       ]
@@ -6769,6 +7388,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_7",
+      "human_name": "Ogata",
       "tags": [
         "enemy"
       ]
@@ -6780,6 +7400,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_8",
+      "human_name": "Uemura",
       "tags": [
         "enemy"
       ]
@@ -6791,6 +7412,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_9",
+      "human_name": "Nishizawa",
       "tags": [
         "enemy"
       ]
@@ -6802,6 +7424,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_10",
+      "human_name": "Takizawa",
       "tags": [
         "enemy"
       ]
@@ -6813,6 +7436,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_11",
+      "human_name": "Nakano",
       "tags": [
         "enemy"
       ]
@@ -6824,6 +7448,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_12",
+      "human_name": "Okuyama",
       "tags": [
         "enemy"
       ]
@@ -6835,6 +7460,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_13",
+      "human_name": "Kawashima",
       "tags": [
         "enemy"
       ]
@@ -6846,6 +7472,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_14",
+      "human_name": "Oba",
       "tags": [
         "enemy"
       ]
@@ -6857,6 +7484,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_15",
+      "human_name": "Sawada",
       "tags": [
         "enemy"
       ]
@@ -6868,6 +7496,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl25_0100_000_16",
+      "human_name": "Machida",
       "tags": [
         "enemy"
       ]
@@ -6879,6 +7508,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_2",
+      "human_name": "Miyata",
       "tags": [
         "enemy"
       ]
@@ -6890,6 +7520,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_3",
+      "human_name": "Kuwabara",
       "tags": [
         "enemy"
       ]
@@ -6901,6 +7532,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_5",
+      "human_name": "Kuroda",
       "tags": [
         "enemy"
       ]
@@ -6912,6 +7544,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_6",
+      "human_name": "Araki",
       "tags": [
         "enemy"
       ]
@@ -6923,6 +7556,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_7",
+      "human_name": "Shibuya",
       "tags": [
         "enemy"
       ]
@@ -6934,6 +7568,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_8",
+      "human_name": "Mitani",
       "tags": [
         "enemy"
       ]
@@ -6945,6 +7580,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl23_0100_000_9",
+      "human_name": "Nakazawa",
       "tags": [
         "enemy"
       ]
@@ -6956,6 +7592,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl23_0100_000_10",
+      "human_name": "Takeda",
       "tags": [
         "enemy"
       ]
@@ -6967,6 +7604,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl23_0100_000_11",
+      "human_name": "Ikegami",
       "tags": [
         "enemy"
       ]
@@ -6978,6 +7616,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_12",
+      "human_name": "Koike",
       "tags": [
         "enemy"
       ]
@@ -6989,6 +7628,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_13",
+      "human_name": "Matsuzaki",
       "tags": [
         "enemy"
       ]
@@ -7000,6 +7640,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_14",
+      "human_name": "Sugihara",
       "tags": [
         "enemy"
       ]
@@ -7011,6 +7652,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_15",
+      "human_name": "Nishio",
       "tags": [
         "enemy"
       ]
@@ -7022,6 +7664,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl23_0100_000_16",
+      "human_name": "Kawabata",
       "tags": [
         "enemy"
       ]
@@ -7033,6 +7676,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_49",
+      "human_name": "Toyoda",
       "tags": [
         "enemy"
       ]
@@ -7044,6 +7688,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_50",
+      "human_name": "Hirabayashi",
       "tags": [
         "enemy"
       ]
@@ -7055,6 +7700,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_51",
+      "human_name": "Yajima",
       "tags": [
         "enemy"
       ]
@@ -7066,6 +7712,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_52",
+      "human_name": "Kitagawa",
       "tags": [
         "enemy"
       ]
@@ -7077,6 +7724,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_53",
+      "human_name": "Hori",
       "tags": [
         "enemy"
       ]
@@ -7088,6 +7736,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_54",
+      "human_name": "Katayama",
       "tags": [
         "enemy"
       ]
@@ -7099,6 +7748,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_55",
+      "human_name": "Hiraoka",
       "tags": [
         "enemy"
       ]
@@ -7110,6 +7760,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_56",
+      "human_name": "Fukushima",
       "tags": [
         "enemy"
       ]
@@ -7121,6 +7772,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_57",
+      "human_name": "Tominaga",
       "tags": [
         "enemy"
       ]
@@ -7132,6 +7784,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_58",
+      "human_name": "Hamada",
       "tags": [
         "enemy"
       ]
@@ -7143,6 +7796,7 @@
       "equip_l": 0,
       "equip_r": 1595,
       "fight_name": "aston_btl05_0100_000_61",
+      "human_name": "Isobe",
       "tags": [
         "enemy"
       ]
@@ -7154,6 +7808,7 @@
       "equip_l": 0,
       "equip_r": 1556,
       "fight_name": "aston_btl05_0100_000_63",
+      "human_name": "Shimomura",
       "tags": [
         "enemy"
       ]
@@ -7165,6 +7820,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0100_000_65",
+      "human_name": "Yoshino",
       "tags": [
         "enemy"
       ]
@@ -7176,6 +7832,7 @@
       "equip_l": 0,
       "equip_r": 5761,
       "fight_name": "aston_btl05_0100_000_68",
+      "human_name": "Furuya",
       "tags": [
         "enemy"
       ]
@@ -7187,6 +7844,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_side_btl15_0200_000_2",
+      "human_name": "Tsutsui",
       "tags": [
         "enemy"
       ]
@@ -7198,6 +7856,7 @@
       "equip_l": 0,
       "equip_r": 1965,
       "fight_name": "aston_side_btl15_0200_000_3",
+      "human_name": "Tokunaga",
       "tags": [
         "enemy"
       ]
@@ -7209,6 +7868,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl15_0200_000_4",
+      "human_name": "Shiraishi",
       "tags": [
         "enemy"
       ]
@@ -7220,6 +7880,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl15_0200_000_5",
+      "human_name": "Takei",
       "tags": [
         "enemy"
       ]
@@ -7231,6 +7892,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl15_0200_000_6",
+      "human_name": "Higuchi",
       "tags": [
         "enemy"
       ]
@@ -7242,6 +7904,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0100_000_2",
+      "human_name": "Ishizuka",
       "tags": [
         "enemy"
       ]
@@ -7253,6 +7916,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl03_0100_000_3",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -7264,6 +7928,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0200_000_2",
+      "human_name": "Okamoto",
       "tags": [
         "enemy"
       ]
@@ -7275,6 +7940,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0200_000_3",
+      "human_name": "Iwamoto",
       "tags": [
         "enemy"
       ]
@@ -7286,6 +7952,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0200_000_4",
+      "human_name": "Miyazawa",
       "tags": [
         "enemy"
       ]
@@ -7297,6 +7964,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_000_2",
+      "human_name": "Ando",
       "tags": [
         "enemy"
       ]
@@ -7308,6 +7976,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_side_btl04_0400_000_3",
+      "human_name": "Okamura",
       "tags": [
         "enemy"
       ]
@@ -7319,6 +7988,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_side_btl04_0400_000_4",
+      "human_name": "Kano",
       "tags": [
         "enemy"
       ]
@@ -7330,6 +8000,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_000_5",
+      "human_name": "Iwata",
       "tags": [
         "enemy"
       ]
@@ -7341,6 +8012,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_000_6",
+      "human_name": "Miyamoto",
       "tags": [
         "enemy"
       ]
@@ -7352,6 +8024,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl04_0400_000_7",
+      "human_name": "Kuroki",
       "tags": [
         "enemy"
       ]
@@ -7363,6 +8036,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl04_0400_000_8",
+      "human_name": "Hosoda",
       "tags": [
         "enemy"
       ]
@@ -7374,6 +8048,7 @@
       "equip_l": 0,
       "equip_r": 6086,
       "fight_name": "aston_side_btl04_0400_000_9",
+      "human_name": "Koyama",
       "tags": [
         "enemy"
       ]
@@ -7385,6 +8060,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_01",
+      "human_name": "Iguchi",
       "tags": [
         "enemy"
       ]
@@ -7396,6 +8072,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_02",
+      "human_name": "Nagano",
       "tags": [
         "enemy"
       ]
@@ -7407,6 +8084,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_04",
+      "human_name": "Yokoi",
       "tags": [
         "enemy"
       ]
@@ -7418,6 +8096,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_05",
+      "human_name": "Aoyagi",
       "tags": [
         "enemy"
       ]
@@ -7429,6 +8108,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_08",
+      "human_name": "Fujiwara",
       "tags": [
         "enemy"
       ]
@@ -7440,6 +8120,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_09",
+      "human_name": "Shimazaki",
       "tags": [
         "enemy"
       ]
@@ -7451,6 +8132,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_10",
+      "human_name": "Iijima",
       "tags": [
         "enemy"
       ]
@@ -7462,6 +8144,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_11",
+      "human_name": "Kitamura",
       "tags": [
         "enemy"
       ]
@@ -7473,6 +8156,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle01_12",
+      "human_name": "Yajima",
       "tags": [
         "enemy"
       ]
@@ -7484,6 +8168,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_01",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -7495,6 +8180,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_02",
+      "human_name": "Mori",
       "tags": [
         "enemy"
       ]
@@ -7506,6 +8192,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_03",
+      "human_name": "Mizuno",
       "tags": [
         "enemy"
       ]
@@ -7517,6 +8204,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_04",
+      "human_name": "Kamiya",
       "tags": [
         "enemy"
       ]
@@ -7528,6 +8216,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_05",
+      "human_name": "Nishihara",
       "tags": [
         "enemy"
       ]
@@ -7539,6 +8228,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_06",
+      "human_name": "Chiba",
       "tags": [
         "enemy"
       ]
@@ -7550,6 +8240,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_07",
+      "human_name": "Aihara",
       "tags": [
         "enemy"
       ]
@@ -7561,6 +8252,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_08",
+      "human_name": "Oshiro",
       "tags": [
         "enemy"
       ]
@@ -7572,6 +8264,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_09",
+      "human_name": "Otsuka",
       "tags": [
         "enemy"
       ]
@@ -7583,6 +8276,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle02_10",
+      "human_name": "Tanigawa",
       "tags": [
         "enemy"
       ]
@@ -7594,6 +8288,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_01",
+      "human_name": "Nagai",
       "tags": [
         "enemy"
       ]
@@ -7605,6 +8300,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_02",
+      "human_name": "Tsuruta",
       "tags": [
         "enemy"
       ]
@@ -7616,6 +8312,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_03",
+      "human_name": "Tsuchiya",
       "tags": [
         "enemy"
       ]
@@ -7627,6 +8324,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_06",
+      "human_name": "Kihara",
       "tags": [
         "enemy"
       ]
@@ -7638,6 +8336,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_07",
+      "human_name": "Nonaka",
       "tags": [
         "enemy"
       ]
@@ -7649,6 +8348,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_08",
+      "human_name": "Fujii",
       "tags": [
         "enemy"
       ]
@@ -7660,6 +8360,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_09",
+      "human_name": "Mizutani",
       "tags": [
         "enemy"
       ]
@@ -7671,6 +8372,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_10",
+      "human_name": "Suga",
       "tags": [
         "enemy"
       ]
@@ -7682,6 +8384,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_11",
+      "human_name": "Hamano",
       "tags": [
         "enemy"
       ]
@@ -7693,6 +8396,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_12",
+      "human_name": "Muto",
       "tags": [
         "enemy"
       ]
@@ -7704,6 +8408,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_13",
+      "human_name": "Sonoda",
       "tags": [
         "enemy"
       ]
@@ -7715,6 +8420,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_14",
+      "human_name": "Maruyama",
       "tags": [
         "enemy"
       ]
@@ -7726,6 +8432,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle03_15",
+      "human_name": "Hozaka",
       "tags": [
         "enemy"
       ]
@@ -7737,6 +8444,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_01",
+      "human_name": "Okada",
       "tags": [
         "enemy"
       ]
@@ -7748,6 +8456,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_02",
+      "human_name": "Ohashi",
       "tags": [
         "enemy"
       ]
@@ -7759,6 +8468,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_03",
+      "human_name": "Honda",
       "tags": [
         "enemy"
       ]
@@ -7770,6 +8480,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_04",
+      "human_name": "Hayashida",
       "tags": [
         "enemy"
       ]
@@ -7781,6 +8492,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_05",
+      "human_name": "Oka",
       "tags": [
         "enemy"
       ]
@@ -7792,6 +8504,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_06",
+      "human_name": "Kawata",
       "tags": [
         "enemy"
       ]
@@ -7803,6 +8516,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_07",
+      "human_name": "Okuyama",
       "tags": [
         "enemy"
       ]
@@ -7814,6 +8528,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_08",
+      "human_name": "Takada",
       "tags": [
         "enemy"
       ]
@@ -7825,6 +8540,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_09",
+      "human_name": "Sasaki",
       "tags": [
         "enemy"
       ]
@@ -7836,6 +8552,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle04_10",
+      "human_name": "Mikami",
       "tags": [
         "enemy"
       ]
@@ -7847,6 +8564,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_01",
+      "human_name": "Yamazaki",
       "tags": [
         "enemy"
       ]
@@ -7858,6 +8576,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_02",
+      "human_name": "Matsuno",
       "tags": [
         "enemy"
       ]
@@ -7869,6 +8588,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_03",
+      "human_name": "Nitta",
       "tags": [
         "enemy"
       ]
@@ -7880,6 +8600,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_04",
+      "human_name": "Shimizu",
       "tags": [
         "enemy"
       ]
@@ -7891,6 +8612,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_05",
+      "human_name": "Kawashima",
       "tags": [
         "enemy"
       ]
@@ -7902,6 +8624,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_06",
+      "human_name": "Okawa",
       "tags": [
         "enemy"
       ]
@@ -7913,6 +8636,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_07",
+      "human_name": "Tabata",
       "tags": [
         "enemy"
       ]
@@ -7924,6 +8648,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_08",
+      "human_name": "Mizoguchi",
       "tags": [
         "enemy"
       ]
@@ -7935,6 +8660,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_09",
+      "human_name": "Ninomiya",
       "tags": [
         "enemy"
       ]
@@ -7946,6 +8672,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_10",
+      "human_name": "Takeda",
       "tags": [
         "enemy"
       ]
@@ -7957,6 +8684,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle05_11",
+      "human_name": "Yoneyama",
       "tags": [
         "enemy"
       ]
@@ -7968,6 +8696,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_01",
+      "human_name": "Ouchi",
       "tags": [
         "enemy"
       ]
@@ -7979,6 +8708,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_02",
+      "human_name": "Kawada",
       "tags": [
         "enemy"
       ]
@@ -7990,6 +8720,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_09",
+      "human_name": "Fukumoto",
       "tags": [
         "enemy"
       ]
@@ -8001,6 +8732,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_10",
+      "human_name": "Okuyama",
       "tags": [
         "enemy"
       ]
@@ -8012,6 +8744,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_11",
+      "human_name": "Kubota",
       "tags": [
         "enemy"
       ]
@@ -8023,6 +8756,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle06_12",
+      "human_name": "Kawamoto",
       "tags": [
         "enemy"
       ]
@@ -8034,6 +8768,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_01",
+      "human_name": "Tahara",
       "tags": [
         "enemy"
       ]
@@ -8045,6 +8780,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_04",
+      "human_name": "Ikegami",
       "tags": [
         "enemy"
       ]
@@ -8056,6 +8792,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_05",
+      "human_name": "Ishizaki",
       "tags": [
         "enemy"
       ]
@@ -8067,6 +8804,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_06",
+      "human_name": "Kurata",
       "tags": [
         "enemy"
       ]
@@ -8078,6 +8816,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_07",
+      "human_name": "Mitani",
       "tags": [
         "enemy"
       ]
@@ -8089,6 +8828,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_08",
+      "human_name": "Tsuboi",
       "tags": [
         "enemy"
       ]
@@ -8100,6 +8840,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_09",
+      "human_name": "Isobe",
       "tags": [
         "enemy"
       ]
@@ -8111,6 +8852,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_t04_0130_battle07_10",
+      "human_name": "Hosoda",
       "tags": [
         "enemy"
       ]
@@ -8122,6 +8864,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0200_000_2",
+      "human_name": "Kotani",
       "tags": [
         "enemy"
       ]
@@ -8133,6 +8876,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0200_000_3",
+      "human_name": "Matsuda",
       "tags": [
         "enemy"
       ]
@@ -8144,6 +8888,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0300_000_3",
+      "human_name": "Nishimoto",
       "tags": [
         "enemy"
       ]
@@ -8155,6 +8900,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_side_btl13_0400_000_2",
+      "human_name": "Izumi",
       "tags": [
         "enemy"
       ]
@@ -8166,6 +8912,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl13_0400_000_3",
+      "human_name": "Murakami",
       "tags": [
         "enemy"
       ]
@@ -8177,6 +8924,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0200_000_4",
+      "human_name": "Yajima",
       "tags": [
         "enemy"
       ]
@@ -8188,6 +8936,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0300_000_4",
+      "human_name": "Furuya",
       "tags": [
         "enemy"
       ]
@@ -8199,6 +8948,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0400_000_4",
+      "human_name": "Kawata",
       "tags": [
         "enemy"
       ]
@@ -8210,6 +8960,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0400_000_5",
+      "human_name": "Sekiguchi",
       "tags": [
         "enemy"
       ]
@@ -8221,6 +8972,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_5",
+      "human_name": "Tominaga",
       "tags": [
         "enemy"
       ]
@@ -8232,6 +8984,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_6",
+      "human_name": "Nishikawa",
       "tags": [
         "enemy"
       ]
@@ -8243,6 +8996,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_7",
+      "human_name": "Ishibashi",
       "tags": [
         "enemy"
       ]
@@ -8254,6 +9008,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl20_0500_000_8",
+      "human_name": "Tsuda",
       "tags": [
         "enemy"
       ]
@@ -8265,6 +9020,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl22_0500_000_5",
+      "human_name": "Ishihara",
       "tags": [
         "enemy"
       ]
@@ -8276,6 +9032,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0100_000_5",
+      "human_name": "Hirota",
       "tags": [
         "enemy"
       ]
@@ -8287,6 +9044,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0300_000_4",
+      "human_name": "Aoyagi",
       "tags": [
         "enemy"
       ]
@@ -8298,6 +9056,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_5",
+      "human_name": "Miyoshi",
       "tags": [
         "enemy"
       ]
@@ -8309,6 +9068,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_6",
+      "human_name": "Morikawa",
       "tags": [
         "enemy"
       ]
@@ -8320,6 +9080,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_side_btl24_0500_000_7",
+      "human_name": "Nakayama",
       "tags": [
         "enemy"
       ]
@@ -8331,6 +9092,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_lng_btl01_0015_000_1",
+      "human_name": "Agent E",
       "tags": [
         "enemy"
       ]
@@ -8342,6 +9104,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_lng_btl01_0015_000_3",
+      "human_name": "Agent G",
       "tags": [
         "enemy"
       ]
@@ -8353,6 +9116,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_lng_btl01_0015_000_4",
+      "human_name": "Agent H",
       "tags": [
         "enemy"
       ]
@@ -8364,6 +9128,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_lng_btl01_0015_000_5",
+      "human_name": "Agent I",
       "tags": [
         "enemy"
       ]
@@ -8375,6 +9140,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0015_000_6",
+      "human_name": "Agent J",
       "tags": [
         "enemy"
       ]
@@ -8386,6 +9152,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2010_01",
+      "human_name": "Fujino",
       "tags": [
         "enemy"
       ]
@@ -8397,6 +9164,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2020_01",
+      "human_name": "Minami",
       "tags": [
         "enemy"
       ]
@@ -8408,6 +9176,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2030_01",
+      "human_name": "Saito",
       "tags": [
         "enemy"
       ]
@@ -8419,6 +9188,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2040_01",
+      "human_name": "Okazaki",
       "tags": [
         "enemy"
       ]
@@ -8430,6 +9200,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2050_01",
+      "human_name": "Yamauchi",
       "tags": [
         "enemy"
       ]
@@ -8441,6 +9212,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2060_01",
+      "human_name": "Matsui",
       "tags": [
         "enemy"
       ]
@@ -8452,6 +9224,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2080_01",
+      "human_name": "Aihara",
       "tags": [
         "enemy"
       ]
@@ -8463,6 +9236,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2100_01",
+      "human_name": "Okuno",
       "tags": [
         "enemy"
       ]
@@ -8474,6 +9248,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2110_01",
+      "human_name": "Kasahara",
       "tags": [
         "enemy"
       ]
@@ -8485,6 +9260,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2130_01",
+      "human_name": "Shimoda",
       "tags": [
         "enemy"
       ]
@@ -8496,6 +9272,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2140_01",
+      "human_name": "Toda",
       "tags": [
         "enemy"
       ]
@@ -8507,6 +9284,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2150_01",
+      "human_name": "Shinohara",
       "tags": [
         "enemy"
       ]
@@ -8518,6 +9296,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2160_01",
+      "human_name": "Suga",
       "tags": [
         "enemy"
       ]
@@ -8529,6 +9308,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2010_02",
+      "human_name": "Yuasa",
       "tags": [
         "enemy"
       ]
@@ -8540,6 +9320,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2020_02",
+      "human_name": "Yagi",
       "tags": [
         "enemy"
       ]
@@ -8551,6 +9332,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2020_03",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -8562,6 +9344,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2030_02",
+      "human_name": "Hamano",
       "tags": [
         "enemy"
       ]
@@ -8573,6 +9356,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2030_03",
+      "human_name": "Inada",
       "tags": [
         "enemy"
       ]
@@ -8584,6 +9368,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2040_02",
+      "human_name": "Kono",
       "tags": [
         "enemy"
       ]
@@ -8595,6 +9380,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2040_03",
+      "human_name": "Yoshimoto",
       "tags": [
         "enemy"
       ]
@@ -8606,6 +9392,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2040_04",
+      "human_name": "Kuroda",
       "tags": [
         "enemy"
       ]
@@ -8617,6 +9404,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2040_05",
+      "human_name": "Miura",
       "tags": [
         "enemy"
       ]
@@ -8628,6 +9416,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2050_02",
+      "human_name": "Ogata",
       "tags": [
         "enemy"
       ]
@@ -8639,6 +9428,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2050_03",
+      "human_name": "Ogawa",
       "tags": [
         "enemy"
       ]
@@ -8650,6 +9440,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2060_02",
+      "human_name": "Uehara",
       "tags": [
         "enemy"
       ]
@@ -8661,6 +9452,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2060_03",
+      "human_name": "Morioka",
       "tags": [
         "enemy"
       ]
@@ -8672,6 +9464,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2060_04",
+      "human_name": "Sugiyama",
       "tags": [
         "enemy"
       ]
@@ -8683,6 +9476,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2080_02",
+      "human_name": "Ohira",
       "tags": [
         "enemy"
       ]
@@ -8694,6 +9488,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2080_03",
+      "human_name": "Fujiwara",
       "tags": [
         "enemy"
       ]
@@ -8705,6 +9500,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2090_02",
+      "human_name": "Nomura",
       "tags": [
         "enemy"
       ]
@@ -8716,6 +9512,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2090_03",
+      "human_name": "Iguchi",
       "tags": [
         "enemy"
       ]
@@ -8727,6 +9524,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2090_04",
+      "human_name": "Inada",
       "tags": [
         "enemy"
       ]
@@ -8738,6 +9536,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2090_05",
+      "human_name": "Nagano",
       "tags": [
         "enemy"
       ]
@@ -8749,6 +9548,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2100_02",
+      "human_name": "Okamura",
       "tags": [
         "enemy"
       ]
@@ -8760,6 +9560,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2100_03",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -8771,6 +9572,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2110_02",
+      "human_name": "Kikuchi",
       "tags": [
         "enemy"
       ]
@@ -8782,6 +9584,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2110_03",
+      "human_name": "Yoshida",
       "tags": [
         "enemy"
       ]
@@ -8793,6 +9596,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2130_02",
+      "human_name": "Kishi",
       "tags": [
         "enemy"
       ]
@@ -8804,6 +9608,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2130_03",
+      "human_name": "Yoshino",
       "tags": [
         "enemy"
       ]
@@ -8815,6 +9620,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2140_02",
+      "human_name": "Kuroki",
       "tags": [
         "enemy"
       ]
@@ -8826,6 +9632,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2140_03",
+      "human_name": "Hosotani",
       "tags": [
         "enemy"
       ]
@@ -8837,6 +9644,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2150_02",
+      "human_name": "Kotani",
       "tags": [
         "enemy"
       ]
@@ -8848,6 +9656,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2150_03",
+      "human_name": "Matsushima",
       "tags": [
         "enemy"
       ]
@@ -8859,6 +9668,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2160_02",
+      "human_name": "Nishiyama",
       "tags": [
         "enemy"
       ]
@@ -8870,6 +9680,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2160_03",
+      "human_name": "Kawamura",
       "tags": [
         "enemy"
       ]
@@ -8881,6 +9692,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2160_04",
+      "human_name": "Tanimoto",
       "tags": [
         "enemy"
       ]
@@ -8892,6 +9704,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_quest2160_05",
+      "human_name": "Tsuchiya",
       "tags": [
         "enemy"
       ]
@@ -8903,6 +9716,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_1",
+      "human_name": "Yasui",
       "tags": [
         "enemy"
       ]
@@ -8914,6 +9728,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_3",
+      "human_name": "Ochi",
       "tags": [
         "enemy"
       ]
@@ -8925,6 +9740,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_4",
+      "human_name": "Kurata",
       "tags": [
         "enemy"
       ]
@@ -8936,6 +9752,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_5",
+      "human_name": "Noda",
       "tags": [
         "enemy"
       ]
@@ -8947,6 +9764,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_7",
+      "human_name": "Yano",
       "tags": [
         "enemy"
       ]
@@ -8958,6 +9776,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0100_000_8",
+      "human_name": "Nozaki",
       "tags": [
         "enemy"
       ]
@@ -8969,6 +9788,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_1",
+      "human_name": "Hiramatsu",
       "tags": [
         "enemy"
       ]
@@ -8980,6 +9800,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_2",
+      "human_name": "Yagi",
       "tags": [
         "enemy"
       ]
@@ -8991,6 +9812,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_3",
+      "human_name": "Fujisawa",
       "tags": [
         "enemy"
       ]
@@ -9002,6 +9824,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_4",
+      "human_name": "Tsujimoto",
       "tags": [
         "enemy"
       ]
@@ -9013,6 +9836,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_5",
+      "human_name": "Hasegawa",
       "tags": [
         "enemy"
       ]
@@ -9024,6 +9848,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_6",
+      "human_name": "Komiya",
       "tags": [
         "enemy"
       ]
@@ -9035,6 +9860,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_7",
+      "human_name": "Otomo",
       "tags": [
         "enemy"
       ]
@@ -9046,6 +9872,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_8",
+      "human_name": "Matsumoto",
       "tags": [
         "enemy"
       ]
@@ -9057,6 +9884,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_9",
+      "human_name": "Oba",
       "tags": [
         "enemy"
       ]
@@ -9068,6 +9896,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_10",
+      "human_name": "Sawada",
       "tags": [
         "enemy"
       ]
@@ -9079,6 +9908,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_11",
+      "human_name": "Takeda",
       "tags": [
         "enemy"
       ]
@@ -9090,6 +9920,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_12",
+      "human_name": "Nakamoto",
       "tags": [
         "enemy"
       ]
@@ -9101,6 +9932,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_13",
+      "human_name": "Tsukamoto",
       "tags": [
         "enemy"
       ]
@@ -9112,6 +9944,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_14",
+      "human_name": "Nakamura",
       "tags": [
         "enemy"
       ]
@@ -9123,6 +9956,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tgs_btl01_0200_000_15",
+      "human_name": "Sakai",
       "tags": [
         "enemy"
       ]
@@ -9134,6 +9968,7 @@
       "equip_l": 0,
       "equip_r": 338,
       "fight_name": "aston_lng_btl01_0015_000_7",
+      "human_name": "Agent K",
       "tags": [
         "enemy"
       ]
@@ -9145,6 +9980,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0015_000_9",
+      "human_name": "Agent M",
       "tags": [
         "enemy"
       ]
@@ -9156,6 +9992,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_lng_btl01_0015_000_10",
+      "human_name": "Agent N",
       "tags": [
         "enemy"
       ]
@@ -9167,6 +10004,7 @@
       "equip_l": 0,
       "equip_r": 3062,
       "fight_name": "aston_lng_btl01_0015_000_11",
+      "human_name": "Agent O",
       "tags": [
         "enemy"
       ]
@@ -9178,6 +10016,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl01_0015_000_12",
+      "human_name": "Agent P",
       "tags": [
         "enemy"
       ]
@@ -9189,6 +10028,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0100_000_1",
+      "human_name": "Osamu-kun",
       "tags": [
         "enemy"
       ]
@@ -9200,6 +10040,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0100_000_2",
+      "human_name": "Tsunoda",
       "tags": [
         "enemy"
       ]
@@ -9211,6 +10052,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0100_000_3",
+      "human_name": "Takai",
       "tags": [
         "enemy"
       ]
@@ -9222,6 +10064,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0100_000_4",
+      "human_name": "Hirayama",
       "tags": [
         "enemy"
       ]
@@ -9233,6 +10076,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl01_0100_000_5",
+      "human_name": "Mitani",
       "tags": [
         "enemy"
       ]
@@ -9244,6 +10088,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl05_0300_000_23",
+      "human_name": "Takeshita",
       "tags": [
         "enemy",
         "special"
@@ -9256,6 +10101,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_2",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9268,6 +10114,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_3",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9280,6 +10127,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_4",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9292,6 +10140,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_5",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9304,6 +10153,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_6",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9316,6 +10166,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_7",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9328,6 +10179,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_8",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9340,6 +10192,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_9",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9352,6 +10205,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_lng_btl03_0300_000_10",
+      "human_name": "Fukuda",
       "tags": [
         "enemy",
         "special"
@@ -9364,6 +10218,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_btl02_0600_000_2",
+      "human_name": "Sugar",
       "tags": [
         "enemy",
         "special"
@@ -9376,6 +10231,7 @@
       "equip_l": 0,
       "equip_r": 5713,
       "fight_name": "aston_tougi_oni_red",
+      "human_name": "Red Oni",
       "tags": [
         "enemy",
         "special"
@@ -9388,6 +10244,7 @@
       "equip_l": 0,
       "equip_r": 1695,
       "fight_name": "aston_tougi_oni_black",
+      "human_name": "Black Oni",
       "tags": [
         "enemy",
         "special"
@@ -9400,6 +10257,7 @@
       "equip_l": 0,
       "equip_r": 3293,
       "fight_name": "aston_tougi_oni_gozu",
+      "human_name": "Cow Head",
       "tags": [
         "enemy",
         "special"
@@ -9412,6 +10270,7 @@
       "equip_l": 0,
       "equip_r": 2725,
       "fight_name": "aston_tougi_oni_mezu",
+      "human_name": "Horse Head",
       "tags": [
         "enemy",
         "special"
@@ -9424,6 +10283,7 @@
       "equip_l": 0,
       "equip_r": 5425,
       "fight_name": "aston_tougi_samejima",
+      "human_name": "Kunimitsu Samejima",
       "tags": [
         "enemy",
         "special"
@@ -9436,6 +10296,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_special_event1",
+      "human_name": "Mr. Try and Hit Me",
       "tags": [
         "enemy",
         "special"
@@ -9448,6 +10309,7 @@
       "equip_l": 0,
       "equip_r": 0,
       "fight_name": "aston_tougi_special_event2",
+      "human_name": "Master Try and Hit Me",
       "tags": [
         "enemy",
         "special"
