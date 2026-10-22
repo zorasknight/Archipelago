@@ -2070,12 +2070,77 @@
       ]
     },
     {
+      "fight_id": 6895,
+      "ctrltype": 146,
+      "chara": 23257,
+      "equip_l": 1391,
+      "equip_r": 0,
+      "fight_name": "aston_btl04_0600_000_1",
+      "human_name": "Homare Nishitani",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7662,
+      "ctrltype": 146,
+      "chara": 23406,
+      "equip_l": 645,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_42",
+      "human_name": "Homare Nishitani",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
       "fight_id": 6928,
       "ctrltype": 181,
       "chara": 25089,
       "equip_l": 0,
       "equip_r": 645,
       "fight_name": "aston_btl05_0400_000_1",
+      "human_name": "Kosei Shishido",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7551,
+      "ctrltype": 181,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_9",
+      "human_name": "Kosei Shishido",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+        {
+      "fight_id": 7655,
+      "ctrltype": 181,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_35",
+      "human_name": "Kosei Shishido",
+      "tags": [
+        "boss",
+        "na"
+      ]
+    },
+    {
+      "fight_id": 7668,
+      "ctrltype": 181,
+      "chara": 23329,
+      "equip_l": 0,
+      "equip_r": 0,
+      "fight_name": "aston_btl05_0100_000_48",
       "human_name": "Kosei Shishido",
       "tags": [
         "boss",

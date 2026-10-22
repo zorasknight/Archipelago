@@ -136,42 +136,49 @@ def create_folder_layout(log, output_dir):
             output_gamedata,
         )
 
-        log("GameData copied.")
-
-        log("Copying db.aston.en files...")
-
-        source_db = source_gamedata / "db.aston.en"
-        output_db = output_gamedata_output / "db.aston.en"
+        log("Copying game data folders...")
 
         if output_gamedata_output.exists():
             shutil.rmtree(output_gamedata_output)
 
-        output_db.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
+        folders_to_copy = [
+            "db.aston.en",
+            "entity_aston",
+            "ui.aston.en",
+        ]
 
-        for source_file in source_db.rglob("*"):
-            if not source_file.is_file():
+        for folder_name in folders_to_copy:
+            source_folder = source_gamedata / folder_name
+            output_folder = output_gamedata_output / folder_name
+
+            if not source_folder.is_dir():
+                log(f"Folder not found, skipping: {folder_name}")
                 continue
 
-            if source_file.name == "adjusted_item.bin.json":
-                continue
+            log(f"Copying {folder_name}...")
 
-            relative_path = source_file.relative_to(source_db)
-            destination_file = output_db / relative_path
+            for source_file in source_folder.rglob("*"):
+                if not source_file.is_file():
+                    continue
 
-            destination_file.parent.mkdir(
-                parents=True,
-                exist_ok=True,
-            )
+                if source_file.name == "adjusted_item.bin.json":
+                    continue
 
-            shutil.copy2(
-                source_file,
-                destination_file,
-            )
+                relative_path = source_file.relative_to(source_folder)
+                destination_file = output_folder / relative_path
 
-        log("db.aston.en files copied.")
+                destination_file.parent.mkdir(
+                    parents=True,
+                    exist_ok=True,
+                )
+
+                shutil.copy2(
+                    source_file,
+                    destination_file,
+                )
+
+            log(f"{folder_name} files copied.")
+        log("Game data folders copied.")
 
     log("Copying Assets...")
 

@@ -14,6 +14,26 @@ def main(base_dir=None):
 
     BIN_OUTPUT.mkdir(parents=True, exist_ok=True)
 
+
+    for source_file in ROOT.rglob("*"):
+        if not source_file.is_file():
+            continue
+
+        if source_file.name.endswith(".bin.json"):
+            continue
+
+        relative_path = source_file.relative_to(ROOT)
+        destination_file = BIN_OUTPUT / relative_path
+
+        destination_file.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        shutil.copy2(source_file, destination_file)
+        print(f"Copied unchanged: {relative_path}")
+
+
     rearmp_resource = world_resource("scripts/reARMP.py")
 
     with importlib.resources.as_file(rearmp_resource) as rearmp_path:
